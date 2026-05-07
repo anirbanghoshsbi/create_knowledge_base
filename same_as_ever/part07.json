@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Happiness Is a Function of Expectations and Reality",
+    "type": "mental_model",
+    "concise_statement": "Well-being depends equally on what you possess and what you expect to possess.",
+    "detailed_explanation": "Human satisfaction is not determined solely by external circumstances. Expectations act as a psychological denominator against which outcomes are evaluated. Managing expectations can therefore influence happiness as much as improving material conditions.",
+    "implications": [
+      "Psychological management is as important as material improvement.",
+      "Unchecked expectations can neutralize success.",
+      "Contentment requires conscious calibration of desires.",
+      "Well-being is partially controllable independent of wealth."
+    ],
+    "related_concepts": [
+      "Reference dependence",
+      "Hedonic adaptation",
+      "Behavioral psychology",
+      "Relative utility"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Low Expectations Create Emotional Resilience",
+    "type": "survival_principle",
+    "concise_statement": "Moderate expectations reduce emotional volatility and improve long-term satisfaction.",
+    "detailed_explanation": "Unrealistically high expectations magnify disappointment and create chronic dissatisfaction. Reasonable expectations allow individuals to absorb setbacks more calmly while appreciating positive surprises more deeply.",
+    "implications": [
+      "Stoicism improves emotional durability.",
+      "Lower expectations increase gratitude.",
+      "Resilience depends partly on expectation control.",
+      "Excessive optimism can create psychological fragility."
+    ],
+    "related_concepts": [
+      "Stoicism",
+      "Expectation management",
+      "Behavioral resilience",
+      "Emotional regulation"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Relationships Improve When Reciprocity Is Not Expected",
+    "type": "behavioral_principle",
+    "concise_statement": "Mutual generosity without expectation of return creates stronger and happier relationships.",
+    "detailed_explanation": "When individuals help others while expecting nothing back, positive outcomes become pleasant surprises rather than obligations. This reduces resentment and transactional thinking within relationships.",
+    "implications": [
+      "Lower entitlement strengthens cooperation.",
+      "Unexpected kindness creates stronger emotional bonds.",
+      "Transactional expectations damage relationships.",
+      "Generosity compounds when reciprocation is voluntary."
+    ],
+    "related_concepts": [
+      "Reciprocity",
+      "Social trust",
+      "Behavioral psychology",
+      "Expectation asymmetry"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "title": "People Seek Positive Expectation Gaps",
+    "type": "behavioral_principle",
+    "concise_statement": "Humans derive emotional satisfaction from outcomes exceeding expectations rather than from absolute outcomes themselves.",
+    "detailed_explanation": "People often believe they desire progress or achievement, but psychologically they are primarily reacting to the gap between expected and actual outcomes. Positive surprises create disproportionate emotional rewards.",
+    "implications": [
+      "Expectation framing shapes motivation and happiness.",
+      "Managing expectations can increase satisfaction without changing circumstances.",
+      "Unexpected gains feel more valuable than anticipated ones.",
+      "High expectations reduce emotional upside."
+    ],
+    "related_concepts": [
+      "Prospect theory",
+      "Reference points",
+      "Behavioral economics",
+      "Expectation management"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Exceptional Strengths Often Come With Exceptional Weaknesses",
+    "type": "paradox",
+    "concise_statement": "The traits that produce extraordinary success frequently generate serious personal or social dysfunctions.",
+    "detailed_explanation": "People who think differently enough to achieve extraordinary results often possess unconventional personalities, emotional imbalances, or socially difficult behaviors inseparable from their talents.",
+    "implications": [
+      "Do not idealize successful people as universally admirable.",
+      "Exceptional performance often requires trade-offs.",
+      "Unique cognitive styles produce both strengths and liabilities.",
+      "Role models should be evaluated selectively, not holistically."
+    ],
+    "related_concepts": [
+      "Trade-offs",
+      "Behavioral asymmetry",
+      "Genius paradox",
+      "Cognitive specialization"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Unique Minds Operate as Full Packages",
+    "type": "mental_model",
+    "concise_statement": "You cannot separate extraordinary abilities from the unconventional traits that enable them.",
+    "detailed_explanation": "The cognitive and personality structures that create exceptional insight often also generate behaviors society finds irrational, abrasive, obsessive, or socially incompatible.",
+    "implications": [
+      "Avoid selective admiration detached from reality.",
+      "Organizations must tolerate some dysfunction to harness innovation.",
+      "Creativity and unconventionality are often linked.",
+      "Exceptional individuals rarely fit standard social expectations."
+    ],
+    "related_concepts": [
+      "Innovation psychology",
+      "Creative cognition",
+      "Behavioral trade-offs",
+      "Nonconformity"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Extreme Competence Is Often Accompanied by Social Friction",
+    "type": "causal_relationship",
+    "concise_statement": "People who radically challenge existing systems frequently conflict with social norms and authority structures.",
+    "detailed_explanation": "Innovative thinkers often reject conventional assumptions and institutional constraints. This same mindset that drives breakthrough performance can also make them impatient, abrasive, or difficult to manage.",
+    "implications": [
+      "Institutions may struggle to integrate unconventional talent.",
+      "High innovation environments require tolerance for conflict.",
+      "Social conformity and radical innovation are often incompatible.",
+      "Exceptional contributors may create organizational instability."
+    ],
+    "related_concepts": [
+      "Institutional friction",
+      "Innovation dynamics",
+      "Creative destruction",
+      "Nonconformity"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Abnormal Success Requires Abnormal Thinking",
+    "type": "mental_model",
+    "concise_statement": "Extraordinary achievements often emerge from people who reject ordinary assumptions and constraints.",
+    "detailed_explanation": "People capable of transforming industries or fields frequently possess deeply unconventional beliefs about possibility, risk, and limitation. Their success is tied to cognitive patterns that differ fundamentally from average thinking.",
+    "implications": [
+      "Extreme outcomes require unusual mindsets.",
+      "Conventional thinking rarely produces disruptive innovation.",
+      "Risk tolerance and ambition are often intertwined.",
+      "Extraordinary success may require behavioral traits society finds uncomfortable."
+    ],
+    "related_concepts": [
+      "Risk-taking",
+      "Entrepreneurial psychology",
+      "Visionary thinking",
+      "Nonlinear outcomes"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Human Judgment Over-Idealizes Success",
+    "type": "psychological_bias",
+    "concise_statement": "People selectively admire successful individuals while ignoring the undesirable traits linked to their success.",
+    "detailed_explanation": "Humans tend to isolate and romanticize visible achievements while underestimating the personal costs, eccentricities, and dysfunctions accompanying exceptional performance.",
+    "implications": [
+      "Role-model selection should be deliberate and partial.",
+      "Success should not be confused with overall wisdom.",
+      "Admiring outcomes can distort perception of behavior.",
+      "Exceptional achievement may involve sacrifices others would not want."
+    ],
+    "related_concepts": [
+      "Halo effect",
+      "Survivorship bias",
+      "Hero worship",
+      "Selective perception"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Cognitive Specialization Creates Trade-Offs",
+    "type": "risk_concept",
+    "concise_statement": "Exceptional ability in one domain may reduce balance or capability in other domains.",
+    "detailed_explanation": "Human cognitive and emotional capacity appears limited. Intense specialization and obsession that produce extraordinary performance may crowd out emotional balance, social awareness, or practical judgment elsewhere.",
+    "implications": [
+      "Optimization in one area can create fragility in another.",
+      "High performers may require compensating structures or teams.",
+      "Balanced individuals may rarely achieve extreme outcomes.",
+      "Trade-offs are inherent in specialization."
+    ],
+    "related_concepts": [
+      "Opportunity cost",
+      "Specialization",
+      "Behavioral asymmetry",
+      "Cognitive trade-offs"
+    ],
+    "confidence_score": 0.97
+  }
+]
