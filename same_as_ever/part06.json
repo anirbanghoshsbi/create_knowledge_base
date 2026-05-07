@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Wealth Is Relative, Not Absolute",
+    "type": "behavioral_principle",
+    "concise_statement": "People judge wealth by comparison to those around them rather than by objective standards.",
+    "detailed_explanation": "Perceived financial success depends heavily on social context. Even objectively wealthy individuals can feel inadequate if surrounded by people with greater wealth, status, or visibility. Human satisfaction is driven more by relative ranking than absolute resources.",
+    "implications": [
+      "Social environment strongly influences financial satisfaction.",
+      "Comparison can erode appreciation of genuine prosperity.",
+      "Rising income may not improve well-being if peer benchmarks rise simultaneously.",
+      "Financial independence requires psychological independence from comparison."
+    ],
+    "related_concepts": [
+      "Relative deprivation",
+      "Status competition",
+      "Social comparison",
+      "Behavioral economics"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Happiness Depends on the Gap Between Expectations and Reality",
+    "type": "mental_model",
+    "concise_statement": "Emotional satisfaction is determined more by the difference between expectations and outcomes than by outcomes alone.",
+    "detailed_explanation": "People experience joy, disappointment, or relief based on whether reality exceeds or falls short of expectations. Identical outcomes can generate vastly different emotional reactions depending on prior assumptions and aspirations.",
+    "implications": [
+      "Managing expectations is central to happiness.",
+      "Unexpected gains create disproportionate satisfaction.",
+      "High expectations increase the risk of disappointment.",
+      "Emotional outcomes are psychologically relative, not objective."
+    ],
+    "related_concepts": [
+      "Reference dependence",
+      "Behavioral psychology",
+      "Hedonic adaptation",
+      "Prospect theory"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Equality Stabilizes Expectations",
+    "type": "causal_relationship",
+    "concise_statement": "Smaller visible gaps between people reduce social comparison pressure and improve perceived well-being.",
+    "detailed_explanation": "When most people live under similar economic conditions, expectations remain more stable because social comparisons are less extreme. Large disparities amplify aspiration, envy, and dissatisfaction.",
+    "implications": [
+      "Perceived inequality affects happiness beyond absolute income levels.",
+      "Visible wealth disparities intensify status anxiety.",
+      "Stable societies often depend on manageable comparison pressures.",
+      "Social cohesion declines when expectations accelerate unevenly."
+    ],
+    "related_concepts": [
+      "Relative deprivation",
+      "Income inequality",
+      "Status signaling",
+      "Social cohesion"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Social Visibility Amplifies Envy",
+    "type": "psychological_bias",
+    "concise_statement": "Constant exposure to curated displays of wealth intensifies dissatisfaction and aspiration.",
+    "detailed_explanation": "Modern media and social platforms magnify social comparison by exposing individuals to idealized versions of other people's lives. Humans compare themselves not to average reality, but to selective highlights.",
+    "implications": [
+      "Social media can distort perceptions of normal success.",
+      "Consumption pressure increases with visibility of luxury.",
+      "Psychological well-being may decline despite material progress.",
+      "Comparison bias can undermine rational financial decisions."
+    ],
+    "related_concepts": [
+      "Social comparison bias",
+      "Status anxiety",
+      "Curated identity",
+      "Behavioral finance"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Expectations Inflate Faster Than Circumstances",
+    "type": "paradox",
+    "concise_statement": "Improving living standards do not guarantee greater happiness because expectations rise simultaneously.",
+    "detailed_explanation": "Economic progress often increases aspirations as quickly as it improves conditions. As a result, societies can become objectively wealthier while subjective satisfaction remains stagnant or declines.",
+    "implications": [
+      "Material advancement alone cannot sustain fulfillment.",
+      "Lifestyle inflation can trap people in endless dissatisfaction.",
+      "Psychological adaptation reduces the emotional value of progress.",
+      "Contentment requires controlling expectation growth."
+    ],
+    "related_concepts": [
+      "Hedonic treadmill",
+      "Easterlin paradox",
+      "Adaptation",
+      "Relative utility"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Status Competition Drives Consumption",
+    "type": "incentive",
+    "concise_statement": "People often pursue wealth not for utility, but for social positioning.",
+    "detailed_explanation": "Consumption and financial ambition are heavily motivated by visible status advantages relative to peers. The desire to signal success can override rational utility-maximizing behavior.",
+    "implications": [
+      "Many purchases are socially motivated rather than functionally necessary.",
+      "Keeping up with peers can damage long-term financial security.",
+      "Status incentives shape entire economic systems.",
+      "Financial freedom requires resisting signaling pressure."
+    ],
+    "related_concepts": [
+      "Status signaling",
+      "Conspicuous consumption",
+      "Behavioral finance",
+      "Relative wealth"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Expectation Asymmetry Shapes Emotional Outcomes",
+    "type": "behavioral_principle",
+    "concise_statement": "Low expectations magnify satisfaction while high expectations neutralize achievement.",
+    "detailed_explanation": "Outcomes exceeding modest expectations create strong positive emotions, while even large achievements merely satisfying high expectations generate little happiness. Emotional intensity is tied to surprise relative to baseline assumptions.",
+    "implications": [
+      "Expectation calibration influences resilience and motivation.",
+      "Underpromising psychologically protects satisfaction.",
+      "Achievement loses emotional impact when normalized.",
+      "Relief often replaces joy at high performance levels."
+    ],
+    "related_concepts": [
+      "Reference points",
+      "Behavioral adaptation",
+      "Expectation management",
+      "Prospect theory"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Human Desire Has No Natural Ceiling",
+    "type": "risk_concept",
+    "concise_statement": "Without controlled expectations, desire expands indefinitely regardless of achievement.",
+    "detailed_explanation": "Humans rapidly normalize gains and redirect focus toward higher goals or superior peers. This creates a potentially endless cycle of striving without satisfaction.",
+    "implications": [
+      "Unchecked ambition can undermine happiness.",
+      "Financial goals continuously shift upward.",
+      "Contentment requires deliberate psychological boundaries.",
+      "Endless comparison can create chronic dissatisfaction."
+    ],
+    "related_concepts": [
+      "Hedonic adaptation",
+      "Lifestyle inflation",
+      "Relative deprivation",
+      "Consumer psychology"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Perceived Progress Matters More Than Absolute Position",
+    "type": "mental_model",
+    "concise_statement": "People care deeply about whether life feels better relative to their starting point.",
+    "detailed_explanation": "Satisfaction often depends more on perceived improvement than on current objective status. Individuals emerging from hardship may feel happier than objectively wealthier individuals experiencing stagnation or decline.",
+    "implications": [
+      "Momentum strongly affects morale.",
+      "Progress creates more happiness than static abundance.",
+      "Downward mobility feels psychologically severe.",
+      "Reference points shape emotional interpretation of wealth."
+    ],
+    "related_concepts": [
+      "Reference dependence",
+      "Loss aversion",
+      "Behavioral psychology",
+      "Relative utility"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Intangible Psychological Variables Drive Economic Behavior",
+    "type": "mental_model",
+    "concise_statement": "Expectations and perceptions influence markets and decisions as strongly as objective fundamentals.",
+    "detailed_explanation": "Consumer confidence, investment behavior, career evaluations, and market valuations are all shaped by expectations. Psychological variables often dominate objective metrics in determining behavior and outcomes.",
+    "implications": [
+      "Markets are driven partly by collective psychology.",
+      "Expectation management affects leadership effectiveness.",
+      "Economic sentiment can influence real economic activity.",
+      "Ignoring psychological variables leads to incomplete analysis."
+    ],
+    "related_concepts": [
+      "Behavioral economics",
+      "Market psychology",
+      "Reflexivity",
+      "Sentiment dynamics"
+    ],
+    "confidence_score": 0.98
+  }
+]
