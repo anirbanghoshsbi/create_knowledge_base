@@ -1,0 +1,193 @@
+[
+  {
+    "title": "Risk Is What You Cannot Anticipate",
+    "type": "risk_concept",
+    "concise_statement": "The most dangerous risks are the ones outside your imagination and planning framework.",
+    "detailed_explanation": "Known risks are usually mitigated because people prepare for them. True danger emerges from unforeseen events that bypass existing defenses and assumptions. Even highly sophisticated systems with exhaustive planning remain vulnerable to small, unanticipated failures.",
+    "implications": [
+      "Always maintain margins of safety.",
+      "Do not assume preparedness equals invulnerability.",
+      "Build systems resilient to unknown shocks.",
+      "Avoid excessive optimization that reduces flexibility."
+    ],
+    "related_concepts": [
+      "Black swan events",
+      "Tail risk",
+      "Unknown unknowns",
+      "Antifragility",
+      "Robustness"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Planning Cannot Eliminate Residual Risk",
+    "type": "mental_model",
+    "concise_statement": "No amount of planning removes all risk because reality always contains hidden variables.",
+    "detailed_explanation": "Complex systems fail not because people ignore obvious risks, but because there are always variables outside the planning model. Residual risk remains after every known contingency has been addressed.",
+    "implications": [
+      "Do not confuse preparation with certainty.",
+      "Retain optionality and adaptability.",
+      "Expect failures even in well-designed systems.",
+      "Incorporate recovery mechanisms instead of relying solely on prevention."
+    ],
+    "related_concepts": [
+      "Complex systems",
+      "Redundancy",
+      "Risk management",
+      "System fragility"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Hindsight Creates False Inevitability",
+    "type": "psychological_bias",
+    "concise_statement": "After major events occur, people incorrectly perceive them as obvious and predictable.",
+    "detailed_explanation": "Humans reconstruct the past into coherent narratives after outcomes are known. This hindsight bias creates the illusion that crises, crashes, and turning points were inevitable, even though contemporaries rarely predicted them accurately.",
+    "implications": [
+      "Do not overestimate predictive skill.",
+      "Be skeptical of clean historical narratives.",
+      "Avoid judging past decisions solely by outcomes.",
+      "Maintain probabilistic thinking."
+    ],
+    "related_concepts": [
+      "Narrative fallacy",
+      "Outcome bias",
+      "Overconfidence",
+      "Historical revisionism"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "The Biggest Events Are Usually Surprises",
+    "type": "behavioral_principle",
+    "concise_statement": "The events that shape history and markets most profoundly are typically absent from mainstream forecasts.",
+    "detailed_explanation": "Major crises and turning points matter precisely because they arrive unexpectedly. If an event were widely anticipated, people would prepare for it, reducing its eventual impact. Surprise amplifies consequences.",
+    "implications": [
+      "Avoid dependence on consensus forecasts.",
+      "Hold reserves for unpredictable disruptions.",
+      "Recognize forecasting limitations.",
+      "Prioritize adaptability over prediction accuracy."
+    ],
+    "related_concepts": [
+      "Black swans",
+      "Tail events",
+      "Forecasting error",
+      "Systemic shocks"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Economic Uncertainty Is Constant",
+    "type": "mental_model",
+    "concise_statement": "Uncertainty does not disappear; only awareness of uncertainty changes.",
+    "detailed_explanation": "Periods that appear stable are often merely periods when hidden risks are not visible. Human confidence fluctuates more than actual uncertainty. Stability can therefore create complacency and hidden fragility.",
+    "implications": [
+      "Treat calm periods cautiously.",
+      "Do not mistake low volatility for low risk.",
+      "Maintain discipline during booms.",
+      "Avoid leverage based on perceived certainty."
+    ],
+    "related_concepts": [
+      "Complacency risk",
+      "Volatility paradox",
+      "Risk perception",
+      "Financial cycles"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Humans Underestimate What They Do Not Know",
+    "type": "psychological_bias",
+    "concise_statement": "People naturally assume their visible world contains most relevant information.",
+    "detailed_explanation": "Human cognition focuses on observable information and underweights unseen variables. This creates overconfidence because individuals fail to account for unknown forces shaping outcomes.",
+    "implications": [
+      "Use humility in decision-making.",
+      "Seek disconfirming evidence.",
+      "Avoid certainty in complex systems.",
+      "Recognize informational blind spots."
+    ],
+    "related_concepts": [
+      "Overconfidence bias",
+      "Availability bias",
+      "Unknown unknowns",
+      "Bounded rationality"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Preparedness Reduces Visible Risks, Not Invisible Ones",
+    "type": "causal_relationship",
+    "concise_statement": "The more a risk is recognized, the less dangerous it often becomes because people adapt.",
+    "detailed_explanation": "Widely discussed risks trigger protective behavior, regulation, and contingency planning. Truly catastrophic risks emerge from scenarios that people have not mentally modeled or operationally prepared for.",
+    "implications": [
+      "Look beyond widely discussed dangers.",
+      "Treat consensus fears cautiously.",
+      "Understand that hidden vulnerabilities matter most.",
+      "Diversify against scenarios no one expects."
+    ],
+    "related_concepts": [
+      "Reflexivity",
+      "Adaptive behavior",
+      "Systemic risk",
+      "Market expectations"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Historical Records Are Incomplete and Distorted",
+    "type": "mental_model",
+    "concise_statement": "Our understanding of history is constrained by incomplete, biased, and selective information.",
+    "detailed_explanation": "Historical knowledge depends on what was documented, preserved, interpreted, and shared. Much of reality remains invisible or distorted, making historical lessons inherently partial and uncertain.",
+    "implications": [
+      "Avoid excessive confidence in historical analogies.",
+      "Recognize selection bias in historical narratives.",
+      "Accept ambiguity in causal explanations.",
+      "Use history as a guide, not a deterministic template."
+    ],
+    "related_concepts": [
+      "Selection bias",
+      "Narrative fallacy",
+      "Information asymmetry",
+      "Historical uncertainty"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "title": "Shock Is Amplified By Lack of Preparation",
+    "type": "causal_relationship",
+    "concise_statement": "Unexpected crises cause disproportionate damage because people are financially and psychologically unprepared.",
+    "detailed_explanation": "The severity of many crises stems less from the event itself and more from collective unpreparedness. Surprise disrupts both material systems and emotional stability, amplifying damage.",
+    "implications": [
+      "Maintain emergency reserves.",
+      "Prepare psychologically for volatility.",
+      "Avoid fragile financial structures.",
+      "Build resilience before crises occur."
+    ],
+    "related_concepts": [
+      "Resilience",
+      "Liquidity",
+      "Behavioral panic",
+      "Tail-risk preparedness"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Prediction Has Structural Limits",
+    "type": "survival_principle",
+    "concise_statement": "Complex systems contain too many interacting unknowns for precise long-term prediction.",
+    "detailed_explanation": "Financial markets, economies, and societies evolve through nonlinear interactions among countless variables. Because many influential variables are invisible or unknowable in advance, prediction accuracy has structural limitations.",
+    "implications": [
+      "Favor robustness over forecasting precision.",
+      "Use probabilistic rather than deterministic thinking.",
+      "Prioritize survival during uncertainty.",
+      "Design systems that tolerate forecast failure."
+    ],
+    "related_concepts": [
+      "Complex adaptive systems",
+      "Probabilistic thinking",
+      "Risk management",
+      "Forecasting limitations"
+    ],
+    "confidence_score": 0.99
+  }
+]
