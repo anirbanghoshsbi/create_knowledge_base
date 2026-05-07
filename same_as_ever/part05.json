@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Preparedness Is Superior to Prediction",
+    "type": "decision_rule",
+    "concise_statement": "Build systems that can survive uncertainty instead of trying to precisely forecast it.",
+    "detailed_explanation": "Because major risks are inherently unpredictable, resilient preparation is more effective than attempting accurate forecasts. Systems designed with buffers, redundancy, and flexibility perform better under uncertainty than systems optimized for a specific predicted future.",
+    "implications": [
+      "Maintain emergency reserves and liquidity.",
+      "Prioritize resilience over optimization.",
+      "Use scenario planning instead of single forecasts.",
+      "Design for survivability under multiple outcomes."
+    ],
+    "related_concepts": [
+      "Antifragility",
+      "Margin of safety",
+      "Risk management",
+      "Tail-risk preparedness"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Expectations Matter More Than Forecasts",
+    "type": "mental_model",
+    "concise_statement": "Broad expectations about uncertainty are more valuable than precise predictions.",
+    "detailed_explanation": "Forecasts attempt to predict specific outcomes, but expectations acknowledge uncertainty as permanent. Preparing for the existence of unknown risks leads to more durable behavior than relying on precise but fragile predictions.",
+    "implications": [
+      "Assume volatility and surprises will occur.",
+      "Avoid overreliance on expert predictions.",
+      "Build adaptable systems.",
+      "Focus on probability distributions rather than exact outcomes."
+    ],
+    "related_concepts": [
+      "Probabilistic thinking",
+      "Risk management",
+      "Scenario analysis",
+      "Complex systems"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Safety Margins Should Feel Excessive",
+    "type": "survival_principle",
+    "concise_statement": "Adequate protection against uncertainty often appears overly conservative in normal times.",
+    "detailed_explanation": "Because unseen risks dominate outcomes, rational preparation frequently feels inefficient or excessive during stable periods. Conservative savings, low leverage, and redundancy may appear suboptimal until unexpected stress arrives.",
+    "implications": [
+      "Save more than feels necessary.",
+      "Use less debt than seems manageable.",
+      "Accept lower efficiency in exchange for resilience.",
+      "Treat robustness as a long-term advantage."
+    ],
+    "related_concepts": [
+      "Margin of safety",
+      "Resilience",
+      "Liquidity",
+      "Tail-risk management"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "People Fail From Risks Outside Their Preparation",
+    "type": "causal_relationship",
+    "concise_statement": "Catastrophic failures often occur from scenarios people never anticipated rather than from known threats.",
+    "detailed_explanation": "Humans and institutions tend to prepare intensely for visible dangers while remaining vulnerable to unimagined risks. Familiar risks become manageable; unfamiliar risks remain dangerous because no defenses exist.",
+    "implications": [
+      "Continuously question hidden assumptions.",
+      "Maintain flexibility for unknown events.",
+      "Avoid overconfidence from prior success.",
+      "Stress-test systems against unlikely disruptions."
+    ],
+    "related_concepts": [
+      "Unknown unknowns",
+      "Black swans",
+      "System fragility",
+      "Preparedness"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Happiness Depends on Expectations",
+    "type": "behavioral_principle",
+    "concise_statement": "Perceived well-being is determined more by expectations than by absolute conditions.",
+    "detailed_explanation": "Humans evaluate happiness relative to what they expect and what others around them possess. As living standards improve, expectations rise alongside them, limiting gains in satisfaction.",
+    "implications": [
+      "Rising wealth alone may not increase happiness.",
+      "Expectation management is critical for well-being.",
+      "Social comparison can erode satisfaction.",
+      "Contentment requires stabilizing the moving goalpost."
+    ],
+    "related_concepts": [
+      "Hedonic adaptation",
+      "Relative deprivation",
+      "Social comparison",
+      "Behavioral economics"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Luxury Rapidly Becomes Necessity",
+    "type": "psychological_bias",
+    "concise_statement": "People quickly normalize improvements in living standards and begin treating them as baseline expectations.",
+    "detailed_explanation": "Technological progress and rising wealth initially create excitement, but humans adapt rapidly. What once felt extraordinary becomes expected, reducing long-term increases in happiness.",
+    "implications": [
+      "Consumer satisfaction is temporary.",
+      "Lifestyle inflation reduces financial freedom.",
+      "Material progress alone cannot sustain happiness.",
+      "Gratitude requires conscious practice."
+    ],
+    "related_concepts": [
+      "Hedonic treadmill",
+      "Adaptation",
+      "Lifestyle inflation",
+      "Consumer psychology"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Envy Drives Human Behavior More Than Greed",
+    "type": "behavioral_principle",
+    "concise_statement": "People measure success relative to others rather than by absolute improvement.",
+    "detailed_explanation": "Human dissatisfaction often arises not from lacking necessities, but from perceiving others as better off. Relative comparison strongly influences consumption, ambition, and emotional well-being.",
+    "implications": [
+      "Social comparison distorts financial decisions.",
+      "Keeping up with peers can undermine wealth accumulation.",
+      "Status competition fuels consumption cycles.",
+      "Relative success rarely produces lasting satisfaction."
+    ],
+    "related_concepts": [
+      "Status signaling",
+      "Relative deprivation",
+      "Behavioral finance",
+      "Social comparison"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Perspective Shapes Satisfaction",
+    "type": "mental_model",
+    "concise_statement": "People interpret circumstances relative to prior experiences rather than objective standards.",
+    "detailed_explanation": "Individuals judge quality of life based on where they came from and what they expected. Improvement relative to past hardship often creates more gratitude than objectively superior conditions experienced without contrast.",
+    "implications": [
+      "Gratitude depends on reference points.",
+      "Expectations can alter emotional outcomes dramatically.",
+      "Adaptation changes perceptions of prosperity.",
+      "Absolute wealth is psychologically less important than relative progress."
+    ],
+    "related_concepts": [
+      "Reference dependence",
+      "Behavioral psychology",
+      "Adaptation",
+      "Relative utility"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Economic Progress Does Not Guarantee Greater Happiness",
+    "type": "paradox",
+    "concise_statement": "Societies can become objectively wealthier while subjective satisfaction stagnates.",
+    "detailed_explanation": "Rising incomes, improved health, and technological advances increase living standards, yet happiness may remain unchanged because expectations and social comparisons rise simultaneously.",
+    "implications": [
+      "Economic growth alone cannot solve dissatisfaction.",
+      "Well-being policies should address psychological factors.",
+      "Personal fulfillment requires more than material accumulation.",
+      "Managing expectations is as important as increasing income."
+    ],
+    "related_concepts": [
+      "Easterlin paradox",
+      "Hedonic adaptation",
+      "Relative utility",
+      "Behavioral economics"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Visible Stability Often Masks Hidden Fragility",
+    "type": "risk_concept",
+    "concise_statement": "Systems that appear stable may remain highly vulnerable to unseen shocks.",
+    "detailed_explanation": "Periods of calm and confidence encourage reduced caution, increased leverage, and tighter optimization. This creates hidden fragility that only becomes visible during unexpected disruptions.",
+    "implications": [
+      "Do not infer safety from temporary stability.",
+      "Maintain buffers during prosperous periods.",
+      "Expect complacency to increase systemic risk.",
+      "Recognize that resilience often looks inefficient."
+    ],
+    "related_concepts": [
+      "Minsky cycle",
+      "Fragility",
+      "Complacency risk",
+      "Systemic vulnerability"
+    ],
+    "confidence_score": 0.97
+  }
+]
