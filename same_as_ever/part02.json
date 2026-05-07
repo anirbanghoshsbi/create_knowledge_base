@@ -1,0 +1,179 @@
+[
+  {
+    "title": "History Is Path Dependent",
+    "type": "mental model",
+    "concise_statement": "Small random events can create massive long-term consequences through cascading effects.",
+    "detailed_explanation": "Complex systems are highly sensitive to initial conditions. Minor decisions, accidents, or chance encounters can alter the trajectory of individuals, economies, markets, and societies in irreversible ways. Outcomes often appear inevitable in hindsight even though they were contingent on fragile chains of events.",
+    "implications": [
+      "Avoid overestimating predictability.",
+      "Respect randomness in success and failure.",
+      "Long-term forecasting has structural limits.",
+      "Systems should be designed with resilience against unexpected shocks."
+    ],
+    "related_concepts": [
+      "Chaos theory",
+      "Path dependence",
+      "Second-order effects",
+      "Black swan events"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "The World Is Fragile",
+    "type": "risk concept",
+    "concise_statement": "Many important systems appear stable until a hidden vulnerability suddenly breaks them.",
+    "detailed_explanation": "Systems often function normally while accumulating invisible fragilities beneath the surface. A small trigger can activate these vulnerabilities and cause disproportionate collapse or disruption. Stability is frequently an illusion created by the absence of stress.",
+    "implications": [
+      "Do not assume past stability guarantees future safety.",
+      "Monitor hidden structural weaknesses.",
+      "Build redundancy and buffers.",
+      "Rare failures can dominate long-term outcomes."
+    ],
+    "related_concepts": [
+      "Fragility",
+      "Systemic risk",
+      "Tail risk",
+      "Anti-fragility"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Randomness Dominates Outcomes",
+    "type": "causal relationship",
+    "concise_statement": "Chance events influence outcomes far more than people intuitively recognize.",
+    "detailed_explanation": "People prefer explanations based on skill, planning, or intent, but many major outcomes result from unpredictable randomness. Human psychology systematically underestimates luck because coherent narratives feel more satisfying than uncertainty.",
+    "implications": [
+      "Separate skill from luck cautiously.",
+      "Avoid excessive self-attribution after success.",
+      "Use probabilistic rather than deterministic thinking.",
+      "Judge processes more than outcomes."
+    ],
+    "related_concepts": [
+      "Luck",
+      "Outcome bias",
+      "Survivorship bias",
+      "Probabilistic thinking"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Survival Often Depends on Tiny Decisions",
+    "type": "survival principle",
+    "concise_statement": "Minor decisions made casually can determine life-altering outcomes.",
+    "detailed_explanation": "In complex environments, seemingly trivial actions may interact with hidden risks to create irreversible consequences. Humans underestimate how sensitive systems can be to small behavioral changes.",
+    "implications": [
+      "Exercise caution in high-risk environments.",
+      "Small safety rules matter disproportionately.",
+      "Avoid normalization of deviance.",
+      "Risk management should focus on preventing irreversible mistakes."
+    ],
+    "related_concepts": [
+      "Butterfly effect",
+      "Risk management",
+      "Normalization of deviance"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Humans Learn the Wrong Lessons From Stability",
+    "type": "psychological bias",
+    "concise_statement": "Repeated survival without consequences encourages underestimation of risk.",
+    "detailed_explanation": "When risky behavior does not immediately produce negative outcomes, people infer that the behavior is safe. This creates complacency and progressively increases exposure to hidden dangers until catastrophe occurs.",
+    "implications": [
+      "Past success can reinforce dangerous habits.",
+      "Absence of failure is not proof of safety.",
+      "Repeated exposure can normalize extreme risk."
+    ],
+    "related_concepts": [
+      "Complacency bias",
+      "Normalization of deviance",
+      "Risk habituation"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Hindsight Creates False Certainty",
+    "type": "psychological bias",
+    "concise_statement": "After events occur, humans exaggerate how predictable they were.",
+    "detailed_explanation": "Once outcomes become known, people reconstruct narratives that make events appear inevitable. This masks the true uncertainty present before the event and leads to overconfidence in future forecasting ability.",
+    "implications": [
+      "Study decision quality independently from outcomes.",
+      "Document assumptions before making decisions.",
+      "Treat historical explanations skeptically."
+    ],
+    "related_concepts": [
+      "Hindsight bias",
+      "Narrative fallacy",
+      "Overconfidence"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Rare Events Dominate History",
+    "type": "mental model",
+    "concise_statement": "A small number of infrequent events often determine most long-term outcomes.",
+    "detailed_explanation": "Most days are uneventful, but occasional extreme events disproportionately shape history, wealth, careers, and societies. Human intuition struggles with this because people expect outcomes to emerge from average conditions rather than extremes.",
+    "implications": [
+      "Prepare for extreme scenarios.",
+      "Tail events matter more than averages.",
+      "Long-term planning requires resilience to shocks."
+    ],
+    "related_concepts": [
+      "Power laws",
+      "Fat tails",
+      "Black swans"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Parallel Universe Thinking",
+    "type": "decision rule",
+    "concise_statement": "A robust strategy should work across many possible versions of the future, not just favorable ones.",
+    "detailed_explanation": "Good decisions are those that succeed reliably under different conditions rather than relying on luck or a narrow set of circumstances. Robustness matters more than maximizing outcomes in ideal scenarios.",
+    "implications": [
+      "Prefer durable systems over optimized fragile systems.",
+      "Evaluate strategies across multiple possible environments.",
+      "Avoid dependence on single-point assumptions."
+    ],
+    "related_concepts": [
+      "Robustness",
+      "Margin of safety",
+      "Risk-adjusted thinking"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Complex Systems Produce Unpredictable Outcomes",
+    "type": "mental model",
+    "concise_statement": "In highly interconnected systems, outcomes emerge from nonlinear interactions that cannot be fully predicted.",
+    "detailed_explanation": "Complex systems contain feedback loops, hidden dependencies, and interacting variables that create emergent behavior. Small changes can create disproportionate results, making precise forecasting unreliable.",
+    "implications": [
+      "Use humility in forecasting.",
+      "Favor adaptability over prediction.",
+      "Expect unintended consequences."
+    ],
+    "related_concepts": [
+      "Complexity theory",
+      "Emergence",
+      "Nonlinearity"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Risk Compounds Invisibly",
+    "type": "compounding principle",
+    "concise_statement": "Small unmanaged risks can accumulate silently until they trigger catastrophic outcomes.",
+    "detailed_explanation": "Risk accumulation is often gradual and difficult to observe in real time. Because systems appear stable during buildup phases, people underestimate how much vulnerability has compounded beneath the surface.",
+    "implications": [
+      "Continuously reduce hidden vulnerabilities.",
+      "Small recurring risks deserve attention.",
+      "Long periods without failure can hide growing danger."
+    ],
+    "related_concepts": [
+      "Compounding",
+      "Systemic fragility",
+      "Latent risk"
+    ],
+    "confidence_score": 0.97
+  }
+]
