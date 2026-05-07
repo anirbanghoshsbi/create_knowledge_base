@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Extreme Success and Extreme Risk Share the Same Traits",
+    "type": "causal_relationship",
+    "concise_statement": "The personality traits that create extraordinary success also increase the probability of catastrophic failure.",
+    "detailed_explanation": "Relentless optimism, confidence, risk tolerance, and refusal to accept constraints can produce exceptional achievements. However, these same traits can also lead to overreach, recklessness, and eventual collapse.",
+    "implications": [
+      "Success traits should not automatically be viewed as universally beneficial.",
+      "High performers often carry elevated downside risks.",
+      "Extreme ambition requires balancing mechanisms.",
+      "The same mindset can produce both breakthroughs and disasters."
+    ],
+    "related_concepts": [
+      "Risk-reward trade-off",
+      "Overconfidence",
+      "Behavioral asymmetry",
+      "Nonlinear outcomes"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Personality Traits Are Bundled Trade-Offs",
+    "type": "mental_model",
+    "concise_statement": "You cannot isolate desirable traits from the undesirable behaviors connected to them.",
+    "detailed_explanation": "Human personalities operate as integrated systems. Traits like extreme creativity, visionary thinking, or relentless drive often coexist with impulsiveness, social friction, or disregard for norms.",
+    "implications": [
+      "Role models should be evaluated holistically.",
+      "Exceptional strengths often come with unavoidable costs.",
+      "Organizations must tolerate some dysfunction to harness innovation.",
+      "Selective admiration creates unrealistic expectations."
+    ],
+    "related_concepts": [
+      "Behavioral trade-offs",
+      "Creative cognition",
+      "Nonconformity",
+      "Personality asymmetry"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Reversion to the Mean Is Fueled by Excess",
+    "type": "mental_model",
+    "concise_statement": "The forces that drive individuals and systems upward often eventually push them beyond sustainable limits.",
+    "detailed_explanation": "Extreme success frequently contains the seeds of reversal because the same behaviors that produce rapid growth also encourage overextension, complacency, or escalating risk-taking.",
+    "implications": [
+      "Rapid success can increase vulnerability.",
+      "Periods of dominance often precede instability.",
+      "Unchecked ambition naturally pushes systems toward imbalance.",
+      "Sustainability requires self-restraint."
+    ],
+    "related_concepts": [
+      "Reversion to the mean",
+      "Minsky dynamics",
+      "Behavioral excess",
+      "Cycle theory"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Conquerors Rarely Self-Limit",
+    "type": "behavioral_principle",
+    "concise_statement": "People driven to expand power or success rarely stop voluntarily after achieving enough.",
+    "detailed_explanation": "Ambitious individuals and empires tend to continue pushing beyond rational limits because the psychological drivers behind expansion do not naturally disappear after success is achieved.",
+    "implications": [
+      "Unchecked success can increase systemic fragility.",
+      "Ambition often lacks internal stopping mechanisms.",
+      "External constraints become necessary for stability.",
+      "Expansionary systems frequently collapse from overreach."
+    ],
+    "related_concepts": [
+      "Empire cycles",
+      "Overextension",
+      "Behavioral momentum",
+      "Power dynamics"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Envy Ignores the Full Cost of Success",
+    "type": "psychological_bias",
+    "concise_statement": "People admire selective outcomes while ignoring the total life package that produced them.",
+    "detailed_explanation": "Humans often desire another person’s wealth, fame, or achievement without recognizing the personality traits, sacrifices, emotional burdens, and trade-offs inseparable from those outcomes.",
+    "implications": [
+      "Comparison frequently relies on incomplete information.",
+      "Admiration should account for hidden costs.",
+      "Success may involve lifestyles others would not truly want.",
+      "Selective envy distorts judgment."
+    ],
+    "related_concepts": [
+      "Halo effect",
+      "Social comparison",
+      "Selective perception",
+      "Status bias"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Probability Governs Reality, Not Certainty",
+    "type": "mental_model",
+    "concise_statement": "Most decisions operate under uncertainty where outcomes are probabilistic rather than guaranteed.",
+    "detailed_explanation": "Real-world outcomes are shaped by probabilities, not certainties. Intelligent decision-making involves managing odds rather than seeking guaranteed correctness.",
+    "implications": [
+      "Focus on process quality rather than binary outcomes.",
+      "Good decisions can still produce bad results.",
+      "Risk management requires probabilistic thinking.",
+      "Absolute certainty is usually an illusion."
+    ],
+    "related_concepts": [
+      "Probabilistic thinking",
+      "Risk management",
+      "Expected value",
+      "Uncertainty"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Humans Crave Certainty More Than Accuracy",
+    "type": "psychological_bias",
+    "concise_statement": "People prefer confident narratives over nuanced probabilistic truths.",
+    "detailed_explanation": "Uncertainty creates psychological discomfort, causing people to prefer definitive predictions even when those predictions are less accurate than probabilistic assessments.",
+    "implications": [
+      "Confident forecasters are often rewarded disproportionately.",
+      "Nuanced thinking is psychologically unpopular.",
+      "Overconfidence can appear more persuasive than realism.",
+      "Decision-makers should resist false certainty."
+    ],
+    "related_concepts": [
+      "Overconfidence bias",
+      "Cognitive ease",
+      "Narrative fallacy",
+      "Behavioral finance"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Outcome-Based Judgment Distorts Reality",
+    "type": "psychological_bias",
+    "concise_statement": "People evaluate decisions by outcomes instead of by the probabilities and reasoning behind them.",
+    "detailed_explanation": "Humans simplify complexity into binary judgments of right or wrong, ignoring that good processes can fail and poor processes can succeed due to luck and uncertainty.",
+    "implications": [
+      "Short-term outcomes are unreliable indicators of skill.",
+      "Risk-taking behavior can be misjudged after results occur.",
+      "Probabilistic decision-making is difficult to communicate socially.",
+      "Outcome bias reinforces poor learning."
+    ],
+    "related_concepts": [
+      "Outcome bias",
+      "Survivorship bias",
+      "Luck versus skill",
+      "Behavioral finance"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Rare Events Become Common at Large Scale",
+    "type": "risk_concept",
+    "concise_statement": "Extremely unlikely events occur regularly when enough opportunities exist for them to happen.",
+    "detailed_explanation": "Humans underestimate the frequency of rare events because they fail to intuitively grasp how probability behaves across large populations, long timeframes, or many repeated trials.",
+    "implications": [
+      "Improbable events should still be expected in large systems.",
+      "Tail events are inevitable over long horizons.",
+      "Statistical intuition is often unreliable.",
+      "Risk models should incorporate extreme scenarios."
+    ],
+    "related_concepts": [
+      "Law of large numbers",
+      "Tail risk",
+      "Black swans",
+      "Statistical probability"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Managing Confidence Is Central to Rational Thinking",
+    "type": "decision_rule",
+    "concise_statement": "The quality of decisions depends partly on calibrating confidence to actual uncertainty.",
+    "detailed_explanation": "Rational thinking requires acknowledging uncertainty and assigning confidence levels proportionate to available evidence rather than assuming certainty where none exists.",
+    "implications": [
+      "Humility improves decision quality.",
+      "Confidence should remain probabilistic.",
+      "Overstated certainty increases risk exposure.",
+      "Calibration is a critical intellectual skill."
+    ],
+    "related_concepts": [
+      "Calibration",
+      "Probabilistic reasoning",
+      "Intellectual humility",
+      "Decision theory"
+    ],
+    "confidence_score": 0.98
+  }
+]
