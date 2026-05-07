@@ -1,1 +1,192 @@
-
+[
+  {
+    "title": "Rare Events Become Inevitable at Scale",
+    "type": "mental_model",
+    "concise_statement": "Extremely unlikely events occur regularly when enough people, time, and opportunities exist.",
+    "detailed_explanation": "Humans intuitively misunderstand probability at large scales. Events with tiny individual probabilities become statistically inevitable when repeated across massive populations and long time horizons.",
+    "implications": [
+      "Shocking outcomes should often be expected statistically.",
+      "Tail events are normal features of large systems.",
+      "Probability intuition weakens at large scales.",
+      "Improbable does not mean impossible or suspicious."
+    ],
+    "related_concepts": [
+      "Law of large numbers",
+      "Tail risk",
+      "Statistical inevitability",
+      "Probability theory"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Miracles Are Often Statistics Misunderstood",
+    "type": "behavioral_principle",
+    "concise_statement": "Events perceived as miraculous are frequently normal outcomes of large sample sizes.",
+    "detailed_explanation": "Humans attribute extraordinary events to supernatural forces or fate because they underestimate how often rare events naturally occur in a world with billions of people and trillions of interactions.",
+    "implications": [
+      "Avoid attributing randomness to hidden causes unnecessarily.",
+      "Statistical literacy improves judgment.",
+      "Extraordinary events require probabilistic interpretation.",
+      "Rare experiences are mathematically expected."
+    ],
+    "related_concepts": [
+      "Randomness",
+      "Cognitive bias",
+      "Probability",
+      "Availability heuristic"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "One-Hundred-Year Events Are Constantly Possible",
+    "type": "risk_concept",
+    "concise_statement": "Low-probability disasters become common when many independent risks exist simultaneously.",
+    "detailed_explanation": "A one-percent annual probability event appears unlikely in isolation, but when numerous independent low-probability risks exist, the chance that at least one major disruption occurs becomes substantial.",
+    "implications": [
+      "Expect periodic crises as normal.",
+      "Diversify against multiple risk categories.",
+      "Do not assume calm periods imply safety.",
+      "Complex systems naturally generate frequent disruptions."
+    ],
+    "related_concepts": [
+      "Tail risk",
+      "Compound probability",
+      "Systemic risk",
+      "Black swans"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Large Systems Amplify Extreme Outcomes",
+    "type": "causal_relationship",
+    "concise_statement": "As population size and connectivity increase, the probability of impactful extreme behavior rises.",
+    "detailed_explanation": "Larger and more interconnected societies create more opportunities for outlier individuals or events to influence global outcomes. Scale magnifies both innovation and disruption.",
+    "implications": [
+      "Globalization increases exposure to systemic shocks.",
+      "Extreme individuals can disproportionately shape events.",
+      "Connectivity amplifies contagion effects.",
+      "Complexity increases unpredictability."
+    ],
+    "related_concepts": [
+      "Network effects",
+      "Complex systems",
+      "Systemic fragility",
+      "Globalization"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Media Selection Bias Creates Persistent Pessimism",
+    "type": "psychological_bias",
+    "concise_statement": "News appears overwhelmingly negative because bad events are more attention-grabbing and statistically abundant globally.",
+    "detailed_explanation": "Negative events attract more engagement than positive ones. As information systems globalize, the probability that some terrible event is occurring somewhere at any moment approaches certainty, creating a constant stream of alarming news.",
+    "implications": [
+      "Media consumption can distort perception of reality.",
+      "Global awareness increases perceived instability.",
+      "Emotional pessimism may exceed objective conditions.",
+      "Attention economics favors negativity."
+    ],
+    "related_concepts": [
+      "Negativity bias",
+      "Availability heuristic",
+      "Media incentives",
+      "Information asymmetry"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Expanded Horizons Increase Perceived Insecurity",
+    "type": "behavioral_principle",
+    "concise_statement": "The broader the scope of information people consume, the more vulnerable and uncertain the world feels.",
+    "detailed_explanation": "Humans evolved in localized environments. Modern information systems expose individuals to global instability, creating psychological stress from events far outside personal influence or control.",
+    "implications": [
+      "Global information overload can increase anxiety.",
+      "Psychological well-being may require limiting exposure.",
+      "Awareness does not necessarily improve control.",
+      "Modern insecurity is partly informational."
+    ],
+    "related_concepts": [
+      "Cognitive overload",
+      "Media psychology",
+      "Perceived risk",
+      "Information environment"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "The World Always Contains Ongoing Chaos",
+    "type": "mental_model",
+    "concise_statement": "Periods remembered as stable often contained substantial crises that are forgotten or overshadowed later.",
+    "detailed_explanation": "Human memory simplifies history into narratives of calm or turmoil, but every era contains overlapping disruptions, recessions, conflicts, and shocks. Stability is often retrospective simplification.",
+    "implications": [
+      "Nostalgia can distort historical understanding.",
+      "Crisis frequency is a persistent feature of reality.",
+      "Current instability is not historically unique.",
+      "Perceived disorder may partly reflect information visibility."
+    ],
+    "related_concepts": [
+      "Narrative fallacy",
+      "Historical bias",
+      "Selective memory",
+      "Recency bias"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Humans Prefer Emotional Comfort Over Statistical Accuracy",
+    "type": "psychological_bias",
+    "concise_statement": "People often seek confident explanations because uncertainty is psychologically painful.",
+    "detailed_explanation": "Probabilistic thinking creates discomfort because it forces acceptance of ambiguity and lack of control. Confident predictions provide emotional relief even when accuracy is low.",
+    "implications": [
+      "Overconfident experts gain disproportionate influence.",
+      "Nuanced communication is psychologically less persuasive.",
+      "False certainty can drive poor decisions.",
+      "Demand for prediction exceeds actual predictability."
+    ],
+    "related_concepts": [
+      "Doubt-avoidance tendency",
+      "Overconfidence bias",
+      "Cognitive ease",
+      "Behavioral finance"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Humans Resolve Doubt Prematurely",
+    "type": "psychological_bias",
+    "concise_statement": "People are evolutionarily biased toward quickly eliminating uncertainty even when evidence is incomplete.",
+    "detailed_explanation": "The human brain evolved to make rapid decisions under threat, favoring quick resolution over prolonged ambiguity. In modern complex environments, this tendency can produce overconfidence and poor judgment.",
+    "implications": [
+      "People may adopt simplistic narratives prematurely.",
+      "Decision-making under uncertainty requires deliberate slowing down.",
+      "Intellectual humility is psychologically unnatural.",
+      "Markets and politics reward certainty signaling."
+    ],
+    "related_concepts": [
+      "Doubt-avoidance tendency",
+      "Overconfidence",
+      "Cognitive bias",
+      "Fast thinking"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Authority Figures Satisfy the Need for Predictability",
+    "type": "incentive",
+    "concise_statement": "Experts gain influence partly because people crave the illusion of a controllable future.",
+    "detailed_explanation": "Humans seek authoritative voices not only for information, but for psychological reassurance that the future can be understood and managed. Confidence often matters more socially than predictive accuracy.",
+    "implications": [
+      "Forecasting industries persist despite weak accuracy.",
+      "People reward certainty over nuance.",
+      "Expert status can derive from confidence rather than competence.",
+      "Emotional reassurance is economically valuable."
+    ],
+    "related_concepts": [
+      "Authority bias",
+      "Expert overconfidence",
+      "Behavioral economics",
+      "Prediction markets"
+    ],
+    "confidence_score": 0.98
+  }
+]
