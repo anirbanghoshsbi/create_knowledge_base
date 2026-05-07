@@ -1,0 +1,283 @@
+```json
+[
+  {
+    "title": "Risk Is Invisible",
+    "type": "risk concept",
+    "concise_statement": "The most important risks are usually the ones people do not see coming.",
+    "detailed_explanation": "Humans are reasonably good at forecasting obvious trends but consistently fail to anticipate low-probability, high-impact events. These hidden risks dominate long-term outcomes because surprises—not expected events—cause the largest changes in systems, markets, and lives.",
+    "implications": [
+      "Avoid overconfidence in forecasts.",
+      "Maintain margin of safety and resilience.",
+      "Diversification matters because unknown risks exist.",
+      "Prepare for uncertainty instead of prediction precision."
+    ],
+    "related_concepts": [
+      "Black swan events",
+      "Tail risk",
+      "Uncertainty",
+      "Resilience"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Expectations Drive Happiness",
+    "type": "behavioral principle",
+    "concise_statement": "Happiness is heavily influenced by the gap between expectations and reality.",
+    "detailed_explanation": "People evaluate outcomes relative to what they expected rather than in absolute terms. High expectations increase the likelihood of disappointment even when outcomes are objectively good, while modest expectations create psychological resilience and satisfaction.",
+    "implications": [
+      "Manage expectations deliberately.",
+      "Avoid lifestyle inflation.",
+      "Underpromising improves perceived outcomes.",
+      "Investor dissatisfaction often comes from unrealistic return expectations."
+    ],
+    "related_concepts": [
+      "Reference dependence",
+      "Loss aversion",
+      "Hedonic adaptation"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "People Prefer Certainty Over Accuracy",
+    "type": "psychological bias",
+    "concise_statement": "Humans often value confident narratives more than statistically accurate uncertainty.",
+    "detailed_explanation": "People are psychologically uncomfortable with ambiguity. As a result, confident but oversimplified explanations are often more persuasive than nuanced probabilistic reasoning, even when the latter is more accurate.",
+    "implications": [
+      "Markets reward confidence temporarily.",
+      "Experts may overstate certainty to gain influence.",
+      "Probabilistic thinking is psychologically difficult but strategically valuable."
+    ],
+    "related_concepts": [
+      "Overconfidence bias",
+      "Narrative fallacy",
+      "Probabilistic thinking"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Stories Outcompete Statistics",
+    "type": "behavioral principle",
+    "concise_statement": "Humans are more persuaded by compelling stories than by data.",
+    "detailed_explanation": "Narratives compress complexity into emotionally understandable forms. Because stories are easier to remember and emotionally process than abstract statistics, they dominate decision-making, investing behavior, politics, and media influence.",
+    "implications": [
+      "Good narratives can overpower factual evidence.",
+      "Investment bubbles often rely on persuasive stories.",
+      "Communication effectiveness depends on narrative framing."
+    ],
+    "related_concepts": [
+      "Narrative economics",
+      "Availability heuristic",
+      "Behavioral finance"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Compounding Requires Time",
+    "type": "compounding principle",
+    "concise_statement": "Most extraordinary outcomes come from small gains accumulating over long periods.",
+    "detailed_explanation": "Compounding is nonlinear and often invisible in early stages. Long stretches of seemingly modest progress can eventually create disproportionate outcomes. The process is slow, psychologically difficult to appreciate, and often abandoned prematurely.",
+    "implications": [
+      "Patience is a strategic advantage.",
+      "Consistency matters more than intensity.",
+      "Long-term investing benefits from uninterrupted compounding.",
+      "Small habits can produce massive outcomes over decades."
+    ],
+    "related_concepts": [
+      "Exponential growth",
+      "Long-term investing",
+      "Delayed gratification"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Bad News Happens Faster Than Good News",
+    "type": "causal relationship",
+    "concise_statement": "Destruction is faster than construction because trust and systems are fragile.",
+    "detailed_explanation": "Good outcomes often require years of gradual accumulation, while negative outcomes can emerge instantly through panic, loss of confidence, or catastrophic failure. Building is slow; destruction is asymmetric and rapid.",
+    "implications": [
+      "Protect downside aggressively.",
+      "Avoid catastrophic failure at all costs.",
+      "Trust is easier to lose than gain.",
+      "Risk management is more important than maximizing gains."
+    ],
+    "related_concepts": [
+      "Fragility",
+      "Asymmetric risk",
+      "Survival"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Survival Is the Foundation of Success",
+    "type": "survival principle",
+    "concise_statement": "Long-term success depends first on avoiding ruin.",
+    "detailed_explanation": "Systems that survive long enough benefit from compounding, adaptation, and opportunity. Catastrophic failure permanently removes future upside. Therefore, durability matters more than short-term optimization.",
+    "implications": [
+      "Avoid leverage that can force liquidation.",
+      "Build redundancy and buffers.",
+      "Conservative strategies often outperform over time.",
+      "Staying in the game is a competitive advantage."
+    ],
+    "related_concepts": [
+      "Risk of ruin",
+      "Margin of safety",
+      "Anti-fragility"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Incentives Shape Behavior",
+    "type": "incentive principle",
+    "concise_statement": "People rationalize and defend behavior that aligns with their incentives.",
+    "detailed_explanation": "Human behavior is strongly influenced by financial, social, and institutional incentives. Individuals often justify actions morally or intellectually after incentives have already shaped their choices.",
+    "implications": [
+      "Analyze incentives before trusting behavior.",
+      "Misaligned incentives create systemic distortions.",
+      "Organizations behave according to reward structures.",
+      "Policy outcomes depend on incentive design."
+    ],
+    "related_concepts": [
+      "Agency problems",
+      "Moral hazard",
+      "Behavioral economics"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Stress Narrows Attention",
+    "type": "behavioral principle",
+    "concise_statement": "Stress increases focus on immediate threats while reducing long-term thinking.",
+    "detailed_explanation": "During difficult conditions, humans prioritize survival-relevant information and short-term reactions. Stress can improve tactical focus but often damages strategic reasoning and patience.",
+    "implications": [
+      "Investors panic during volatility.",
+      "Stress can impair rational decision-making.",
+      "Calm environments support long-term thinking."
+    ],
+    "related_concepts": [
+      "Fight-or-flight response",
+      "Behavioral finance",
+      "Loss aversion"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "title": "Success Breeds Complacency",
+    "type": "causal relationship",
+    "concise_statement": "Sustained success often weakens the behaviors that created it.",
+    "detailed_explanation": "As individuals or organizations become successful, they tend to become overconfident, entitled, or less adaptive. Competitive advantages decay because success reduces the urgency to improve.",
+    "implications": [
+      "Continuous adaptation is necessary.",
+      "Past success does not guarantee future relevance.",
+      "Organizations should institutionalize humility."
+    ],
+    "related_concepts": [
+      "Regression to the mean",
+      "Complacency bias",
+      "Competitive decay"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Progress Requires Both Optimism and Pessimism",
+    "type": "paradox",
+    "concise_statement": "Long-term progress depends on optimism about the future combined with pessimism about short-term risks.",
+    "detailed_explanation": "Optimism motivates investment, innovation, and persistence, while pessimism enforces caution and risk management. Sustainable success emerges when both perspectives coexist rather than dominate independently.",
+    "implications": [
+      "Invest while remaining risk-aware.",
+      "Avoid blind optimism.",
+      "Use defensive structures while pursuing growth."
+    ],
+    "related_concepts": [
+      "Balanced thinking",
+      "Risk management",
+      "Strategic resilience"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Imperfection Creates Resilience",
+    "type": "risk concept",
+    "concise_statement": "Systems that tolerate inefficiency and imperfection are often more durable.",
+    "detailed_explanation": "Highly optimized systems lack slack and become fragile under stress. Small inefficiencies, redundancies, or imperfections create buffers that improve long-term survivability.",
+    "implications": [
+      "Maintain cash reserves.",
+      "Do not optimize life or business too aggressively.",
+      "Redundancy reduces catastrophic risk."
+    ],
+    "related_concepts": [
+      "Resilience",
+      "Slack",
+      "Robustness"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Pain Is the Price of Progress",
+    "type": "decision rule",
+    "concise_statement": "Valuable outcomes usually require enduring discomfort or uncertainty.",
+    "detailed_explanation": "Most worthwhile pursuits involve volatility, sacrifice, stress, or temporary setbacks. Attempting to eliminate all pain often eliminates the possibility of meaningful achievement.",
+    "implications": [
+      "Volatility is the cost of investment returns.",
+      "Discomfort should not automatically signal failure.",
+      "Emotional endurance is a strategic skill."
+    ],
+    "related_concepts": [
+      "Delayed gratification",
+      "Risk premium",
+      "Persistence"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Firsthand Experience Dominates Belief",
+    "type": "psychological bias",
+    "concise_statement": "Personal experience is more persuasive than abstract evidence.",
+    "detailed_explanation": "Humans overweight events they personally experience because emotional salience increases memory strength and perceived validity. This creates highly individualized worldviews.",
+    "implications": [
+      "Generational investing behavior differs.",
+      "Traumatic events permanently alter risk perception.",
+      "Data alone rarely changes deeply held beliefs."
+    ],
+    "related_concepts": [
+      "Availability heuristic",
+      "Recency bias",
+      "Behavioral conditioning"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Time Horizons Determine Outcomes",
+    "type": "decision rule",
+    "concise_statement": "The ability to sustain a strategy long enough is often more important than the strategy itself.",
+    "detailed_explanation": "Many strategies fail not because they are wrong, but because participants cannot emotionally, financially, or institutionally survive the required time horizon.",
+    "implications": [
+      "Align strategies with psychological endurance.",
+      "Liquidity and patience are strategic assets.",
+      "Short-term pressure destroys long-term advantages."
+    ],
+    "related_concepts": [
+      "Behavioral endurance",
+      "Compounding",
+      "Investor psychology"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Human Nature Changes Slower Than Technology",
+    "type": "mental model",
+    "concise_statement": "Technological change is rapid, but core human behavior remains largely constant.",
+    "detailed_explanation": "Across centuries, human emotions such as greed, fear, envy, tribalism, and overconfidence remain remarkably stable. Therefore, understanding recurring human behavior often provides more predictive power than focusing solely on technological change.",
+    "implications": [
+      "Behavioral cycles repeat in markets.",
+      "Historical analogies remain useful.",
+      "Psychology dominates many economic outcomes."
+    ],
+    "related_concepts": [
+      "Behavioral finance",
+      "History rhymes",
+      "Human psychology"
+    ],
+    "confidence_score": 0.99
+  }
+]
+```
