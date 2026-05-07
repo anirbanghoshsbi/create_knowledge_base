@@ -1,0 +1,174 @@
+[
+  {
+    "title": "History Is Path-Dependent",
+    "type": "causal_relationship",
+    "concise_statement": "Major outcomes often emerge from tiny, random initial conditions that compound over time.",
+    "detailed_explanation": "Large historical and financial outcomes are frequently driven by seemingly insignificant events that create cascading second- and third-order effects. Small deviations in starting conditions can alter entire systems because events compound nonlinearly over time. This makes deterministic explanations of history incomplete and overconfident.",
+    "implications": [
+      "Avoid overconfidence in forecasting.",
+      "Recognize that randomness shapes outcomes more than skill or planning alone.",
+      "Stress-test systems against unlikely but impactful events.",
+      "Focus on resilience rather than precise prediction."
+    ],
+    "related_concepts": [
+      "Path dependence",
+      "Chaos theory",
+      "Compounding",
+      "Second-order effects",
+      "Black swans"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Luck Dominates More Than People Admit",
+    "type": "behavioral_principle",
+    "concise_statement": "Critical life and financial outcomes are often determined by random events rather than deliberate decisions.",
+    "detailed_explanation": "People tend to attribute success or failure to skill, planning, or intelligence, but many consequential outcomes are shaped by uncontrollable randomness. Survivorship bias causes people to create rational explanations for outcomes that were heavily influenced by luck.",
+    "implications": [
+      "Remain humble about success.",
+      "Do not overfit lessons from individual outcomes.",
+      "Build safety margins because randomness cannot be controlled.",
+      "Judge decisions by process quality, not short-term outcomes."
+    ],
+    "related_concepts": [
+      "Survivorship bias",
+      "Outcome bias",
+      "Risk management",
+      "Humility"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Events Compound Like Money",
+    "type": "compounding_principle",
+    "concise_statement": "Small events can grow into disproportionately large consequences through compounding interactions.",
+    "detailed_explanation": "Just as money compounds exponentially, historical and behavioral events accumulate effects over time. Initial causes create chains of reactions that interact with other systems, producing outcomes far larger than their origins would suggest.",
+    "implications": [
+      "Small risks should not be dismissed.",
+      "Tiny behavioral advantages can create massive long-term differences.",
+      "Early interventions matter disproportionately.",
+      "Second-order and third-order consequences deserve attention."
+    ],
+    "related_concepts": [
+      "Exponential growth",
+      "Network effects",
+      "Feedback loops",
+      "Systems thinking"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Forecasting Fails Because Systems React",
+    "type": "mental_model",
+    "concise_statement": "Predictions fail because systems adapt dynamically after events occur.",
+    "detailed_explanation": "Simple linear forecasts ignore adaptive human responses. Every event triggers behavioral, political, economic, and technological reactions that alter the original trajectory. These feedback loops make long-term prediction extremely unreliable.",
+    "implications": [
+      "Avoid simplistic cause-and-effect assumptions.",
+      "Incorporate feedback loops into models.",
+      "Expect human adaptation to invalidate static forecasts.",
+      "Use scenario analysis instead of single-point predictions."
+    ],
+    "related_concepts": [
+      "Reflexivity",
+      "Adaptive systems",
+      "Complexity theory",
+      "Second-order thinking"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Human Behavior Is More Predictable Than Events",
+    "type": "decision_rule",
+    "concise_statement": "Predict recurring human behaviors instead of specific future events.",
+    "detailed_explanation": "Specific events are inherently unpredictable because they depend on countless interacting variables. However, core human behaviors such as greed, fear, tribalism, risk-seeking, and social influence remain relatively stable across generations. Anchoring forecasts on behavioral tendencies is more reliable than forecasting precise events.",
+    "implications": [
+      "Base investment frameworks on behavioral constants.",
+      "Expect cycles of fear and greed to repeat.",
+      "Focus on incentives and psychology over headlines.",
+      "Design systems robust to unpredictable events."
+    ],
+    "related_concepts": [
+      "Behavioral finance",
+      "Human nature",
+      "Market psychology",
+      "Incentives"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "The Biggest Risks Are Invisible",
+    "type": "risk_concept",
+    "concise_statement": "The most damaging risks are the ones no one anticipates.",
+    "detailed_explanation": "Visible and expected risks are usually mitigated because people prepare for them. Hidden or unimaginable risks create the greatest damage because systems lack defenses against them. Unexpected shocks are amplified by collective unpreparedness.",
+    "implications": [
+      "Maintain redundancy and cash reserves.",
+      "Avoid maximizing efficiency at the expense of resilience.",
+      "Diversify against unknown unknowns.",
+      "Prepare for tail risks even if probabilities seem low."
+    ],
+    "related_concepts": [
+      "Black swan events",
+      "Tail risk",
+      "Antifragility",
+      "Risk asymmetry"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Historical Explanations Create Illusions of Predictability",
+    "type": "psychological_bias",
+    "concise_statement": "People create clean narratives for messy historical outcomes, falsely increasing confidence in prediction.",
+    "detailed_explanation": "After events occur, humans construct coherent causal stories that make outcomes appear inevitable. This hindsight bias masks the randomness and uncertainty present before the event occurred, leading people to overestimate their predictive ability.",
+    "implications": [
+      "Treat retrospective explanations cautiously.",
+      "Do not confuse explanation with predictability.",
+      "Maintain probabilistic thinking.",
+      "Use humility when interpreting market history."
+    ],
+    "related_concepts": [
+      "Hindsight bias",
+      "Narrative fallacy",
+      "Outcome bias",
+      "Overconfidence"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Complex Systems Have Infinite Causal Chains",
+    "type": "mental_model",
+    "concise_statement": "Every major event emerges from deep interconnected causal chains extending far into the past.",
+    "detailed_explanation": "Economic, political, and financial outcomes are products of interconnected historical layers. Attempting to isolate single causes oversimplifies reality because each event has multiple upstream dependencies and interacting variables.",
+    "implications": [
+      "Use systems thinking instead of linear analysis.",
+      "Expect unintended consequences.",
+      "Avoid monocausal explanations for crises.",
+      "Study structural incentives and long-term conditions."
+    ],
+    "related_concepts": [
+      "Systems theory",
+      "Complex adaptive systems",
+      "Causal networks",
+      "Emergence"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Survival Requires Respect for Uncertainty",
+    "type": "survival_principle",
+    "concise_statement": "Long-term survival depends on acknowledging uncertainty and maintaining resilience.",
+    "detailed_explanation": "Because unpredictable events dominate long-term outcomes, survival-oriented systems prioritize robustness over optimization. Overleveraged or fragile systems fail when unexpected shocks occur.",
+    "implications": [
+      "Keep margins of safety.",
+      "Avoid excessive leverage.",
+      "Prioritize durability over short-term gains.",
+      "Accept that uncertainty can never be eliminated."
+    ],
+    "related_concepts": [
+      "Margin of safety",
+      "Risk management",
+      "Antifragility",
+      "Robustness"
+    ],
+    "confidence_score": 0.99
+  }
+]
