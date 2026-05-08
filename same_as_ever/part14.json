@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Stability Creates Instability",
+    "type": "mental_model",
+    "concise_statement": "Periods of prolonged calm encourage behaviors that eventually generate fragility and crisis.",
+    "detailed_explanation": "When systems appear stable, people become more optimistic, take greater risks, use more leverage, and reduce safety margins. This accumulation of hidden fragility eventually makes the system vulnerable to shocks.",
+    "implications": [
+      "Long calm periods should increase caution, not complacency.",
+      "Risk accumulates invisibly during prosperous times.",
+      "Stability can encourage excessive leverage and speculation.",
+      "Booms naturally contain the seeds of future busts."
+    ],
+    "related_concepts": [
+      "Minsky instability hypothesis",
+      "Reflexivity",
+      "Behavioral finance",
+      "Systemic fragility"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Calm Plants the Seeds of Crisis",
+    "type": "causal_relationship",
+    "concise_statement": "Perceived safety encourages behaviors that increase future vulnerability.",
+    "detailed_explanation": "When people believe danger has disappeared, they reduce preparedness, ignore warnings, and optimize aggressively. This creates fragile systems highly sensitive to unexpected disruptions.",
+    "implications": [
+      "Perceived safety can become dangerous.",
+      "Complacency increases systemic risk.",
+      "Warnings are hardest to hear during stable periods.",
+      "Preparation declines when threats seem distant."
+    ],
+    "related_concepts": [
+      "Complacency risk",
+      "Tail risk",
+      "System fragility",
+      "Behavioral adaptation"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "High Valuations Reduce Error Tolerance",
+    "type": "risk_concept",
+    "concise_statement": "The more optimized and expensive systems become, the less room they have for surprise or disappointment.",
+    "detailed_explanation": "When expectations become excessively optimistic and assets are priced for perfection, even small negative surprises can trigger disproportionate instability.",
+    "implications": [
+      "Overvaluation increases sensitivity to shocks.",
+      "High expectations amplify downside risk.",
+      "Fragility rises when systems lose slack.",
+      "Risk grows during periods of confidence."
+    ],
+    "related_concepts": [
+      "Tail risk",
+      "Behavioral finance",
+      "Reflexivity",
+      "Valuation risk"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Success Breeds Complacency",
+    "type": "behavioral_principle",
+    "concise_statement": "The behaviors that create success are often abandoned after success is achieved.",
+    "detailed_explanation": "Discipline, caution, paranoia, and vigilance often drive early success. Once success arrives, people reduce these protective behaviors because maintaining them feels stressful or unnecessary.",
+    "implications": [
+      "Long-term success requires preserving productive discipline.",
+      "Comfort can undermine resilience.",
+      "Success creates psychological vulnerability.",
+      "Organizations decay when vigilance disappears."
+    ],
+    "related_concepts": [
+      "Complacency",
+      "Behavioral drift",
+      "Risk management",
+      "Organizational decline"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Preparedness Declines When Risks Fade From Memory",
+    "type": "causal_relationship",
+    "concise_statement": "As threats become historically distant, societies psychologically and structurally underprepare for them.",
+    "detailed_explanation": "Humans anchor expectations to recent experience. When disasters become rare, people gradually stop allocating attention, resources, and emotional readiness toward them.",
+    "implications": [
+      "Historical memory influences resilience.",
+      "Risk awareness decays over time.",
+      "Rare events become psychologically unimaginable.",
+      "Preparedness requires institutional memory."
+    ],
+    "related_concepts": [
+      "Recency bias",
+      "Historical amnesia",
+      "Risk perception",
+      "Behavioral adaptation"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Good Conditions Can Generate Future Disasters",
+    "type": "paradox",
+    "concise_statement": "Positive developments can unintentionally create conditions for later negative outcomes.",
+    "detailed_explanation": "Improvements and abundance often alter incentives and system structures in ways that increase future vulnerability. Excessive growth, comfort, or optimization can become destabilizing.",
+    "implications": [
+      "Second-order effects matter enormously.",
+      "Benefits can create hidden future costs.",
+      "Systems require balance, not maximal optimization.",
+      "Short-term success can increase long-term fragility."
+    ],
+    "related_concepts": [
+      "Second-order thinking",
+      "Complex systems",
+      "Unintended consequences",
+      "Feedback loops"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Excess Naturally Produces Its Opposite",
+    "type": "mental_model",
+    "concise_statement": "Extreme conditions tend to generate forces that reverse or counteract them.",
+    "detailed_explanation": "When any condition becomes excessive—optimism, pessimism, growth, fear, stability, abundance—it often creates imbalances that eventually trigger an opposing reaction.",
+    "implications": [
+      "Extremes are inherently unstable.",
+      "Balance is more sustainable than maximization.",
+      "Cycles emerge naturally from excess.",
+      "Contrarian thinking becomes valuable near extremes."
+    ],
+    "related_concepts": [
+      "Mean reversion",
+      "Enantiodromia",
+      "Behavioral cycles",
+      "Reflexivity"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Human Psychology Anchors to Recent Conditions",
+    "type": "psychological_bias",
+    "concise_statement": "People assume recent conditions are normal and project them into the future.",
+    "detailed_explanation": "Humans adapt quickly to current environments and underestimate how different conditions were historically or could become again. This creates blind spots around rare but recurring risks.",
+    "implications": [
+      "People underestimate low-frequency risks.",
+      "Historical perspective improves resilience.",
+      "Recent calm distorts future expectations.",
+      "Risk perception is heavily time-dependent."
+    ],
+    "related_concepts": [
+      "Recency bias",
+      "Availability heuristic",
+      "Historical amnesia",
+      "Behavioral finance"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Warnings Lose Power During Prosperity",
+    "type": "behavioral_principle",
+    "concise_statement": "The safer people feel, the less attention they pay to warnings about future danger.",
+    "detailed_explanation": "When systems function smoothly for extended periods, warnings appear paranoid, unnecessary, or irrational. Success itself reduces receptiveness to cautionary signals.",
+    "implications": [
+      "Preventive systems become politically vulnerable during calm periods.",
+      "Long-term preparedness is difficult to sustain socially.",
+      "Crisis prevention paradoxically undermines itself.",
+      "Invisible success is often undervalued."
+    ],
+    "related_concepts": [
+      "Complacency",
+      "Prevention paradox",
+      "Behavioral adaptation",
+      "Risk blindness"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Discovering Limits Requires Overshooting",
+    "type": "survival_principle",
+    "concise_statement": "Progress and adaptation often require pushing beyond perceived safe or rational boundaries.",
+    "detailed_explanation": "Humans and systems frequently overshoot in both optimism and pessimism because boundaries of possibility are only discovered through experimentation beyond established limits.",
+    "implications": [
+      "Cycles are partly mechanisms of discovery.",
+      "Excess is difficult to eliminate entirely.",
+      "Innovation often involves temporary instability.",
+      "Human systems naturally oscillate around sustainable limits."
+    ],
+    "related_concepts": [
+      "Exploration versus exploitation",
+      "Adaptive systems",
+      "Risk-taking",
+      "Behavioral cycles"
+    ],
+    "confidence_score": 0.97
+  }
+]
