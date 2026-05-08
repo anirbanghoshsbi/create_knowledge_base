@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Growth Is a Tactic, Not a Strategy",
+    "type": "mental_model",
+    "concise_statement": "Pursuing growth without preserving underlying quality eventually destroys the system being expanded.",
+    "detailed_explanation": "Growth becomes dangerous when it turns into an end in itself rather than a byproduct of sustainable value creation. Rapid expansion often weakens culture, product quality, customer experience, and operational resilience.",
+    "implications": [
+      "Growth should remain subordinate to sustainability.",
+      "Scaling too fast can dilute core strengths.",
+      "Organizations must preserve structural integrity during expansion.",
+      "Long-term durability often conflicts with aggressive expansion targets."
+    ],
+    "related_concepts": [
+      "Scaling limits",
+      "Organizational drift",
+      "System fragility",
+      "Incentive misalignment"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Most Systems Have an Optimal Scale",
+    "type": "risk_concept",
+    "concise_statement": "Beyond a certain size or speed, systems become less efficient, less stable, and harder to manage.",
+    "detailed_explanation": "Processes, organizations, relationships, and biological systems often function best within specific ranges of scale. Excessive growth changes dynamics in nonlinear ways and creates structural weaknesses.",
+    "implications": [
+      "Scaling requires redesign, not simple expansion.",
+      "Large systems face coordination and quality-control problems.",
+      "Efficiency gains can reverse beyond optimal scale.",
+      "Growth introduces hidden complexity."
+    ],
+    "related_concepts": [
+      "Complex systems",
+      "Scaling laws",
+      "Fragility",
+      "Nonlinear dynamics"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Rapid Expansion Often Weakens Durability",
+    "type": "causal_relationship",
+    "concise_statement": "Fast growth frequently sacrifices maintenance, resilience, and long-term health.",
+    "detailed_explanation": "Accelerated growth diverts resources away from repair, stability, and structural strengthening. Systems that grow too quickly often appear strong temporarily while accumulating hidden fragility.",
+    "implications": [
+      "Short-term acceleration can reduce lifespan.",
+      "Maintenance is essential for sustainable growth.",
+      "Durability requires pacing.",
+      "Fast growth may conceal future instability."
+    ],
+    "related_concepts": [
+      "System fragility",
+      "Compounding",
+      "Maintenance versus expansion",
+      "Biological trade-offs"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Patience Creates Strength",
+    "type": "compounding_principle",
+    "concise_statement": "Slow, steady development often produces stronger and more durable outcomes than rapid acceleration.",
+    "detailed_explanation": "Systems allowed to mature gradually gain structural density, resilience, and adaptability. Time permits repair, refinement, and compounding improvements that rushed growth bypasses.",
+    "implications": [
+      "Durability compounds slowly.",
+      "Patience is a structural advantage.",
+      "Long-term quality requires time to mature.",
+      "Stable compounding often outperforms rapid expansion."
+    ],
+    "related_concepts": [
+      "Compounding",
+      "Long-termism",
+      "Antifragility",
+      "Sustainable growth"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Artificial Acceleration Creates Hidden Costs",
+    "type": "paradox",
+    "concise_statement": "Forcing faster progress often produces weaker outcomes despite appearing more productive initially.",
+    "detailed_explanation": "Artificially accelerating systems may increase visible short-term performance while reducing hidden qualities such as resilience, repair capacity, and adaptability.",
+    "implications": [
+      "Optimization can undermine longevity.",
+      "Fast success may conceal structural weakness.",
+      "Artificial growth trades future stability for present gains.",
+      "Sustainable systems require recovery capacity."
+    ],
+    "related_concepts": [
+      "Overoptimization",
+      "Fragility",
+      "Trade-offs",
+      "Biological scaling"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Different Scales Require Different Behaviors",
+    "type": "mental_model",
+    "concise_statement": "Strategies and leadership styles effective at one scale often fail at another.",
+    "detailed_explanation": "As systems grow, coordination complexity, incentives, communication, and cultural dynamics change fundamentally. Behaviors optimal for small groups may become destructive in larger organizations.",
+    "implications": [
+      "Leadership must evolve with scale.",
+      "Small-system intuition can fail in large systems.",
+      "Organizational growth changes incentive structures.",
+      "Adaptation is required during scaling transitions."
+    ],
+    "related_concepts": [
+      "Complexity theory",
+      "Organizational dynamics",
+      "Scaling risk",
+      "Leadership adaptation"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Scarcity Increases Perceived Value",
+    "type": "behavioral_principle",
+    "concise_statement": "Things become more meaningful and admired when they require time and rarity to develop.",
+    "detailed_explanation": "Humans psychologically value outcomes that are difficult to obtain, slow to build, or uncommon. Excessive scaling and acceleration can reduce uniqueness and emotional attachment.",
+    "implications": [
+      "Abundance can dilute value perception.",
+      "Patience contributes to admiration.",
+      "Overexpansion can weaken brand identity.",
+      "Scarcity amplifies emotional significance."
+    ],
+    "related_concepts": [
+      "Scarcity principle",
+      "Behavioral economics",
+      "Status signaling",
+      "Perceived value"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Impatience Is an Enemy of Creativity",
+    "type": "psychological_bias",
+    "concise_statement": "The desire for immediate results often disrupts deep creative and developmental processes.",
+    "detailed_explanation": "Creativity and mastery require experimentation, incubation, refinement, and patience. Impatience pressures systems toward premature output and superficial results.",
+    "implications": [
+      "Creative work benefits from extended time horizons.",
+      "Rushed execution reduces originality and depth.",
+      "Pressure for quick results harms craftsmanship.",
+      "Patience is essential for complex development."
+    ],
+    "related_concepts": [
+      "Delayed gratification",
+      "Creative incubation",
+      "Compounding",
+      "Behavioral discipline"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Stress and Crisis Accelerate Social Change",
+    "type": "causal_relationship",
+    "concise_statement": "Major reforms and innovations often emerge during periods of pain, urgency, and collective shock.",
+    "detailed_explanation": "Humans resist change during stable periods but become highly adaptive during crises when the cost of inaction becomes intolerable. Stress focuses attention and mobilizes action.",
+    "implications": [
+      "Crisis creates political and social momentum.",
+      "Pain lowers resistance to reform.",
+      "Urgency accelerates innovation.",
+      "Transformational change often follows disaster."
+    ],
+    "related_concepts": [
+      "Creative destruction",
+      "Adaptive pressure",
+      "Crisis response",
+      "Behavioral adaptation"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Discomfort Concentrates Human Attention",
+    "type": "survival_principle",
+    "concise_statement": "Stress and fear focus attention and motivate action more powerfully than comfort and stability.",
+    "detailed_explanation": "Humans evolved to respond intensely to threats and discomfort. Painful situations prioritize adaptation, innovation, and cooperation in ways that stable conditions rarely achieve.",
+    "implications": [
+      "Motivation often increases during adversity.",
+      "Comfort can reduce urgency and innovation.",
+      "Stress can catalyze breakthrough behavior.",
+      "Adaptive responses intensify under pressure."
+    ],
+    "related_concepts": [
+      "Survival psychology",
+      "Adaptive systems",
+      "Motivational pressure",
+      "Crisis-driven innovation"
+    ],
+    "confidence_score": 0.98
+  }
+]
