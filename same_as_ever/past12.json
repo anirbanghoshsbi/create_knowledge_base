@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Presentation Often Determines Perceived Truth",
+    "type": "behavioral_principle",
+    "concise_statement": "People frequently judge ideas by how persuasively they are presented rather than by their objective accuracy.",
+    "detailed_explanation": "Humans are heavily influenced by clarity, confidence, and narrative framing. Correct ideas can be ignored if poorly communicated, while weak ideas can gain traction through compelling presentation.",
+    "implications": [
+      "Communication skill creates asymmetric influence.",
+      "Marketing can overpower objective evaluation.",
+      "Critical thinking requires separating substance from presentation.",
+      "Persuasive delivery affects belief formation."
+    ],
+    "related_concepts": [
+      "Narrative persuasion",
+      "Halo effect",
+      "Attention economy",
+      "Behavioral communication"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Many Critical Forces Cannot Be Quantified",
+    "type": "mental_model",
+    "concise_statement": "Some of the most important drivers of outcomes are emotional, psychological, or social variables resistant to measurement.",
+    "detailed_explanation": "Human systems are shaped by motivations, morale, fear, identity, belief, and perception—factors that often evade precise measurement yet strongly influence real-world outcomes.",
+    "implications": [
+      "Purely quantitative models are incomplete.",
+      "Soft variables can dominate hard data.",
+      "Decision-making requires judgment beyond statistics.",
+      "Overreliance on metrics creates blind spots."
+    ],
+    "related_concepts": [
+      "Complex systems",
+      "Behavioral economics",
+      "Human psychology",
+      "Qualitative analysis"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Rational Models Fail in Irrational Environments",
+    "type": "risk_concept",
+    "concise_statement": "Systems based on rational assumptions break down when participants behave emotionally or irrationally.",
+    "detailed_explanation": "Many models assume actors maximize utility logically, but real humans are influenced by fear, ideology, ego, identity, and delusion. These factors can override rational incentives and invalidate analytical expectations.",
+    "implications": [
+      "Human irrationality is a structural risk factor.",
+      "Models should incorporate behavioral unpredictability.",
+      "Extreme outcomes often emerge from non-rational behavior.",
+      "Rational assumptions create dangerous blind spots."
+    ],
+    "related_concepts": [
+      "Behavioral finance",
+      "Reflexivity",
+      "Complex adaptive systems",
+      "Cognitive bias"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Unmeasured Variables Can Dominate Outcomes",
+    "type": "causal_relationship",
+    "concise_statement": "Factors excluded from measurement frameworks can become the decisive drivers of results.",
+    "detailed_explanation": "When organizations optimize only measurable metrics, they risk ignoring intangible forces that ultimately determine success or failure. The absence of measurement does not reduce importance.",
+    "implications": [
+      "Metrics can create false confidence.",
+      "Qualitative signals deserve serious attention.",
+      "Organizations should monitor human sentiment and incentives.",
+      "Blind spots often emerge from what cannot be quantified."
+    ],
+    "related_concepts": [
+      "Goodhart’s Law",
+      "Measurement bias",
+      "Systems thinking",
+      "Behavioral dynamics"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Anecdotes Sometimes Reveal Model Failure",
+    "type": "decision_rule",
+    "concise_statement": "When lived experience repeatedly contradicts data, the measurement system itself may be flawed.",
+    "detailed_explanation": "Data collection and models are abstractions that may omit critical variables. Persistent divergence between numerical analysis and real-world observations can signal incomplete measurement frameworks.",
+    "implications": [
+      "Do not blindly trust metrics.",
+      "Ground-truth observations remain valuable.",
+      "Data interpretation requires skepticism.",
+      "Human experience can identify hidden variables."
+    ],
+    "related_concepts": [
+      "Model risk",
+      "Measurement error",
+      "Qualitative insight",
+      "Empirical feedback"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Humans Discount What They Cannot Measure",
+    "type": "psychological_bias",
+    "concise_statement": "People tend to undervalue forces that resist quantification.",
+    "detailed_explanation": "Humans prefer measurable variables because they create an illusion of control and certainty. Intangible forces such as morale, fear, trust, and belief are often ignored despite their importance.",
+    "implications": [
+      "Organizations may optimize the wrong variables.",
+      "Important risks can remain invisible.",
+      "Soft skills and culture are often underestimated.",
+      "Quantification bias distorts decision-making."
+    ],
+    "related_concepts": [
+      "Measurement bias",
+      "Quantification bias",
+      "Behavioral economics",
+      "Model overconfidence"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Human Performance Depends on Perceived Stakes",
+    "type": "behavioral_principle",
+    "concise_statement": "People access different levels of capability depending on motivation, fear, and perceived importance.",
+    "detailed_explanation": "Physical and cognitive limits are not fixed constants. The brain regulates effort based on survival incentives, perceived reward, and contextual urgency, often preserving hidden reserve capacity.",
+    "implications": [
+      "Performance potential is context-dependent.",
+      "Motivation materially changes capability.",
+      "Stress and urgency can unlock hidden reserves.",
+      "Observed limits may not represent true limits."
+    ],
+    "related_concepts": [
+      "Behavioral adaptation",
+      "Survival instincts",
+      "Motivational psychology",
+      "Performance theory"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "The Brain Prioritizes Survival Over Optimization",
+    "type": "survival_principle",
+    "concise_statement": "Human systems are designed to preserve survival margins rather than maximize output continuously.",
+    "detailed_explanation": "The brain intentionally limits exertion to avoid exhaustion and vulnerability. Apparent performance ceilings often reflect protective regulation rather than absolute physical constraints.",
+    "implications": [
+      "Humans operate with hidden reserve capacity.",
+      "Stress environments alter performance thresholds.",
+      "Perceived limits can shift under existential pressure.",
+      "Optimization models must account for self-preservation behavior."
+    ],
+    "related_concepts": [
+      "Homeostasis",
+      "Risk management",
+      "Behavioral adaptation",
+      "Evolutionary psychology"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Reality Often Defies Logical Consistency",
+    "type": "paradox",
+    "concise_statement": "Human behavior frequently violates rational expectations while still producing persistent real-world patterns.",
+    "detailed_explanation": "People routinely act emotionally, irrationally, or inconsistently relative to formal logic. Yet these irrational behaviors themselves form recurring behavioral structures that shape economies, wars, and markets.",
+    "implications": [
+      "Expect irrationality as a normal system feature.",
+      "Behavioral analysis is essential for forecasting.",
+      "Pure logic is insufficient in human systems.",
+      "Emotional forces create predictable unpredictability."
+    ],
+    "related_concepts": [
+      "Behavioral economics",
+      "Complex systems",
+      "Reflexivity",
+      "Cognitive bias"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "The Most Important Variables Are Often Hidden",
+    "type": "mental_model",
+    "concise_statement": "Visible metrics frequently explain less than invisible psychological and social dynamics.",
+    "detailed_explanation": "Surface-level numbers may create the illusion of understanding while deeper motivational, emotional, and cultural variables determine actual outcomes. Human systems are partially opaque by nature.",
+    "implications": [
+      "Deep understanding requires qualitative interpretation.",
+      "Metrics should be treated as incomplete proxies.",
+      "Cultural and emotional context matters enormously.",
+      "Invisible forces can dominate visible structures."
+    ],
+    "related_concepts": [
+      "Hidden variables",
+      "Systems thinking",
+      "Behavioral complexity",
+      "Qualitative analysis"
+    ],
+    "confidence_score": 0.99
+  }
+]
