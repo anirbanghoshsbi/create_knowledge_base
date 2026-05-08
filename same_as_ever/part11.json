@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Narrative Packaging Multiplies Impact",
+    "type": "mental_model",
+    "concise_statement": "The presentation of information often determines its influence more than the originality of the information itself.",
+    "detailed_explanation": "Ideas become widely adopted when they are emotionally engaging, memorable, and easy to understand. Existing knowledge can achieve massive impact when reorganized into compelling narratives.",
+    "implications": [
+      "Communication skill acts as leverage on knowledge.",
+      "Important ideas may fail due to poor presentation.",
+      "Influence depends partly on emotional accessibility.",
+      "Packaging affects perceived value."
+    ],
+    "related_concepts": [
+      "Narrative leverage",
+      "Persuasion",
+      "Attention economy",
+      "Communication design"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Emotion Amplifies Information Retention",
+    "type": "causal_relationship",
+    "concise_statement": "Information attached to emotion, imagery, or rhythm becomes more memorable and persuasive.",
+    "detailed_explanation": "Humans process emotionally vivid experiences more effectively than abstract facts. Music, imagery, pacing, and narrative structure strengthen memory formation and engagement.",
+    "implications": [
+      "Emotional framing improves teaching and persuasion.",
+      "Technical expertise alone may fail to influence audiences.",
+      "Narrative structure enhances retention.",
+      "Presentation style materially affects adoption."
+    ],
+    "related_concepts": [
+      "Memory bias",
+      "Narrative psychology",
+      "Emotional salience",
+      "Persuasion"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Storytelling Converts Complexity Into Intuition",
+    "type": "behavioral_principle",
+    "concise_statement": "Stories compress complicated ideas into intuitive mental models that humans can easily process.",
+    "detailed_explanation": "Complex systems and abstract concepts become understandable when translated into vivid analogies, metaphors, or narratives. Stories reduce cognitive load and increase comprehension.",
+    "implications": [
+      "Good communicators simplify without losing meaning.",
+      "Metaphors improve understanding of technical subjects.",
+      "Teaching effectiveness depends on narrative skill.",
+      "Complexity requires translation into human-scale experiences."
+    ],
+    "related_concepts": [
+      "Mental models",
+      "Analogy",
+      "Cognitive compression",
+      "Narrative framing"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Visibility Depends on Story Potential",
+    "type": "psychological_bias",
+    "concise_statement": "Events become culturally memorable when they contain compelling narratives, not necessarily when they are objectively most important.",
+    "detailed_explanation": "Humans selectively remember and discuss events with emotional, symbolic, or dramatic narrative structures. Comparable or larger events may be forgotten if they lack compelling storytelling elements.",
+    "implications": [
+      "Public attention is not proportional to objective importance.",
+      "Media coverage favors emotionally compelling stories.",
+      "Historical memory is shaped by narrative quality.",
+      "Awareness can diverge sharply from statistical significance."
+    ],
+    "related_concepts": [
+      "Availability heuristic",
+      "Narrative bias",
+      "Media psychology",
+      "Attention economics"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "People Prefer Stories Over Raw Information",
+    "type": "behavioral_principle",
+    "concise_statement": "Humans are emotionally and cognitively wired to absorb narratives more easily than data or equations.",
+    "detailed_explanation": "Stories provide structure, emotion, causality, and meaning, allowing people to process information with less mental effort than abstract analysis or technical explanation.",
+    "implications": [
+      "Simplification increases audience engagement.",
+      "Technical correctness alone rarely wins attention.",
+      "Narrative framing affects belief formation.",
+      "Communication strategy is central to influence."
+    ],
+    "related_concepts": [
+      "Cognitive ease",
+      "Narrative psychology",
+      "Behavioral communication",
+      "Attention economy"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Valuation Depends on Future Narratives",
+    "type": "mental_model",
+    "concise_statement": "Financial valuations are partly stories about future possibilities layered onto current numbers.",
+    "detailed_explanation": "Market prices incorporate narratives about growth, innovation, and future potential. Investor psychology and storytelling materially affect asset valuations beyond current fundamentals.",
+    "implications": [
+      "Markets are influenced by collective imagination.",
+      "Narratives can temporarily overpower fundamentals.",
+      "Storytelling is a strategic business asset.",
+      "Understanding sentiment improves forecasting."
+    ],
+    "related_concepts": [
+      "Behavioral finance",
+      "Market psychology",
+      "Reflexivity",
+      "Narrative economics"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Humor Is Compressed Intelligence",
+    "type": "mental_model",
+    "concise_statement": "Humor effectively communicates deep insights by making complex truths emotionally accessible.",
+    "detailed_explanation": "Comedians succeed because they compress observations about psychology, society, and behavior into emotionally resonant narratives that audiences intuitively understand and remember.",
+    "implications": [
+      "Entertainment can transmit ideas more effectively than formal instruction.",
+      "Humor lowers resistance to difficult truths.",
+      "Emotional accessibility amplifies influence.",
+      "Insight without engagement often goes unnoticed."
+    ],
+    "related_concepts": [
+      "Narrative persuasion",
+      "Behavioral psychology",
+      "Communication leverage",
+      "Social cognition"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "title": "Stories Function as Cognitive Leverage",
+    "type": "compounding_principle",
+    "concise_statement": "Narratives dramatically increase the efficiency and reach of ideas.",
+    "detailed_explanation": "Stories act like leverage by allowing large amounts of information to be transmitted with minimal cognitive effort. A simple narrative can compress years of expertise into intuitive understanding.",
+    "implications": [
+      "Narrative skill scales influence nonlinearly.",
+      "Simple explanations often outperform exhaustive detail.",
+      "Communication efficiency compounds reach.",
+      "Leverage in ideas comes from clarity and memorability."
+    ],
+    "related_concepts": [
+      "Leverage",
+      "Compounding influence",
+      "Mental models",
+      "Communication efficiency"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Beliefs Shape Perception",
+    "type": "psychological_bias",
+    "concise_statement": "People are more likely to accept stories that align with what they already want to believe.",
+    "detailed_explanation": "Humans interpret evidence through preexisting emotional and cognitive frameworks. Stories confirming existing beliefs feel more persuasive regardless of evidentiary quality.",
+    "implications": [
+      "Confirmation bias strengthens persuasive narratives.",
+      "False stories can spread if emotionally satisfying.",
+      "Belief systems shape interpretation of evidence.",
+      "Narratives gain power when aligned with identity or desire."
+    ],
+    "related_concepts": [
+      "Confirmation bias",
+      "Motivated reasoning",
+      "Narrative psychology",
+      "Cognitive bias"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Shared Narratives Coordinate Collective Attention",
+    "type": "causal_relationship",
+    "concise_statement": "Stories synchronize emotions and focus across large groups of people.",
+    "detailed_explanation": "Powerful narratives create shared emotional reactions and collective interpretation frameworks, enabling coordination of attention, belief, and behavior across diverse audiences.",
+    "implications": [
+      "Narratives can shape culture and markets.",
+      "Leadership depends heavily on communication framing.",
+      "Collective action often requires shared stories.",
+      "Social cohesion is partly narrative-driven."
+    ],
+    "related_concepts": [
+      "Collective psychology",
+      "Social coordination",
+      "Memetics",
+      "Narrative economics"
+    ],
+    "confidence_score": 0.98
+  }
+]
