@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Necessity Accelerates Innovation",
+    "type": "causal_relationship",
+    "concise_statement": "Severe crises force rapid experimentation, adaptation, and technological advancement.",
+    "detailed_explanation": "When survival, economic stability, or national security are threatened, people and institutions become willing to abandon old assumptions, increase risk tolerance, and pursue radical solutions with unusual speed.",
+    "implications": [
+      "Crisis compresses innovation timelines.",
+      "Fear increases willingness to change systems.",
+      "Institutional resistance weakens during emergencies.",
+      "Major progress often follows severe disruption."
+    ],
+    "related_concepts": [
+      "Adaptive pressure",
+      "Creative destruction",
+      "Stress-induced innovation",
+      "Behavioral adaptation"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Productivity Often Improves Under Constraint",
+    "type": "behavioral_principle",
+    "concise_statement": "Economic hardship can force individuals and organizations to become dramatically more efficient.",
+    "detailed_explanation": "Scarcity and survival pressure eliminate complacency and encourage experimentation, optimization, and process redesign that might never occur during prosperous periods.",
+    "implications": [
+      "Constraint can increase creativity.",
+      "Downturns often reveal hidden inefficiencies.",
+      "Survival pressure accelerates organizational learning.",
+      "Prosperity can mask wasteful systems."
+    ],
+    "related_concepts": [
+      "Constraint-driven innovation",
+      "Efficiency gains",
+      "Adaptive systems",
+      "Economic restructuring"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Fear Compresses Development Timelines",
+    "type": "mental_model",
+    "concise_statement": "Existential threats dramatically reduce procrastination, bureaucracy, and hesitation.",
+    "detailed_explanation": "When consequences become urgent, societies and organizations shift resources rapidly, tolerate experimentation, and prioritize execution speed over procedural caution.",
+    "implications": [
+      "Motivation intensifies under pressure.",
+      "Urgency increases institutional agility.",
+      "Fear can temporarily override political and organizational friction.",
+      "High-stakes situations unlock hidden capacity."
+    ],
+    "related_concepts": [
+      "Crisis response",
+      "Behavioral urgency",
+      "Adaptive pressure",
+      "Motivational psychology"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Moderate Stress Fuels Progress, Excessive Stress Prevents It",
+    "type": "paradox",
+    "concise_statement": "Stress stimulates innovation only within a survivable range.",
+    "detailed_explanation": "Some adversity sharpens focus and creativity, but overwhelming disaster redirects energy toward immediate survival, leaving little capacity for experimentation or long-term thinking.",
+    "implications": [
+      "Systems require manageable stress, not collapse.",
+      "Excessive instability destroys productive capacity.",
+      "Optimal challenge maximizes adaptation.",
+      "Balance matters in resilience and growth."
+    ],
+    "related_concepts": [
+      "Antifragility",
+      "Adaptive stress",
+      "Survival psychology",
+      "Complex systems"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Purpose Often Emerges From Struggle",
+    "type": "behavioral_principle",
+    "concise_statement": "Humans derive motivation and meaning more from striving and challenge than from comfort.",
+    "detailed_explanation": "Purpose is frequently connected to overcoming obstacles, solving problems, and pursuing meaningful goals. Comfort without challenge can produce stagnation and dissatisfaction.",
+    "implications": [
+      "Meaning often requires difficulty.",
+      "Comfort alone rarely sustains motivation.",
+      "Challenge can improve psychological engagement.",
+      "Progress depends partly on friction."
+    ],
+    "related_concepts": [
+      "Purpose",
+      "Motivation theory",
+      "Behavioral psychology",
+      "Adaptive struggle"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Anxiety Can Be Productive",
+    "type": "survival_principle",
+    "concise_statement": "Persistent concern about failure can drive preparation, discipline, and sustained achievement.",
+    "detailed_explanation": "Many high performers channel anxiety into productivity, vigilance, and continuous improvement. Fear of decline or failure often becomes a long-term motivational engine.",
+    "implications": [
+      "Moderate anxiety can sustain focus.",
+      "Complacency often reduces performance.",
+      "Emotional discomfort can fuel ambition.",
+      "Fear can strengthen discipline."
+    ],
+    "related_concepts": [
+      "Behavioral motivation",
+      "Performance psychology",
+      "Risk awareness",
+      "Adaptive stress"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Good News Compounds Slowly",
+    "type": "compounding_principle",
+    "concise_statement": "Most positive developments emerge gradually through long periods of small incremental improvement.",
+    "detailed_explanation": "Technological progress, medical advances, economic growth, and reputation-building usually compound slowly over decades, making their importance difficult to perceive in real time.",
+    "implications": [
+      "Incremental gains create enormous long-term impact.",
+      "People underestimate slow-moving improvements.",
+      "Patience is necessary to recognize compounding effects.",
+      "Progress often feels invisible while occurring."
+    ],
+    "related_concepts": [
+      "Compounding",
+      "Exponential growth",
+      "Long-termism",
+      "Incremental improvement"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Bad News Happens Instantly",
+    "type": "risk_concept",
+    "concise_statement": "Destruction and collapse often occur far faster than construction and growth.",
+    "detailed_explanation": "Positive systems require long periods of compounding, trust-building, and gradual improvement, while disasters can emerge from sudden mistakes, confidence loss, or catastrophic shocks.",
+    "implications": [
+      "Fragility creates asymmetric downside speed.",
+      "Reputation and trust are vulnerable to rapid destruction.",
+      "Risk management should prioritize avoiding catastrophic failure.",
+      "Recovery usually takes longer than collapse."
+    ],
+    "related_concepts": [
+      "Tail risk",
+      "Fragility",
+      "Asymmetry",
+      "Risk management"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Humans Ignore Slow Progress",
+    "type": "psychological_bias",
+    "concise_statement": "Gradual improvements attract little attention because humans notice abrupt changes more easily than slow compounding.",
+    "detailed_explanation": "Human perception is sensitive to dramatic events but poor at recognizing slow, consistent progress. This causes pessimism and underappreciation of long-term improvement trends.",
+    "implications": [
+      "Media favors sudden negative events.",
+      "People underestimate long-term progress.",
+      "Incremental improvements often go emotionally unnoticed.",
+      "Patience is required to perceive compounding."
+    ],
+    "related_concepts": [
+      "Availability heuristic",
+      "Compounding",
+      "Perception bias",
+      "Long-term thinking"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Transformational Change Often Appears Ordinary in Real Time",
+    "type": "mental_model",
+    "concise_statement": "Major advances frequently look insignificant while they are occurring because progress unfolds incrementally.",
+    "detailed_explanation": "Breakthrough changes are usually experienced as many small improvements spread across years or decades. Only hindsight reveals how transformative cumulative progress became.",
+    "implications": [
+      "Innovation adoption requires patience.",
+      "Historical perspective clarifies progress.",
+      "Small improvements can compound into massive societal shifts.",
+      "Present-day pessimism may overlook ongoing transformation."
+    ],
+    "related_concepts": [
+      "Compounding",
+      "Innovation diffusion",
+      "Long-termism",
+      "Historical perspective"
+    ],
+    "confidence_score": 0.98
+  }
+]
