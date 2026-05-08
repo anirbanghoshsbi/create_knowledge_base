@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Progress Is Slow, Destruction Is Fast",
+    "type": "mental_model",
+    "concise_statement": "Building valuable systems requires long periods of compounding, while destruction can occur almost instantly.",
+    "detailed_explanation": "Growth requires coordination, resilience, competition, maintenance, and time. Collapse often needs only one critical failure, sudden loss of confidence, or catastrophic shock.",
+    "implications": [
+      "Fragility creates asymmetric downside speed.",
+      "Risk management should prioritize avoiding irreversible damage.",
+      "Patience is required to perceive progress.",
+      "Systems become harder to build than to destroy."
+    ],
+    "related_concepts": [
+      "Compounding",
+      "Fragility",
+      "Asymmetry",
+      "Tail risk"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Complex Systems Are Easier to Break Than Build",
+    "type": "risk_concept",
+    "concise_statement": "Creation requires many coordinated successes, while destruction often requires only one failure.",
+    "detailed_explanation": "Complex systems depend on numerous interconnected components functioning correctly. Failure can emerge from a single weak link because collapse pathways are usually simpler than construction pathways.",
+    "implications": [
+      "Redundancy is essential for resilience.",
+      "Complexity increases vulnerability.",
+      "Protecting systems is as important as building them.",
+      "Small failures can trigger large collapses."
+    ],
+    "related_concepts": [
+      "System fragility",
+      "Complex adaptive systems",
+      "Single points of failure",
+      "Risk asymmetry"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Bad News Dominates Attention Because It Happens Fast",
+    "type": "psychological_bias",
+    "concise_statement": "Humans focus more on sudden visible losses than on slow invisible gains.",
+    "detailed_explanation": "Rapid negative events create emotional urgency and attract disproportionate attention, while slow compounding improvements often go unnoticed because they lack drama.",
+    "implications": [
+      "Media systematically amplifies pessimism.",
+      "People underestimate long-term progress.",
+      "Emotional reactions distort perception of reality.",
+      "Patience is psychologically difficult."
+    ],
+    "related_concepts": [
+      "Negativity bias",
+      "Availability heuristic",
+      "Compounding",
+      "Attention economics"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Good News Is Often Invisible",
+    "type": "paradox",
+    "concise_statement": "Many of the greatest achievements are things that never happened rather than visible events.",
+    "detailed_explanation": "Prevented disasters, avoided wars, reduced mortality, and incremental safety improvements create enormous value but are difficult to notice because their success appears as absence rather than visible action.",
+    "implications": [
+      "Prevention is systematically undervalued.",
+      "Invisible success receives little emotional recognition.",
+      "Societies underestimate the value of resilience systems.",
+      "Progress can feel absent despite enormous improvement."
+    ],
+    "related_concepts": [
+      "Prevention paradox",
+      "Compounding",
+      "Risk mitigation",
+      "Invisible progress"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Small Risks Compound Into Catastrophes",
+    "type": "causal_relationship",
+    "concise_statement": "Large disasters usually emerge from chains of individually manageable small risks.",
+    "detailed_explanation": "Catastrophic failures rarely result from one isolated cause. Instead, multiple small vulnerabilities interact, reinforce one another, and compound into systemic collapse.",
+    "implications": [
+      "Minor weaknesses should not be ignored.",
+      "Systemic risk often appears harmless in isolation.",
+      "Interconnected failures amplify instability.",
+      "Complex systems require holistic risk analysis."
+    ],
+    "related_concepts": [
+      "Tail risk",
+      "Chain reactions",
+      "Systemic collapse",
+      "Compounding risk"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Small Triggers Can Create Massive Consequences",
+    "type": "mental_model",
+    "concise_statement": "Tiny events can initiate nonlinear chain reactions with enormous outcomes.",
+    "detailed_explanation": "Systems become vulnerable when small actions interact with existing fragility. The initiating event may appear insignificant relative to the eventual outcome.",
+    "implications": [
+      "Scale of cause and effect is often nonlinear.",
+      "Tiny catalysts can destabilize large systems.",
+      "Preventing escalation matters more than predicting exact triggers.",
+      "Sensitivity to initial conditions shapes history."
+    ],
+    "related_concepts": [
+      "Chaos theory",
+      "Path dependence",
+      "Nonlinear systems",
+      "Chain reactions"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Lowering Barriers Can Increase Systemic Risk",
+    "type": "paradox",
+    "concise_statement": "Making dangerous actions seem smaller or safer can increase the probability of catastrophic escalation.",
+    "detailed_explanation": "Reducing the perceived severity of risky actions encourages more frequent use, which can unintentionally raise the probability of triggering larger disasters.",
+    "implications": [
+      "Incremental normalization can create hidden danger.",
+      "Small-scale risk-taking may escalate unpredictably.",
+      "Psychological comfort can weaken caution.",
+      "Reduced perceived risk may increase actual risk."
+    ],
+    "related_concepts": [
+      "Escalation dynamics",
+      "Risk normalization",
+      "Behavioral incentives",
+      "Tail-risk amplification"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "People Underestimate Cascading Failures",
+    "type": "psychological_bias",
+    "concise_statement": "Humans evaluate risks individually and underestimate how multiple small failures can interact simultaneously.",
+    "detailed_explanation": "People naturally assess risks in isolation instead of modeling how independent vulnerabilities can compound and reinforce one another during stress.",
+    "implications": [
+      "Risk aggregation is systematically underestimated.",
+      "Diversification can fail during correlated crises.",
+      "Complex systems require network-level analysis.",
+      "Complacency often emerges from isolated thinking."
+    ],
+    "related_concepts": [
+      "Correlation risk",
+      "Systemic fragility",
+      "Tail events",
+      "Complex systems"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Confidence Is Fragile",
+    "type": "survival_principle",
+    "concise_statement": "Trust and confidence take years to build but can collapse in moments.",
+    "detailed_explanation": "Financial systems, reputations, institutions, and relationships rely heavily on collective confidence. Once trust breaks, collapse accelerates because confidence itself reinforces stability.",
+    "implications": [
+      "Maintaining trust is strategically critical.",
+      "Confidence crises spread rapidly.",
+      "Reputation protection deserves high priority.",
+      "Stability depends partly on perception."
+    ],
+    "related_concepts": [
+      "Reflexivity",
+      "Bank runs",
+      "Trust dynamics",
+      "Fragility"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Compounding Makes Small Growth Extraordinary",
+    "type": "compounding_principle",
+    "concise_statement": "Tiny consistent improvements accumulate into outcomes that appear impossible when viewed directly.",
+    "detailed_explanation": "Small annual improvements feel insignificant in isolation but become transformational over long periods because each gain builds on previous gains exponentially.",
+    "implications": [
+      "Patience magnifies outcomes.",
+      "Incremental growth should not be underestimated.",
+      "Long horizons reveal extraordinary progress.",
+      "Consistency often matters more than intensity."
+    ],
+    "related_concepts": [
+      "Exponential growth",
+      "Long-termism",
+      "Compound returns",
+      "Incremental improvement"
+    ],
+    "confidence_score": 0.99
+  }
+]
