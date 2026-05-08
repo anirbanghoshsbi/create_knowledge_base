@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Humans Continue Forecasting Despite Persistent Failure",
+    "type": "behavioral_principle",
+    "concise_statement": "People repeatedly attempt prediction because certainty is psychologically necessary, even when forecasting accuracy is poor.",
+    "detailed_explanation": "Humans require a sense of control and predictability to function emotionally. The repeated failure of forecasts does not eliminate the demand for them because the emotional value of certainty outweighs empirical evidence of unreliability.",
+    "implications": [
+      "Forecasting industries persist despite weak predictive records.",
+      "People prefer comforting narratives over acknowledged uncertainty.",
+      "Confidence is often rewarded more than accuracy.",
+      "Demand for prediction is psychological as much as practical."
+    ],
+    "related_concepts": [
+      "Overconfidence bias",
+      "Doubt-avoidance tendency",
+      "Behavioral finance",
+      "Illusion of control"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Small Sample Sizes Distort Perceived Skill",
+    "type": "mental_model",
+    "concise_statement": "In many complex fields there are too few repeated events to reliably measure forecasting ability.",
+    "detailed_explanation": "Fields such as economics, investing, and geopolitics generate limited comparable events over a human career. Because sample sizes are small, distinguishing genuine skill from luck becomes extremely difficult.",
+    "implications": [
+      "Long-term track records may still contain insufficient data.",
+      "Expertise in probabilistic systems is hard to validate.",
+      "Confidence should remain tempered in low-sample environments.",
+      "Outcome-based evaluation can misidentify skill."
+    ],
+    "related_concepts": [
+      "Statistical significance",
+      "Luck versus skill",
+      "Sample size bias",
+      "Probabilistic thinking"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Probability Loses Emotional Power During Pain",
+    "type": "psychological_bias",
+    "concise_statement": "People intellectually understand probabilities until adverse outcomes affect them personally.",
+    "detailed_explanation": "Humans can accept statistical risk abstractly, but when negative outcomes occur emotionally, they often reinterpret normal probabilities as evidence of failure, recklessness, or betrayal.",
+    "implications": [
+      "Risk tolerance collapses under stress.",
+      "People overreact to expected volatility.",
+      "Emotional responses distort probabilistic reasoning.",
+      "Managing expectations is essential in risky systems."
+    ],
+    "related_concepts": [
+      "Loss aversion",
+      "Outcome bias",
+      "Behavioral finance",
+      "Risk perception"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Catastrophic Risks Must Be Distinguished From Normal Risks",
+    "type": "risk_concept",
+    "concise_statement": "Inevitable minor failures should not be confused with unacceptable catastrophic risks.",
+    "detailed_explanation": "In probabilistic systems, small losses and occasional failures are unavoidable and often statistically reasonable. The critical distinction is between survivable routine volatility and irreversible catastrophic failure.",
+    "implications": [
+      "Focus risk management on avoiding ruin.",
+      "Normal volatility should be tolerated.",
+      "Systems should absorb frequent small failures.",
+      "Zero-risk expectations create unrealistic standards."
+    ],
+    "related_concepts": [
+      "Tail risk",
+      "Risk management",
+      "Survivability",
+      "Expected volatility"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Stories Outcompete Facts",
+    "type": "mental_model",
+    "concise_statement": "Narratives persuade people more effectively than statistics or rational analysis.",
+    "detailed_explanation": "Humans process information emotionally and socially rather than purely analytically. Stories simplify complexity, evoke emotion, and create memorable mental frameworks, making them more influential than raw data.",
+    "implications": [
+      "Communication quality shapes influence.",
+      "Correct ideas fail when poorly presented.",
+      "Persuasive storytelling can overpower factual accuracy.",
+      "Narrative framing strongly affects decision-making."
+    ],
+    "related_concepts": [
+      "Narrative fallacy",
+      "Behavioral psychology",
+      "Persuasion",
+      "Attention economics"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Attention Determines Influence",
+    "type": "incentive",
+    "concise_statement": "Ideas succeed partly based on their ability to capture attention and emotion.",
+    "detailed_explanation": "In environments overloaded with information, people gravitate toward emotionally engaging narratives rather than analytically rigorous material. Attention is therefore a key competitive advantage.",
+    "implications": [
+      "Communication skills can outweigh technical correctness.",
+      "Emotional resonance amplifies influence.",
+      "Public persuasion depends on memorability.",
+      "Information markets reward engagement over precision."
+    ],
+    "related_concepts": [
+      "Attention economy",
+      "Storytelling",
+      "Behavioral economics",
+      "Media incentives"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Emotional Resonance Creates Historical Impact",
+    "type": "causal_relationship",
+    "concise_statement": "Ideas become historically influential when they emotionally connect with large groups of people.",
+    "detailed_explanation": "Powerful emotional narratives activate imagination, identity, and shared meaning. These factors often determine whether ideas spread widely and shape collective behavior.",
+    "implications": [
+      "Movements require compelling narratives.",
+      "Facts alone rarely create mass action.",
+      "Shared emotional framing accelerates adoption.",
+      "Leadership depends partly on narrative skill."
+    ],
+    "related_concepts": [
+      "Collective psychology",
+      "Narrative persuasion",
+      "Social movements",
+      "Memetics"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Presentation Can Outperform Originality",
+    "type": "paradox",
+    "concise_statement": "Reframing known ideas compellingly can create more impact than discovering entirely new ideas.",
+    "detailed_explanation": "Many influential works succeed not because they contain groundbreaking information, but because they organize, simplify, and communicate existing knowledge more effectively than others.",
+    "implications": [
+      "Communication skill is a force multiplier.",
+      "Packaging affects perceived value.",
+      "Originality alone does not guarantee influence.",
+      "Simplicity and clarity improve adoption."
+    ],
+    "related_concepts": [
+      "Narrative framing",
+      "Communication design",
+      "Persuasion",
+      "Knowledge transmission"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "People Remember Emotionally Charged Fragments",
+    "type": "behavioral_principle",
+    "concise_statement": "Memorable phrases and emotionally vivid moments disproportionately shape long-term recall.",
+    "detailed_explanation": "Human memory prioritizes emotionally resonant, simplified, and vivid information. A single compelling phrase can dominate collective memory more than entire volumes of analysis.",
+    "implications": [
+      "Memorable communication is concise and emotional.",
+      "Symbolic phrases can shape culture and history.",
+      "Emotional intensity improves retention.",
+      "Messaging strategy matters as much as content."
+    ],
+    "related_concepts": [
+      "Availability heuristic",
+      "Memory bias",
+      "Narrative psychology",
+      "Attention dynamics"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Good Storytelling Creates Asymmetric Rewards",
+    "type": "incentive",
+    "concise_statement": "People who combine useful ideas with compelling communication gain disproportionate influence and success.",
+    "detailed_explanation": "A strong narrative amplifies the reach and adoption of ideas. The combination of correctness and persuasive storytelling creates nonlinear social, economic, and cultural rewards.",
+    "implications": [
+      "Technical expertise alone may be insufficient.",
+      "Persuasive framing increases opportunity.",
+      "Influence compounds through communication quality.",
+      "Storytelling is a strategic advantage."
+    ],
+    "related_concepts": [
+      "Compounding influence",
+      "Attention economy",
+      "Persuasion",
+      "Narrative leverage"
+    ],
+    "confidence_score": 0.98
+  }
+]
