@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Human Capability Is Context-Dependent",
+    "type": "behavioral_principle",
+    "concise_statement": "Performance depends not only on physical or technical ability, but on emotional context, incentives, and perceived stakes.",
+    "detailed_explanation": "Humans do not operate like machines with fixed output levels. Motivation, fear, urgency, social pressure, and reward perception alter what people are capable of achieving in any given moment.",
+    "implications": [
+      "Observed performance limits are situational.",
+      "Stress and incentives can unlock hidden capacity.",
+      "Real-world outcomes cannot be fully predicted from laboratory conditions.",
+      "Human systems require psychological analysis alongside technical analysis."
+    ],
+    "related_concepts": [
+      "Behavioral adaptation",
+      "Motivational psychology",
+      "Animal spirits",
+      "Performance theory"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Economies and Markets Are Emotional Systems",
+    "type": "mental_model",
+    "concise_statement": "Financial systems are driven as much by emotions and narratives as by measurable fundamentals.",
+    "detailed_explanation": "Market valuations reflect collective hopes, fears, beliefs, and stories about the future. Numerical fundamentals matter, but investor psychology often dominates short- and medium-term outcomes.",
+    "implications": [
+      "Markets cannot be understood through spreadsheets alone.",
+      "Investor sentiment materially affects valuations.",
+      "Narratives can overpower fundamentals temporarily or for long periods.",
+      "Forecasting requires psychological interpretation."
+    ],
+    "related_concepts": [
+      "Behavioral finance",
+      "Narrative economics",
+      "Animal spirits",
+      "Reflexivity"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Faith and Belief Are Economic Variables",
+    "type": "causal_relationship",
+    "concise_statement": "Confidence and belief can determine economic outcomes even when objective fundamentals remain unchanged.",
+    "detailed_explanation": "Financial systems often depend on collective trust. A sudden loss or gain of belief can radically alter outcomes independent of measurable fundamentals, because participation itself depends on confidence.",
+    "implications": [
+      "Liquidity and funding depend partly on psychology.",
+      "Confidence crises can emerge rapidly.",
+      "Trust is an invisible but critical economic input.",
+      "Sentiment shifts can overwhelm fundamentals."
+    ],
+    "related_concepts": [
+      "Bank runs",
+      "Reflexivity",
+      "Market psychology",
+      "Systemic risk"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Economic Value Is Subjective",
+    "type": "mental_model",
+    "concise_statement": "Value exists because people desire something, regardless of whether the desire appears rational.",
+    "detailed_explanation": "Markets reflect subjective human preferences rather than objective utility alone. Emotional attachment, social identity, speculation, and cultural narratives can all generate economic value.",
+    "implications": [
+      "Markets are inherently psychological.",
+      "Perceived irrationality can still produce real prices.",
+      "Understanding demand requires understanding human behavior.",
+      "Valuation depends partly on collective belief systems."
+    ],
+    "related_concepts": [
+      "Subjective value theory",
+      "Behavioral economics",
+      "Market psychology",
+      "Narrative valuation"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Overconfidence in Models Creates Fragility",
+    "type": "risk_concept",
+    "concise_statement": "Rigid reliance on quantitative models increases vulnerability to unpredictable human behavior.",
+    "detailed_explanation": "Models simplify reality and often exclude emotional, irrational, or social variables. Excessive trust in models creates blind spots that become dangerous during unusual or emotionally charged conditions.",
+    "implications": [
+      "Risk management should include uncertainty buffers.",
+      "Models should be treated as approximations, not truth.",
+      "Qualitative judgment remains essential.",
+      "Unexpected outcomes are structurally unavoidable."
+    ],
+    "related_concepts": [
+      "Model risk",
+      "Black swans",
+      "Behavioral uncertainty",
+      "Complex systems"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Reality Often Diverges From Rational Expectations",
+    "type": "paradox",
+    "concise_statement": "Human systems frequently behave irrationally while still producing persistent recurring patterns.",
+    "detailed_explanation": "People act emotionally, socially, and impulsively in ways that violate rational models. Yet these irrational behaviors repeat consistently enough to become enduring system characteristics.",
+    "implications": [
+      "Irrationality is a normal market feature.",
+      "Pure logic is insufficient for forecasting.",
+      "Emotional dynamics create recurring cycles.",
+      "Unexpected behavior should be expected."
+    ],
+    "related_concepts": [
+      "Behavioral economics",
+      "Complex systems",
+      "Reflexivity",
+      "Cognitive bias"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Different Incentives Create Different Rationalities",
+    "type": "behavioral_principle",
+    "concise_statement": "What appears irrational from one perspective may be perfectly rational given another person's incentives and time horizon.",
+    "detailed_explanation": "Individuals and institutions operate under different goals, constraints, incentives, and survival pressures. Actions that seem foolish externally may align logically with internal incentives.",
+    "implications": [
+      "Understanding incentives improves prediction.",
+      "Behavior must be interpreted contextually.",
+      "Conflicts often arise from mismatched time horizons.",
+      "There is rarely a universally rational decision."
+    ],
+    "related_concepts": [
+      "Incentive structures",
+      "Game theory",
+      "Behavioral economics",
+      "Agency problems"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Financial Bubbles Are Incentive-Driven",
+    "type": "causal_relationship",
+    "concise_statement": "People sustain bubbles because participating is highly rewarding while the boom lasts.",
+    "detailed_explanation": "Economic bubbles persist because participants profit socially, psychologically, and financially from continuing the cycle. Incentives distort judgment and encourage self-delusion.",
+    "implications": [
+      "Booms persist longer than logic suggests.",
+      "Participants may believe narratives they financially benefit from.",
+      "Incentives can overpower skepticism.",
+      "Bubble dynamics are socially reinforced."
+    ],
+    "related_concepts": [
+      "Moral hazard",
+      "Behavioral finance",
+      "Reflexivity",
+      "Speculative bubbles"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Stories Overpower Statistics During Emotional Periods",
+    "type": "psychological_bias",
+    "concise_statement": "Emotionally vivid narratives dominate abstract statistical reasoning.",
+    "detailed_explanation": "Humans are more persuaded by relatable stories and visible examples than by statistical probabilities. Emotional salience overwhelms analytical abstraction during decision-making.",
+    "implications": [
+      "Narratives can fuel bubbles and panics.",
+      "Statistical warnings may be ignored during booms.",
+      "Personal anecdotes influence decisions disproportionately.",
+      "Communication framing shapes collective behavior."
+    ],
+    "related_concepts": [
+      "Availability heuristic",
+      "Narrative bias",
+      "Behavioral finance",
+      "Storytelling"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Greed and Fear Move in Cycles",
+    "type": "compounding_principle",
+    "concise_statement": "Human psychology oscillates predictably between excessive optimism and excessive pessimism.",
+    "detailed_explanation": "Periods of success encourage complacency and overconfidence, while periods of crisis generate fear and despair. Each emotional extreme plants the conditions for its opposite.",
+    "implications": [
+      "Market cycles are psychologically driven.",
+      "Emotional extremes create future reversals.",
+      "Crowd behavior amplifies cyclical instability.",
+      "Contrarian thinking becomes valuable at extremes."
+    ],
+    "related_concepts": [
+      "Market cycles",
+      "Reflexivity",
+      "Behavioral finance",
+      "Mean reversion"
+    ],
+    "confidence_score": 0.99
+  }
+]
