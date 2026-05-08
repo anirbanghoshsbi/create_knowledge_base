@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Markets Discover Limits Through Overshooting",
+    "type": "mental_model",
+    "concise_statement": "The only way markets discover valuation boundaries is by pushing beyond sustainable extremes.",
+    "detailed_explanation": "Financial markets repeatedly move past rational valuation levels because participants constantly test how far optimism or pessimism can extend. Limits are only visible in hindsight after excess collapses.",
+    "implications": [
+      "Bubbles are structurally unavoidable.",
+      "Extreme valuations are part of price discovery.",
+      "Market tops cannot be identified precisely in advance.",
+      "Human psychology naturally pushes systems beyond equilibrium."
+    ],
+    "related_concepts": [
+      "Reflexivity",
+      "Behavioral finance",
+      "Speculative bubbles",
+      "Market cycles"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Crazy Does Not Mean Broken",
+    "type": "behavioral_principle",
+    "concise_statement": "Extreme market behavior is a recurring feature of human systems, not evidence that markets have stopped functioning.",
+    "detailed_explanation": "Periods of irrational optimism, panic, speculation, and narrative-driven pricing appear repeatedly throughout history. These behaviors are normal consequences of collective human psychology.",
+    "implications": [
+      "Do not expect markets to remain permanently rational.",
+      "Volatility and speculation are enduring system features.",
+      "Historical perspective reduces emotional overreaction.",
+      "Investor psychology is inseparable from markets."
+    ],
+    "related_concepts": [
+      "Behavioral finance",
+      "Market psychology",
+      "Speculative excess",
+      "Historical cycles"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Enough Is a Strategic Advantage",
+    "type": "survival_principle",
+    "concise_statement": "Knowing when sufficient success has been achieved prevents destructive overreach.",
+    "detailed_explanation": "Many catastrophic failures emerge from pushing beyond already satisfactory outcomes in pursuit of marginal gains. Accepting 'enough' preserves resilience and reduces exposure to ruin.",
+    "implications": [
+      "Long-term compounding benefits from restraint.",
+      "Greed increases fragility.",
+      "Sustainable success often requires limiting ambition.",
+      "Avoiding ruin matters more than maximizing upside."
+    ],
+    "related_concepts": [
+      "Margin of safety",
+      "Compounding",
+      "Risk management",
+      "Behavioral discipline"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Most Systems Have Natural Scaling Limits",
+    "type": "mental_model",
+    "concise_statement": "Processes and systems often break when pushed beyond their optimal size or speed.",
+    "detailed_explanation": "Growth changes structural dynamics. Systems optimized for one scale may become unstable, inefficient, or fragile when expanded too rapidly or excessively.",
+    "implications": [
+      "Growth introduces nonlinear risks.",
+      "Scaling requires structural adaptation.",
+      "Optimization at one size may fail at another.",
+      "Expansion should respect system constraints."
+    ],
+    "related_concepts": [
+      "Complex systems",
+      "Scaling laws",
+      "Fragility",
+      "Nonlinear effects"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Good Ideas Become Dangerous When Forced Too Fast",
+    "type": "risk_concept",
+    "concise_statement": "Accelerating a successful process beyond its natural pace often destroys the original advantage.",
+    "detailed_explanation": "Attempts to maximize speed, scale, or output frequently create quality deterioration, hidden fragility, and operational breakdown because systems require time for adaptation and stability.",
+    "implications": [
+      "Rapid growth can undermine sustainability.",
+      "Patience is a structural advantage.",
+      "Forced acceleration increases hidden risks.",
+      "Natural pacing preserves long-term performance."
+    ],
+    "related_concepts": [
+      "Overoptimization",
+      "Scaling risk",
+      "Organizational fragility",
+      "Compounding"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Long-Term Investing Has a Natural Time Horizon",
+    "type": "decision_rule",
+    "concise_statement": "Investing rewards patience disproportionately and punishes attempts to compress returns into short periods.",
+    "detailed_explanation": "Markets contain significant short-term randomness but strong long-term upward tendencies. Attempting to accelerate wealth creation increases dependence on luck and exposure to ruin.",
+    "implications": [
+      "Long horizons reduce randomness.",
+      "Short-term speculation increases fragility.",
+      "Compounding requires time more than precision.",
+      "Patience is an investing edge."
+    ],
+    "related_concepts": [
+      "Compounding",
+      "Risk management",
+      "Time horizon",
+      "Behavioral finance"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Compression of Time Increases Risk",
+    "type": "causal_relationship",
+    "concise_statement": "The faster people try to achieve outcomes, the more they rely on leverage, luck, and fragility.",
+    "detailed_explanation": "Compressing natural processes forces systems into unstable states by increasing stress, reducing recovery capacity, and amplifying exposure to randomness.",
+    "implications": [
+      "Impatience magnifies downside risk.",
+      "Fast gains often require unsustainable methods.",
+      "Leverage is frequently a symptom of time compression.",
+      "Sustainable growth respects temporal constraints."
+    ],
+    "related_concepts": [
+      "Leverage",
+      "Fragility",
+      "Compounding",
+      "Risk asymmetry"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Growth Incentives Can Corrupt Quality",
+    "type": "incentive",
+    "concise_statement": "Pressure for continuous expansion often causes organizations to sacrifice the qualities that made them successful.",
+    "detailed_explanation": "Organizations pursuing aggressive growth targets may prioritize scale over experience, quality, or sustainability. Expansion incentives can gradually dilute core strengths.",
+    "implications": [
+      "Growth metrics can distort decision-making.",
+      "Scaling may reduce authenticity or quality.",
+      "Incentive structures shape organizational decline.",
+      "Sustainable businesses balance expansion with preservation."
+    ],
+    "related_concepts": [
+      "Goodhart’s Law",
+      "Organizational drift",
+      "Scaling risk",
+      "Incentive misalignment"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Human Desire Constantly Tests Boundaries",
+    "type": "behavioral_principle",
+    "concise_statement": "People repeatedly push systems past reasonable limits because the possibility of more reward always attracts experimentation.",
+    "detailed_explanation": "The pursuit of wealth, status, or advantage motivates humans to continually test how far opportunities can extend, even when risks rise sharply.",
+    "implications": [
+      "Speculative excess is structurally recurring.",
+      "Boundaries are discovered experimentally, not theoretically.",
+      "Greed amplifies systemic volatility.",
+      "Extreme outcomes are unavoidable in competitive systems."
+    ],
+    "related_concepts": [
+      "Speculation",
+      "Behavioral finance",
+      "Risk-taking",
+      "Market cycles"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Optimization Beyond Balance Creates Fragility",
+    "type": "paradox",
+    "concise_statement": "Pursuing maximum performance often reduces overall system durability.",
+    "detailed_explanation": "Systems optimized aggressively for speed, efficiency, or growth lose redundancy and resilience. What appears strongest during favorable conditions becomes most vulnerable during stress.",
+    "implications": [
+      "Efficiency and resilience often conflict.",
+      "Redundancy is strategically valuable.",
+      "Balanced systems outperform overoptimized systems long term.",
+      "Excessive optimization magnifies collapse risk."
+    ],
+    "related_concepts": [
+      "Antifragility",
+      "System fragility",
+      "Risk management",
+      "Complex systems"
+    ],
+    "confidence_score": 0.99
+  }
+]
