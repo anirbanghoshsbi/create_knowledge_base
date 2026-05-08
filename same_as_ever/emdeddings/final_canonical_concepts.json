@@ -1,0 +1,199 @@
+{
+  "meta_frameworks": [
+    {
+      "framework_id": "MF_001",
+      "name": "UNCERTAINTY",
+      "description": "Limits of prediction, randomness, probabilistic reality, and unknown outcomes."
+    },
+    {
+      "framework_id": "MF_002",
+      "name": "FRAGILITY",
+      "description": "Sensitivity of systems to volatility, disorder, leverage, and cascading failures."
+    },
+    {
+      "framework_id": "MF_003",
+      "name": "COMPOUNDING",
+      "description": "Long-term accumulation processes driven by survival, time, and incremental change."
+    },
+    {
+      "framework_id": "MF_004",
+      "name": "EXPECTATIONS",
+      "description": "Reference dependence, satisfaction dynamics, envy, and emotional comparison."
+    },
+    {
+      "framework_id": "MF_005",
+      "name": "NARRATIVES",
+      "description": "Stories, emotional persuasion, collective attention, and cognitive compression."
+    },
+    {
+      "framework_id": "MF_006",
+      "name": "INCENTIVES",
+      "description": "Behavioral adaptation driven by rewards, constraints, fear, and scarcity."
+    },
+    {
+      "framework_id": "MF_007",
+      "name": "SURVIVAL",
+      "description": "Robustness, resilience, margins of safety, and avoiding ruin."
+    }
+  ],
+  "canonical_nodes": [
+    {
+      "canonical_id": "RC_001",
+      "status": "merged",
+      "canonical_title": "Probabilistic Reality Dominates Outcomes",
+      "meta_framework": "UNCERTAINTY",
+      "core_principle": "Rare events, randomness, and probabilistic processes shape outcomes more strongly than humans intuitively recognize.",
+      "mechanism": "Tail events and random variation dominate long-term systems when enough scale and time exist.",
+      "reasoning_value": "forecasting,risk_management,decision_making",
+      "merged_nodes": [
+        "Randomness Dominates Outcomes",
+        "Luck Dominates More Than People Admit",
+        "Rare Events Dominate History",
+        "Rare Events Become Inevitable at Scale",
+        "One-Hundred-Year Events Are Constantly Possible"
+      ]
+    },
+    {
+      "canonical_id": "RC_002",
+      "status": "merged",
+      "canonical_title": "Fragility Accumulates Beneath Apparent Stability",
+      "meta_framework": "FRAGILITY",
+      "core_principle": "Systems often appear stable while hidden vulnerabilities silently compound until triggered by stress.",
+      "mechanism": "Periods of calm encourage leverage, complacency, and latent risk accumulation.",
+      "reasoning_value": "risk_management,system_design,macro_analysis",
+      "merged_nodes": [
+        "The World Is Fragile",
+        "Visible Stability Often Masks Hidden Fragility",
+        "Risk Compounds Invisibly",
+        "Calm Plants the Seeds of Crisis",
+        "Stability Creates Instability"
+      ]
+    },
+    {
+      "canonical_id": "RC_003",
+      "status": "merged",
+      "canonical_title": "Emotional Satisfaction Depends on Expectation Gaps",
+      "meta_framework": "EXPECTATIONS",
+      "core_principle": "Humans evaluate outcomes relative to expectations rather than absolute conditions.",
+      "mechanism": "Reference dependence and adaptation change emotional perception faster than material conditions.",
+      "reasoning_value": "psychology,behavioral_analysis,consumer_behavior",
+      "merged_nodes": [
+        "Happiness Depends on Expectations",
+        "Happiness Depends on the Gap Between Expectations and Reality",
+        "Happiness Is a Function of Expectations and Reality",
+        "Expectation Asymmetry Shapes Emotional Outcomes",
+        "People Seek Positive Expectation Gaps"
+      ]
+    },
+    {
+      "canonical_id": "RC_004",
+      "status": "merged",
+      "canonical_title": "Narratives Compress Complexity and Amplify Persuasion",
+      "meta_framework": "NARRATIVES",
+      "core_principle": "Stories outperform raw facts because they emotionally compress complexity into intuitive and memorable forms.",
+      "mechanism": "Humans process emotionally coherent narratives more efficiently than abstract information.",
+      "reasoning_value": "media_analysis,marketing,politics,communication",
+      "merged_nodes": [
+        "Stories Outcompete Facts",
+        "People Prefer Stories Over Raw Information",
+        "Storytelling Converts Complexity Into Intuition",
+        "Presentation Often Determines Perceived Truth",
+        "Narrative Packaging Multiplies Impact"
+      ]
+    },
+    {
+      "canonical_id": "RC_005",
+      "status": "keep",
+      "canonical_title": "Overconfidence in Models Creates Fragility",
+      "meta_framework": "FRAGILITY",
+      "core_principle": "Rigid reliance on models increases vulnerability when reality diverges from assumptions.",
+      "mechanism": "Model simplification hides uncertainty and encourages excessive optimization.",
+      "reasoning_value": "forecasting,risk_management,system_design"
+    },
+    {
+      "canonical_id": "RC_006",
+      "status": "keep",
+      "canonical_title": "Optimization Beyond Balance Creates Fragility",
+      "meta_framework": "FRAGILITY",
+      "core_principle": "Systems optimized excessively for efficiency lose resilience and adaptability.",
+      "mechanism": "Buffers, slack, and redundancy are removed during optimization.",
+      "reasoning_value": "engineering,portfolio_management,business_strategy"
+    },
+    {
+      "canonical_id": "RC_007",
+      "status": "keep",
+      "canonical_title": "Compounding Requires Survival Across Time",
+      "meta_framework": "COMPOUNDING",
+      "core_principle": "Long-term compounding only works when catastrophic loss is avoided.",
+      "mechanism": "Time amplifies incremental gains but also amplifies ruin if survival fails.",
+      "reasoning_value": "investing,risk_management,life_strategy"
+    },
+    {
+      "canonical_id": "RC_008",
+      "status": "keep",
+      "canonical_title": "Humans Crave Certainty More Than Accuracy",
+      "meta_framework": "UNCERTAINTY",
+      "core_principle": "People prefer emotionally comforting explanations over probabilistically accurate uncertainty.",
+      "mechanism": "Psychological discomfort drives premature closure and overconfident narratives.",
+      "reasoning_value": "forecasting,media_analysis,behavioral_finance"
+    },
+    {
+      "canonical_id": "RC_009",
+      "status": "keep",
+      "canonical_title": "Narratives Coordinate Collective Attention",
+      "meta_framework": "NARRATIVES",
+      "core_principle": "Shared stories synchronize emotional focus and large-scale social behavior.",
+      "mechanism": "Common narratives align expectations and influence collective decision-making.",
+      "reasoning_value": "markets,politics,social_dynamics"
+    },
+    {
+      "canonical_id": "RC_010",
+      "status": "keep",
+      "canonical_title": "Human Desire Expands Faster Than Satisfaction",
+      "meta_framework": "EXPECTATIONS",
+      "core_principle": "Desire scales upward continuously, preventing stable satisfaction from material progress alone.",
+      "mechanism": "Adaptation resets psychological baselines after improvement.",
+      "reasoning_value": "consumer_behavior,wealth_psychology,lifestyle_design"
+    }
+  ],
+  "final_replacements_applied": [
+    {
+      "removed_node": "Good News Compounds Slowly",
+      "final_node": "Positive Change Is Usually Incremental and Low-Visibility"
+    },
+    {
+      "removed_node": "Perspective Shapes Satisfaction",
+      "final_node": "Humans Evaluate Conditions Relative to Reference Points"
+    },
+    {
+      "removed_node": "Complex Systems Produce Unpredictable Outcomes",
+      "final_node": "Nonlinear Interactions Limit Predictability"
+    },
+    {
+      "removed_node": "The World Always Contains Ongoing Chaos",
+      "final_node": "Historical Stability Often Masks Persistent Disorder"
+    }
+  ],
+  "ontology_distinctions": [
+    {
+      "concept_a": "Uncertainty",
+      "concept_b": "Risk",
+      "distinction": "Uncertainty refers to incomplete predictability. Risk refers to exposure to uncertain outcomes."
+    },
+    {
+      "concept_a": "Risk",
+      "concept_b": "Fragility",
+      "distinction": "Risk is probabilistic exposure. Fragility is sensitivity to volatility and disorder."
+    },
+    {
+      "concept_a": "Narratives",
+      "concept_b": "Psychology",
+      "distinction": "Psychology shapes individual interpretation while narratives coordinate collective interpretation."
+    },
+    {
+      "concept_a": "Incentives",
+      "concept_b": "Beliefs",
+      "distinction": "Incentives shape behavior externally while beliefs shape interpretation internally."
+    }
+  ]
+}
