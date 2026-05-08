@@ -1,0 +1,3960 @@
+[
+  {
+    "title": "History Is Path Dependent",
+    "type": "mental model",
+    "concise_statement": "Small random events can create massive long-term consequences through cascading effects.",
+    "detailed_explanation": "Complex systems are highly sensitive to initial conditions. Minor decisions, accidents, or chance encounters can alter the trajectory of individuals, economies, markets, and societies in irreversible ways. Outcomes often appear inevitable in hindsight even though they were contingent on fragile chains of events.",
+    "implications": [
+      "Avoid overestimating predictability.",
+      "Respect randomness in success and failure.",
+      "Long-term forecasting has structural limits.",
+      "Systems should be designed with resilience against unexpected shocks."
+    ],
+    "related_concepts": [
+      "Chaos theory",
+      "Path dependence",
+      "Second-order effects",
+      "Black swan events"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00001",
+    "source_file": "part02.json"
+  },
+  {
+    "title": "The World Is Fragile",
+    "type": "risk concept",
+    "concise_statement": "Many important systems appear stable until a hidden vulnerability suddenly breaks them.",
+    "detailed_explanation": "Systems often function normally while accumulating invisible fragilities beneath the surface. A small trigger can activate these vulnerabilities and cause disproportionate collapse or disruption. Stability is frequently an illusion created by the absence of stress.",
+    "implications": [
+      "Do not assume past stability guarantees future safety.",
+      "Monitor hidden structural weaknesses.",
+      "Build redundancy and buffers.",
+      "Rare failures can dominate long-term outcomes."
+    ],
+    "related_concepts": [
+      "Fragility",
+      "Systemic risk",
+      "Tail risk",
+      "Anti-fragility"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00002",
+    "source_file": "part02.json"
+  },
+  {
+    "title": "Randomness Dominates Outcomes",
+    "type": "causal relationship",
+    "concise_statement": "Chance events influence outcomes far more than people intuitively recognize.",
+    "detailed_explanation": "People prefer explanations based on skill, planning, or intent, but many major outcomes result from unpredictable randomness. Human psychology systematically underestimates luck because coherent narratives feel more satisfying than uncertainty.",
+    "implications": [
+      "Separate skill from luck cautiously.",
+      "Avoid excessive self-attribution after success.",
+      "Use probabilistic rather than deterministic thinking.",
+      "Judge processes more than outcomes."
+    ],
+    "related_concepts": [
+      "Luck",
+      "Outcome bias",
+      "Survivorship bias",
+      "Probabilistic thinking"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00003",
+    "source_file": "part02.json"
+  },
+  {
+    "title": "Survival Often Depends on Tiny Decisions",
+    "type": "survival principle",
+    "concise_statement": "Minor decisions made casually can determine life-altering outcomes.",
+    "detailed_explanation": "In complex environments, seemingly trivial actions may interact with hidden risks to create irreversible consequences. Humans underestimate how sensitive systems can be to small behavioral changes.",
+    "implications": [
+      "Exercise caution in high-risk environments.",
+      "Small safety rules matter disproportionately.",
+      "Avoid normalization of deviance.",
+      "Risk management should focus on preventing irreversible mistakes."
+    ],
+    "related_concepts": [
+      "Butterfly effect",
+      "Risk management",
+      "Normalization of deviance"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00004",
+    "source_file": "part02.json"
+  },
+  {
+    "title": "Humans Learn the Wrong Lessons From Stability",
+    "type": "psychological bias",
+    "concise_statement": "Repeated survival without consequences encourages underestimation of risk.",
+    "detailed_explanation": "When risky behavior does not immediately produce negative outcomes, people infer that the behavior is safe. This creates complacency and progressively increases exposure to hidden dangers until catastrophe occurs.",
+    "implications": [
+      "Past success can reinforce dangerous habits.",
+      "Absence of failure is not proof of safety.",
+      "Repeated exposure can normalize extreme risk."
+    ],
+    "related_concepts": [
+      "Complacency bias",
+      "Normalization of deviance",
+      "Risk habituation"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00005",
+    "source_file": "part02.json"
+  },
+  {
+    "title": "Hindsight Creates False Certainty",
+    "type": "psychological bias",
+    "concise_statement": "After events occur, humans exaggerate how predictable they were.",
+    "detailed_explanation": "Once outcomes become known, people reconstruct narratives that make events appear inevitable. This masks the true uncertainty present before the event and leads to overconfidence in future forecasting ability.",
+    "implications": [
+      "Study decision quality independently from outcomes.",
+      "Document assumptions before making decisions.",
+      "Treat historical explanations skeptically."
+    ],
+    "related_concepts": [
+      "Hindsight bias",
+      "Narrative fallacy",
+      "Overconfidence"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00006",
+    "source_file": "part02.json"
+  },
+  {
+    "title": "Rare Events Dominate History",
+    "type": "mental model",
+    "concise_statement": "A small number of infrequent events often determine most long-term outcomes.",
+    "detailed_explanation": "Most days are uneventful, but occasional extreme events disproportionately shape history, wealth, careers, and societies. Human intuition struggles with this because people expect outcomes to emerge from average conditions rather than extremes.",
+    "implications": [
+      "Prepare for extreme scenarios.",
+      "Tail events matter more than averages.",
+      "Long-term planning requires resilience to shocks."
+    ],
+    "related_concepts": [
+      "Power laws",
+      "Fat tails",
+      "Black swans"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00007",
+    "source_file": "part02.json"
+  },
+  {
+    "title": "Parallel Universe Thinking",
+    "type": "decision rule",
+    "concise_statement": "A robust strategy should work across many possible versions of the future, not just favorable ones.",
+    "detailed_explanation": "Good decisions are those that succeed reliably under different conditions rather than relying on luck or a narrow set of circumstances. Robustness matters more than maximizing outcomes in ideal scenarios.",
+    "implications": [
+      "Prefer durable systems over optimized fragile systems.",
+      "Evaluate strategies across multiple possible environments.",
+      "Avoid dependence on single-point assumptions."
+    ],
+    "related_concepts": [
+      "Robustness",
+      "Margin of safety",
+      "Risk-adjusted thinking"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00008",
+    "source_file": "part02.json"
+  },
+  {
+    "title": "Complex Systems Produce Unpredictable Outcomes",
+    "type": "mental model",
+    "concise_statement": "In highly interconnected systems, outcomes emerge from nonlinear interactions that cannot be fully predicted.",
+    "detailed_explanation": "Complex systems contain feedback loops, hidden dependencies, and interacting variables that create emergent behavior. Small changes can create disproportionate results, making precise forecasting unreliable.",
+    "implications": [
+      "Use humility in forecasting.",
+      "Favor adaptability over prediction.",
+      "Expect unintended consequences."
+    ],
+    "related_concepts": [
+      "Complexity theory",
+      "Emergence",
+      "Nonlinearity"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00009",
+    "source_file": "part02.json"
+  },
+  {
+    "title": "Risk Compounds Invisibly",
+    "type": "compounding principle",
+    "concise_statement": "Small unmanaged risks can accumulate silently until they trigger catastrophic outcomes.",
+    "detailed_explanation": "Risk accumulation is often gradual and difficult to observe in real time. Because systems appear stable during buildup phases, people underestimate how much vulnerability has compounded beneath the surface.",
+    "implications": [
+      "Continuously reduce hidden vulnerabilities.",
+      "Small recurring risks deserve attention.",
+      "Long periods without failure can hide growing danger."
+    ],
+    "related_concepts": [
+      "Compounding",
+      "Systemic fragility",
+      "Latent risk"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00010",
+    "source_file": "part02.json"
+  },
+  {
+    "title": "History Is Path-Dependent",
+    "type": "causal_relationship",
+    "concise_statement": "Major outcomes often emerge from tiny, random initial conditions that compound over time.",
+    "detailed_explanation": "Large historical and financial outcomes are frequently driven by seemingly insignificant events that create cascading second- and third-order effects. Small deviations in starting conditions can alter entire systems because events compound nonlinearly over time. This makes deterministic explanations of history incomplete and overconfident.",
+    "implications": [
+      "Avoid overconfidence in forecasting.",
+      "Recognize that randomness shapes outcomes more than skill or planning alone.",
+      "Stress-test systems against unlikely but impactful events.",
+      "Focus on resilience rather than precise prediction."
+    ],
+    "related_concepts": [
+      "Path dependence",
+      "Chaos theory",
+      "Compounding",
+      "Second-order effects",
+      "Black swans"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00011",
+    "source_file": "part03.json"
+  },
+  {
+    "title": "Luck Dominates More Than People Admit",
+    "type": "behavioral_principle",
+    "concise_statement": "Critical life and financial outcomes are often determined by random events rather than deliberate decisions.",
+    "detailed_explanation": "People tend to attribute success or failure to skill, planning, or intelligence, but many consequential outcomes are shaped by uncontrollable randomness. Survivorship bias causes people to create rational explanations for outcomes that were heavily influenced by luck.",
+    "implications": [
+      "Remain humble about success.",
+      "Do not overfit lessons from individual outcomes.",
+      "Build safety margins because randomness cannot be controlled.",
+      "Judge decisions by process quality, not short-term outcomes."
+    ],
+    "related_concepts": [
+      "Survivorship bias",
+      "Outcome bias",
+      "Risk management",
+      "Humility"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00012",
+    "source_file": "part03.json"
+  },
+  {
+    "title": "Events Compound Like Money",
+    "type": "compounding_principle",
+    "concise_statement": "Small events can grow into disproportionately large consequences through compounding interactions.",
+    "detailed_explanation": "Just as money compounds exponentially, historical and behavioral events accumulate effects over time. Initial causes create chains of reactions that interact with other systems, producing outcomes far larger than their origins would suggest.",
+    "implications": [
+      "Small risks should not be dismissed.",
+      "Tiny behavioral advantages can create massive long-term differences.",
+      "Early interventions matter disproportionately.",
+      "Second-order and third-order consequences deserve attention."
+    ],
+    "related_concepts": [
+      "Exponential growth",
+      "Network effects",
+      "Feedback loops",
+      "Systems thinking"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00013",
+    "source_file": "part03.json"
+  },
+  {
+    "title": "Forecasting Fails Because Systems React",
+    "type": "mental_model",
+    "concise_statement": "Predictions fail because systems adapt dynamically after events occur.",
+    "detailed_explanation": "Simple linear forecasts ignore adaptive human responses. Every event triggers behavioral, political, economic, and technological reactions that alter the original trajectory. These feedback loops make long-term prediction extremely unreliable.",
+    "implications": [
+      "Avoid simplistic cause-and-effect assumptions.",
+      "Incorporate feedback loops into models.",
+      "Expect human adaptation to invalidate static forecasts.",
+      "Use scenario analysis instead of single-point predictions."
+    ],
+    "related_concepts": [
+      "Reflexivity",
+      "Adaptive systems",
+      "Complexity theory",
+      "Second-order thinking"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00014",
+    "source_file": "part03.json"
+  },
+  {
+    "title": "Human Behavior Is More Predictable Than Events",
+    "type": "decision_rule",
+    "concise_statement": "Predict recurring human behaviors instead of specific future events.",
+    "detailed_explanation": "Specific events are inherently unpredictable because they depend on countless interacting variables. However, core human behaviors such as greed, fear, tribalism, risk-seeking, and social influence remain relatively stable across generations. Anchoring forecasts on behavioral tendencies is more reliable than forecasting precise events.",
+    "implications": [
+      "Base investment frameworks on behavioral constants.",
+      "Expect cycles of fear and greed to repeat.",
+      "Focus on incentives and psychology over headlines.",
+      "Design systems robust to unpredictable events."
+    ],
+    "related_concepts": [
+      "Behavioral finance",
+      "Human nature",
+      "Market psychology",
+      "Incentives"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00015",
+    "source_file": "part03.json"
+  },
+  {
+    "title": "The Biggest Risks Are Invisible",
+    "type": "risk_concept",
+    "concise_statement": "The most damaging risks are the ones no one anticipates.",
+    "detailed_explanation": "Visible and expected risks are usually mitigated because people prepare for them. Hidden or unimaginable risks create the greatest damage because systems lack defenses against them. Unexpected shocks are amplified by collective unpreparedness.",
+    "implications": [
+      "Maintain redundancy and cash reserves.",
+      "Avoid maximizing efficiency at the expense of resilience.",
+      "Diversify against unknown unknowns.",
+      "Prepare for tail risks even if probabilities seem low."
+    ],
+    "related_concepts": [
+      "Black swan events",
+      "Tail risk",
+      "Antifragility",
+      "Risk asymmetry"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00016",
+    "source_file": "part03.json"
+  },
+  {
+    "title": "Historical Explanations Create Illusions of Predictability",
+    "type": "psychological_bias",
+    "concise_statement": "People create clean narratives for messy historical outcomes, falsely increasing confidence in prediction.",
+    "detailed_explanation": "After events occur, humans construct coherent causal stories that make outcomes appear inevitable. This hindsight bias masks the randomness and uncertainty present before the event occurred, leading people to overestimate their predictive ability.",
+    "implications": [
+      "Treat retrospective explanations cautiously.",
+      "Do not confuse explanation with predictability.",
+      "Maintain probabilistic thinking.",
+      "Use humility when interpreting market history."
+    ],
+    "related_concepts": [
+      "Hindsight bias",
+      "Narrative fallacy",
+      "Outcome bias",
+      "Overconfidence"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00017",
+    "source_file": "part03.json"
+  },
+  {
+    "title": "Complex Systems Have Infinite Causal Chains",
+    "type": "mental_model",
+    "concise_statement": "Every major event emerges from deep interconnected causal chains extending far into the past.",
+    "detailed_explanation": "Economic, political, and financial outcomes are products of interconnected historical layers. Attempting to isolate single causes oversimplifies reality because each event has multiple upstream dependencies and interacting variables.",
+    "implications": [
+      "Use systems thinking instead of linear analysis.",
+      "Expect unintended consequences.",
+      "Avoid monocausal explanations for crises.",
+      "Study structural incentives and long-term conditions."
+    ],
+    "related_concepts": [
+      "Systems theory",
+      "Complex adaptive systems",
+      "Causal networks",
+      "Emergence"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00018",
+    "source_file": "part03.json"
+  },
+  {
+    "title": "Survival Requires Respect for Uncertainty",
+    "type": "survival_principle",
+    "concise_statement": "Long-term survival depends on acknowledging uncertainty and maintaining resilience.",
+    "detailed_explanation": "Because unpredictable events dominate long-term outcomes, survival-oriented systems prioritize robustness over optimization. Overleveraged or fragile systems fail when unexpected shocks occur.",
+    "implications": [
+      "Keep margins of safety.",
+      "Avoid excessive leverage.",
+      "Prioritize durability over short-term gains.",
+      "Accept that uncertainty can never be eliminated."
+    ],
+    "related_concepts": [
+      "Margin of safety",
+      "Risk management",
+      "Antifragility",
+      "Robustness"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00019",
+    "source_file": "part03.json"
+  },
+  {
+    "title": "Risk Is What You Cannot Anticipate",
+    "type": "risk_concept",
+    "concise_statement": "The most dangerous risks are the ones outside your imagination and planning framework.",
+    "detailed_explanation": "Known risks are usually mitigated because people prepare for them. True danger emerges from unforeseen events that bypass existing defenses and assumptions. Even highly sophisticated systems with exhaustive planning remain vulnerable to small, unanticipated failures.",
+    "implications": [
+      "Always maintain margins of safety.",
+      "Do not assume preparedness equals invulnerability.",
+      "Build systems resilient to unknown shocks.",
+      "Avoid excessive optimization that reduces flexibility."
+    ],
+    "related_concepts": [
+      "Black swan events",
+      "Tail risk",
+      "Unknown unknowns",
+      "Antifragility",
+      "Robustness"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00020",
+    "source_file": "part04.json"
+  },
+  {
+    "title": "Planning Cannot Eliminate Residual Risk",
+    "type": "mental_model",
+    "concise_statement": "No amount of planning removes all risk because reality always contains hidden variables.",
+    "detailed_explanation": "Complex systems fail not because people ignore obvious risks, but because there are always variables outside the planning model. Residual risk remains after every known contingency has been addressed.",
+    "implications": [
+      "Do not confuse preparation with certainty.",
+      "Retain optionality and adaptability.",
+      "Expect failures even in well-designed systems.",
+      "Incorporate recovery mechanisms instead of relying solely on prevention."
+    ],
+    "related_concepts": [
+      "Complex systems",
+      "Redundancy",
+      "Risk management",
+      "System fragility"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00021",
+    "source_file": "part04.json"
+  },
+  {
+    "title": "Hindsight Creates False Inevitability",
+    "type": "psychological_bias",
+    "concise_statement": "After major events occur, people incorrectly perceive them as obvious and predictable.",
+    "detailed_explanation": "Humans reconstruct the past into coherent narratives after outcomes are known. This hindsight bias creates the illusion that crises, crashes, and turning points were inevitable, even though contemporaries rarely predicted them accurately.",
+    "implications": [
+      "Do not overestimate predictive skill.",
+      "Be skeptical of clean historical narratives.",
+      "Avoid judging past decisions solely by outcomes.",
+      "Maintain probabilistic thinking."
+    ],
+    "related_concepts": [
+      "Narrative fallacy",
+      "Outcome bias",
+      "Overconfidence",
+      "Historical revisionism"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00022",
+    "source_file": "part04.json"
+  },
+  {
+    "title": "The Biggest Events Are Usually Surprises",
+    "type": "behavioral_principle",
+    "concise_statement": "The events that shape history and markets most profoundly are typically absent from mainstream forecasts.",
+    "detailed_explanation": "Major crises and turning points matter precisely because they arrive unexpectedly. If an event were widely anticipated, people would prepare for it, reducing its eventual impact. Surprise amplifies consequences.",
+    "implications": [
+      "Avoid dependence on consensus forecasts.",
+      "Hold reserves for unpredictable disruptions.",
+      "Recognize forecasting limitations.",
+      "Prioritize adaptability over prediction accuracy."
+    ],
+    "related_concepts": [
+      "Black swans",
+      "Tail events",
+      "Forecasting error",
+      "Systemic shocks"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00023",
+    "source_file": "part04.json"
+  },
+  {
+    "title": "Economic Uncertainty Is Constant",
+    "type": "mental_model",
+    "concise_statement": "Uncertainty does not disappear; only awareness of uncertainty changes.",
+    "detailed_explanation": "Periods that appear stable are often merely periods when hidden risks are not visible. Human confidence fluctuates more than actual uncertainty. Stability can therefore create complacency and hidden fragility.",
+    "implications": [
+      "Treat calm periods cautiously.",
+      "Do not mistake low volatility for low risk.",
+      "Maintain discipline during booms.",
+      "Avoid leverage based on perceived certainty."
+    ],
+    "related_concepts": [
+      "Complacency risk",
+      "Volatility paradox",
+      "Risk perception",
+      "Financial cycles"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00024",
+    "source_file": "part04.json"
+  },
+  {
+    "title": "Humans Underestimate What They Do Not Know",
+    "type": "psychological_bias",
+    "concise_statement": "People naturally assume their visible world contains most relevant information.",
+    "detailed_explanation": "Human cognition focuses on observable information and underweights unseen variables. This creates overconfidence because individuals fail to account for unknown forces shaping outcomes.",
+    "implications": [
+      "Use humility in decision-making.",
+      "Seek disconfirming evidence.",
+      "Avoid certainty in complex systems.",
+      "Recognize informational blind spots."
+    ],
+    "related_concepts": [
+      "Overconfidence bias",
+      "Availability bias",
+      "Unknown unknowns",
+      "Bounded rationality"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00025",
+    "source_file": "part04.json"
+  },
+  {
+    "title": "Preparedness Reduces Visible Risks, Not Invisible Ones",
+    "type": "causal_relationship",
+    "concise_statement": "The more a risk is recognized, the less dangerous it often becomes because people adapt.",
+    "detailed_explanation": "Widely discussed risks trigger protective behavior, regulation, and contingency planning. Truly catastrophic risks emerge from scenarios that people have not mentally modeled or operationally prepared for.",
+    "implications": [
+      "Look beyond widely discussed dangers.",
+      "Treat consensus fears cautiously.",
+      "Understand that hidden vulnerabilities matter most.",
+      "Diversify against scenarios no one expects."
+    ],
+    "related_concepts": [
+      "Reflexivity",
+      "Adaptive behavior",
+      "Systemic risk",
+      "Market expectations"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00026",
+    "source_file": "part04.json"
+  },
+  {
+    "title": "Historical Records Are Incomplete and Distorted",
+    "type": "mental_model",
+    "concise_statement": "Our understanding of history is constrained by incomplete, biased, and selective information.",
+    "detailed_explanation": "Historical knowledge depends on what was documented, preserved, interpreted, and shared. Much of reality remains invisible or distorted, making historical lessons inherently partial and uncertain.",
+    "implications": [
+      "Avoid excessive confidence in historical analogies.",
+      "Recognize selection bias in historical narratives.",
+      "Accept ambiguity in causal explanations.",
+      "Use history as a guide, not a deterministic template."
+    ],
+    "related_concepts": [
+      "Selection bias",
+      "Narrative fallacy",
+      "Information asymmetry",
+      "Historical uncertainty"
+    ],
+    "confidence_score": 0.96,
+    "concept_id": "PM_00027",
+    "source_file": "part04.json"
+  },
+  {
+    "title": "Shock Is Amplified By Lack of Preparation",
+    "type": "causal_relationship",
+    "concise_statement": "Unexpected crises cause disproportionate damage because people are financially and psychologically unprepared.",
+    "detailed_explanation": "The severity of many crises stems less from the event itself and more from collective unpreparedness. Surprise disrupts both material systems and emotional stability, amplifying damage.",
+    "implications": [
+      "Maintain emergency reserves.",
+      "Prepare psychologically for volatility.",
+      "Avoid fragile financial structures.",
+      "Build resilience before crises occur."
+    ],
+    "related_concepts": [
+      "Resilience",
+      "Liquidity",
+      "Behavioral panic",
+      "Tail-risk preparedness"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00028",
+    "source_file": "part04.json"
+  },
+  {
+    "title": "Prediction Has Structural Limits",
+    "type": "survival_principle",
+    "concise_statement": "Complex systems contain too many interacting unknowns for precise long-term prediction.",
+    "detailed_explanation": "Financial markets, economies, and societies evolve through nonlinear interactions among countless variables. Because many influential variables are invisible or unknowable in advance, prediction accuracy has structural limitations.",
+    "implications": [
+      "Favor robustness over forecasting precision.",
+      "Use probabilistic rather than deterministic thinking.",
+      "Prioritize survival during uncertainty.",
+      "Design systems that tolerate forecast failure."
+    ],
+    "related_concepts": [
+      "Complex adaptive systems",
+      "Probabilistic thinking",
+      "Risk management",
+      "Forecasting limitations"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00029",
+    "source_file": "part04.json"
+  },
+  {
+    "title": "Preparedness Is Superior to Prediction",
+    "type": "decision_rule",
+    "concise_statement": "Build systems that can survive uncertainty instead of trying to precisely forecast it.",
+    "detailed_explanation": "Because major risks are inherently unpredictable, resilient preparation is more effective than attempting accurate forecasts. Systems designed with buffers, redundancy, and flexibility perform better under uncertainty than systems optimized for a specific predicted future.",
+    "implications": [
+      "Maintain emergency reserves and liquidity.",
+      "Prioritize resilience over optimization.",
+      "Use scenario planning instead of single forecasts.",
+      "Design for survivability under multiple outcomes."
+    ],
+    "related_concepts": [
+      "Antifragility",
+      "Margin of safety",
+      "Risk management",
+      "Tail-risk preparedness"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00030",
+    "source_file": "part05.json"
+  },
+  {
+    "title": "Expectations Matter More Than Forecasts",
+    "type": "mental_model",
+    "concise_statement": "Broad expectations about uncertainty are more valuable than precise predictions.",
+    "detailed_explanation": "Forecasts attempt to predict specific outcomes, but expectations acknowledge uncertainty as permanent. Preparing for the existence of unknown risks leads to more durable behavior than relying on precise but fragile predictions.",
+    "implications": [
+      "Assume volatility and surprises will occur.",
+      "Avoid overreliance on expert predictions.",
+      "Build adaptable systems.",
+      "Focus on probability distributions rather than exact outcomes."
+    ],
+    "related_concepts": [
+      "Probabilistic thinking",
+      "Risk management",
+      "Scenario analysis",
+      "Complex systems"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00031",
+    "source_file": "part05.json"
+  },
+  {
+    "title": "Safety Margins Should Feel Excessive",
+    "type": "survival_principle",
+    "concise_statement": "Adequate protection against uncertainty often appears overly conservative in normal times.",
+    "detailed_explanation": "Because unseen risks dominate outcomes, rational preparation frequently feels inefficient or excessive during stable periods. Conservative savings, low leverage, and redundancy may appear suboptimal until unexpected stress arrives.",
+    "implications": [
+      "Save more than feels necessary.",
+      "Use less debt than seems manageable.",
+      "Accept lower efficiency in exchange for resilience.",
+      "Treat robustness as a long-term advantage."
+    ],
+    "related_concepts": [
+      "Margin of safety",
+      "Resilience",
+      "Liquidity",
+      "Tail-risk management"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00032",
+    "source_file": "part05.json"
+  },
+  {
+    "title": "People Fail From Risks Outside Their Preparation",
+    "type": "causal_relationship",
+    "concise_statement": "Catastrophic failures often occur from scenarios people never anticipated rather than from known threats.",
+    "detailed_explanation": "Humans and institutions tend to prepare intensely for visible dangers while remaining vulnerable to unimagined risks. Familiar risks become manageable; unfamiliar risks remain dangerous because no defenses exist.",
+    "implications": [
+      "Continuously question hidden assumptions.",
+      "Maintain flexibility for unknown events.",
+      "Avoid overconfidence from prior success.",
+      "Stress-test systems against unlikely disruptions."
+    ],
+    "related_concepts": [
+      "Unknown unknowns",
+      "Black swans",
+      "System fragility",
+      "Preparedness"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00033",
+    "source_file": "part05.json"
+  },
+  {
+    "title": "Happiness Depends on Expectations",
+    "type": "behavioral_principle",
+    "concise_statement": "Perceived well-being is determined more by expectations than by absolute conditions.",
+    "detailed_explanation": "Humans evaluate happiness relative to what they expect and what others around them possess. As living standards improve, expectations rise alongside them, limiting gains in satisfaction.",
+    "implications": [
+      "Rising wealth alone may not increase happiness.",
+      "Expectation management is critical for well-being.",
+      "Social comparison can erode satisfaction.",
+      "Contentment requires stabilizing the moving goalpost."
+    ],
+    "related_concepts": [
+      "Hedonic adaptation",
+      "Relative deprivation",
+      "Social comparison",
+      "Behavioral economics"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00034",
+    "source_file": "part05.json"
+  },
+  {
+    "title": "Luxury Rapidly Becomes Necessity",
+    "type": "psychological_bias",
+    "concise_statement": "People quickly normalize improvements in living standards and begin treating them as baseline expectations.",
+    "detailed_explanation": "Technological progress and rising wealth initially create excitement, but humans adapt rapidly. What once felt extraordinary becomes expected, reducing long-term increases in happiness.",
+    "implications": [
+      "Consumer satisfaction is temporary.",
+      "Lifestyle inflation reduces financial freedom.",
+      "Material progress alone cannot sustain happiness.",
+      "Gratitude requires conscious practice."
+    ],
+    "related_concepts": [
+      "Hedonic treadmill",
+      "Adaptation",
+      "Lifestyle inflation",
+      "Consumer psychology"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00035",
+    "source_file": "part05.json"
+  },
+  {
+    "title": "Envy Drives Human Behavior More Than Greed",
+    "type": "behavioral_principle",
+    "concise_statement": "People measure success relative to others rather than by absolute improvement.",
+    "detailed_explanation": "Human dissatisfaction often arises not from lacking necessities, but from perceiving others as better off. Relative comparison strongly influences consumption, ambition, and emotional well-being.",
+    "implications": [
+      "Social comparison distorts financial decisions.",
+      "Keeping up with peers can undermine wealth accumulation.",
+      "Status competition fuels consumption cycles.",
+      "Relative success rarely produces lasting satisfaction."
+    ],
+    "related_concepts": [
+      "Status signaling",
+      "Relative deprivation",
+      "Behavioral finance",
+      "Social comparison"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00036",
+    "source_file": "part05.json"
+  },
+  {
+    "title": "Perspective Shapes Satisfaction",
+    "type": "mental_model",
+    "concise_statement": "People interpret circumstances relative to prior experiences rather than objective standards.",
+    "detailed_explanation": "Individuals judge quality of life based on where they came from and what they expected. Improvement relative to past hardship often creates more gratitude than objectively superior conditions experienced without contrast.",
+    "implications": [
+      "Gratitude depends on reference points.",
+      "Expectations can alter emotional outcomes dramatically.",
+      "Adaptation changes perceptions of prosperity.",
+      "Absolute wealth is psychologically less important than relative progress."
+    ],
+    "related_concepts": [
+      "Reference dependence",
+      "Behavioral psychology",
+      "Adaptation",
+      "Relative utility"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00037",
+    "source_file": "part05.json"
+  },
+  {
+    "title": "Economic Progress Does Not Guarantee Greater Happiness",
+    "type": "paradox",
+    "concise_statement": "Societies can become objectively wealthier while subjective satisfaction stagnates.",
+    "detailed_explanation": "Rising incomes, improved health, and technological advances increase living standards, yet happiness may remain unchanged because expectations and social comparisons rise simultaneously.",
+    "implications": [
+      "Economic growth alone cannot solve dissatisfaction.",
+      "Well-being policies should address psychological factors.",
+      "Personal fulfillment requires more than material accumulation.",
+      "Managing expectations is as important as increasing income."
+    ],
+    "related_concepts": [
+      "Easterlin paradox",
+      "Hedonic adaptation",
+      "Relative utility",
+      "Behavioral economics"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00038",
+    "source_file": "part05.json"
+  },
+  {
+    "title": "Visible Stability Often Masks Hidden Fragility",
+    "type": "risk_concept",
+    "concise_statement": "Systems that appear stable may remain highly vulnerable to unseen shocks.",
+    "detailed_explanation": "Periods of calm and confidence encourage reduced caution, increased leverage, and tighter optimization. This creates hidden fragility that only becomes visible during unexpected disruptions.",
+    "implications": [
+      "Do not infer safety from temporary stability.",
+      "Maintain buffers during prosperous periods.",
+      "Expect complacency to increase systemic risk.",
+      "Recognize that resilience often looks inefficient."
+    ],
+    "related_concepts": [
+      "Minsky cycle",
+      "Fragility",
+      "Complacency risk",
+      "Systemic vulnerability"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00039",
+    "source_file": "part05.json"
+  },
+  {
+    "title": "Wealth Is Relative, Not Absolute",
+    "type": "behavioral_principle",
+    "concise_statement": "People judge wealth by comparison to those around them rather than by objective standards.",
+    "detailed_explanation": "Perceived financial success depends heavily on social context. Even objectively wealthy individuals can feel inadequate if surrounded by people with greater wealth, status, or visibility. Human satisfaction is driven more by relative ranking than absolute resources.",
+    "implications": [
+      "Social environment strongly influences financial satisfaction.",
+      "Comparison can erode appreciation of genuine prosperity.",
+      "Rising income may not improve well-being if peer benchmarks rise simultaneously.",
+      "Financial independence requires psychological independence from comparison."
+    ],
+    "related_concepts": [
+      "Relative deprivation",
+      "Status competition",
+      "Social comparison",
+      "Behavioral economics"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00040",
+    "source_file": "part06.json"
+  },
+  {
+    "title": "Happiness Depends on the Gap Between Expectations and Reality",
+    "type": "mental_model",
+    "concise_statement": "Emotional satisfaction is determined more by the difference between expectations and outcomes than by outcomes alone.",
+    "detailed_explanation": "People experience joy, disappointment, or relief based on whether reality exceeds or falls short of expectations. Identical outcomes can generate vastly different emotional reactions depending on prior assumptions and aspirations.",
+    "implications": [
+      "Managing expectations is central to happiness.",
+      "Unexpected gains create disproportionate satisfaction.",
+      "High expectations increase the risk of disappointment.",
+      "Emotional outcomes are psychologically relative, not objective."
+    ],
+    "related_concepts": [
+      "Reference dependence",
+      "Behavioral psychology",
+      "Hedonic adaptation",
+      "Prospect theory"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00041",
+    "source_file": "part06.json"
+  },
+  {
+    "title": "Equality Stabilizes Expectations",
+    "type": "causal_relationship",
+    "concise_statement": "Smaller visible gaps between people reduce social comparison pressure and improve perceived well-being.",
+    "detailed_explanation": "When most people live under similar economic conditions, expectations remain more stable because social comparisons are less extreme. Large disparities amplify aspiration, envy, and dissatisfaction.",
+    "implications": [
+      "Perceived inequality affects happiness beyond absolute income levels.",
+      "Visible wealth disparities intensify status anxiety.",
+      "Stable societies often depend on manageable comparison pressures.",
+      "Social cohesion declines when expectations accelerate unevenly."
+    ],
+    "related_concepts": [
+      "Relative deprivation",
+      "Income inequality",
+      "Status signaling",
+      "Social cohesion"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00042",
+    "source_file": "part06.json"
+  },
+  {
+    "title": "Social Visibility Amplifies Envy",
+    "type": "psychological_bias",
+    "concise_statement": "Constant exposure to curated displays of wealth intensifies dissatisfaction and aspiration.",
+    "detailed_explanation": "Modern media and social platforms magnify social comparison by exposing individuals to idealized versions of other people's lives. Humans compare themselves not to average reality, but to selective highlights.",
+    "implications": [
+      "Social media can distort perceptions of normal success.",
+      "Consumption pressure increases with visibility of luxury.",
+      "Psychological well-being may decline despite material progress.",
+      "Comparison bias can undermine rational financial decisions."
+    ],
+    "related_concepts": [
+      "Social comparison bias",
+      "Status anxiety",
+      "Curated identity",
+      "Behavioral finance"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00043",
+    "source_file": "part06.json"
+  },
+  {
+    "title": "Expectations Inflate Faster Than Circumstances",
+    "type": "paradox",
+    "concise_statement": "Improving living standards do not guarantee greater happiness because expectations rise simultaneously.",
+    "detailed_explanation": "Economic progress often increases aspirations as quickly as it improves conditions. As a result, societies can become objectively wealthier while subjective satisfaction remains stagnant or declines.",
+    "implications": [
+      "Material advancement alone cannot sustain fulfillment.",
+      "Lifestyle inflation can trap people in endless dissatisfaction.",
+      "Psychological adaptation reduces the emotional value of progress.",
+      "Contentment requires controlling expectation growth."
+    ],
+    "related_concepts": [
+      "Hedonic treadmill",
+      "Easterlin paradox",
+      "Adaptation",
+      "Relative utility"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00044",
+    "source_file": "part06.json"
+  },
+  {
+    "title": "Status Competition Drives Consumption",
+    "type": "incentive",
+    "concise_statement": "People often pursue wealth not for utility, but for social positioning.",
+    "detailed_explanation": "Consumption and financial ambition are heavily motivated by visible status advantages relative to peers. The desire to signal success can override rational utility-maximizing behavior.",
+    "implications": [
+      "Many purchases are socially motivated rather than functionally necessary.",
+      "Keeping up with peers can damage long-term financial security.",
+      "Status incentives shape entire economic systems.",
+      "Financial freedom requires resisting signaling pressure."
+    ],
+    "related_concepts": [
+      "Status signaling",
+      "Conspicuous consumption",
+      "Behavioral finance",
+      "Relative wealth"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00045",
+    "source_file": "part06.json"
+  },
+  {
+    "title": "Expectation Asymmetry Shapes Emotional Outcomes",
+    "type": "behavioral_principle",
+    "concise_statement": "Low expectations magnify satisfaction while high expectations neutralize achievement.",
+    "detailed_explanation": "Outcomes exceeding modest expectations create strong positive emotions, while even large achievements merely satisfying high expectations generate little happiness. Emotional intensity is tied to surprise relative to baseline assumptions.",
+    "implications": [
+      "Expectation calibration influences resilience and motivation.",
+      "Underpromising psychologically protects satisfaction.",
+      "Achievement loses emotional impact when normalized.",
+      "Relief often replaces joy at high performance levels."
+    ],
+    "related_concepts": [
+      "Reference points",
+      "Behavioral adaptation",
+      "Expectation management",
+      "Prospect theory"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00046",
+    "source_file": "part06.json"
+  },
+  {
+    "title": "Human Desire Has No Natural Ceiling",
+    "type": "risk_concept",
+    "concise_statement": "Without controlled expectations, desire expands indefinitely regardless of achievement.",
+    "detailed_explanation": "Humans rapidly normalize gains and redirect focus toward higher goals or superior peers. This creates a potentially endless cycle of striving without satisfaction.",
+    "implications": [
+      "Unchecked ambition can undermine happiness.",
+      "Financial goals continuously shift upward.",
+      "Contentment requires deliberate psychological boundaries.",
+      "Endless comparison can create chronic dissatisfaction."
+    ],
+    "related_concepts": [
+      "Hedonic adaptation",
+      "Lifestyle inflation",
+      "Relative deprivation",
+      "Consumer psychology"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00047",
+    "source_file": "part06.json"
+  },
+  {
+    "title": "Perceived Progress Matters More Than Absolute Position",
+    "type": "mental_model",
+    "concise_statement": "People care deeply about whether life feels better relative to their starting point.",
+    "detailed_explanation": "Satisfaction often depends more on perceived improvement than on current objective status. Individuals emerging from hardship may feel happier than objectively wealthier individuals experiencing stagnation or decline.",
+    "implications": [
+      "Momentum strongly affects morale.",
+      "Progress creates more happiness than static abundance.",
+      "Downward mobility feels psychologically severe.",
+      "Reference points shape emotional interpretation of wealth."
+    ],
+    "related_concepts": [
+      "Reference dependence",
+      "Loss aversion",
+      "Behavioral psychology",
+      "Relative utility"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00048",
+    "source_file": "part06.json"
+  },
+  {
+    "title": "Intangible Psychological Variables Drive Economic Behavior",
+    "type": "mental_model",
+    "concise_statement": "Expectations and perceptions influence markets and decisions as strongly as objective fundamentals.",
+    "detailed_explanation": "Consumer confidence, investment behavior, career evaluations, and market valuations are all shaped by expectations. Psychological variables often dominate objective metrics in determining behavior and outcomes.",
+    "implications": [
+      "Markets are driven partly by collective psychology.",
+      "Expectation management affects leadership effectiveness.",
+      "Economic sentiment can influence real economic activity.",
+      "Ignoring psychological variables leads to incomplete analysis."
+    ],
+    "related_concepts": [
+      "Behavioral economics",
+      "Market psychology",
+      "Reflexivity",
+      "Sentiment dynamics"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00049",
+    "source_file": "part06.json"
+  },
+  {
+    "title": "Happiness Is a Function of Expectations and Reality",
+    "type": "mental_model",
+    "concise_statement": "Well-being depends equally on what you possess and what you expect to possess.",
+    "detailed_explanation": "Human satisfaction is not determined solely by external circumstances. Expectations act as a psychological denominator against which outcomes are evaluated. Managing expectations can therefore influence happiness as much as improving material conditions.",
+    "implications": [
+      "Psychological management is as important as material improvement.",
+      "Unchecked expectations can neutralize success.",
+      "Contentment requires conscious calibration of desires.",
+      "Well-being is partially controllable independent of wealth."
+    ],
+    "related_concepts": [
+      "Reference dependence",
+      "Hedonic adaptation",
+      "Behavioral psychology",
+      "Relative utility"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00050",
+    "source_file": "part07.json"
+  },
+  {
+    "title": "Low Expectations Create Emotional Resilience",
+    "type": "survival_principle",
+    "concise_statement": "Moderate expectations reduce emotional volatility and improve long-term satisfaction.",
+    "detailed_explanation": "Unrealistically high expectations magnify disappointment and create chronic dissatisfaction. Reasonable expectations allow individuals to absorb setbacks more calmly while appreciating positive surprises more deeply.",
+    "implications": [
+      "Stoicism improves emotional durability.",
+      "Lower expectations increase gratitude.",
+      "Resilience depends partly on expectation control.",
+      "Excessive optimism can create psychological fragility."
+    ],
+    "related_concepts": [
+      "Stoicism",
+      "Expectation management",
+      "Behavioral resilience",
+      "Emotional regulation"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00051",
+    "source_file": "part07.json"
+  },
+  {
+    "title": "Relationships Improve When Reciprocity Is Not Expected",
+    "type": "behavioral_principle",
+    "concise_statement": "Mutual generosity without expectation of return creates stronger and happier relationships.",
+    "detailed_explanation": "When individuals help others while expecting nothing back, positive outcomes become pleasant surprises rather than obligations. This reduces resentment and transactional thinking within relationships.",
+    "implications": [
+      "Lower entitlement strengthens cooperation.",
+      "Unexpected kindness creates stronger emotional bonds.",
+      "Transactional expectations damage relationships.",
+      "Generosity compounds when reciprocation is voluntary."
+    ],
+    "related_concepts": [
+      "Reciprocity",
+      "Social trust",
+      "Behavioral psychology",
+      "Expectation asymmetry"
+    ],
+    "confidence_score": 0.96,
+    "concept_id": "PM_00052",
+    "source_file": "part07.json"
+  },
+  {
+    "title": "People Seek Positive Expectation Gaps",
+    "type": "behavioral_principle",
+    "concise_statement": "Humans derive emotional satisfaction from outcomes exceeding expectations rather than from absolute outcomes themselves.",
+    "detailed_explanation": "People often believe they desire progress or achievement, but psychologically they are primarily reacting to the gap between expected and actual outcomes. Positive surprises create disproportionate emotional rewards.",
+    "implications": [
+      "Expectation framing shapes motivation and happiness.",
+      "Managing expectations can increase satisfaction without changing circumstances.",
+      "Unexpected gains feel more valuable than anticipated ones.",
+      "High expectations reduce emotional upside."
+    ],
+    "related_concepts": [
+      "Prospect theory",
+      "Reference points",
+      "Behavioral economics",
+      "Expectation management"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00053",
+    "source_file": "part07.json"
+  },
+  {
+    "title": "Exceptional Strengths Often Come With Exceptional Weaknesses",
+    "type": "paradox",
+    "concise_statement": "The traits that produce extraordinary success frequently generate serious personal or social dysfunctions.",
+    "detailed_explanation": "People who think differently enough to achieve extraordinary results often possess unconventional personalities, emotional imbalances, or socially difficult behaviors inseparable from their talents.",
+    "implications": [
+      "Do not idealize successful people as universally admirable.",
+      "Exceptional performance often requires trade-offs.",
+      "Unique cognitive styles produce both strengths and liabilities.",
+      "Role models should be evaluated selectively, not holistically."
+    ],
+    "related_concepts": [
+      "Trade-offs",
+      "Behavioral asymmetry",
+      "Genius paradox",
+      "Cognitive specialization"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00054",
+    "source_file": "part07.json"
+  },
+  {
+    "title": "Unique Minds Operate as Full Packages",
+    "type": "mental_model",
+    "concise_statement": "You cannot separate extraordinary abilities from the unconventional traits that enable them.",
+    "detailed_explanation": "The cognitive and personality structures that create exceptional insight often also generate behaviors society finds irrational, abrasive, obsessive, or socially incompatible.",
+    "implications": [
+      "Avoid selective admiration detached from reality.",
+      "Organizations must tolerate some dysfunction to harness innovation.",
+      "Creativity and unconventionality are often linked.",
+      "Exceptional individuals rarely fit standard social expectations."
+    ],
+    "related_concepts": [
+      "Innovation psychology",
+      "Creative cognition",
+      "Behavioral trade-offs",
+      "Nonconformity"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00055",
+    "source_file": "part07.json"
+  },
+  {
+    "title": "Extreme Competence Is Often Accompanied by Social Friction",
+    "type": "causal_relationship",
+    "concise_statement": "People who radically challenge existing systems frequently conflict with social norms and authority structures.",
+    "detailed_explanation": "Innovative thinkers often reject conventional assumptions and institutional constraints. This same mindset that drives breakthrough performance can also make them impatient, abrasive, or difficult to manage.",
+    "implications": [
+      "Institutions may struggle to integrate unconventional talent.",
+      "High innovation environments require tolerance for conflict.",
+      "Social conformity and radical innovation are often incompatible.",
+      "Exceptional contributors may create organizational instability."
+    ],
+    "related_concepts": [
+      "Institutional friction",
+      "Innovation dynamics",
+      "Creative destruction",
+      "Nonconformity"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00056",
+    "source_file": "part07.json"
+  },
+  {
+    "title": "Abnormal Success Requires Abnormal Thinking",
+    "type": "mental_model",
+    "concise_statement": "Extraordinary achievements often emerge from people who reject ordinary assumptions and constraints.",
+    "detailed_explanation": "People capable of transforming industries or fields frequently possess deeply unconventional beliefs about possibility, risk, and limitation. Their success is tied to cognitive patterns that differ fundamentally from average thinking.",
+    "implications": [
+      "Extreme outcomes require unusual mindsets.",
+      "Conventional thinking rarely produces disruptive innovation.",
+      "Risk tolerance and ambition are often intertwined.",
+      "Extraordinary success may require behavioral traits society finds uncomfortable."
+    ],
+    "related_concepts": [
+      "Risk-taking",
+      "Entrepreneurial psychology",
+      "Visionary thinking",
+      "Nonlinear outcomes"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00057",
+    "source_file": "part07.json"
+  },
+  {
+    "title": "Human Judgment Over-Idealizes Success",
+    "type": "psychological_bias",
+    "concise_statement": "People selectively admire successful individuals while ignoring the undesirable traits linked to their success.",
+    "detailed_explanation": "Humans tend to isolate and romanticize visible achievements while underestimating the personal costs, eccentricities, and dysfunctions accompanying exceptional performance.",
+    "implications": [
+      "Role-model selection should be deliberate and partial.",
+      "Success should not be confused with overall wisdom.",
+      "Admiring outcomes can distort perception of behavior.",
+      "Exceptional achievement may involve sacrifices others would not want."
+    ],
+    "related_concepts": [
+      "Halo effect",
+      "Survivorship bias",
+      "Hero worship",
+      "Selective perception"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00058",
+    "source_file": "part07.json"
+  },
+  {
+    "title": "Cognitive Specialization Creates Trade-Offs",
+    "type": "risk_concept",
+    "concise_statement": "Exceptional ability in one domain may reduce balance or capability in other domains.",
+    "detailed_explanation": "Human cognitive and emotional capacity appears limited. Intense specialization and obsession that produce extraordinary performance may crowd out emotional balance, social awareness, or practical judgment elsewhere.",
+    "implications": [
+      "Optimization in one area can create fragility in another.",
+      "High performers may require compensating structures or teams.",
+      "Balanced individuals may rarely achieve extreme outcomes.",
+      "Trade-offs are inherent in specialization."
+    ],
+    "related_concepts": [
+      "Opportunity cost",
+      "Specialization",
+      "Behavioral asymmetry",
+      "Cognitive trade-offs"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00059",
+    "source_file": "part07.json"
+  },
+  {
+    "title": "Extreme Success and Extreme Risk Share the Same Traits",
+    "type": "causal_relationship",
+    "concise_statement": "The personality traits that create extraordinary success also increase the probability of catastrophic failure.",
+    "detailed_explanation": "Relentless optimism, confidence, risk tolerance, and refusal to accept constraints can produce exceptional achievements. However, these same traits can also lead to overreach, recklessness, and eventual collapse.",
+    "implications": [
+      "Success traits should not automatically be viewed as universally beneficial.",
+      "High performers often carry elevated downside risks.",
+      "Extreme ambition requires balancing mechanisms.",
+      "The same mindset can produce both breakthroughs and disasters."
+    ],
+    "related_concepts": [
+      "Risk-reward trade-off",
+      "Overconfidence",
+      "Behavioral asymmetry",
+      "Nonlinear outcomes"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00060",
+    "source_file": "part08.json"
+  },
+  {
+    "title": "Personality Traits Are Bundled Trade-Offs",
+    "type": "mental_model",
+    "concise_statement": "You cannot isolate desirable traits from the undesirable behaviors connected to them.",
+    "detailed_explanation": "Human personalities operate as integrated systems. Traits like extreme creativity, visionary thinking, or relentless drive often coexist with impulsiveness, social friction, or disregard for norms.",
+    "implications": [
+      "Role models should be evaluated holistically.",
+      "Exceptional strengths often come with unavoidable costs.",
+      "Organizations must tolerate some dysfunction to harness innovation.",
+      "Selective admiration creates unrealistic expectations."
+    ],
+    "related_concepts": [
+      "Behavioral trade-offs",
+      "Creative cognition",
+      "Nonconformity",
+      "Personality asymmetry"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00061",
+    "source_file": "part08.json"
+  },
+  {
+    "title": "Reversion to the Mean Is Fueled by Excess",
+    "type": "mental_model",
+    "concise_statement": "The forces that drive individuals and systems upward often eventually push them beyond sustainable limits.",
+    "detailed_explanation": "Extreme success frequently contains the seeds of reversal because the same behaviors that produce rapid growth also encourage overextension, complacency, or escalating risk-taking.",
+    "implications": [
+      "Rapid success can increase vulnerability.",
+      "Periods of dominance often precede instability.",
+      "Unchecked ambition naturally pushes systems toward imbalance.",
+      "Sustainability requires self-restraint."
+    ],
+    "related_concepts": [
+      "Reversion to the mean",
+      "Minsky dynamics",
+      "Behavioral excess",
+      "Cycle theory"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00062",
+    "source_file": "part08.json"
+  },
+  {
+    "title": "Conquerors Rarely Self-Limit",
+    "type": "behavioral_principle",
+    "concise_statement": "People driven to expand power or success rarely stop voluntarily after achieving enough.",
+    "detailed_explanation": "Ambitious individuals and empires tend to continue pushing beyond rational limits because the psychological drivers behind expansion do not naturally disappear after success is achieved.",
+    "implications": [
+      "Unchecked success can increase systemic fragility.",
+      "Ambition often lacks internal stopping mechanisms.",
+      "External constraints become necessary for stability.",
+      "Expansionary systems frequently collapse from overreach."
+    ],
+    "related_concepts": [
+      "Empire cycles",
+      "Overextension",
+      "Behavioral momentum",
+      "Power dynamics"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00063",
+    "source_file": "part08.json"
+  },
+  {
+    "title": "Envy Ignores the Full Cost of Success",
+    "type": "psychological_bias",
+    "concise_statement": "People admire selective outcomes while ignoring the total life package that produced them.",
+    "detailed_explanation": "Humans often desire another person’s wealth, fame, or achievement without recognizing the personality traits, sacrifices, emotional burdens, and trade-offs inseparable from those outcomes.",
+    "implications": [
+      "Comparison frequently relies on incomplete information.",
+      "Admiration should account for hidden costs.",
+      "Success may involve lifestyles others would not truly want.",
+      "Selective envy distorts judgment."
+    ],
+    "related_concepts": [
+      "Halo effect",
+      "Social comparison",
+      "Selective perception",
+      "Status bias"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00064",
+    "source_file": "part08.json"
+  },
+  {
+    "title": "Probability Governs Reality, Not Certainty",
+    "type": "mental_model",
+    "concise_statement": "Most decisions operate under uncertainty where outcomes are probabilistic rather than guaranteed.",
+    "detailed_explanation": "Real-world outcomes are shaped by probabilities, not certainties. Intelligent decision-making involves managing odds rather than seeking guaranteed correctness.",
+    "implications": [
+      "Focus on process quality rather than binary outcomes.",
+      "Good decisions can still produce bad results.",
+      "Risk management requires probabilistic thinking.",
+      "Absolute certainty is usually an illusion."
+    ],
+    "related_concepts": [
+      "Probabilistic thinking",
+      "Risk management",
+      "Expected value",
+      "Uncertainty"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00065",
+    "source_file": "part08.json"
+  },
+  {
+    "title": "Humans Crave Certainty More Than Accuracy",
+    "type": "psychological_bias",
+    "concise_statement": "People prefer confident narratives over nuanced probabilistic truths.",
+    "detailed_explanation": "Uncertainty creates psychological discomfort, causing people to prefer definitive predictions even when those predictions are less accurate than probabilistic assessments.",
+    "implications": [
+      "Confident forecasters are often rewarded disproportionately.",
+      "Nuanced thinking is psychologically unpopular.",
+      "Overconfidence can appear more persuasive than realism.",
+      "Decision-makers should resist false certainty."
+    ],
+    "related_concepts": [
+      "Overconfidence bias",
+      "Cognitive ease",
+      "Narrative fallacy",
+      "Behavioral finance"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00066",
+    "source_file": "part08.json"
+  },
+  {
+    "title": "Outcome-Based Judgment Distorts Reality",
+    "type": "psychological_bias",
+    "concise_statement": "People evaluate decisions by outcomes instead of by the probabilities and reasoning behind them.",
+    "detailed_explanation": "Humans simplify complexity into binary judgments of right or wrong, ignoring that good processes can fail and poor processes can succeed due to luck and uncertainty.",
+    "implications": [
+      "Short-term outcomes are unreliable indicators of skill.",
+      "Risk-taking behavior can be misjudged after results occur.",
+      "Probabilistic decision-making is difficult to communicate socially.",
+      "Outcome bias reinforces poor learning."
+    ],
+    "related_concepts": [
+      "Outcome bias",
+      "Survivorship bias",
+      "Luck versus skill",
+      "Behavioral finance"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00067",
+    "source_file": "part08.json"
+  },
+  {
+    "title": "Rare Events Become Common at Large Scale",
+    "type": "risk_concept",
+    "concise_statement": "Extremely unlikely events occur regularly when enough opportunities exist for them to happen.",
+    "detailed_explanation": "Humans underestimate the frequency of rare events because they fail to intuitively grasp how probability behaves across large populations, long timeframes, or many repeated trials.",
+    "implications": [
+      "Improbable events should still be expected in large systems.",
+      "Tail events are inevitable over long horizons.",
+      "Statistical intuition is often unreliable.",
+      "Risk models should incorporate extreme scenarios."
+    ],
+    "related_concepts": [
+      "Law of large numbers",
+      "Tail risk",
+      "Black swans",
+      "Statistical probability"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00068",
+    "source_file": "part08.json"
+  },
+  {
+    "title": "Managing Confidence Is Central to Rational Thinking",
+    "type": "decision_rule",
+    "concise_statement": "The quality of decisions depends partly on calibrating confidence to actual uncertainty.",
+    "detailed_explanation": "Rational thinking requires acknowledging uncertainty and assigning confidence levels proportionate to available evidence rather than assuming certainty where none exists.",
+    "implications": [
+      "Humility improves decision quality.",
+      "Confidence should remain probabilistic.",
+      "Overstated certainty increases risk exposure.",
+      "Calibration is a critical intellectual skill."
+    ],
+    "related_concepts": [
+      "Calibration",
+      "Probabilistic reasoning",
+      "Intellectual humility",
+      "Decision theory"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00069",
+    "source_file": "part08.json"
+  },
+  {
+    "title": "Rare Events Become Inevitable at Scale",
+    "type": "mental_model",
+    "concise_statement": "Extremely unlikely events occur regularly when enough people, time, and opportunities exist.",
+    "detailed_explanation": "Humans intuitively misunderstand probability at large scales. Events with tiny individual probabilities become statistically inevitable when repeated across massive populations and long time horizons.",
+    "implications": [
+      "Shocking outcomes should often be expected statistically.",
+      "Tail events are normal features of large systems.",
+      "Probability intuition weakens at large scales.",
+      "Improbable does not mean impossible or suspicious."
+    ],
+    "related_concepts": [
+      "Law of large numbers",
+      "Tail risk",
+      "Statistical inevitability",
+      "Probability theory"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00070",
+    "source_file": "part09.json"
+  },
+  {
+    "title": "Miracles Are Often Statistics Misunderstood",
+    "type": "behavioral_principle",
+    "concise_statement": "Events perceived as miraculous are frequently normal outcomes of large sample sizes.",
+    "detailed_explanation": "Humans attribute extraordinary events to supernatural forces or fate because they underestimate how often rare events naturally occur in a world with billions of people and trillions of interactions.",
+    "implications": [
+      "Avoid attributing randomness to hidden causes unnecessarily.",
+      "Statistical literacy improves judgment.",
+      "Extraordinary events require probabilistic interpretation.",
+      "Rare experiences are mathematically expected."
+    ],
+    "related_concepts": [
+      "Randomness",
+      "Cognitive bias",
+      "Probability",
+      "Availability heuristic"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00071",
+    "source_file": "part09.json"
+  },
+  {
+    "title": "One-Hundred-Year Events Are Constantly Possible",
+    "type": "risk_concept",
+    "concise_statement": "Low-probability disasters become common when many independent risks exist simultaneously.",
+    "detailed_explanation": "A one-percent annual probability event appears unlikely in isolation, but when numerous independent low-probability risks exist, the chance that at least one major disruption occurs becomes substantial.",
+    "implications": [
+      "Expect periodic crises as normal.",
+      "Diversify against multiple risk categories.",
+      "Do not assume calm periods imply safety.",
+      "Complex systems naturally generate frequent disruptions."
+    ],
+    "related_concepts": [
+      "Tail risk",
+      "Compound probability",
+      "Systemic risk",
+      "Black swans"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00072",
+    "source_file": "part09.json"
+  },
+  {
+    "title": "Large Systems Amplify Extreme Outcomes",
+    "type": "causal_relationship",
+    "concise_statement": "As population size and connectivity increase, the probability of impactful extreme behavior rises.",
+    "detailed_explanation": "Larger and more interconnected societies create more opportunities for outlier individuals or events to influence global outcomes. Scale magnifies both innovation and disruption.",
+    "implications": [
+      "Globalization increases exposure to systemic shocks.",
+      "Extreme individuals can disproportionately shape events.",
+      "Connectivity amplifies contagion effects.",
+      "Complexity increases unpredictability."
+    ],
+    "related_concepts": [
+      "Network effects",
+      "Complex systems",
+      "Systemic fragility",
+      "Globalization"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00073",
+    "source_file": "part09.json"
+  },
+  {
+    "title": "Media Selection Bias Creates Persistent Pessimism",
+    "type": "psychological_bias",
+    "concise_statement": "News appears overwhelmingly negative because bad events are more attention-grabbing and statistically abundant globally.",
+    "detailed_explanation": "Negative events attract more engagement than positive ones. As information systems globalize, the probability that some terrible event is occurring somewhere at any moment approaches certainty, creating a constant stream of alarming news.",
+    "implications": [
+      "Media consumption can distort perception of reality.",
+      "Global awareness increases perceived instability.",
+      "Emotional pessimism may exceed objective conditions.",
+      "Attention economics favors negativity."
+    ],
+    "related_concepts": [
+      "Negativity bias",
+      "Availability heuristic",
+      "Media incentives",
+      "Information asymmetry"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00074",
+    "source_file": "part09.json"
+  },
+  {
+    "title": "Expanded Horizons Increase Perceived Insecurity",
+    "type": "behavioral_principle",
+    "concise_statement": "The broader the scope of information people consume, the more vulnerable and uncertain the world feels.",
+    "detailed_explanation": "Humans evolved in localized environments. Modern information systems expose individuals to global instability, creating psychological stress from events far outside personal influence or control.",
+    "implications": [
+      "Global information overload can increase anxiety.",
+      "Psychological well-being may require limiting exposure.",
+      "Awareness does not necessarily improve control.",
+      "Modern insecurity is partly informational."
+    ],
+    "related_concepts": [
+      "Cognitive overload",
+      "Media psychology",
+      "Perceived risk",
+      "Information environment"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00075",
+    "source_file": "part09.json"
+  },
+  {
+    "title": "The World Always Contains Ongoing Chaos",
+    "type": "mental_model",
+    "concise_statement": "Periods remembered as stable often contained substantial crises that are forgotten or overshadowed later.",
+    "detailed_explanation": "Human memory simplifies history into narratives of calm or turmoil, but every era contains overlapping disruptions, recessions, conflicts, and shocks. Stability is often retrospective simplification.",
+    "implications": [
+      "Nostalgia can distort historical understanding.",
+      "Crisis frequency is a persistent feature of reality.",
+      "Current instability is not historically unique.",
+      "Perceived disorder may partly reflect information visibility."
+    ],
+    "related_concepts": [
+      "Narrative fallacy",
+      "Historical bias",
+      "Selective memory",
+      "Recency bias"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00076",
+    "source_file": "part09.json"
+  },
+  {
+    "title": "Humans Prefer Emotional Comfort Over Statistical Accuracy",
+    "type": "psychological_bias",
+    "concise_statement": "People often seek confident explanations because uncertainty is psychologically painful.",
+    "detailed_explanation": "Probabilistic thinking creates discomfort because it forces acceptance of ambiguity and lack of control. Confident predictions provide emotional relief even when accuracy is low.",
+    "implications": [
+      "Overconfident experts gain disproportionate influence.",
+      "Nuanced communication is psychologically less persuasive.",
+      "False certainty can drive poor decisions.",
+      "Demand for prediction exceeds actual predictability."
+    ],
+    "related_concepts": [
+      "Doubt-avoidance tendency",
+      "Overconfidence bias",
+      "Cognitive ease",
+      "Behavioral finance"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00077",
+    "source_file": "part09.json"
+  },
+  {
+    "title": "Humans Resolve Doubt Prematurely",
+    "type": "psychological_bias",
+    "concise_statement": "People are evolutionarily biased toward quickly eliminating uncertainty even when evidence is incomplete.",
+    "detailed_explanation": "The human brain evolved to make rapid decisions under threat, favoring quick resolution over prolonged ambiguity. In modern complex environments, this tendency can produce overconfidence and poor judgment.",
+    "implications": [
+      "People may adopt simplistic narratives prematurely.",
+      "Decision-making under uncertainty requires deliberate slowing down.",
+      "Intellectual humility is psychologically unnatural.",
+      "Markets and politics reward certainty signaling."
+    ],
+    "related_concepts": [
+      "Doubt-avoidance tendency",
+      "Overconfidence",
+      "Cognitive bias",
+      "Fast thinking"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00078",
+    "source_file": "part09.json"
+  },
+  {
+    "title": "Authority Figures Satisfy the Need for Predictability",
+    "type": "incentive",
+    "concise_statement": "Experts gain influence partly because people crave the illusion of a controllable future.",
+    "detailed_explanation": "Humans seek authoritative voices not only for information, but for psychological reassurance that the future can be understood and managed. Confidence often matters more socially than predictive accuracy.",
+    "implications": [
+      "Forecasting industries persist despite weak accuracy.",
+      "People reward certainty over nuance.",
+      "Expert status can derive from confidence rather than competence.",
+      "Emotional reassurance is economically valuable."
+    ],
+    "related_concepts": [
+      "Authority bias",
+      "Expert overconfidence",
+      "Behavioral economics",
+      "Prediction markets"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00079",
+    "source_file": "part09.json"
+  },
+  {
+    "title": "Humans Continue Forecasting Despite Persistent Failure",
+    "type": "behavioral_principle",
+    "concise_statement": "People repeatedly attempt prediction because certainty is psychologically necessary, even when forecasting accuracy is poor.",
+    "detailed_explanation": "Humans require a sense of control and predictability to function emotionally. The repeated failure of forecasts does not eliminate the demand for them because the emotional value of certainty outweighs empirical evidence of unreliability.",
+    "implications": [
+      "Forecasting industries persist despite weak predictive records.",
+      "People prefer comforting narratives over acknowledged uncertainty.",
+      "Confidence is often rewarded more than accuracy.",
+      "Demand for prediction is psychological as much as practical."
+    ],
+    "related_concepts": [
+      "Overconfidence bias",
+      "Doubt-avoidance tendency",
+      "Behavioral finance",
+      "Illusion of control"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00080",
+    "source_file": "part10.json"
+  },
+  {
+    "title": "Small Sample Sizes Distort Perceived Skill",
+    "type": "mental_model",
+    "concise_statement": "In many complex fields there are too few repeated events to reliably measure forecasting ability.",
+    "detailed_explanation": "Fields such as economics, investing, and geopolitics generate limited comparable events over a human career. Because sample sizes are small, distinguishing genuine skill from luck becomes extremely difficult.",
+    "implications": [
+      "Long-term track records may still contain insufficient data.",
+      "Expertise in probabilistic systems is hard to validate.",
+      "Confidence should remain tempered in low-sample environments.",
+      "Outcome-based evaluation can misidentify skill."
+    ],
+    "related_concepts": [
+      "Statistical significance",
+      "Luck versus skill",
+      "Sample size bias",
+      "Probabilistic thinking"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00081",
+    "source_file": "part10.json"
+  },
+  {
+    "title": "Probability Loses Emotional Power During Pain",
+    "type": "psychological_bias",
+    "concise_statement": "People intellectually understand probabilities until adverse outcomes affect them personally.",
+    "detailed_explanation": "Humans can accept statistical risk abstractly, but when negative outcomes occur emotionally, they often reinterpret normal probabilities as evidence of failure, recklessness, or betrayal.",
+    "implications": [
+      "Risk tolerance collapses under stress.",
+      "People overreact to expected volatility.",
+      "Emotional responses distort probabilistic reasoning.",
+      "Managing expectations is essential in risky systems."
+    ],
+    "related_concepts": [
+      "Loss aversion",
+      "Outcome bias",
+      "Behavioral finance",
+      "Risk perception"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00082",
+    "source_file": "part10.json"
+  },
+  {
+    "title": "Catastrophic Risks Must Be Distinguished From Normal Risks",
+    "type": "risk_concept",
+    "concise_statement": "Inevitable minor failures should not be confused with unacceptable catastrophic risks.",
+    "detailed_explanation": "In probabilistic systems, small losses and occasional failures are unavoidable and often statistically reasonable. The critical distinction is between survivable routine volatility and irreversible catastrophic failure.",
+    "implications": [
+      "Focus risk management on avoiding ruin.",
+      "Normal volatility should be tolerated.",
+      "Systems should absorb frequent small failures.",
+      "Zero-risk expectations create unrealistic standards."
+    ],
+    "related_concepts": [
+      "Tail risk",
+      "Risk management",
+      "Survivability",
+      "Expected volatility"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00083",
+    "source_file": "part10.json"
+  },
+  {
+    "title": "Stories Outcompete Facts",
+    "type": "mental_model",
+    "concise_statement": "Narratives persuade people more effectively than statistics or rational analysis.",
+    "detailed_explanation": "Humans process information emotionally and socially rather than purely analytically. Stories simplify complexity, evoke emotion, and create memorable mental frameworks, making them more influential than raw data.",
+    "implications": [
+      "Communication quality shapes influence.",
+      "Correct ideas fail when poorly presented.",
+      "Persuasive storytelling can overpower factual accuracy.",
+      "Narrative framing strongly affects decision-making."
+    ],
+    "related_concepts": [
+      "Narrative fallacy",
+      "Behavioral psychology",
+      "Persuasion",
+      "Attention economics"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00084",
+    "source_file": "part10.json"
+  },
+  {
+    "title": "Attention Determines Influence",
+    "type": "incentive",
+    "concise_statement": "Ideas succeed partly based on their ability to capture attention and emotion.",
+    "detailed_explanation": "In environments overloaded with information, people gravitate toward emotionally engaging narratives rather than analytically rigorous material. Attention is therefore a key competitive advantage.",
+    "implications": [
+      "Communication skills can outweigh technical correctness.",
+      "Emotional resonance amplifies influence.",
+      "Public persuasion depends on memorability.",
+      "Information markets reward engagement over precision."
+    ],
+    "related_concepts": [
+      "Attention economy",
+      "Storytelling",
+      "Behavioral economics",
+      "Media incentives"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00085",
+    "source_file": "part10.json"
+  },
+  {
+    "title": "Emotional Resonance Creates Historical Impact",
+    "type": "causal_relationship",
+    "concise_statement": "Ideas become historically influential when they emotionally connect with large groups of people.",
+    "detailed_explanation": "Powerful emotional narratives activate imagination, identity, and shared meaning. These factors often determine whether ideas spread widely and shape collective behavior.",
+    "implications": [
+      "Movements require compelling narratives.",
+      "Facts alone rarely create mass action.",
+      "Shared emotional framing accelerates adoption.",
+      "Leadership depends partly on narrative skill."
+    ],
+    "related_concepts": [
+      "Collective psychology",
+      "Narrative persuasion",
+      "Social movements",
+      "Memetics"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00086",
+    "source_file": "part10.json"
+  },
+  {
+    "title": "Presentation Can Outperform Originality",
+    "type": "paradox",
+    "concise_statement": "Reframing known ideas compellingly can create more impact than discovering entirely new ideas.",
+    "detailed_explanation": "Many influential works succeed not because they contain groundbreaking information, but because they organize, simplify, and communicate existing knowledge more effectively than others.",
+    "implications": [
+      "Communication skill is a force multiplier.",
+      "Packaging affects perceived value.",
+      "Originality alone does not guarantee influence.",
+      "Simplicity and clarity improve adoption."
+    ],
+    "related_concepts": [
+      "Narrative framing",
+      "Communication design",
+      "Persuasion",
+      "Knowledge transmission"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00087",
+    "source_file": "part10.json"
+  },
+  {
+    "title": "People Remember Emotionally Charged Fragments",
+    "type": "behavioral_principle",
+    "concise_statement": "Memorable phrases and emotionally vivid moments disproportionately shape long-term recall.",
+    "detailed_explanation": "Human memory prioritizes emotionally resonant, simplified, and vivid information. A single compelling phrase can dominate collective memory more than entire volumes of analysis.",
+    "implications": [
+      "Memorable communication is concise and emotional.",
+      "Symbolic phrases can shape culture and history.",
+      "Emotional intensity improves retention.",
+      "Messaging strategy matters as much as content."
+    ],
+    "related_concepts": [
+      "Availability heuristic",
+      "Memory bias",
+      "Narrative psychology",
+      "Attention dynamics"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00088",
+    "source_file": "part10.json"
+  },
+  {
+    "title": "Good Storytelling Creates Asymmetric Rewards",
+    "type": "incentive",
+    "concise_statement": "People who combine useful ideas with compelling communication gain disproportionate influence and success.",
+    "detailed_explanation": "A strong narrative amplifies the reach and adoption of ideas. The combination of correctness and persuasive storytelling creates nonlinear social, economic, and cultural rewards.",
+    "implications": [
+      "Technical expertise alone may be insufficient.",
+      "Persuasive framing increases opportunity.",
+      "Influence compounds through communication quality.",
+      "Storytelling is a strategic advantage."
+    ],
+    "related_concepts": [
+      "Compounding influence",
+      "Attention economy",
+      "Persuasion",
+      "Narrative leverage"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00089",
+    "source_file": "part10.json"
+  },
+  {
+    "title": "Narrative Packaging Multiplies Impact",
+    "type": "mental_model",
+    "concise_statement": "The presentation of information often determines its influence more than the originality of the information itself.",
+    "detailed_explanation": "Ideas become widely adopted when they are emotionally engaging, memorable, and easy to understand. Existing knowledge can achieve massive impact when reorganized into compelling narratives.",
+    "implications": [
+      "Communication skill acts as leverage on knowledge.",
+      "Important ideas may fail due to poor presentation.",
+      "Influence depends partly on emotional accessibility.",
+      "Packaging affects perceived value."
+    ],
+    "related_concepts": [
+      "Narrative leverage",
+      "Persuasion",
+      "Attention economy",
+      "Communication design"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00090",
+    "source_file": "part11.json"
+  },
+  {
+    "title": "Emotion Amplifies Information Retention",
+    "type": "causal_relationship",
+    "concise_statement": "Information attached to emotion, imagery, or rhythm becomes more memorable and persuasive.",
+    "detailed_explanation": "Humans process emotionally vivid experiences more effectively than abstract facts. Music, imagery, pacing, and narrative structure strengthen memory formation and engagement.",
+    "implications": [
+      "Emotional framing improves teaching and persuasion.",
+      "Technical expertise alone may fail to influence audiences.",
+      "Narrative structure enhances retention.",
+      "Presentation style materially affects adoption."
+    ],
+    "related_concepts": [
+      "Memory bias",
+      "Narrative psychology",
+      "Emotional salience",
+      "Persuasion"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00091",
+    "source_file": "part11.json"
+  },
+  {
+    "title": "Storytelling Converts Complexity Into Intuition",
+    "type": "behavioral_principle",
+    "concise_statement": "Stories compress complicated ideas into intuitive mental models that humans can easily process.",
+    "detailed_explanation": "Complex systems and abstract concepts become understandable when translated into vivid analogies, metaphors, or narratives. Stories reduce cognitive load and increase comprehension.",
+    "implications": [
+      "Good communicators simplify without losing meaning.",
+      "Metaphors improve understanding of technical subjects.",
+      "Teaching effectiveness depends on narrative skill.",
+      "Complexity requires translation into human-scale experiences."
+    ],
+    "related_concepts": [
+      "Mental models",
+      "Analogy",
+      "Cognitive compression",
+      "Narrative framing"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00092",
+    "source_file": "part11.json"
+  },
+  {
+    "title": "Visibility Depends on Story Potential",
+    "type": "psychological_bias",
+    "concise_statement": "Events become culturally memorable when they contain compelling narratives, not necessarily when they are objectively most important.",
+    "detailed_explanation": "Humans selectively remember and discuss events with emotional, symbolic, or dramatic narrative structures. Comparable or larger events may be forgotten if they lack compelling storytelling elements.",
+    "implications": [
+      "Public attention is not proportional to objective importance.",
+      "Media coverage favors emotionally compelling stories.",
+      "Historical memory is shaped by narrative quality.",
+      "Awareness can diverge sharply from statistical significance."
+    ],
+    "related_concepts": [
+      "Availability heuristic",
+      "Narrative bias",
+      "Media psychology",
+      "Attention economics"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00093",
+    "source_file": "part11.json"
+  },
+  {
+    "title": "People Prefer Stories Over Raw Information",
+    "type": "behavioral_principle",
+    "concise_statement": "Humans are emotionally and cognitively wired to absorb narratives more easily than data or equations.",
+    "detailed_explanation": "Stories provide structure, emotion, causality, and meaning, allowing people to process information with less mental effort than abstract analysis or technical explanation.",
+    "implications": [
+      "Simplification increases audience engagement.",
+      "Technical correctness alone rarely wins attention.",
+      "Narrative framing affects belief formation.",
+      "Communication strategy is central to influence."
+    ],
+    "related_concepts": [
+      "Cognitive ease",
+      "Narrative psychology",
+      "Behavioral communication",
+      "Attention economy"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00094",
+    "source_file": "part11.json"
+  },
+  {
+    "title": "Valuation Depends on Future Narratives",
+    "type": "mental_model",
+    "concise_statement": "Financial valuations are partly stories about future possibilities layered onto current numbers.",
+    "detailed_explanation": "Market prices incorporate narratives about growth, innovation, and future potential. Investor psychology and storytelling materially affect asset valuations beyond current fundamentals.",
+    "implications": [
+      "Markets are influenced by collective imagination.",
+      "Narratives can temporarily overpower fundamentals.",
+      "Storytelling is a strategic business asset.",
+      "Understanding sentiment improves forecasting."
+    ],
+    "related_concepts": [
+      "Behavioral finance",
+      "Market psychology",
+      "Reflexivity",
+      "Narrative economics"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00095",
+    "source_file": "part11.json"
+  },
+  {
+    "title": "Humor Is Compressed Intelligence",
+    "type": "mental_model",
+    "concise_statement": "Humor effectively communicates deep insights by making complex truths emotionally accessible.",
+    "detailed_explanation": "Comedians succeed because they compress observations about psychology, society, and behavior into emotionally resonant narratives that audiences intuitively understand and remember.",
+    "implications": [
+      "Entertainment can transmit ideas more effectively than formal instruction.",
+      "Humor lowers resistance to difficult truths.",
+      "Emotional accessibility amplifies influence.",
+      "Insight without engagement often goes unnoticed."
+    ],
+    "related_concepts": [
+      "Narrative persuasion",
+      "Behavioral psychology",
+      "Communication leverage",
+      "Social cognition"
+    ],
+    "confidence_score": 0.96,
+    "concept_id": "PM_00096",
+    "source_file": "part11.json"
+  },
+  {
+    "title": "Stories Function as Cognitive Leverage",
+    "type": "compounding_principle",
+    "concise_statement": "Narratives dramatically increase the efficiency and reach of ideas.",
+    "detailed_explanation": "Stories act like leverage by allowing large amounts of information to be transmitted with minimal cognitive effort. A simple narrative can compress years of expertise into intuitive understanding.",
+    "implications": [
+      "Narrative skill scales influence nonlinearly.",
+      "Simple explanations often outperform exhaustive detail.",
+      "Communication efficiency compounds reach.",
+      "Leverage in ideas comes from clarity and memorability."
+    ],
+    "related_concepts": [
+      "Leverage",
+      "Compounding influence",
+      "Mental models",
+      "Communication efficiency"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00097",
+    "source_file": "part11.json"
+  },
+  {
+    "title": "Beliefs Shape Perception",
+    "type": "psychological_bias",
+    "concise_statement": "People are more likely to accept stories that align with what they already want to believe.",
+    "detailed_explanation": "Humans interpret evidence through preexisting emotional and cognitive frameworks. Stories confirming existing beliefs feel more persuasive regardless of evidentiary quality.",
+    "implications": [
+      "Confirmation bias strengthens persuasive narratives.",
+      "False stories can spread if emotionally satisfying.",
+      "Belief systems shape interpretation of evidence.",
+      "Narratives gain power when aligned with identity or desire."
+    ],
+    "related_concepts": [
+      "Confirmation bias",
+      "Motivated reasoning",
+      "Narrative psychology",
+      "Cognitive bias"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00098",
+    "source_file": "part11.json"
+  },
+  {
+    "title": "Shared Narratives Coordinate Collective Attention",
+    "type": "causal_relationship",
+    "concise_statement": "Stories synchronize emotions and focus across large groups of people.",
+    "detailed_explanation": "Powerful narratives create shared emotional reactions and collective interpretation frameworks, enabling coordination of attention, belief, and behavior across diverse audiences.",
+    "implications": [
+      "Narratives can shape culture and markets.",
+      "Leadership depends heavily on communication framing.",
+      "Collective action often requires shared stories.",
+      "Social cohesion is partly narrative-driven."
+    ],
+    "related_concepts": [
+      "Collective psychology",
+      "Social coordination",
+      "Memetics",
+      "Narrative economics"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00099",
+    "source_file": "part11.json"
+  },
+  {
+    "title": "Presentation Often Determines Perceived Truth",
+    "type": "behavioral_principle",
+    "concise_statement": "People frequently judge ideas by how persuasively they are presented rather than by their objective accuracy.",
+    "detailed_explanation": "Humans are heavily influenced by clarity, confidence, and narrative framing. Correct ideas can be ignored if poorly communicated, while weak ideas can gain traction through compelling presentation.",
+    "implications": [
+      "Communication skill creates asymmetric influence.",
+      "Marketing can overpower objective evaluation.",
+      "Critical thinking requires separating substance from presentation.",
+      "Persuasive delivery affects belief formation."
+    ],
+    "related_concepts": [
+      "Narrative persuasion",
+      "Halo effect",
+      "Attention economy",
+      "Behavioral communication"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00100",
+    "source_file": "part12.json"
+  },
+  {
+    "title": "Many Critical Forces Cannot Be Quantified",
+    "type": "mental_model",
+    "concise_statement": "Some of the most important drivers of outcomes are emotional, psychological, or social variables resistant to measurement.",
+    "detailed_explanation": "Human systems are shaped by motivations, morale, fear, identity, belief, and perception—factors that often evade precise measurement yet strongly influence real-world outcomes.",
+    "implications": [
+      "Purely quantitative models are incomplete.",
+      "Soft variables can dominate hard data.",
+      "Decision-making requires judgment beyond statistics.",
+      "Overreliance on metrics creates blind spots."
+    ],
+    "related_concepts": [
+      "Complex systems",
+      "Behavioral economics",
+      "Human psychology",
+      "Qualitative analysis"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00101",
+    "source_file": "part12.json"
+  },
+  {
+    "title": "Rational Models Fail in Irrational Environments",
+    "type": "risk_concept",
+    "concise_statement": "Systems based on rational assumptions break down when participants behave emotionally or irrationally.",
+    "detailed_explanation": "Many models assume actors maximize utility logically, but real humans are influenced by fear, ideology, ego, identity, and delusion. These factors can override rational incentives and invalidate analytical expectations.",
+    "implications": [
+      "Human irrationality is a structural risk factor.",
+      "Models should incorporate behavioral unpredictability.",
+      "Extreme outcomes often emerge from non-rational behavior.",
+      "Rational assumptions create dangerous blind spots."
+    ],
+    "related_concepts": [
+      "Behavioral finance",
+      "Reflexivity",
+      "Complex adaptive systems",
+      "Cognitive bias"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00102",
+    "source_file": "part12.json"
+  },
+  {
+    "title": "Unmeasured Variables Can Dominate Outcomes",
+    "type": "causal_relationship",
+    "concise_statement": "Factors excluded from measurement frameworks can become the decisive drivers of results.",
+    "detailed_explanation": "When organizations optimize only measurable metrics, they risk ignoring intangible forces that ultimately determine success or failure. The absence of measurement does not reduce importance.",
+    "implications": [
+      "Metrics can create false confidence.",
+      "Qualitative signals deserve serious attention.",
+      "Organizations should monitor human sentiment and incentives.",
+      "Blind spots often emerge from what cannot be quantified."
+    ],
+    "related_concepts": [
+      "Goodhart’s Law",
+      "Measurement bias",
+      "Systems thinking",
+      "Behavioral dynamics"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00103",
+    "source_file": "part12.json"
+  },
+  {
+    "title": "Anecdotes Sometimes Reveal Model Failure",
+    "type": "decision_rule",
+    "concise_statement": "When lived experience repeatedly contradicts data, the measurement system itself may be flawed.",
+    "detailed_explanation": "Data collection and models are abstractions that may omit critical variables. Persistent divergence between numerical analysis and real-world observations can signal incomplete measurement frameworks.",
+    "implications": [
+      "Do not blindly trust metrics.",
+      "Ground-truth observations remain valuable.",
+      "Data interpretation requires skepticism.",
+      "Human experience can identify hidden variables."
+    ],
+    "related_concepts": [
+      "Model risk",
+      "Measurement error",
+      "Qualitative insight",
+      "Empirical feedback"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00104",
+    "source_file": "part12.json"
+  },
+  {
+    "title": "Humans Discount What They Cannot Measure",
+    "type": "psychological_bias",
+    "concise_statement": "People tend to undervalue forces that resist quantification.",
+    "detailed_explanation": "Humans prefer measurable variables because they create an illusion of control and certainty. Intangible forces such as morale, fear, trust, and belief are often ignored despite their importance.",
+    "implications": [
+      "Organizations may optimize the wrong variables.",
+      "Important risks can remain invisible.",
+      "Soft skills and culture are often underestimated.",
+      "Quantification bias distorts decision-making."
+    ],
+    "related_concepts": [
+      "Measurement bias",
+      "Quantification bias",
+      "Behavioral economics",
+      "Model overconfidence"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00105",
+    "source_file": "part12.json"
+  },
+  {
+    "title": "Human Performance Depends on Perceived Stakes",
+    "type": "behavioral_principle",
+    "concise_statement": "People access different levels of capability depending on motivation, fear, and perceived importance.",
+    "detailed_explanation": "Physical and cognitive limits are not fixed constants. The brain regulates effort based on survival incentives, perceived reward, and contextual urgency, often preserving hidden reserve capacity.",
+    "implications": [
+      "Performance potential is context-dependent.",
+      "Motivation materially changes capability.",
+      "Stress and urgency can unlock hidden reserves.",
+      "Observed limits may not represent true limits."
+    ],
+    "related_concepts": [
+      "Behavioral adaptation",
+      "Survival instincts",
+      "Motivational psychology",
+      "Performance theory"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00106",
+    "source_file": "part12.json"
+  },
+  {
+    "title": "The Brain Prioritizes Survival Over Optimization",
+    "type": "survival_principle",
+    "concise_statement": "Human systems are designed to preserve survival margins rather than maximize output continuously.",
+    "detailed_explanation": "The brain intentionally limits exertion to avoid exhaustion and vulnerability. Apparent performance ceilings often reflect protective regulation rather than absolute physical constraints.",
+    "implications": [
+      "Humans operate with hidden reserve capacity.",
+      "Stress environments alter performance thresholds.",
+      "Perceived limits can shift under existential pressure.",
+      "Optimization models must account for self-preservation behavior."
+    ],
+    "related_concepts": [
+      "Homeostasis",
+      "Risk management",
+      "Behavioral adaptation",
+      "Evolutionary psychology"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00107",
+    "source_file": "part12.json"
+  },
+  {
+    "title": "Reality Often Defies Logical Consistency",
+    "type": "paradox",
+    "concise_statement": "Human behavior frequently violates rational expectations while still producing persistent real-world patterns.",
+    "detailed_explanation": "People routinely act emotionally, irrationally, or inconsistently relative to formal logic. Yet these irrational behaviors themselves form recurring behavioral structures that shape economies, wars, and markets.",
+    "implications": [
+      "Expect irrationality as a normal system feature.",
+      "Behavioral analysis is essential for forecasting.",
+      "Pure logic is insufficient in human systems.",
+      "Emotional forces create predictable unpredictability."
+    ],
+    "related_concepts": [
+      "Behavioral economics",
+      "Complex systems",
+      "Reflexivity",
+      "Cognitive bias"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00108",
+    "source_file": "part12.json"
+  },
+  {
+    "title": "The Most Important Variables Are Often Hidden",
+    "type": "mental_model",
+    "concise_statement": "Visible metrics frequently explain less than invisible psychological and social dynamics.",
+    "detailed_explanation": "Surface-level numbers may create the illusion of understanding while deeper motivational, emotional, and cultural variables determine actual outcomes. Human systems are partially opaque by nature.",
+    "implications": [
+      "Deep understanding requires qualitative interpretation.",
+      "Metrics should be treated as incomplete proxies.",
+      "Cultural and emotional context matters enormously.",
+      "Invisible forces can dominate visible structures."
+    ],
+    "related_concepts": [
+      "Hidden variables",
+      "Systems thinking",
+      "Behavioral complexity",
+      "Qualitative analysis"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00109",
+    "source_file": "part12.json"
+  },
+  {
+    "title": "Human Capability Is Context-Dependent",
+    "type": "behavioral_principle",
+    "concise_statement": "Performance depends not only on physical or technical ability, but on emotional context, incentives, and perceived stakes.",
+    "detailed_explanation": "Humans do not operate like machines with fixed output levels. Motivation, fear, urgency, social pressure, and reward perception alter what people are capable of achieving in any given moment.",
+    "implications": [
+      "Observed performance limits are situational.",
+      "Stress and incentives can unlock hidden capacity.",
+      "Real-world outcomes cannot be fully predicted from laboratory conditions.",
+      "Human systems require psychological analysis alongside technical analysis."
+    ],
+    "related_concepts": [
+      "Behavioral adaptation",
+      "Motivational psychology",
+      "Animal spirits",
+      "Performance theory"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00110",
+    "source_file": "part13.json"
+  },
+  {
+    "title": "Economies and Markets Are Emotional Systems",
+    "type": "mental_model",
+    "concise_statement": "Financial systems are driven as much by emotions and narratives as by measurable fundamentals.",
+    "detailed_explanation": "Market valuations reflect collective hopes, fears, beliefs, and stories about the future. Numerical fundamentals matter, but investor psychology often dominates short- and medium-term outcomes.",
+    "implications": [
+      "Markets cannot be understood through spreadsheets alone.",
+      "Investor sentiment materially affects valuations.",
+      "Narratives can overpower fundamentals temporarily or for long periods.",
+      "Forecasting requires psychological interpretation."
+    ],
+    "related_concepts": [
+      "Behavioral finance",
+      "Narrative economics",
+      "Animal spirits",
+      "Reflexivity"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00111",
+    "source_file": "part13.json"
+  },
+  {
+    "title": "Faith and Belief Are Economic Variables",
+    "type": "causal_relationship",
+    "concise_statement": "Confidence and belief can determine economic outcomes even when objective fundamentals remain unchanged.",
+    "detailed_explanation": "Financial systems often depend on collective trust. A sudden loss or gain of belief can radically alter outcomes independent of measurable fundamentals, because participation itself depends on confidence.",
+    "implications": [
+      "Liquidity and funding depend partly on psychology.",
+      "Confidence crises can emerge rapidly.",
+      "Trust is an invisible but critical economic input.",
+      "Sentiment shifts can overwhelm fundamentals."
+    ],
+    "related_concepts": [
+      "Bank runs",
+      "Reflexivity",
+      "Market psychology",
+      "Systemic risk"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00112",
+    "source_file": "part13.json"
+  },
+  {
+    "title": "Economic Value Is Subjective",
+    "type": "mental_model",
+    "concise_statement": "Value exists because people desire something, regardless of whether the desire appears rational.",
+    "detailed_explanation": "Markets reflect subjective human preferences rather than objective utility alone. Emotional attachment, social identity, speculation, and cultural narratives can all generate economic value.",
+    "implications": [
+      "Markets are inherently psychological.",
+      "Perceived irrationality can still produce real prices.",
+      "Understanding demand requires understanding human behavior.",
+      "Valuation depends partly on collective belief systems."
+    ],
+    "related_concepts": [
+      "Subjective value theory",
+      "Behavioral economics",
+      "Market psychology",
+      "Narrative valuation"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00113",
+    "source_file": "part13.json"
+  },
+  {
+    "title": "Overconfidence in Models Creates Fragility",
+    "type": "risk_concept",
+    "concise_statement": "Rigid reliance on quantitative models increases vulnerability to unpredictable human behavior.",
+    "detailed_explanation": "Models simplify reality and often exclude emotional, irrational, or social variables. Excessive trust in models creates blind spots that become dangerous during unusual or emotionally charged conditions.",
+    "implications": [
+      "Risk management should include uncertainty buffers.",
+      "Models should be treated as approximations, not truth.",
+      "Qualitative judgment remains essential.",
+      "Unexpected outcomes are structurally unavoidable."
+    ],
+    "related_concepts": [
+      "Model risk",
+      "Black swans",
+      "Behavioral uncertainty",
+      "Complex systems"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00114",
+    "source_file": "part13.json"
+  },
+  {
+    "title": "Reality Often Diverges From Rational Expectations",
+    "type": "paradox",
+    "concise_statement": "Human systems frequently behave irrationally while still producing persistent recurring patterns.",
+    "detailed_explanation": "People act emotionally, socially, and impulsively in ways that violate rational models. Yet these irrational behaviors repeat consistently enough to become enduring system characteristics.",
+    "implications": [
+      "Irrationality is a normal market feature.",
+      "Pure logic is insufficient for forecasting.",
+      "Emotional dynamics create recurring cycles.",
+      "Unexpected behavior should be expected."
+    ],
+    "related_concepts": [
+      "Behavioral economics",
+      "Complex systems",
+      "Reflexivity",
+      "Cognitive bias"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00115",
+    "source_file": "part13.json"
+  },
+  {
+    "title": "Different Incentives Create Different Rationalities",
+    "type": "behavioral_principle",
+    "concise_statement": "What appears irrational from one perspective may be perfectly rational given another person's incentives and time horizon.",
+    "detailed_explanation": "Individuals and institutions operate under different goals, constraints, incentives, and survival pressures. Actions that seem foolish externally may align logically with internal incentives.",
+    "implications": [
+      "Understanding incentives improves prediction.",
+      "Behavior must be interpreted contextually.",
+      "Conflicts often arise from mismatched time horizons.",
+      "There is rarely a universally rational decision."
+    ],
+    "related_concepts": [
+      "Incentive structures",
+      "Game theory",
+      "Behavioral economics",
+      "Agency problems"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00116",
+    "source_file": "part13.json"
+  },
+  {
+    "title": "Financial Bubbles Are Incentive-Driven",
+    "type": "causal_relationship",
+    "concise_statement": "People sustain bubbles because participating is highly rewarding while the boom lasts.",
+    "detailed_explanation": "Economic bubbles persist because participants profit socially, psychologically, and financially from continuing the cycle. Incentives distort judgment and encourage self-delusion.",
+    "implications": [
+      "Booms persist longer than logic suggests.",
+      "Participants may believe narratives they financially benefit from.",
+      "Incentives can overpower skepticism.",
+      "Bubble dynamics are socially reinforced."
+    ],
+    "related_concepts": [
+      "Moral hazard",
+      "Behavioral finance",
+      "Reflexivity",
+      "Speculative bubbles"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00117",
+    "source_file": "part13.json"
+  },
+  {
+    "title": "Stories Overpower Statistics During Emotional Periods",
+    "type": "psychological_bias",
+    "concise_statement": "Emotionally vivid narratives dominate abstract statistical reasoning.",
+    "detailed_explanation": "Humans are more persuaded by relatable stories and visible examples than by statistical probabilities. Emotional salience overwhelms analytical abstraction during decision-making.",
+    "implications": [
+      "Narratives can fuel bubbles and panics.",
+      "Statistical warnings may be ignored during booms.",
+      "Personal anecdotes influence decisions disproportionately.",
+      "Communication framing shapes collective behavior."
+    ],
+    "related_concepts": [
+      "Availability heuristic",
+      "Narrative bias",
+      "Behavioral finance",
+      "Storytelling"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00118",
+    "source_file": "part13.json"
+  },
+  {
+    "title": "Greed and Fear Move in Cycles",
+    "type": "compounding_principle",
+    "concise_statement": "Human psychology oscillates predictably between excessive optimism and excessive pessimism.",
+    "detailed_explanation": "Periods of success encourage complacency and overconfidence, while periods of crisis generate fear and despair. Each emotional extreme plants the conditions for its opposite.",
+    "implications": [
+      "Market cycles are psychologically driven.",
+      "Emotional extremes create future reversals.",
+      "Crowd behavior amplifies cyclical instability.",
+      "Contrarian thinking becomes valuable at extremes."
+    ],
+    "related_concepts": [
+      "Market cycles",
+      "Reflexivity",
+      "Behavioral finance",
+      "Mean reversion"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00119",
+    "source_file": "part13.json"
+  },
+  {
+    "title": "Stability Creates Instability",
+    "type": "mental_model",
+    "concise_statement": "Periods of prolonged calm encourage behaviors that eventually generate fragility and crisis.",
+    "detailed_explanation": "When systems appear stable, people become more optimistic, take greater risks, use more leverage, and reduce safety margins. This accumulation of hidden fragility eventually makes the system vulnerable to shocks.",
+    "implications": [
+      "Long calm periods should increase caution, not complacency.",
+      "Risk accumulates invisibly during prosperous times.",
+      "Stability can encourage excessive leverage and speculation.",
+      "Booms naturally contain the seeds of future busts."
+    ],
+    "related_concepts": [
+      "Minsky instability hypothesis",
+      "Reflexivity",
+      "Behavioral finance",
+      "Systemic fragility"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00120",
+    "source_file": "part14.json"
+  },
+  {
+    "title": "Calm Plants the Seeds of Crisis",
+    "type": "causal_relationship",
+    "concise_statement": "Perceived safety encourages behaviors that increase future vulnerability.",
+    "detailed_explanation": "When people believe danger has disappeared, they reduce preparedness, ignore warnings, and optimize aggressively. This creates fragile systems highly sensitive to unexpected disruptions.",
+    "implications": [
+      "Perceived safety can become dangerous.",
+      "Complacency increases systemic risk.",
+      "Warnings are hardest to hear during stable periods.",
+      "Preparation declines when threats seem distant."
+    ],
+    "related_concepts": [
+      "Complacency risk",
+      "Tail risk",
+      "System fragility",
+      "Behavioral adaptation"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00121",
+    "source_file": "part14.json"
+  },
+  {
+    "title": "High Valuations Reduce Error Tolerance",
+    "type": "risk_concept",
+    "concise_statement": "The more optimized and expensive systems become, the less room they have for surprise or disappointment.",
+    "detailed_explanation": "When expectations become excessively optimistic and assets are priced for perfection, even small negative surprises can trigger disproportionate instability.",
+    "implications": [
+      "Overvaluation increases sensitivity to shocks.",
+      "High expectations amplify downside risk.",
+      "Fragility rises when systems lose slack.",
+      "Risk grows during periods of confidence."
+    ],
+    "related_concepts": [
+      "Tail risk",
+      "Behavioral finance",
+      "Reflexivity",
+      "Valuation risk"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00122",
+    "source_file": "part14.json"
+  },
+  {
+    "title": "Success Breeds Complacency",
+    "type": "behavioral_principle",
+    "concise_statement": "The behaviors that create success are often abandoned after success is achieved.",
+    "detailed_explanation": "Discipline, caution, paranoia, and vigilance often drive early success. Once success arrives, people reduce these protective behaviors because maintaining them feels stressful or unnecessary.",
+    "implications": [
+      "Long-term success requires preserving productive discipline.",
+      "Comfort can undermine resilience.",
+      "Success creates psychological vulnerability.",
+      "Organizations decay when vigilance disappears."
+    ],
+    "related_concepts": [
+      "Complacency",
+      "Behavioral drift",
+      "Risk management",
+      "Organizational decline"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00123",
+    "source_file": "part14.json"
+  },
+  {
+    "title": "Preparedness Declines When Risks Fade From Memory",
+    "type": "causal_relationship",
+    "concise_statement": "As threats become historically distant, societies psychologically and structurally underprepare for them.",
+    "detailed_explanation": "Humans anchor expectations to recent experience. When disasters become rare, people gradually stop allocating attention, resources, and emotional readiness toward them.",
+    "implications": [
+      "Historical memory influences resilience.",
+      "Risk awareness decays over time.",
+      "Rare events become psychologically unimaginable.",
+      "Preparedness requires institutional memory."
+    ],
+    "related_concepts": [
+      "Recency bias",
+      "Historical amnesia",
+      "Risk perception",
+      "Behavioral adaptation"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00124",
+    "source_file": "part14.json"
+  },
+  {
+    "title": "Good Conditions Can Generate Future Disasters",
+    "type": "paradox",
+    "concise_statement": "Positive developments can unintentionally create conditions for later negative outcomes.",
+    "detailed_explanation": "Improvements and abundance often alter incentives and system structures in ways that increase future vulnerability. Excessive growth, comfort, or optimization can become destabilizing.",
+    "implications": [
+      "Second-order effects matter enormously.",
+      "Benefits can create hidden future costs.",
+      "Systems require balance, not maximal optimization.",
+      "Short-term success can increase long-term fragility."
+    ],
+    "related_concepts": [
+      "Second-order thinking",
+      "Complex systems",
+      "Unintended consequences",
+      "Feedback loops"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00125",
+    "source_file": "part14.json"
+  },
+  {
+    "title": "Excess Naturally Produces Its Opposite",
+    "type": "mental_model",
+    "concise_statement": "Extreme conditions tend to generate forces that reverse or counteract them.",
+    "detailed_explanation": "When any condition becomes excessive—optimism, pessimism, growth, fear, stability, abundance—it often creates imbalances that eventually trigger an opposing reaction.",
+    "implications": [
+      "Extremes are inherently unstable.",
+      "Balance is more sustainable than maximization.",
+      "Cycles emerge naturally from excess.",
+      "Contrarian thinking becomes valuable near extremes."
+    ],
+    "related_concepts": [
+      "Mean reversion",
+      "Enantiodromia",
+      "Behavioral cycles",
+      "Reflexivity"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00126",
+    "source_file": "part14.json"
+  },
+  {
+    "title": "Human Psychology Anchors to Recent Conditions",
+    "type": "psychological_bias",
+    "concise_statement": "People assume recent conditions are normal and project them into the future.",
+    "detailed_explanation": "Humans adapt quickly to current environments and underestimate how different conditions were historically or could become again. This creates blind spots around rare but recurring risks.",
+    "implications": [
+      "People underestimate low-frequency risks.",
+      "Historical perspective improves resilience.",
+      "Recent calm distorts future expectations.",
+      "Risk perception is heavily time-dependent."
+    ],
+    "related_concepts": [
+      "Recency bias",
+      "Availability heuristic",
+      "Historical amnesia",
+      "Behavioral finance"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00127",
+    "source_file": "part14.json"
+  },
+  {
+    "title": "Warnings Lose Power During Prosperity",
+    "type": "behavioral_principle",
+    "concise_statement": "The safer people feel, the less attention they pay to warnings about future danger.",
+    "detailed_explanation": "When systems function smoothly for extended periods, warnings appear paranoid, unnecessary, or irrational. Success itself reduces receptiveness to cautionary signals.",
+    "implications": [
+      "Preventive systems become politically vulnerable during calm periods.",
+      "Long-term preparedness is difficult to sustain socially.",
+      "Crisis prevention paradoxically undermines itself.",
+      "Invisible success is often undervalued."
+    ],
+    "related_concepts": [
+      "Complacency",
+      "Prevention paradox",
+      "Behavioral adaptation",
+      "Risk blindness"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00128",
+    "source_file": "part14.json"
+  },
+  {
+    "title": "Discovering Limits Requires Overshooting",
+    "type": "survival_principle",
+    "concise_statement": "Progress and adaptation often require pushing beyond perceived safe or rational boundaries.",
+    "detailed_explanation": "Humans and systems frequently overshoot in both optimism and pessimism because boundaries of possibility are only discovered through experimentation beyond established limits.",
+    "implications": [
+      "Cycles are partly mechanisms of discovery.",
+      "Excess is difficult to eliminate entirely.",
+      "Innovation often involves temporary instability.",
+      "Human systems naturally oscillate around sustainable limits."
+    ],
+    "related_concepts": [
+      "Exploration versus exploitation",
+      "Adaptive systems",
+      "Risk-taking",
+      "Behavioral cycles"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00129",
+    "source_file": "part14.json"
+  },
+  {
+    "title": "Markets Discover Limits Through Overshooting",
+    "type": "mental_model",
+    "concise_statement": "The only way markets discover valuation boundaries is by pushing beyond sustainable extremes.",
+    "detailed_explanation": "Financial markets repeatedly move past rational valuation levels because participants constantly test how far optimism or pessimism can extend. Limits are only visible in hindsight after excess collapses.",
+    "implications": [
+      "Bubbles are structurally unavoidable.",
+      "Extreme valuations are part of price discovery.",
+      "Market tops cannot be identified precisely in advance.",
+      "Human psychology naturally pushes systems beyond equilibrium."
+    ],
+    "related_concepts": [
+      "Reflexivity",
+      "Behavioral finance",
+      "Speculative bubbles",
+      "Market cycles"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00130",
+    "source_file": "part15.json"
+  },
+  {
+    "title": "Crazy Does Not Mean Broken",
+    "type": "behavioral_principle",
+    "concise_statement": "Extreme market behavior is a recurring feature of human systems, not evidence that markets have stopped functioning.",
+    "detailed_explanation": "Periods of irrational optimism, panic, speculation, and narrative-driven pricing appear repeatedly throughout history. These behaviors are normal consequences of collective human psychology.",
+    "implications": [
+      "Do not expect markets to remain permanently rational.",
+      "Volatility and speculation are enduring system features.",
+      "Historical perspective reduces emotional overreaction.",
+      "Investor psychology is inseparable from markets."
+    ],
+    "related_concepts": [
+      "Behavioral finance",
+      "Market psychology",
+      "Speculative excess",
+      "Historical cycles"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00131",
+    "source_file": "part15.json"
+  },
+  {
+    "title": "Enough Is a Strategic Advantage",
+    "type": "survival_principle",
+    "concise_statement": "Knowing when sufficient success has been achieved prevents destructive overreach.",
+    "detailed_explanation": "Many catastrophic failures emerge from pushing beyond already satisfactory outcomes in pursuit of marginal gains. Accepting 'enough' preserves resilience and reduces exposure to ruin.",
+    "implications": [
+      "Long-term compounding benefits from restraint.",
+      "Greed increases fragility.",
+      "Sustainable success often requires limiting ambition.",
+      "Avoiding ruin matters more than maximizing upside."
+    ],
+    "related_concepts": [
+      "Margin of safety",
+      "Compounding",
+      "Risk management",
+      "Behavioral discipline"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00132",
+    "source_file": "part15.json"
+  },
+  {
+    "title": "Most Systems Have Natural Scaling Limits",
+    "type": "mental_model",
+    "concise_statement": "Processes and systems often break when pushed beyond their optimal size or speed.",
+    "detailed_explanation": "Growth changes structural dynamics. Systems optimized for one scale may become unstable, inefficient, or fragile when expanded too rapidly or excessively.",
+    "implications": [
+      "Growth introduces nonlinear risks.",
+      "Scaling requires structural adaptation.",
+      "Optimization at one size may fail at another.",
+      "Expansion should respect system constraints."
+    ],
+    "related_concepts": [
+      "Complex systems",
+      "Scaling laws",
+      "Fragility",
+      "Nonlinear effects"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00133",
+    "source_file": "part15.json"
+  },
+  {
+    "title": "Good Ideas Become Dangerous When Forced Too Fast",
+    "type": "risk_concept",
+    "concise_statement": "Accelerating a successful process beyond its natural pace often destroys the original advantage.",
+    "detailed_explanation": "Attempts to maximize speed, scale, or output frequently create quality deterioration, hidden fragility, and operational breakdown because systems require time for adaptation and stability.",
+    "implications": [
+      "Rapid growth can undermine sustainability.",
+      "Patience is a structural advantage.",
+      "Forced acceleration increases hidden risks.",
+      "Natural pacing preserves long-term performance."
+    ],
+    "related_concepts": [
+      "Overoptimization",
+      "Scaling risk",
+      "Organizational fragility",
+      "Compounding"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00134",
+    "source_file": "part15.json"
+  },
+  {
+    "title": "Long-Term Investing Has a Natural Time Horizon",
+    "type": "decision_rule",
+    "concise_statement": "Investing rewards patience disproportionately and punishes attempts to compress returns into short periods.",
+    "detailed_explanation": "Markets contain significant short-term randomness but strong long-term upward tendencies. Attempting to accelerate wealth creation increases dependence on luck and exposure to ruin.",
+    "implications": [
+      "Long horizons reduce randomness.",
+      "Short-term speculation increases fragility.",
+      "Compounding requires time more than precision.",
+      "Patience is an investing edge."
+    ],
+    "related_concepts": [
+      "Compounding",
+      "Risk management",
+      "Time horizon",
+      "Behavioral finance"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00135",
+    "source_file": "part15.json"
+  },
+  {
+    "title": "Compression of Time Increases Risk",
+    "type": "causal_relationship",
+    "concise_statement": "The faster people try to achieve outcomes, the more they rely on leverage, luck, and fragility.",
+    "detailed_explanation": "Compressing natural processes forces systems into unstable states by increasing stress, reducing recovery capacity, and amplifying exposure to randomness.",
+    "implications": [
+      "Impatience magnifies downside risk.",
+      "Fast gains often require unsustainable methods.",
+      "Leverage is frequently a symptom of time compression.",
+      "Sustainable growth respects temporal constraints."
+    ],
+    "related_concepts": [
+      "Leverage",
+      "Fragility",
+      "Compounding",
+      "Risk asymmetry"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00136",
+    "source_file": "part15.json"
+  },
+  {
+    "title": "Growth Incentives Can Corrupt Quality",
+    "type": "incentive",
+    "concise_statement": "Pressure for continuous expansion often causes organizations to sacrifice the qualities that made them successful.",
+    "detailed_explanation": "Organizations pursuing aggressive growth targets may prioritize scale over experience, quality, or sustainability. Expansion incentives can gradually dilute core strengths.",
+    "implications": [
+      "Growth metrics can distort decision-making.",
+      "Scaling may reduce authenticity or quality.",
+      "Incentive structures shape organizational decline.",
+      "Sustainable businesses balance expansion with preservation."
+    ],
+    "related_concepts": [
+      "Goodhart’s Law",
+      "Organizational drift",
+      "Scaling risk",
+      "Incentive misalignment"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00137",
+    "source_file": "part15.json"
+  },
+  {
+    "title": "Human Desire Constantly Tests Boundaries",
+    "type": "behavioral_principle",
+    "concise_statement": "People repeatedly push systems past reasonable limits because the possibility of more reward always attracts experimentation.",
+    "detailed_explanation": "The pursuit of wealth, status, or advantage motivates humans to continually test how far opportunities can extend, even when risks rise sharply.",
+    "implications": [
+      "Speculative excess is structurally recurring.",
+      "Boundaries are discovered experimentally, not theoretically.",
+      "Greed amplifies systemic volatility.",
+      "Extreme outcomes are unavoidable in competitive systems."
+    ],
+    "related_concepts": [
+      "Speculation",
+      "Behavioral finance",
+      "Risk-taking",
+      "Market cycles"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00138",
+    "source_file": "part15.json"
+  },
+  {
+    "title": "Optimization Beyond Balance Creates Fragility",
+    "type": "paradox",
+    "concise_statement": "Pursuing maximum performance often reduces overall system durability.",
+    "detailed_explanation": "Systems optimized aggressively for speed, efficiency, or growth lose redundancy and resilience. What appears strongest during favorable conditions becomes most vulnerable during stress.",
+    "implications": [
+      "Efficiency and resilience often conflict.",
+      "Redundancy is strategically valuable.",
+      "Balanced systems outperform overoptimized systems long term.",
+      "Excessive optimization magnifies collapse risk."
+    ],
+    "related_concepts": [
+      "Antifragility",
+      "System fragility",
+      "Risk management",
+      "Complex systems"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00139",
+    "source_file": "part15.json"
+  },
+  {
+    "title": "Growth Is a Tactic, Not a Strategy",
+    "type": "mental_model",
+    "concise_statement": "Pursuing growth without preserving underlying quality eventually destroys the system being expanded.",
+    "detailed_explanation": "Growth becomes dangerous when it turns into an end in itself rather than a byproduct of sustainable value creation. Rapid expansion often weakens culture, product quality, customer experience, and operational resilience.",
+    "implications": [
+      "Growth should remain subordinate to sustainability.",
+      "Scaling too fast can dilute core strengths.",
+      "Organizations must preserve structural integrity during expansion.",
+      "Long-term durability often conflicts with aggressive expansion targets."
+    ],
+    "related_concepts": [
+      "Scaling limits",
+      "Organizational drift",
+      "System fragility",
+      "Incentive misalignment"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00140",
+    "source_file": "part16.json"
+  },
+  {
+    "title": "Most Systems Have an Optimal Scale",
+    "type": "risk_concept",
+    "concise_statement": "Beyond a certain size or speed, systems become less efficient, less stable, and harder to manage.",
+    "detailed_explanation": "Processes, organizations, relationships, and biological systems often function best within specific ranges of scale. Excessive growth changes dynamics in nonlinear ways and creates structural weaknesses.",
+    "implications": [
+      "Scaling requires redesign, not simple expansion.",
+      "Large systems face coordination and quality-control problems.",
+      "Efficiency gains can reverse beyond optimal scale.",
+      "Growth introduces hidden complexity."
+    ],
+    "related_concepts": [
+      "Complex systems",
+      "Scaling laws",
+      "Fragility",
+      "Nonlinear dynamics"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00141",
+    "source_file": "part16.json"
+  },
+  {
+    "title": "Rapid Expansion Often Weakens Durability",
+    "type": "causal_relationship",
+    "concise_statement": "Fast growth frequently sacrifices maintenance, resilience, and long-term health.",
+    "detailed_explanation": "Accelerated growth diverts resources away from repair, stability, and structural strengthening. Systems that grow too quickly often appear strong temporarily while accumulating hidden fragility.",
+    "implications": [
+      "Short-term acceleration can reduce lifespan.",
+      "Maintenance is essential for sustainable growth.",
+      "Durability requires pacing.",
+      "Fast growth may conceal future instability."
+    ],
+    "related_concepts": [
+      "System fragility",
+      "Compounding",
+      "Maintenance versus expansion",
+      "Biological trade-offs"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00142",
+    "source_file": "part16.json"
+  },
+  {
+    "title": "Patience Creates Strength",
+    "type": "compounding_principle",
+    "concise_statement": "Slow, steady development often produces stronger and more durable outcomes than rapid acceleration.",
+    "detailed_explanation": "Systems allowed to mature gradually gain structural density, resilience, and adaptability. Time permits repair, refinement, and compounding improvements that rushed growth bypasses.",
+    "implications": [
+      "Durability compounds slowly.",
+      "Patience is a structural advantage.",
+      "Long-term quality requires time to mature.",
+      "Stable compounding often outperforms rapid expansion."
+    ],
+    "related_concepts": [
+      "Compounding",
+      "Long-termism",
+      "Antifragility",
+      "Sustainable growth"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00143",
+    "source_file": "part16.json"
+  },
+  {
+    "title": "Artificial Acceleration Creates Hidden Costs",
+    "type": "paradox",
+    "concise_statement": "Forcing faster progress often produces weaker outcomes despite appearing more productive initially.",
+    "detailed_explanation": "Artificially accelerating systems may increase visible short-term performance while reducing hidden qualities such as resilience, repair capacity, and adaptability.",
+    "implications": [
+      "Optimization can undermine longevity.",
+      "Fast success may conceal structural weakness.",
+      "Artificial growth trades future stability for present gains.",
+      "Sustainable systems require recovery capacity."
+    ],
+    "related_concepts": [
+      "Overoptimization",
+      "Fragility",
+      "Trade-offs",
+      "Biological scaling"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00144",
+    "source_file": "part16.json"
+  },
+  {
+    "title": "Different Scales Require Different Behaviors",
+    "type": "mental_model",
+    "concise_statement": "Strategies and leadership styles effective at one scale often fail at another.",
+    "detailed_explanation": "As systems grow, coordination complexity, incentives, communication, and cultural dynamics change fundamentally. Behaviors optimal for small groups may become destructive in larger organizations.",
+    "implications": [
+      "Leadership must evolve with scale.",
+      "Small-system intuition can fail in large systems.",
+      "Organizational growth changes incentive structures.",
+      "Adaptation is required during scaling transitions."
+    ],
+    "related_concepts": [
+      "Complexity theory",
+      "Organizational dynamics",
+      "Scaling risk",
+      "Leadership adaptation"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00145",
+    "source_file": "part16.json"
+  },
+  {
+    "title": "Scarcity Increases Perceived Value",
+    "type": "behavioral_principle",
+    "concise_statement": "Things become more meaningful and admired when they require time and rarity to develop.",
+    "detailed_explanation": "Humans psychologically value outcomes that are difficult to obtain, slow to build, or uncommon. Excessive scaling and acceleration can reduce uniqueness and emotional attachment.",
+    "implications": [
+      "Abundance can dilute value perception.",
+      "Patience contributes to admiration.",
+      "Overexpansion can weaken brand identity.",
+      "Scarcity amplifies emotional significance."
+    ],
+    "related_concepts": [
+      "Scarcity principle",
+      "Behavioral economics",
+      "Status signaling",
+      "Perceived value"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00146",
+    "source_file": "part16.json"
+  },
+  {
+    "title": "Impatience Is an Enemy of Creativity",
+    "type": "psychological_bias",
+    "concise_statement": "The desire for immediate results often disrupts deep creative and developmental processes.",
+    "detailed_explanation": "Creativity and mastery require experimentation, incubation, refinement, and patience. Impatience pressures systems toward premature output and superficial results.",
+    "implications": [
+      "Creative work benefits from extended time horizons.",
+      "Rushed execution reduces originality and depth.",
+      "Pressure for quick results harms craftsmanship.",
+      "Patience is essential for complex development."
+    ],
+    "related_concepts": [
+      "Delayed gratification",
+      "Creative incubation",
+      "Compounding",
+      "Behavioral discipline"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00147",
+    "source_file": "part16.json"
+  },
+  {
+    "title": "Stress and Crisis Accelerate Social Change",
+    "type": "causal_relationship",
+    "concise_statement": "Major reforms and innovations often emerge during periods of pain, urgency, and collective shock.",
+    "detailed_explanation": "Humans resist change during stable periods but become highly adaptive during crises when the cost of inaction becomes intolerable. Stress focuses attention and mobilizes action.",
+    "implications": [
+      "Crisis creates political and social momentum.",
+      "Pain lowers resistance to reform.",
+      "Urgency accelerates innovation.",
+      "Transformational change often follows disaster."
+    ],
+    "related_concepts": [
+      "Creative destruction",
+      "Adaptive pressure",
+      "Crisis response",
+      "Behavioral adaptation"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00148",
+    "source_file": "part16.json"
+  },
+  {
+    "title": "Discomfort Concentrates Human Attention",
+    "type": "survival_principle",
+    "concise_statement": "Stress and fear focus attention and motivate action more powerfully than comfort and stability.",
+    "detailed_explanation": "Humans evolved to respond intensely to threats and discomfort. Painful situations prioritize adaptation, innovation, and cooperation in ways that stable conditions rarely achieve.",
+    "implications": [
+      "Motivation often increases during adversity.",
+      "Comfort can reduce urgency and innovation.",
+      "Stress can catalyze breakthrough behavior.",
+      "Adaptive responses intensify under pressure."
+    ],
+    "related_concepts": [
+      "Survival psychology",
+      "Adaptive systems",
+      "Motivational pressure",
+      "Crisis-driven innovation"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00149",
+    "source_file": "part16.json"
+  },
+  {
+    "title": "Urgency Is a Powerful Innovation Engine",
+    "type": "causal_relationship",
+    "concise_statement": "The most important innovations often emerge when consequences of failure become intolerably high.",
+    "detailed_explanation": "Humans innovate most aggressively under conditions of existential pressure, fear, scarcity, or survival risk. Urgency eliminates procrastination, increases focus, and justifies extraordinary resource allocation and collaboration.",
+    "implications": [
+      "Crisis accelerates technological progress.",
+      "Strong incentives unlock hidden capabilities.",
+      "Innovation speed increases when survival is at stake.",
+      "Pressure can outperform comfort as a motivator."
+    ],
+    "related_concepts": [
+      "Adaptive pressure",
+      "Survival incentives",
+      "Crisis-driven innovation",
+      "Behavioral motivation"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00150",
+    "source_file": "part17.json"
+  },
+  {
+    "title": "Innovation Follows Incentive Intensity",
+    "type": "mental_model",
+    "concise_statement": "The scale and speed of innovation depend heavily on the urgency and importance of the underlying problem.",
+    "detailed_explanation": "People solve problems fastest when incentives become overwhelming. Mild incentives produce incremental improvements, while existential incentives produce extraordinary breakthroughs.",
+    "implications": [
+      "Resource commitment follows perceived importance.",
+      "Innovation is often constrained more by incentives than intelligence.",
+      "Critical problems attract disproportionate effort.",
+      "High-stakes environments accelerate experimentation."
+    ],
+    "related_concepts": [
+      "Incentive structures",
+      "Behavioral economics",
+      "Problem-solving",
+      "Motivational psychology"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00151",
+    "source_file": "part17.json"
+  },
+  {
+    "title": "Stress Focuses Human Attention",
+    "type": "behavioral_principle",
+    "concise_statement": "Fear and pressure narrow attention toward immediate priorities and reduce distraction.",
+    "detailed_explanation": "Under stress, humans prioritize survival-relevant tasks with heightened concentration. Urgency suppresses procrastination and indecision by making consequences vivid and immediate.",
+    "implications": [
+      "Moderate stress can improve execution.",
+      "Urgency increases focus and decisiveness.",
+      "Comfort often reduces adaptive energy.",
+      "Pressure can reveal hidden capability."
+    ],
+    "related_concepts": [
+      "Survival psychology",
+      "Adaptive behavior",
+      "Motivational focus",
+      "Stress response"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00152",
+    "source_file": "part17.json"
+  },
+  {
+    "title": "Necessity Drives Efficiency",
+    "type": "behavioral_principle",
+    "concise_statement": "Scarcity and hardship force people to discover more efficient ways of operating.",
+    "detailed_explanation": "When resources become constrained, individuals and organizations are compelled to innovate, simplify, optimize, and eliminate waste in order to survive.",
+    "implications": [
+      "Constraint often improves creativity.",
+      "Efficiency gains frequently emerge during downturns.",
+      "Prosperity can hide inefficiencies.",
+      "Resource scarcity sharpens problem-solving."
+    ],
+    "related_concepts": [
+      "Creative destruction",
+      "Adaptive pressure",
+      "Constraint-driven innovation",
+      "Economic efficiency"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00153",
+    "source_file": "part17.json"
+  },
+  {
+    "title": "Big Problems Unlock Extraordinary Collaboration",
+    "type": "causal_relationship",
+    "concise_statement": "Existential threats reduce barriers to coordination, funding, and experimentation.",
+    "detailed_explanation": "When stakes become sufficiently large, societies and organizations temporarily suspend normal constraints such as bureaucracy, cost concerns, and institutional rivalry in order to solve urgent problems.",
+    "implications": [
+      "Crisis can accelerate institutional cooperation.",
+      "Fear temporarily overrides political friction.",
+      "Urgency increases willingness to take risks.",
+      "Resource constraints often become secondary during emergencies."
+    ],
+    "related_concepts": [
+      "Collective action",
+      "Crisis coordination",
+      "Incentive alignment",
+      "Adaptive systems"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00154",
+    "source_file": "part17.json"
+  },
+  {
+    "title": "Capabilities Depend on Circumstances",
+    "type": "mental_model",
+    "concise_statement": "The same people can display radically different performance depending on context and incentives.",
+    "detailed_explanation": "Human capability is not fixed. Environmental pressure, emotional urgency, and perceived stakes strongly influence creativity, endurance, collaboration, and execution quality.",
+    "implications": [
+      "Potential is highly context-sensitive.",
+      "Organizations should optimize environments, not just talent selection.",
+      "High-pressure environments can reveal hidden strengths.",
+      "Performance evaluation should consider incentives and circumstances."
+    ],
+    "related_concepts": [
+      "Behavioral adaptation",
+      "Motivational psychology",
+      "Performance theory",
+      "Human potential"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00155",
+    "source_file": "part17.json"
+  },
+  {
+    "title": "Fear Can Improve Judgment",
+    "type": "survival_principle",
+    "concise_statement": "Appropriate fear reduces complacency and increases careful decision-making.",
+    "detailed_explanation": "Fear heightens awareness of consequences and encourages vigilance, preparation, and caution. In dangerous environments, maintaining healthy fear can improve survival and execution quality.",
+    "implications": [
+      "Complacency increases risk exposure.",
+      "Controlled fear can improve discipline.",
+      "Overconfidence encourages careless mistakes.",
+      "Preparedness depends partly on perceived vulnerability."
+    ],
+    "related_concepts": [
+      "Risk awareness",
+      "Survival psychology",
+      "Behavioral discipline",
+      "Stress adaptation"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00156",
+    "source_file": "part17.json"
+  },
+  {
+    "title": "Hardship Often Produces Long-Term Progress",
+    "type": "paradox",
+    "concise_statement": "Periods of severe suffering can unintentionally create conditions for future prosperity and innovation.",
+    "detailed_explanation": "Economic crises and social disruptions force societies to rebuild infrastructure, improve efficiency, innovate technologically, and reconsider institutional structures in ways that may generate long-term advancement.",
+    "implications": [
+      "Progress is frequently born from adversity.",
+      "Painful periods can produce productive transformation.",
+      "Stress accelerates adaptation.",
+      "Historical progress is often nonlinear."
+    ],
+    "related_concepts": [
+      "Creative destruction",
+      "Adaptive evolution",
+      "Economic restructuring",
+      "Crisis innovation"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00157",
+    "source_file": "part17.json"
+  },
+  {
+    "title": "Infrastructure Multiplies Productivity",
+    "type": "compounding_principle",
+    "concise_statement": "Foundational systems create nonlinear economic gains by enabling widespread efficiency improvements.",
+    "detailed_explanation": "Infrastructure such as roads, electricity, and communication systems increase productivity across entire economies by reducing friction and unlocking complementary innovations.",
+    "implications": [
+      "Infrastructure investment compounds over decades.",
+      "Foundational systems enable secondary innovation.",
+      "Productivity gains often emerge indirectly.",
+      "Network effects magnify infrastructure value."
+    ],
+    "related_concepts": [
+      "Network effects",
+      "Compounding",
+      "Economic productivity",
+      "Systems leverage"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00158",
+    "source_file": "part17.json"
+  },
+  {
+    "title": "Innovation Often Begins With Survival, Not Vision",
+    "type": "psychological_bias",
+    "concise_statement": "People frequently adopt transformative technologies first for immediate practical needs rather than grand future possibilities.",
+    "detailed_explanation": "New technologies are often initially valued for solving urgent, concrete problems rather than for their eventual broad societal applications. Early use cases tend to reflect immediate incentives.",
+    "implications": [
+      "Transformational potential may be invisible initially.",
+      "Immediate utility drives early adoption.",
+      "Technology evolution is path-dependent.",
+      "Initial use cases rarely define ultimate impact."
+    ],
+    "related_concepts": [
+      "Innovation diffusion",
+      "Path dependence",
+      "Technological adoption",
+      "Incentive-driven behavior"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00159",
+    "source_file": "part17.json"
+  },
+  {
+    "title": "Necessity Accelerates Innovation",
+    "type": "causal_relationship",
+    "concise_statement": "Severe crises force rapid experimentation, adaptation, and technological advancement.",
+    "detailed_explanation": "When survival, economic stability, or national security are threatened, people and institutions become willing to abandon old assumptions, increase risk tolerance, and pursue radical solutions with unusual speed.",
+    "implications": [
+      "Crisis compresses innovation timelines.",
+      "Fear increases willingness to change systems.",
+      "Institutional resistance weakens during emergencies.",
+      "Major progress often follows severe disruption."
+    ],
+    "related_concepts": [
+      "Adaptive pressure",
+      "Creative destruction",
+      "Stress-induced innovation",
+      "Behavioral adaptation"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00160",
+    "source_file": "part18.json"
+  },
+  {
+    "title": "Productivity Often Improves Under Constraint",
+    "type": "behavioral_principle",
+    "concise_statement": "Economic hardship can force individuals and organizations to become dramatically more efficient.",
+    "detailed_explanation": "Scarcity and survival pressure eliminate complacency and encourage experimentation, optimization, and process redesign that might never occur during prosperous periods.",
+    "implications": [
+      "Constraint can increase creativity.",
+      "Downturns often reveal hidden inefficiencies.",
+      "Survival pressure accelerates organizational learning.",
+      "Prosperity can mask wasteful systems."
+    ],
+    "related_concepts": [
+      "Constraint-driven innovation",
+      "Efficiency gains",
+      "Adaptive systems",
+      "Economic restructuring"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00161",
+    "source_file": "part18.json"
+  },
+  {
+    "title": "Fear Compresses Development Timelines",
+    "type": "mental_model",
+    "concise_statement": "Existential threats dramatically reduce procrastination, bureaucracy, and hesitation.",
+    "detailed_explanation": "When consequences become urgent, societies and organizations shift resources rapidly, tolerate experimentation, and prioritize execution speed over procedural caution.",
+    "implications": [
+      "Motivation intensifies under pressure.",
+      "Urgency increases institutional agility.",
+      "Fear can temporarily override political and organizational friction.",
+      "High-stakes situations unlock hidden capacity."
+    ],
+    "related_concepts": [
+      "Crisis response",
+      "Behavioral urgency",
+      "Adaptive pressure",
+      "Motivational psychology"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00162",
+    "source_file": "part18.json"
+  },
+  {
+    "title": "Moderate Stress Fuels Progress, Excessive Stress Prevents It",
+    "type": "paradox",
+    "concise_statement": "Stress stimulates innovation only within a survivable range.",
+    "detailed_explanation": "Some adversity sharpens focus and creativity, but overwhelming disaster redirects energy toward immediate survival, leaving little capacity for experimentation or long-term thinking.",
+    "implications": [
+      "Systems require manageable stress, not collapse.",
+      "Excessive instability destroys productive capacity.",
+      "Optimal challenge maximizes adaptation.",
+      "Balance matters in resilience and growth."
+    ],
+    "related_concepts": [
+      "Antifragility",
+      "Adaptive stress",
+      "Survival psychology",
+      "Complex systems"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00163",
+    "source_file": "part18.json"
+  },
+  {
+    "title": "Purpose Often Emerges From Struggle",
+    "type": "behavioral_principle",
+    "concise_statement": "Humans derive motivation and meaning more from striving and challenge than from comfort.",
+    "detailed_explanation": "Purpose is frequently connected to overcoming obstacles, solving problems, and pursuing meaningful goals. Comfort without challenge can produce stagnation and dissatisfaction.",
+    "implications": [
+      "Meaning often requires difficulty.",
+      "Comfort alone rarely sustains motivation.",
+      "Challenge can improve psychological engagement.",
+      "Progress depends partly on friction."
+    ],
+    "related_concepts": [
+      "Purpose",
+      "Motivation theory",
+      "Behavioral psychology",
+      "Adaptive struggle"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00164",
+    "source_file": "part18.json"
+  },
+  {
+    "title": "Anxiety Can Be Productive",
+    "type": "survival_principle",
+    "concise_statement": "Persistent concern about failure can drive preparation, discipline, and sustained achievement.",
+    "detailed_explanation": "Many high performers channel anxiety into productivity, vigilance, and continuous improvement. Fear of decline or failure often becomes a long-term motivational engine.",
+    "implications": [
+      "Moderate anxiety can sustain focus.",
+      "Complacency often reduces performance.",
+      "Emotional discomfort can fuel ambition.",
+      "Fear can strengthen discipline."
+    ],
+    "related_concepts": [
+      "Behavioral motivation",
+      "Performance psychology",
+      "Risk awareness",
+      "Adaptive stress"
+    ],
+    "confidence_score": 0.97,
+    "concept_id": "PM_00165",
+    "source_file": "part18.json"
+  },
+  {
+    "title": "Good News Compounds Slowly",
+    "type": "compounding_principle",
+    "concise_statement": "Most positive developments emerge gradually through long periods of small incremental improvement.",
+    "detailed_explanation": "Technological progress, medical advances, economic growth, and reputation-building usually compound slowly over decades, making their importance difficult to perceive in real time.",
+    "implications": [
+      "Incremental gains create enormous long-term impact.",
+      "People underestimate slow-moving improvements.",
+      "Patience is necessary to recognize compounding effects.",
+      "Progress often feels invisible while occurring."
+    ],
+    "related_concepts": [
+      "Compounding",
+      "Exponential growth",
+      "Long-termism",
+      "Incremental improvement"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00166",
+    "source_file": "part18.json"
+  },
+  {
+    "title": "Bad News Happens Instantly",
+    "type": "risk_concept",
+    "concise_statement": "Destruction and collapse often occur far faster than construction and growth.",
+    "detailed_explanation": "Positive systems require long periods of compounding, trust-building, and gradual improvement, while disasters can emerge from sudden mistakes, confidence loss, or catastrophic shocks.",
+    "implications": [
+      "Fragility creates asymmetric downside speed.",
+      "Reputation and trust are vulnerable to rapid destruction.",
+      "Risk management should prioritize avoiding catastrophic failure.",
+      "Recovery usually takes longer than collapse."
+    ],
+    "related_concepts": [
+      "Tail risk",
+      "Fragility",
+      "Asymmetry",
+      "Risk management"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00167",
+    "source_file": "part18.json"
+  },
+  {
+    "title": "Humans Ignore Slow Progress",
+    "type": "psychological_bias",
+    "concise_statement": "Gradual improvements attract little attention because humans notice abrupt changes more easily than slow compounding.",
+    "detailed_explanation": "Human perception is sensitive to dramatic events but poor at recognizing slow, consistent progress. This causes pessimism and underappreciation of long-term improvement trends.",
+    "implications": [
+      "Media favors sudden negative events.",
+      "People underestimate long-term progress.",
+      "Incremental improvements often go emotionally unnoticed.",
+      "Patience is required to perceive compounding."
+    ],
+    "related_concepts": [
+      "Availability heuristic",
+      "Compounding",
+      "Perception bias",
+      "Long-term thinking"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00168",
+    "source_file": "part18.json"
+  },
+  {
+    "title": "Transformational Change Often Appears Ordinary in Real Time",
+    "type": "mental_model",
+    "concise_statement": "Major advances frequently look insignificant while they are occurring because progress unfolds incrementally.",
+    "detailed_explanation": "Breakthrough changes are usually experienced as many small improvements spread across years or decades. Only hindsight reveals how transformative cumulative progress became.",
+    "implications": [
+      "Innovation adoption requires patience.",
+      "Historical perspective clarifies progress.",
+      "Small improvements can compound into massive societal shifts.",
+      "Present-day pessimism may overlook ongoing transformation."
+    ],
+    "related_concepts": [
+      "Compounding",
+      "Innovation diffusion",
+      "Long-termism",
+      "Historical perspective"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00169",
+    "source_file": "part18.json"
+  },
+  {
+    "title": "Progress Is Slow, Destruction Is Fast",
+    "type": "mental_model",
+    "concise_statement": "Building valuable systems requires long periods of compounding, while destruction can occur almost instantly.",
+    "detailed_explanation": "Growth requires coordination, resilience, competition, maintenance, and time. Collapse often needs only one critical failure, sudden loss of confidence, or catastrophic shock.",
+    "implications": [
+      "Fragility creates asymmetric downside speed.",
+      "Risk management should prioritize avoiding irreversible damage.",
+      "Patience is required to perceive progress.",
+      "Systems become harder to build than to destroy."
+    ],
+    "related_concepts": [
+      "Compounding",
+      "Fragility",
+      "Asymmetry",
+      "Tail risk"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00170",
+    "source_file": "part19.json"
+  },
+  {
+    "title": "Complex Systems Are Easier to Break Than Build",
+    "type": "risk_concept",
+    "concise_statement": "Creation requires many coordinated successes, while destruction often requires only one failure.",
+    "detailed_explanation": "Complex systems depend on numerous interconnected components functioning correctly. Failure can emerge from a single weak link because collapse pathways are usually simpler than construction pathways.",
+    "implications": [
+      "Redundancy is essential for resilience.",
+      "Complexity increases vulnerability.",
+      "Protecting systems is as important as building them.",
+      "Small failures can trigger large collapses."
+    ],
+    "related_concepts": [
+      "System fragility",
+      "Complex adaptive systems",
+      "Single points of failure",
+      "Risk asymmetry"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00171",
+    "source_file": "part19.json"
+  },
+  {
+    "title": "Bad News Dominates Attention Because It Happens Fast",
+    "type": "psychological_bias",
+    "concise_statement": "Humans focus more on sudden visible losses than on slow invisible gains.",
+    "detailed_explanation": "Rapid negative events create emotional urgency and attract disproportionate attention, while slow compounding improvements often go unnoticed because they lack drama.",
+    "implications": [
+      "Media systematically amplifies pessimism.",
+      "People underestimate long-term progress.",
+      "Emotional reactions distort perception of reality.",
+      "Patience is psychologically difficult."
+    ],
+    "related_concepts": [
+      "Negativity bias",
+      "Availability heuristic",
+      "Compounding",
+      "Attention economics"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00172",
+    "source_file": "part19.json"
+  },
+  {
+    "title": "Good News Is Often Invisible",
+    "type": "paradox",
+    "concise_statement": "Many of the greatest achievements are things that never happened rather than visible events.",
+    "detailed_explanation": "Prevented disasters, avoided wars, reduced mortality, and incremental safety improvements create enormous value but are difficult to notice because their success appears as absence rather than visible action.",
+    "implications": [
+      "Prevention is systematically undervalued.",
+      "Invisible success receives little emotional recognition.",
+      "Societies underestimate the value of resilience systems.",
+      "Progress can feel absent despite enormous improvement."
+    ],
+    "related_concepts": [
+      "Prevention paradox",
+      "Compounding",
+      "Risk mitigation",
+      "Invisible progress"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00173",
+    "source_file": "part19.json"
+  },
+  {
+    "title": "Small Risks Compound Into Catastrophes",
+    "type": "causal_relationship",
+    "concise_statement": "Large disasters usually emerge from chains of individually manageable small risks.",
+    "detailed_explanation": "Catastrophic failures rarely result from one isolated cause. Instead, multiple small vulnerabilities interact, reinforce one another, and compound into systemic collapse.",
+    "implications": [
+      "Minor weaknesses should not be ignored.",
+      "Systemic risk often appears harmless in isolation.",
+      "Interconnected failures amplify instability.",
+      "Complex systems require holistic risk analysis."
+    ],
+    "related_concepts": [
+      "Tail risk",
+      "Chain reactions",
+      "Systemic collapse",
+      "Compounding risk"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00174",
+    "source_file": "part19.json"
+  },
+  {
+    "title": "Small Triggers Can Create Massive Consequences",
+    "type": "mental_model",
+    "concise_statement": "Tiny events can initiate nonlinear chain reactions with enormous outcomes.",
+    "detailed_explanation": "Systems become vulnerable when small actions interact with existing fragility. The initiating event may appear insignificant relative to the eventual outcome.",
+    "implications": [
+      "Scale of cause and effect is often nonlinear.",
+      "Tiny catalysts can destabilize large systems.",
+      "Preventing escalation matters more than predicting exact triggers.",
+      "Sensitivity to initial conditions shapes history."
+    ],
+    "related_concepts": [
+      "Chaos theory",
+      "Path dependence",
+      "Nonlinear systems",
+      "Chain reactions"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00175",
+    "source_file": "part19.json"
+  },
+  {
+    "title": "Lowering Barriers Can Increase Systemic Risk",
+    "type": "paradox",
+    "concise_statement": "Making dangerous actions seem smaller or safer can increase the probability of catastrophic escalation.",
+    "detailed_explanation": "Reducing the perceived severity of risky actions encourages more frequent use, which can unintentionally raise the probability of triggering larger disasters.",
+    "implications": [
+      "Incremental normalization can create hidden danger.",
+      "Small-scale risk-taking may escalate unpredictably.",
+      "Psychological comfort can weaken caution.",
+      "Reduced perceived risk may increase actual risk."
+    ],
+    "related_concepts": [
+      "Escalation dynamics",
+      "Risk normalization",
+      "Behavioral incentives",
+      "Tail-risk amplification"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00176",
+    "source_file": "part19.json"
+  },
+  {
+    "title": "People Underestimate Cascading Failures",
+    "type": "psychological_bias",
+    "concise_statement": "Humans evaluate risks individually and underestimate how multiple small failures can interact simultaneously.",
+    "detailed_explanation": "People naturally assess risks in isolation instead of modeling how independent vulnerabilities can compound and reinforce one another during stress.",
+    "implications": [
+      "Risk aggregation is systematically underestimated.",
+      "Diversification can fail during correlated crises.",
+      "Complex systems require network-level analysis.",
+      "Complacency often emerges from isolated thinking."
+    ],
+    "related_concepts": [
+      "Correlation risk",
+      "Systemic fragility",
+      "Tail events",
+      "Complex systems"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00177",
+    "source_file": "part19.json"
+  },
+  {
+    "title": "Confidence Is Fragile",
+    "type": "survival_principle",
+    "concise_statement": "Trust and confidence take years to build but can collapse in moments.",
+    "detailed_explanation": "Financial systems, reputations, institutions, and relationships rely heavily on collective confidence. Once trust breaks, collapse accelerates because confidence itself reinforces stability.",
+    "implications": [
+      "Maintaining trust is strategically critical.",
+      "Confidence crises spread rapidly.",
+      "Reputation protection deserves high priority.",
+      "Stability depends partly on perception."
+    ],
+    "related_concepts": [
+      "Reflexivity",
+      "Bank runs",
+      "Trust dynamics",
+      "Fragility"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00178",
+    "source_file": "part19.json"
+  },
+  {
+    "title": "Compounding Makes Small Growth Extraordinary",
+    "type": "compounding_principle",
+    "concise_statement": "Tiny consistent improvements accumulate into outcomes that appear impossible when viewed directly.",
+    "detailed_explanation": "Small annual improvements feel insignificant in isolation but become transformational over long periods because each gain builds on previous gains exponentially.",
+    "implications": [
+      "Patience magnifies outcomes.",
+      "Incremental growth should not be underestimated.",
+      "Long horizons reveal extraordinary progress.",
+      "Consistency often matters more than intensity."
+    ],
+    "related_concepts": [
+      "Exponential growth",
+      "Long-termism",
+      "Compound returns",
+      "Incremental improvement"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00179",
+    "source_file": "part19.json"
+  },
+  {
+    "title": "Catastrophes Are Usually Chains of Small Failures",
+    "type": "causal_relationship",
+    "concise_statement": "Large disasters typically emerge from multiple ordinary failures interacting simultaneously.",
+    "detailed_explanation": "Systemic collapses rarely originate from a single extraordinary event. Instead, several individually manageable risks align, reinforce one another, and compound into catastrophic outcomes.",
+    "implications": [
+      "Small mistakes deserve serious attention.",
+      "Systemic risk often hides in normal events.",
+      "Interconnected systems amplify vulnerability.",
+      "Prevention requires managing correlations, not isolated risks."
+    ],
+    "related_concepts": [
+      "Systemic risk",
+      "Tail events",
+      "Complex systems",
+      "Compounding failures"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00180",
+    "source_file": "part20.json"
+  },
+  {
+    "title": "Big Risks Often Look Harmless in Isolation",
+    "type": "risk_concept",
+    "concise_statement": "Many catastrophic outcomes are underestimated because each contributing factor appears minor individually.",
+    "detailed_explanation": "Humans evaluate risks independently and fail to recognize how ordinary vulnerabilities can synchronize into extreme outcomes through compounding interactions.",
+    "implications": [
+      "Holistic risk analysis is essential.",
+      "Minor vulnerabilities should not be dismissed.",
+      "Correlation risk matters more than isolated probabilities.",
+      "Complex systems can fail nonlinearly."
+    ],
+    "related_concepts": [
+      "Correlation risk",
+      "Compounding",
+      "Tail risk",
+      "System fragility"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00181",
+    "source_file": "part20.json"
+  },
+  {
+    "title": "History Breaks Regularly",
+    "type": "mental_model",
+    "concise_statement": "Major disruptions recur frequently because complex systems naturally generate periodic instability.",
+    "detailed_explanation": "Economic collapses, pandemics, wars, and systemic failures feel improbable while absent, yet they emerge repeatedly because normal human errors, incentives, and vulnerabilities constantly interact.",
+    "implications": [
+      "Crises should be treated as recurring features, not anomalies.",
+      "Preparedness must remain continuous.",
+      "Resilience matters more than precise forecasting.",
+      "Calm periods often conceal accumulating fragility."
+    ],
+    "related_concepts": [
+      "Historical cycles",
+      "Complex systems",
+      "Fragility",
+      "Tail events"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00182",
+    "source_file": "part20.json"
+  },
+  {
+    "title": "Extraordinary Outcomes Require Extraordinary Time",
+    "type": "compounding_principle",
+    "concise_statement": "Tiny improvements sustained for extremely long periods produce outcomes that appear magical.",
+    "detailed_explanation": "Compounding transforms small incremental changes into massive results when enough time exists in the exponent. The magnitude of change depends more on duration than on dramatic short-term improvement.",
+    "implications": [
+      "Consistency often matters more than intensity.",
+      "Long horizons create nonlinear results.",
+      "Patience is a force multiplier.",
+      "Incremental progress should not be underestimated."
+    ],
+    "related_concepts": [
+      "Exponential growth",
+      "Evolution",
+      "Long-termism",
+      "Compound returns"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00183",
+    "source_file": "part20.json"
+  },
+  {
+    "title": "Evolution Demonstrates the Power of Tiny Sustained Changes",
+    "type": "mental_model",
+    "concise_statement": "Massive complexity can emerge from countless small improvements accumulated over immense periods of time.",
+    "detailed_explanation": "Evolution’s apparent magic comes not from dramatic individual mutations, but from relentless selection operating continuously over billions of years.",
+    "implications": [
+      "Small improvements are strategically valuable.",
+      "Time magnifies ordinary processes into extraordinary outcomes.",
+      "Patience and persistence outperform intensity.",
+      "Complexity can emerge gradually from simplicity."
+    ],
+    "related_concepts": [
+      "Compounding",
+      "Emergence",
+      "Evolutionary adaptation",
+      "Incremental improvement"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00184",
+    "source_file": "part20.json"
+  },
+  {
+    "title": "Sustainable Returns Matter More Than Exceptional Returns",
+    "type": "decision_rule",
+    "concise_statement": "Long-term success depends more on durability and consistency than on occasional extraordinary performance.",
+    "detailed_explanation": "Compounding rewards steady, repeatable gains sustained over long periods far more than unstable bursts of exceptional performance interrupted by setbacks or ruin.",
+    "implications": [
+      "Avoid strategies that sacrifice durability for short-term gains.",
+      "Longevity is a competitive advantage.",
+      "Consistency compounds exponentially.",
+      "Risk management is central to compounding."
+    ],
+    "related_concepts": [
+      "Compound returns",
+      "Survivability",
+      "Risk management",
+      "Long-term investing"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00185",
+    "source_file": "part20.json"
+  },
+  {
+    "title": "Humans Struggle to Understand Exponential Processes",
+    "type": "psychological_bias",
+    "concise_statement": "People naturally underestimate the long-term impact of small sustained changes.",
+    "detailed_explanation": "Human intuition evolved for linear environments and poorly grasps exponential growth, causing people to undervalue compounding and overfocus on immediate results.",
+    "implications": [
+      "People underestimate both risks and opportunities.",
+      "Patience becomes psychologically difficult.",
+      "Slow progress is often ignored.",
+      "Long-term forecasting errors are common."
+    ],
+    "related_concepts": [
+      "Exponential growth",
+      "Compounding",
+      "Behavioral finance",
+      "Cognitive bias"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00186",
+    "source_file": "part20.json"
+  },
+  {
+    "title": "Optimism and Pessimism Must Coexist",
+    "type": "paradox",
+    "concise_statement": "Long-term progress requires belief in improvement while simultaneously preparing for setbacks and hardship.",
+    "detailed_explanation": "Pure optimism ignores risk and creates fragility, while pure pessimism destroys initiative and hope. Durable success requires balancing faith in eventual improvement with realism about short-term adversity.",
+    "implications": [
+      "Effective planning combines hope with caution.",
+      "Resilience requires emotional balance.",
+      "Long-term investing needs optimism and risk management simultaneously.",
+      "Psychological flexibility improves survival."
+    ],
+    "related_concepts": [
+      "Behavioral resilience",
+      "Risk management",
+      "Long-termism",
+      "Stoicism"
+    ],
+    "confidence_score": 0.99,
+    "concept_id": "PM_00187",
+    "source_file": "part20.json"
+  },
+  {
+    "title": "False Timelines Destroy Morale",
+    "type": "behavioral_principle",
+    "concise_statement": "Optimism tied to unrealistic deadlines becomes psychologically destructive when reality diverges.",
+    "detailed_explanation": "Hope remains sustainable when it accepts uncertainty. Optimism linked to rigid expectations creates repeated disappointment and emotional collapse when outcomes take longer than expected.",
+    "implications": [
+      "Expectation management is critical for resilience.",
+      "Rigid forecasts increase emotional fragility.",
+      "Patience strengthens long-term optimism.",
+      "Progress often takes longer than desired."
+    ],
+    "related_concepts": [
+      "Expectation management",
+      "Behavioral resilience",
+      "Psychological endurance",
+      "Delayed gratification"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00188",
+    "source_file": "part20.json"
+  },
+  {
+    "title": "Belief Can Sustain Action During Invisible Progress",
+    "type": "survival_principle",
+    "concise_statement": "Humans often need faith in eventual improvement before visible evidence exists.",
+    "detailed_explanation": "Progress frequently unfolds invisibly for long periods. Sustained effort during difficult conditions depends on maintaining belief that improvement is possible even when current evidence is discouraging.",
+    "implications": [
+      "Motivation often precedes visible success.",
+      "Long-term achievement requires emotional endurance.",
+      "Faith can sustain effort through uncertainty.",
+      "Invisible progress demands patience."
+    ],
+    "related_concepts": [
+      "Long-termism",
+      "Optimism",
+      "Compounding",
+      "Behavioral persistence"
+    ],
+    "confidence_score": 0.98,
+    "concept_id": "PM_00189",
+    "source_file": "part20.json"
+  }
+]
