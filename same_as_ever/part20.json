@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Catastrophes Are Usually Chains of Small Failures",
+    "type": "causal_relationship",
+    "concise_statement": "Large disasters typically emerge from multiple ordinary failures interacting simultaneously.",
+    "detailed_explanation": "Systemic collapses rarely originate from a single extraordinary event. Instead, several individually manageable risks align, reinforce one another, and compound into catastrophic outcomes.",
+    "implications": [
+      "Small mistakes deserve serious attention.",
+      "Systemic risk often hides in normal events.",
+      "Interconnected systems amplify vulnerability.",
+      "Prevention requires managing correlations, not isolated risks."
+    ],
+    "related_concepts": [
+      "Systemic risk",
+      "Tail events",
+      "Complex systems",
+      "Compounding failures"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Big Risks Often Look Harmless in Isolation",
+    "type": "risk_concept",
+    "concise_statement": "Many catastrophic outcomes are underestimated because each contributing factor appears minor individually.",
+    "detailed_explanation": "Humans evaluate risks independently and fail to recognize how ordinary vulnerabilities can synchronize into extreme outcomes through compounding interactions.",
+    "implications": [
+      "Holistic risk analysis is essential.",
+      "Minor vulnerabilities should not be dismissed.",
+      "Correlation risk matters more than isolated probabilities.",
+      "Complex systems can fail nonlinearly."
+    ],
+    "related_concepts": [
+      "Correlation risk",
+      "Compounding",
+      "Tail risk",
+      "System fragility"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "History Breaks Regularly",
+    "type": "mental_model",
+    "concise_statement": "Major disruptions recur frequently because complex systems naturally generate periodic instability.",
+    "detailed_explanation": "Economic collapses, pandemics, wars, and systemic failures feel improbable while absent, yet they emerge repeatedly because normal human errors, incentives, and vulnerabilities constantly interact.",
+    "implications": [
+      "Crises should be treated as recurring features, not anomalies.",
+      "Preparedness must remain continuous.",
+      "Resilience matters more than precise forecasting.",
+      "Calm periods often conceal accumulating fragility."
+    ],
+    "related_concepts": [
+      "Historical cycles",
+      "Complex systems",
+      "Fragility",
+      "Tail events"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Extraordinary Outcomes Require Extraordinary Time",
+    "type": "compounding_principle",
+    "concise_statement": "Tiny improvements sustained for extremely long periods produce outcomes that appear magical.",
+    "detailed_explanation": "Compounding transforms small incremental changes into massive results when enough time exists in the exponent. The magnitude of change depends more on duration than on dramatic short-term improvement.",
+    "implications": [
+      "Consistency often matters more than intensity.",
+      "Long horizons create nonlinear results.",
+      "Patience is a force multiplier.",
+      "Incremental progress should not be underestimated."
+    ],
+    "related_concepts": [
+      "Exponential growth",
+      "Evolution",
+      "Long-termism",
+      "Compound returns"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Evolution Demonstrates the Power of Tiny Sustained Changes",
+    "type": "mental_model",
+    "concise_statement": "Massive complexity can emerge from countless small improvements accumulated over immense periods of time.",
+    "detailed_explanation": "Evolution’s apparent magic comes not from dramatic individual mutations, but from relentless selection operating continuously over billions of years.",
+    "implications": [
+      "Small improvements are strategically valuable.",
+      "Time magnifies ordinary processes into extraordinary outcomes.",
+      "Patience and persistence outperform intensity.",
+      "Complexity can emerge gradually from simplicity."
+    ],
+    "related_concepts": [
+      "Compounding",
+      "Emergence",
+      "Evolutionary adaptation",
+      "Incremental improvement"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Sustainable Returns Matter More Than Exceptional Returns",
+    "type": "decision_rule",
+    "concise_statement": "Long-term success depends more on durability and consistency than on occasional extraordinary performance.",
+    "detailed_explanation": "Compounding rewards steady, repeatable gains sustained over long periods far more than unstable bursts of exceptional performance interrupted by setbacks or ruin.",
+    "implications": [
+      "Avoid strategies that sacrifice durability for short-term gains.",
+      "Longevity is a competitive advantage.",
+      "Consistency compounds exponentially.",
+      "Risk management is central to compounding."
+    ],
+    "related_concepts": [
+      "Compound returns",
+      "Survivability",
+      "Risk management",
+      "Long-term investing"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Humans Struggle to Understand Exponential Processes",
+    "type": "psychological_bias",
+    "concise_statement": "People naturally underestimate the long-term impact of small sustained changes.",
+    "detailed_explanation": "Human intuition evolved for linear environments and poorly grasps exponential growth, causing people to undervalue compounding and overfocus on immediate results.",
+    "implications": [
+      "People underestimate both risks and opportunities.",
+      "Patience becomes psychologically difficult.",
+      "Slow progress is often ignored.",
+      "Long-term forecasting errors are common."
+    ],
+    "related_concepts": [
+      "Exponential growth",
+      "Compounding",
+      "Behavioral finance",
+      "Cognitive bias"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Optimism and Pessimism Must Coexist",
+    "type": "paradox",
+    "concise_statement": "Long-term progress requires belief in improvement while simultaneously preparing for setbacks and hardship.",
+    "detailed_explanation": "Pure optimism ignores risk and creates fragility, while pure pessimism destroys initiative and hope. Durable success requires balancing faith in eventual improvement with realism about short-term adversity.",
+    "implications": [
+      "Effective planning combines hope with caution.",
+      "Resilience requires emotional balance.",
+      "Long-term investing needs optimism and risk management simultaneously.",
+      "Psychological flexibility improves survival."
+    ],
+    "related_concepts": [
+      "Behavioral resilience",
+      "Risk management",
+      "Long-termism",
+      "Stoicism"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "False Timelines Destroy Morale",
+    "type": "behavioral_principle",
+    "concise_statement": "Optimism tied to unrealistic deadlines becomes psychologically destructive when reality diverges.",
+    "detailed_explanation": "Hope remains sustainable when it accepts uncertainty. Optimism linked to rigid expectations creates repeated disappointment and emotional collapse when outcomes take longer than expected.",
+    "implications": [
+      "Expectation management is critical for resilience.",
+      "Rigid forecasts increase emotional fragility.",
+      "Patience strengthens long-term optimism.",
+      "Progress often takes longer than desired."
+    ],
+    "related_concepts": [
+      "Expectation management",
+      "Behavioral resilience",
+      "Psychological endurance",
+      "Delayed gratification"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Belief Can Sustain Action During Invisible Progress",
+    "type": "survival_principle",
+    "concise_statement": "Humans often need faith in eventual improvement before visible evidence exists.",
+    "detailed_explanation": "Progress frequently unfolds invisibly for long periods. Sustained effort during difficult conditions depends on maintaining belief that improvement is possible even when current evidence is discouraging.",
+    "implications": [
+      "Motivation often precedes visible success.",
+      "Long-term achievement requires emotional endurance.",
+      "Faith can sustain effort through uncertainty.",
+      "Invisible progress demands patience."
+    ],
+    "related_concepts": [
+      "Long-termism",
+      "Optimism",
+      "Compounding",
+      "Behavioral persistence"
+    ],
+    "confidence_score": 0.98
+  }
+]
