@@ -1,0 +1,219 @@
+[
+  {
+    "title": "Thinking Time as Productive Capital",
+    "type": "mental_model",
+    "concise_statement": "Unstructured thinking time is a productive input for high-quality cognitive work.",
+    "detailed_explanation": "Creative and strategic work depends on reflection, synthesis, and subconscious processing. Constant tactical engagement prevents deeper insights from emerging. Walking, solitude, reading, and idle contemplation appear unproductive but often generate the highest-value ideas in thought-intensive professions.",
+    "implications": [
+      "Schedule deliberate thinking time.",
+      "Measure output quality, not visible busyness.",
+      "Protect solitude as a strategic resource.",
+      "Design work systems that allow cognitive incubation."
+    ],
+    "related_concepts": [
+      "strategic inefficiency",
+      "creative incubation",
+      "deep work",
+      "cognitive flexibility"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Busyness Signaling Bias",
+    "type": "psychological_bias",
+    "concise_statement": "People often equate visible activity with productivity even when deeper thinking creates more value.",
+    "detailed_explanation": "Many workplaces reward observable effort instead of actual problem-solving quality. This incentivizes constant visible activity and discourages reflection, experimentation, and strategic thought. The result is tactical efficiency paired with strategic weakness.",
+    "implications": [
+      "Avoid optimizing for appearances of productivity.",
+      "Evaluate work based on outcomes and insight generation.",
+      "Be cautious of cultures that punish reflection or downtime."
+    ],
+    "related_concepts": [
+      "hustle culture",
+      "social signaling",
+      "cognitive overload",
+      "thought work"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "title": "Slack as Hidden Strength",
+    "type": "risk_concept",
+    "concise_statement": "Systems with spare capacity are more resilient than systems optimized for maximum efficiency.",
+    "detailed_explanation": "Excess capacity, inventory, liquidity, or time appears inefficient during stable conditions but becomes critical during disruptions. Systems optimized to eliminate slack become fragile because they have no buffer for uncertainty or shocks.",
+    "implications": [
+      "Maintain reserves and redundancy.",
+      "Avoid operating permanently at maximum utilization.",
+      "Build buffers into financial, operational, and personal systems."
+    ],
+    "related_concepts": [
+      "margin of safety",
+      "fragility",
+      "resilience",
+      "survival principle"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Room for Error",
+    "type": "decision_rule",
+    "concise_statement": "Leave sufficient margin for mistakes, randomness, and unforeseen events.",
+    "detailed_explanation": "Many failures occur not because plans are fundamentally wrong, but because systems leave no tolerance for deviations. Resilient strategies assume forecasts will be imperfect and conditions unstable. Room for error acts as protection against uncertainty.",
+    "implications": [
+      "Use conservative assumptions in planning.",
+      "Avoid high leverage and overcommitment.",
+      "Maintain optionality during uncertain periods."
+    ],
+    "related_concepts": [
+      "margin of safety",
+      "tail risk",
+      "resilience",
+      "risk management"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Efficiency Creates Fragility",
+    "type": "causal_relationship",
+    "concise_statement": "Maximizing operational efficiency often amplifies systemic vulnerability.",
+    "detailed_explanation": "Highly optimized systems remove redundancy to maximize short-term performance. However, this creates tight interdependencies where small disruptions cascade into major failures. Just-in-time systems, excessive leverage, and concentrated portfolios all share this vulnerability.",
+    "implications": [
+      "Prioritize robustness over peak efficiency.",
+      "Stress-test systems against supply shocks and volatility.",
+      "Accept lower short-term performance for long-term survivability."
+    ],
+    "related_concepts": [
+      "systemic risk",
+      "fragility",
+      "redundancy",
+      "tail exposure"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Cash During Crises",
+    "type": "risk_concept",
+    "concise_statement": "Assets that appear inefficient during prosperity become indispensable during stress.",
+    "detailed_explanation": "Cash drags performance during bull markets but becomes essential during crises because it preserves flexibility and prevents forced selling. The value of liquidity is nonlinear and rises sharply during instability.",
+    "implications": [
+      "Do not evaluate defensive assets solely during stable periods.",
+      "Hold liquidity proportional to uncertainty and leverage.",
+      "Prepare for regime shifts rather than extrapolating calm conditions."
+    ],
+    "related_concepts": [
+      "liquidity",
+      "optionalities",
+      "risk management",
+      "survival principle"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Leverage Magnifies Fragility",
+    "type": "risk_concept",
+    "concise_statement": "Leverage increases efficiency and returns while simultaneously increasing the probability of ruin.",
+    "detailed_explanation": "Borrowed capital amplifies gains but also amplifies volatility, reduces flexibility, and increases the likelihood of forced liquidation. Systems using leverage often appear superior during favorable conditions until rare shocks expose hidden fragility.",
+    "implications": [
+      "Use leverage conservatively.",
+      "Model worst-case scenarios rather than average outcomes.",
+      "Understand that survivability dominates maximum return."
+    ],
+    "related_concepts": [
+      "risk of ruin",
+      "tail risk",
+      "fragility",
+      "margin call dynamics"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Diversification vs Concentration Tradeoff",
+    "type": "paradox",
+    "concise_statement": "Concentration maximizes potential returns while diversification maximizes survival odds.",
+    "detailed_explanation": "Concentrated bets can generate extraordinary gains but expose investors to catastrophic downside if assumptions fail. Diversification sacrifices maximum upside in exchange for robustness against uncertainty and forecasting error.",
+    "implications": [
+      "Align portfolio concentration with tolerance for permanent loss.",
+      "Recognize diversification as protection against ignorance.",
+      "Avoid overconfidence-driven concentration."
+    ],
+    "related_concepts": [
+      "risk management",
+      "portfolio theory",
+      "uncertainty",
+      "survival principle"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Approximate Accuracy Over False Precision",
+    "type": "mental_model",
+    "concise_statement": "Broadly correct models are often more useful than highly precise but fragile predictions.",
+    "detailed_explanation": "Pursuing exact forecasts creates an illusion of certainty while increasing exposure to model error. Simpler frameworks focused on enduring structural truths are often more reliable because they acknowledge uncertainty and preserve adaptability.",
+    "implications": [
+      "Favor robust heuristics over overfit precision.",
+      "Allocate more effort to timeless principles than short-term predictions.",
+      "Avoid mistaking numerical detail for predictive accuracy."
+    ],
+    "related_concepts": [
+      "model risk",
+      "uncertainty",
+      "forecasting limits",
+      "good enough thinking"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Forecasting Resource Allocation",
+    "type": "decision_rule",
+    "concise_statement": "Reduce effort spent on low-value prediction and redirect attention toward durable principles.",
+    "detailed_explanation": "Excessive forecasting consumes cognitive and analytical resources while often adding little predictive advantage. Focusing on stable human behaviors and structural patterns can produce more durable insights than attempting short-term precision forecasting.",
+    "implications": [
+      "Study invariant behaviors and incentives.",
+      "Limit obsession with near-term predictions.",
+      "Use broad probabilistic expectations instead of detailed deterministic forecasts."
+    ],
+    "related_concepts": [
+      "signal vs noise",
+      "base rates",
+      "long-term thinking",
+      "behavioral finance"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "title": "The Hidden Cost of Shortcuts",
+    "type": "risk_concept",
+    "concise_statement": "Attempts to bypass difficulty often increase total risk and long-term cost.",
+    "detailed_explanation": "Shortcuts frequently ignore hidden complexity, uncertainty, or environmental constraints. The apparent savings in time or effort can create catastrophic downstream consequences if assumptions fail. The Donner Party illustrates how reducing short-term discomfort can magnify long-term disaster.",
+    "implications": [
+      "Be skeptical of solutions promising effortless gains.",
+      "Evaluate second-order risks of shortcuts.",
+      "Prefer reliable processes over fragile optimization."
+    ],
+    "related_concepts": [
+      "tail risk",
+      "risk blindness",
+      "complexity",
+      "fragility"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Necessary Pain Principle",
+    "type": "behavioral_principle",
+    "concise_statement": "Meaningful achievement requires tolerating unavoidable discomfort.",
+    "detailed_explanation": "Every worthwhile pursuit contains friction, uncertainty, effort, and emotional pain. The key skill is not eliminating discomfort but accepting it as a normal component of progress. Attempts to avoid all pain often lead to stagnation or destructive shortcuts.",
+    "implications": [
+      "Develop tolerance for temporary discomfort.",
+      "Distinguish productive pain from destructive pain.",
+      "Avoid abandoning goals solely because the process feels difficult."
+    ],
+    "related_concepts": [
+      "delayed gratification",
+      "grit",
+      "resilience",
+      "anti-shortcut thinking"
+    ],
+    "confidence_score": 0.96
+  }
+]
