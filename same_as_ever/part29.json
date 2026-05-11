@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Hedonic Adaptation to Success",
+    "type": "psychological_bias",
+    "concise_statement": "People rapidly normalize extraordinary achievements and material success.",
+    "detailed_explanation": "Experiences imagined as permanently transformative often become psychologically ordinary after direct exposure. Emotional baselines reset quickly, causing extraordinary accomplishments to feel less meaningful than anticipated.",
+    "implications": [
+      "Do not expect external success to create lasting fulfillment.",
+      "Recognize that expectations rise alongside achievement.",
+      "Focus on process and meaning rather than imagined emotional payoffs."
+    ],
+    "related_concepts": [
+      "expectation drift",
+      "normalization",
+      "hedonic treadmill",
+      "rapid adaptation"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Goalpost Drift",
+    "type": "causal_relationship",
+    "concise_statement": "Achievement often shifts expectations upward faster than satisfaction increases.",
+    "detailed_explanation": "Once goals are reached, attention quickly moves toward missed opportunities, comparisons, or higher ambitions. Satisfaction becomes relative rather than absolute, causing success to feel incomplete.",
+    "implications": [
+      "Expect ambition to expand after achievement.",
+      "Avoid assuming future milestones will permanently resolve dissatisfaction.",
+      "Develop gratitude and internal metrics alongside ambition."
+    ],
+    "related_concepts": [
+      "social comparison",
+      "hedonic adaptation",
+      "relative status",
+      "expectation inflation"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Future Projection Error",
+    "type": "psychological_bias",
+    "concise_statement": "People imagine future success without accounting for the ordinary problems that will still exist.",
+    "detailed_explanation": "When visualizing future wealth or status, individuals isolate the positive outcome while ignoring that daily frustrations, health problems, insecurity, and conflict persist regardless of achievement.",
+    "implications": [
+      "Avoid idealizing future states as emotionally perfect.",
+      "Recognize that success changes circumstances more than human nature.",
+      "Use realistic expectations when pursuing goals."
+    ],
+    "related_concepts": [
+      "affective forecasting error",
+      "hedonic adaptation",
+      "projection bias",
+      "expectation management"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Long-Term Thinking Is Endurance",
+    "type": "mental_model",
+    "concise_statement": "The long run is simply a sequence of difficult short runs that must be survived.",
+    "detailed_explanation": "Long-term strategies do not bypass volatility, uncertainty, or setbacks. Instead, they require repeatedly enduring short-term pain, confusion, and instability without abandoning the process.",
+    "implications": [
+      "Build systems capable of surviving repeated adversity.",
+      "Expect volatility rather than treating it as exceptional.",
+      "Measure long-term success through endurance capacity."
+    ],
+    "related_concepts": [
+      "compounding",
+      "survival principle",
+      "resilience",
+      "behavioral endurance"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Long Horizons Increase Exposure to Chaos",
+    "type": "risk_concept",
+    "concise_statement": "Longer time horizons expose people to more uncertainty, crises, and randomness.",
+    "detailed_explanation": "Extending time horizons increases the number of unpredictable events encountered. Long-term investing or planning therefore requires accepting greater cumulative exposure to disorder rather than assuming safety.",
+    "implications": [
+      "Prepare psychologically for repeated disruptions.",
+      "Maintain resilience over extended periods.",
+      "Avoid equating long-term with low-risk."
+    ],
+    "related_concepts": [
+      "uncertainty",
+      "tail risk",
+      "volatility",
+      "compounding"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Shared Time Horizon Alignment",
+    "type": "incentive",
+    "concise_statement": "Long-term strategies only work when all key stakeholders share the same patience and expectations.",
+    "detailed_explanation": "Individuals may tolerate long-term volatility, but partners, investors, employers, or spouses may not. Misaligned time horizons cause otherwise correct long-term strategies to fail operationally.",
+    "implications": [
+      "Align expectations with stakeholders early.",
+      "Communicate volatility and uncertainty clearly.",
+      "Recognize that coordination risk can destroy good strategies."
+    ],
+    "related_concepts": [
+      "agency problems",
+      "behavioral finance",
+      "stakeholder management",
+      "incentive alignment"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Communication Sustains Patience",
+    "type": "decision_rule",
+    "concise_statement": "Long-term strategies require clear communication to survive short-term stress.",
+    "detailed_explanation": "People abandon long-term plans when they misunderstand volatility, cyclicality, or temporary failure. Effective communication about process and expectations increases the likelihood of enduring difficult periods.",
+    "implications": [
+      "Explain downside scenarios before they occur.",
+      "Set realistic expectations around volatility.",
+      "Use transparency to preserve trust during setbacks."
+    ],
+    "related_concepts": [
+      "expectation management",
+      "stakeholder alignment",
+      "behavioral endurance",
+      "trust"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "title": "Patience vs Stubbornness",
+    "type": "paradox",
+    "concise_statement": "Persistence and denial can look identical from the inside.",
+    "detailed_explanation": "Long-term thinking becomes dangerous when commitment prevents adaptation. People often rationalize outdated beliefs as patience when they are actually refusing to acknowledge changing reality.",
+    "implications": [
+      "Continuously reassess whether assumptions remain valid.",
+      "Separate enduring principles from temporary conditions.",
+      "Treat adaptability as part of long-term thinking."
+    ],
+    "related_concepts": [
+      "confirmation bias",
+      "adaptation",
+      "ego attachment",
+      "flexibility"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Permanent vs Expiring Knowledge",
+    "type": "mental_model",
+    "concise_statement": "Enduring principles compound in value while time-sensitive facts decay quickly.",
+    "detailed_explanation": "Permanent knowledge explains why systems behave as they do and remains useful across eras. Expiring knowledge focuses on temporary events or details with limited future relevance.",
+    "implications": [
+      "Prioritize learning timeless behavioral and structural principles.",
+      "Reduce obsession with rapidly decaying information.",
+      "Build mental models instead of memorizing transient facts."
+    ],
+    "related_concepts": [
+      "signal vs noise",
+      "first principles",
+      "knowledge compounding",
+      "information filtering"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Knowledge Compounding",
+    "type": "compounding_principle",
+    "concise_statement": "Timeless ideas become more valuable because they interact and compound across domains over time.",
+    "detailed_explanation": "Permanent knowledge accumulates and connects with other durable concepts, creating deeper understanding and transferable insight. Unlike temporary information, enduring principles generate increasing returns through cross-domain application.",
+    "implications": [
+      "Study history, psychology, incentives, and human behavior deeply.",
+      "Favor broad conceptual frameworks over short-lived details.",
+      "Build interconnected mental models."
+    ],
+    "related_concepts": [
+      "latticework thinking",
+      "systems thinking",
+      "permanent information",
+      "compounding"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Flexibility Beats Fixed Forecasts",
+    "type": "decision_rule",
+    "concise_statement": "Long-term success depends more on adaptability than precise prediction.",
+    "detailed_explanation": "Rigid timelines and forecasts fail because reality changes unpredictably. Flexible systems with indefinite horizons survive uncertainty more effectively because they require less forecasting accuracy.",
+    "implications": [
+      "Design plans with adaptability and optionality.",
+      "Avoid dependence on exact timing.",
+      "Increase margins of safety to reduce forecasting requirements."
+    ],
+    "related_concepts": [
+      "optionality",
+      "margin of safety",
+      "uncertainty",
+      "resilience"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Time Horizon Optionality",
+    "type": "risk_concept",
+    "concise_statement": "An indefinite time horizon is often safer than a fixed long-term deadline.",
+    "detailed_explanation": "Fixed endpoints expose plans to bad luck if adverse events occur near the target date. Flexible horizons reduce timing risk because success is not dependent on conditions aligning at one specific moment.",
+    "implications": [
+      "Favor strategies that allow continuation through disruptions.",
+      "Avoid hard deadlines for compounding processes.",
+      "Maintain liquidity and adaptability near uncertain periods."
+    ],
+    "related_concepts": [
+      "optionality",
+      "timing risk",
+      "margin of safety",
+      "survival principle"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Information Attention Distortion",
+    "type": "psychological_bias",
+    "concise_statement": "People overconsume temporary information because it feels urgent and stimulating.",
+    "detailed_explanation": "Expiring information dominates attention because it is abundant, emotionally engaging, and time-sensitive. Permanent knowledge attracts less attention despite generating more enduring value.",
+    "implications": [
+      "Filter information based on long-term usefulness.",
+      "Allocate more time to timeless sources like books and history.",
+      "Avoid mistaking urgency for importance."
+    ],
+    "related_concepts": [
+      "attention economy",
+      "signal vs noise",
+      "information overload",
+      "knowledge compounding"
+    ],
+    "confidence_score": 0.98
+  }
+]
