@@ -1,0 +1,218 @@
+[
+  {
+    "title": "Variance Creates Adaptability",
+    "type": "mental_model",
+    "concise_statement": "Diversity increases the probability of discovering valuable adaptations.",
+    "detailed_explanation": "In uncertain environments, no one can predict which traits or ideas will become useful. Systems with greater variation generate more possible combinations, increasing the likelihood that some will succeed under future conditions.",
+    "implications": [
+      "Encourage experimentation and diversity of approaches.",
+      "Avoid over-optimizing around one dominant strategy.",
+      "Maintain exposure to multiple possibilities under uncertainty."
+    ],
+    "related_concepts": [
+      "optionality",
+      "evolutionary fitness",
+      "innovation ecosystems",
+      "adaptation"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Innovation Latency",
+    "type": "causal_relationship",
+    "concise_statement": "The usefulness of innovations often emerges long after their invention.",
+    "detailed_explanation": "Technologies and discoveries frequently appear trivial or unimportant initially because their future applications require complementary innovations and broader ecosystems to develop. Progress compounds slowly before becoming obvious.",
+    "implications": [
+      "Avoid dismissing innovations due to lack of immediate utility.",
+      "Take a long-term view of technological development.",
+      "Recognize that early-stage inventions may require decades to mature."
+    ],
+    "related_concepts": [
+      "compounding",
+      "innovation underestimation",
+      "technology adoption",
+      "emergence"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Emergent Effects",
+    "type": "mental_model",
+    "concise_statement": "Small independent forces can combine to create disproportionately large outcomes.",
+    "detailed_explanation": "Complex systems produce nonlinear outcomes when separate components interact. Two seemingly minor or ordinary inputs can create transformative effects when combined under the right conditions.",
+    "implications": [
+      "Pay attention to interactions between systems and ideas.",
+      "Do not evaluate components only in isolation.",
+      "Expect nonlinear outcomes from combinations of technologies and skills."
+    ],
+    "related_concepts": [
+      "nonlinearity",
+      "complex systems",
+      "compounding",
+      "second-order effects"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Skill Stacking Advantage",
+    "type": "decision_rule",
+    "concise_statement": "Moderate competence across multiple complementary skills can outperform elite specialization in one skill.",
+    "detailed_explanation": "Success often emerges from combining several useful abilities at the right time rather than maximizing one isolated capability. Skill combinations create unique positioning that is harder to replicate.",
+    "implications": [
+      "Develop complementary cross-domain capabilities.",
+      "Do not rely entirely on single-domain expertise.",
+      "Look for multiplicative effects between skills."
+    ],
+    "related_concepts": [
+      "emergent effects",
+      "adaptability",
+      "competitive advantage",
+      "nonlinear returns"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "The Filtered Reality Bias",
+    "type": "psychological_bias",
+    "concise_statement": "People compare their full internal struggles to other people's curated external image.",
+    "detailed_explanation": "Most individuals selectively display strengths while hiding fears, failures, insecurities, and operational chaos. This creates distorted social comparisons where observers assume others are more competent, happier, or more stable than reality.",
+    "implications": [
+      "Avoid making life comparisons based on surface appearances.",
+      "Recognize that visible success conceals hidden costs.",
+      "Interpret public personas as incomplete data."
+    ],
+    "related_concepts": [
+      "social comparison bias",
+      "survivorship bias",
+      "image management",
+      "signal distortion"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Everything Is Sales",
+    "type": "incentive",
+    "concise_statement": "People continuously shape perceptions to influence how others evaluate them.",
+    "detailed_explanation": "Social and professional interactions contain implicit reputation management. Individuals and organizations selectively present information that improves status, trust, influence, or opportunity while concealing weaknesses.",
+    "implications": [
+      "Interpret public narratives skeptically.",
+      "Recognize incentives behind self-presentation.",
+      "Separate marketing from operational reality."
+    ],
+    "related_concepts": [
+      "signaling",
+      "reputation management",
+      "incentive structures",
+      "social dynamics"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Inside-Outside Perception Gap",
+    "type": "mental_model",
+    "concise_statement": "Organizations and people look more functional from the outside than they feel internally.",
+    "detailed_explanation": "External observers see polished outputs and selective successes, while insiders experience confusion, conflict, inefficiency, and uncertainty. This asymmetry creates unrealistic expectations about how smoothly successful systems operate.",
+    "implications": [
+      "Assume hidden dysfunction exists inside most systems.",
+      "Avoid idolizing competitors or public figures.",
+      "Recognize that operational messiness is normal."
+    ],
+    "related_concepts": [
+      "filtered reality bias",
+      "complex systems",
+      "organizational friction",
+      "signal distortion"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "The Iceberg Principle",
+    "type": "mental_model",
+    "concise_statement": "Most of reality remains hidden beneath visible outcomes.",
+    "detailed_explanation": "Publicly observable results reveal only a fraction of the effort, conflict, stress, mistakes, and trade-offs underlying success. Surface appearances systematically underrepresent hidden complexity.",
+    "implications": [
+      "Avoid evaluating systems based only on visible outputs.",
+      "Expect hidden sacrifices behind major achievements.",
+      "Use humility when judging others’ apparent success."
+    ],
+    "related_concepts": [
+      "hidden variables",
+      "signal vs noise",
+      "social comparison bias",
+      "complexity"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Hidden Struggle Universality",
+    "type": "behavioral_principle",
+    "concise_statement": "Most people conceal significant internal struggles from public view.",
+    "detailed_explanation": "Emotional pain, anxiety, insecurity, and personal difficulties are often invisible because individuals adapt behavior to hide vulnerabilities. Observers therefore underestimate how widespread struggle actually is.",
+    "implications": [
+      "Practice caution when assuming others have easy lives.",
+      "Reduce harsh self-comparisons.",
+      "Recognize that external normalcy may conceal internal difficulty."
+    ],
+    "related_concepts": [
+      "filtered reality bias",
+      "emotional masking",
+      "social signaling",
+      "psychological resilience"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Mythologizing Success",
+    "type": "psychological_bias",
+    "concise_statement": "People exaggerate the extraordinariness of successful individuals while overlooking normal human flaws.",
+    "detailed_explanation": "Limited visibility into successful people's lives creates exaggerated perceptions of competence and perfection. This discourages others from attempting ambitious goals because success appears unattainably superhuman.",
+    "implications": [
+      "View elite performers as probabilistic humans rather than mythical exceptions.",
+      "Avoid assuming success requires perfection.",
+      "Distinguish domain expertise from universal wisdom."
+    ],
+    "related_concepts": [
+      "halo effect",
+      "authority bias",
+      "social comparison",
+      "hero worship"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Domain Expertise Limitation",
+    "type": "decision_rule",
+    "concise_statement": "Competence in one domain does not imply competence in unrelated domains.",
+    "detailed_explanation": "Successful individuals are often perceived as broadly intelligent or insightful even when their expertise is highly specialized. Observers overgeneralize competence because of status and reputation.",
+    "implications": [
+      "Evaluate opinions based on domain relevance.",
+      "Avoid blindly following celebrities or experts outside their expertise.",
+      "Separate status from transferable competence."
+    ],
+    "related_concepts": [
+      "halo effect",
+      "authority bias",
+      "specialization",
+      "signal distortion"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Normal Humans, Extraordinary Odds",
+    "type": "paradox",
+    "concise_statement": "Many exceptional outcomes come from ordinary people repeatedly positioned in favorable probabilistic environments.",
+    "detailed_explanation": "Successful individuals are often less fundamentally different than observers assume. Extraordinary outcomes can emerge from persistence, timing, probability exposure, and incremental advantages rather than superhuman traits.",
+    "implications": [
+      "Focus on process and exposure to opportunity.",
+      "Do not assume greatness requires innate perfection.",
+      "Increase repetitions and probability-adjusted opportunities."
+    ],
+    "related_concepts": [
+      "luck vs skill",
+      "compounding",
+      "probabilistic thinking",
+      "survivorship bias"
+    ],
+    "confidence_score": 0.95
+  }
+]
