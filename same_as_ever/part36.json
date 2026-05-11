@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Extreme Conditions Reveal Human Nature",
+    "type": "mental_model",
+    "concise_statement": "Severe environments expose behavioral tendencies hidden during normal conditions.",
+    "detailed_explanation": "Extreme stress strips away social conventions, revealing how survival pressure reshapes morality, cooperation, fear, and endurance. Human behavior under hardship often differs radically from behavior in stable environments.",
+    "implications": [
+      "Do not judge behavior solely from stable conditions.",
+      "Recognize stress as a revealing force in systems and people.",
+      "Expect hidden traits to emerge during crises."
+    ],
+    "related_concepts": [
+      "survival psychology",
+      "behavioral adaptation",
+      "situational ethics",
+      "stress response"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Trust Erodes Slowly, Then Suddenly",
+    "type": "causal_relationship",
+    "concise_statement": "Institutional trust compounds gradually but can collapse rapidly after repeated failures.",
+    "detailed_explanation": "Trust depends on accumulated credibility and predictability over time. Once institutions repeatedly fail expectations, skepticism accelerates and becomes difficult to reverse.",
+    "implications": [
+      "Protect institutional credibility proactively.",
+      "Recognize trust as a compounding asset.",
+      "Expect long recovery periods after legitimacy collapses."
+    ],
+    "related_concepts": [
+      "social capital",
+      "institutional fragility",
+      "compounding",
+      "reputation risk"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Overeffort Can Reduce Performance",
+    "type": "paradox",
+    "concise_statement": "Trying too hard can interfere with natural performance and insight.",
+    "detailed_explanation": "Excessive force, overanalysis, and rigid control often create tension and cognitive interference. Many forms of mastery require balance between deliberate effort and adaptive flow.",
+    "implications": [
+      "Recognize diminishing returns to forceful effort.",
+      "Allow flexibility and intuition during execution.",
+      "Avoid overcontrolling complex processes."
+    ],
+    "related_concepts": [
+      "flow state",
+      "cognitive interference",
+      "adaptability",
+      "performance psychology"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Truth Tends Toward Simplicity",
+    "type": "decision_rule",
+    "concise_statement": "Accurate explanations are often simpler than people expect.",
+    "detailed_explanation": "Reality can be complex, but underlying mechanisms are frequently governed by a small number of core principles. Overcomplicated explanations often reflect confusion, signaling, or overfitting.",
+    "implications": [
+      "Prefer explanations with minimal unnecessary assumptions.",
+      "Distinguish genuine complexity from intellectual ornamentation.",
+      "Use simplicity as a test for understanding."
+    ],
+    "related_concepts": [
+      "Occam's razor",
+      "first principles",
+      "knowledge compression",
+      "simplicity principle"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Evolution Removes Excess Complexity",
+    "type": "causal_relationship",
+    "concise_statement": "Long-term adaptation often simplifies systems rather than endlessly adding components.",
+    "detailed_explanation": "Evolutionary processes frequently eliminate unnecessary structures and consolidate functions into more efficient forms. Simpler systems often survive better because they reduce fragility and coordination burden.",
+    "implications": [
+      "Continuously simplify systems and processes.",
+      "Treat unnecessary complexity as hidden risk.",
+      "Focus on essential functions rather than feature accumulation."
+    ],
+    "related_concepts": [
+      "evolutionary efficiency",
+      "robustness",
+      "fragility",
+      "optimization"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Unread Complexity Problem",
+    "type": "risk_concept",
+    "concise_statement": "Information that is too complex or demanding often becomes functionally unusable.",
+    "detailed_explanation": "Excessive complexity creates cognitive friction, causing people to abandon or ignore potentially valuable information. Accessibility and clarity are necessary for ideas to influence behavior.",
+    "implications": [
+      "Communicate complex ideas through simple structures.",
+      "Optimize for usability, not just completeness.",
+      "Recognize cognitive overload as a practical limitation."
+    ],
+    "related_concepts": [
+      "information overload",
+      "simplicity principle",
+      "communication efficiency",
+      "attention economics"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "title": "Indirect Reasoning Advantage",
+    "type": "mental_model",
+    "concise_statement": "Important truths are often discovered indirectly through clues rather than direct observation.",
+    "detailed_explanation": "Complex problems rarely reveal themselves explicitly. Effective reasoning often relies on assembling small signals, contextual evidence, and probabilistic inference into coherent understanding.",
+    "implications": [
+      "Develop inference and pattern-recognition skills.",
+      "Look for weak signals and indirect indicators.",
+      "Use probabilistic rather than binary reasoning."
+    ],
+    "related_concepts": [
+      "Bayesian thinking",
+      "diagnostic reasoning",
+      "pattern recognition",
+      "signal detection"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Scars Persist Beyond Recovery",
+    "type": "behavioral_principle",
+    "concise_statement": "People and societies recover operationally from trauma faster than psychologically.",
+    "detailed_explanation": "Economic systems, cities, and institutions can rebuild materially while emotional memory and behavioral conditioning persist for generations. Trauma permanently alters expectations and risk tolerance.",
+    "implications": [
+      "Account for long-term behavioral shifts after crises.",
+      "Distinguish visible recovery from emotional recovery.",
+      "Recognize hidden psychological consequences in historical events."
+    ],
+    "related_concepts": [
+      "trauma imprinting",
+      "scar tissue effect",
+      "behavioral conditioning",
+      "collective memory"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Scarcity Shapes Personality",
+    "type": "causal_relationship",
+    "concise_statement": "Extended deprivation permanently changes behavior, preferences, and worldview.",
+    "detailed_explanation": "Experiences involving hunger, insecurity, war, or instability reshape priorities toward safety, predictability, and resource preservation. These adaptations persist long after conditions improve.",
+    "implications": [
+      "Interpret conservatism through historical scarcity.",
+      "Recognize economic preferences as experience-dependent.",
+      "Expect long-term behavioral persistence after hardship."
+    ],
+    "related_concepts": [
+      "scarcity mindset",
+      "behavioral conditioning",
+      "risk aversion",
+      "path dependence"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Conditioning Can Override Rationality",
+    "type": "psychological_bias",
+    "concise_statement": "Repeated experiences shape automatic responses more powerfully than conscious reasoning.",
+    "detailed_explanation": "Humans adapt behaviorally to repeated rewards, punishments, and emotional experiences. Once conditioned, reactions often occur automatically even when circumstances change.",
+    "implications": [
+      "Design environments that reinforce desired behavior.",
+      "Recognize emotional conditioning in financial decisions.",
+      "Expect habits and trauma responses to persist."
+    ],
+    "related_concepts": [
+      "behavioral conditioning",
+      "habit formation",
+      "trauma psychology",
+      "automaticity"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "War Expands Collective Risk Aversion",
+    "type": "risk_concept",
+    "concise_statement": "Large-scale destruction increases societal preference for stability and social insurance.",
+    "detailed_explanation": "After periods of catastrophic instability, populations become more willing to support collective systems providing security, healthcare, welfare, and institutional coordination.",
+    "implications": [
+      "Interpret policy shifts through historical trauma.",
+      "Recognize welfare systems as responses to insecurity.",
+      "Expect political preferences to follow collective experiences."
+    ],
+    "related_concepts": [
+      "collective psychology",
+      "risk aversion",
+      "institutional adaptation",
+      "security preference"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Generational Memory Persists",
+    "type": "compounding_principle",
+    "concise_statement": "Experiences from one era compound into long-lasting cultural and behavioral norms.",
+    "detailed_explanation": "Major historical events influence financial habits, parenting styles, political preferences, and social attitudes across generations because behavioral adaptations become culturally embedded.",
+    "implications": [
+      "Study historical context to understand generational behavior.",
+      "Recognize that economic attitudes are inherited culturally.",
+      "Expect historical trauma to influence future decision-making."
+    ],
+    "related_concepts": [
+      "cultural memory",
+      "behavioral persistence",
+      "path dependence",
+      "generational psychology"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Questions Reveal More Than Answers",
+    "type": "decision_rule",
+    "concise_statement": "The quality of reflection depends more on the questions asked than on immediate answers.",
+    "detailed_explanation": "Strategic questions expose assumptions, motivations, and blind spots that routine thinking ignores. Better questions expand perspective and improve judgment under uncertainty.",
+    "implications": [
+      "Use structured self-questioning regularly.",
+      "Focus on uncovering hidden assumptions.",
+      "Treat reflection as an active analytical process."
+    ],
+    "related_concepts": [
+      "metacognition",
+      "epistemic humility",
+      "critical thinking",
+      "self-awareness"
+    ],
+    "confidence_score": 0.97
+  }
+]
