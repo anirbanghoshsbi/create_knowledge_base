@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Incentives Drive Behavior",
+    "type": "incentive",
+    "concise_statement": "Human behavior is heavily shaped by the rewards and punishments attached to actions.",
+    "detailed_explanation": "People often justify or rationalize actions based on the incentives surrounding them. Financial, social, emotional, and tribal rewards can overpower abstract ethics or rational judgment. Behavior that appears irrational from the outside frequently becomes understandable once incentives are examined.",
+    "implications": [
+      "Analyze incentives before judging behavior.",
+      "Design systems assuming incentives dominate intentions.",
+      "Expect behavior to adapt to reward structures."
+    ],
+    "related_concepts": [
+      "behavioral economics",
+      "agency problems",
+      "moral hazard",
+      "self-interest"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Desperation Distorts Ethics",
+    "type": "causal_relationship",
+    "concise_statement": "Extreme need can make harmful behavior psychologically justifiable.",
+    "detailed_explanation": "When survival, income, or security are threatened, ethical standards often become secondary to immediate incentives. Poverty, fear, or instability narrow focus toward short-term gains and reduce sensitivity to broader consequences.",
+    "implications": [
+      "Consider economic context when evaluating behavior.",
+      "Reduce desperation to reduce harmful incentives.",
+      "Expect moral flexibility under survival pressure."
+    ],
+    "related_concepts": [
+      "scarcity mindset",
+      "survival principle",
+      "incentive distortion",
+      "behavioral adaptation"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Economic Gravity Overrides Ideals",
+    "type": "mental_model",
+    "concise_statement": "Large economic rewards can overpower prior ambitions, values, or aspirations.",
+    "detailed_explanation": "People often abandon slower, uncertain, or intrinsically meaningful pursuits when presented with immediate and substantial economic opportunity. Incentives reshape priorities by changing perceived opportunity costs.",
+    "implications": [
+      "Recognize how compensation structures redirect talent.",
+      "Understand that incentives can redefine identity and goals.",
+      "Do not assume stated values dominate actual behavior."
+    ],
+    "related_concepts": [
+      "opportunity cost",
+      "financial incentives",
+      "behavioral adaptation",
+      "career dynamics"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "title": "Incentive Blindness",
+    "type": "psychological_bias",
+    "concise_statement": "People underestimate how strongly incentives shape their own beliefs and actions.",
+    "detailed_explanation": "Individuals can often identify incentive distortions in others while remaining blind to their own motivated reasoning. Incentives influence not just actions but also perception, interpretation, and moral justification.",
+    "implications": [
+      "Continuously audit personal incentives.",
+      "Question beliefs that align too neatly with self-interest.",
+      "Recognize that objectivity is constrained by incentives."
+    ],
+    "related_concepts": [
+      "motivated reasoning",
+      "self-serving bias",
+      "cognitive dissonance",
+      "confirmation bias"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "People Follow Incentives, Not Advice",
+    "type": "behavioral_principle",
+    "concise_statement": "Behavior changes more reliably through incentives than through information or persuasion.",
+    "detailed_explanation": "Advice often fails because it competes against stronger incentive structures. People may intellectually understand what is correct while still behaving differently when rewards, status, or survival pressures point elsewhere.",
+    "implications": [
+      "Focus on incentive design when changing behavior.",
+      "Do not assume education alone changes decisions.",
+      "Align incentives with desired outcomes."
+    ],
+    "related_concepts": [
+      "behavioral economics",
+      "system design",
+      "agency problems",
+      "motivated behavior"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Systemic Complicity",
+    "type": "risk_concept",
+    "concise_statement": "Unsustainable systems persist because incentives encourage everyone to continue participating.",
+    "detailed_explanation": "When multiple actors benefit from a system, even if they recognize its flaws, few individuals have sufficient incentive to resist. Collective participation sustains bubbles, corruption, and fragile structures long after risks become obvious.",
+    "implications": [
+      "Do not assume awareness leads to corrective action.",
+      "Study systemic incentives during bubbles and crises.",
+      "Recognize that collective irrationality can be individually rational."
+    ],
+    "related_concepts": [
+      "moral hazard",
+      "collective action problem",
+      "agency problems",
+      "systemic risk"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Tribal Incentives Can Exceed Financial Incentives",
+    "type": "behavioral_principle",
+    "concise_statement": "Social belonging and group loyalty can motivate behavior more strongly than money.",
+    "detailed_explanation": "Humans are highly sensitive to acceptance, identity, and tribal affiliation. People may support harmful ideas or actions to maintain social standing or avoid exclusion, even when financial incentives are weak.",
+    "implications": [
+      "Analyze social pressures alongside economic incentives.",
+      "Expect conformity inside strong identity groups.",
+      "Recognize tribal loyalty as a major behavioral driver."
+    ],
+    "related_concepts": [
+      "groupthink",
+      "social identity",
+      "tribalism",
+      "conformity bias"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Belief Incentive Distortion",
+    "type": "psychological_bias",
+    "concise_statement": "People often interpret reality in ways that support desired conclusions.",
+    "detailed_explanation": "Strong incentives cause individuals to selectively process information and reject contradictory evidence. People do not merely defend incentives consciously; incentives reshape perception itself.",
+    "implications": [
+      "Separate desired outcomes from evidence evaluation.",
+      "Stress-test beliefs against disconfirming information.",
+      "Recognize emotional attachment to conclusions."
+    ],
+    "related_concepts": [
+      "motivated reasoning",
+      "confirmation bias",
+      "wishful thinking",
+      "cognitive dissonance"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Objectivity Illusion",
+    "type": "psychological_bias",
+    "concise_statement": "Complete objectivity is extremely difficult because incentives and identity shape perception.",
+    "detailed_explanation": "People believe they evaluate reality neutrally while unknowingly filtering information through incentives, social pressures, and personal desires. Perception is influenced by context even when individuals believe they are unbiased.",
+    "implications": [
+      "Approach certainty with skepticism.",
+      "Recognize that expertise does not eliminate bias.",
+      "Seek environments that reduce incentive conflicts."
+    ],
+    "related_concepts": [
+      "bias blind spot",
+      "motivated cognition",
+      "self-serving bias",
+      "epistemic humility"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Action Bias from Professional Incentives",
+    "type": "risk_concept",
+    "concise_statement": "Professionals are often incentivized to act even when inaction is optimal.",
+    "detailed_explanation": "In advisory professions, doing nothing may be the correct decision, but economic and psychological incentives reward visible action. Professionals may therefore introduce unnecessary complexity or interventions to justify their role.",
+    "implications": [
+      "Question whether action is truly necessary.",
+      "Recognize incentives behind excessive complexity.",
+      "Value advisors capable of recommending restraint."
+    ],
+    "related_concepts": [
+      "agency problems",
+      "overtrading",
+      "complexity bias",
+      "career risk"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Complexity as Justification",
+    "type": "paradox",
+    "concise_statement": "Complexity is often added not because it improves outcomes, but because it validates professional usefulness.",
+    "detailed_explanation": "People in expert roles may unconsciously increase complexity to signal value, competence, or effort. Simplicity can appear unproductive even when it is superior.",
+    "implications": [
+      "Prefer systems with clear causal logic.",
+      "Be skeptical of unnecessary complexity.",
+      "Recognize simplicity as a potential sign of mastery."
+    ],
+    "related_concepts": [
+      "action bias",
+      "signaling",
+      "agency problems",
+      "complexity bias"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Incentive-Driven Information Production",
+    "type": "causal_relationship",
+    "concise_statement": "Information systems produce content shaped by economic incentives rather than pure truth-seeking.",
+    "detailed_explanation": "Media, finance, consulting, and advisory industries often optimize for engagement, revenue, or client expectations instead of objectivity. Information output therefore reflects the incentives of producers.",
+    "implications": [
+      "Analyze why information is being presented.",
+      "Distinguish truth-seeking from engagement-seeking.",
+      "Expect information environments to contain structural distortions."
+    ],
+    "related_concepts": [
+      "media incentives",
+      "attention economy",
+      "signal distortion",
+      "motivated communication"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Role Reality Gap",
+    "type": "mental_model",
+    "concise_statement": "The practical execution of professions differs substantially from their idealized theoretical version.",
+    "detailed_explanation": "Many professions combine technical expertise with social, political, and institutional demands. Success often depends as much on managing expectations and systems as on pure technical competence.",
+    "implications": [
+      "Understand the institutional context surrounding expertise.",
+      "Evaluate professions beyond technical theory alone.",
+      "Recognize social dynamics as part of operational reality."
+    ],
+    "related_concepts": [
+      "institutional incentives",
+      "social complexity",
+      "organizational dynamics",
+      "practical constraints"
+    ],
+    "confidence_score": 0.95
+  }
+]
