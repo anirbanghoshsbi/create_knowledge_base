@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Stories Amplify Ideas",
+    "type": "behavioral_principle",
+    "concise_statement": "Ideas become influential when embedded in emotionally resonant stories.",
+    "detailed_explanation": "Humans retain and spread narratives more effectively than abstract facts or statistics. Powerful stories compress complex ideas into emotionally meaningful experiences, making them easier to remember and transmit.",
+    "implications": [
+      "Communicate through narrative rather than raw information.",
+      "Recognize that emotional resonance influences persuasion.",
+      "Be cautious of compelling stories unsupported by evidence."
+    ],
+    "related_concepts": [
+      "narrative fallacy",
+      "persuasion",
+      "availability heuristic",
+      "social transmission"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Improvisation Creates Breakthroughs",
+    "type": "mental_model",
+    "concise_statement": "Some of the most powerful outcomes emerge from adaptive improvisation rather than rigid planning.",
+    "detailed_explanation": "Preparation provides structure, but breakthrough moments often occur when individuals adapt dynamically to emotion, context, and audience. Flexibility can unlock authenticity and impact beyond scripted systems.",
+    "implications": [
+      "Allow room for adaptive execution.",
+      "Do not over-optimize rigid plans.",
+      "Recognize spontaneity as a source of creativity."
+    ],
+    "related_concepts": [
+      "adaptability",
+      "emergence",
+      "creative flow",
+      "nonlinearity"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "title": "Humor Reveals Truth",
+    "type": "decision_rule",
+    "concise_statement": "Humor can communicate difficult truths more effectively than direct confrontation.",
+    "detailed_explanation": "Humor lowers defensiveness and increases engagement, allowing uncomfortable or complex realities to become psychologically accessible. It simplifies communication while preserving emotional connection.",
+    "implications": [
+      "Use humor strategically in communication.",
+      "Recognize satire as a carrier of insight.",
+      "Pay attention to jokes revealing hidden social truths."
+    ],
+    "related_concepts": [
+      "storytelling",
+      "social signaling",
+      "psychological accessibility",
+      "persuasion"
+    ],
+    "confidence_score": 0.94
+  },
+  {
+    "title": "Measurement Blindness",
+    "type": "risk_concept",
+    "concise_statement": "Important variables are often excluded because they are difficult to measure.",
+    "detailed_explanation": "Institutions prioritize measurable metrics while ignoring emotional, psychological, social, or qualitative factors that strongly influence outcomes. This creates distorted decision-making and incomplete models.",
+    "implications": [
+      "Question what important factors are missing from metrics.",
+      "Incorporate qualitative judgment alongside quantitative analysis.",
+      "Recognize limits of purely data-driven systems."
+    ],
+    "related_concepts": [
+      "Goodhart's law",
+      "measurement error",
+      "systems blindness",
+      "qualitative uncertainty"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "What Gets Measured Distorts Behavior",
+    "type": "causal_relationship",
+    "concise_statement": "Metrics influence behavior even when they fail to capture true objectives.",
+    "detailed_explanation": "People optimize toward measurable targets because incentives reward visible outcomes. However, metrics are often incomplete proxies, causing optimization to drift away from underlying goals.",
+    "implications": [
+      "Design metrics carefully to avoid perverse incentives.",
+      "Continuously reassess whether measurements reflect reality.",
+      "Avoid over-optimizing proxy variables."
+    ],
+    "related_concepts": [
+      "Goodhart's law",
+      "incentive distortion",
+      "proxy failure",
+      "agency problems"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Logic Alone Cannot Explain Human Systems",
+    "type": "paradox",
+    "concise_statement": "Human behavior often deviates from purely logical models because emotion and psychology dominate decisions.",
+    "detailed_explanation": "People do not operate as rational optimization machines. Fear, identity, pride, tribalism, and emotional memory frequently override analytically optimal behavior.",
+    "implications": [
+      "Integrate psychology into decision-making frameworks.",
+      "Avoid assuming rationality in markets or politics.",
+      "Recognize emotional forces as structural variables."
+    ],
+    "related_concepts": [
+      "behavioral economics",
+      "bounded rationality",
+      "irrationality",
+      "emotional cognition"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Calm Breeds Instability",
+    "type": "causal_relationship",
+    "concise_statement": "Extended periods of stability encourage behaviors that eventually create instability.",
+    "detailed_explanation": "When environments remain calm for long periods, people increase leverage, reduce caution, and underestimate risk. Stability changes behavior in ways that make systems increasingly fragile.",
+    "implications": [
+      "Be cautious when risk appears permanently low.",
+      "Expect complacency during stable periods.",
+      "Recognize that calm environments often conceal growing fragility."
+    ],
+    "related_concepts": [
+      "Minsky cycle",
+      "risk buildup",
+      "fragility",
+      "complacency"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Success Reduces Vigilance",
+    "type": "psychological_bias",
+    "concise_statement": "Past success weakens attention to low-probability threats.",
+    "detailed_explanation": "As disasters become less frequent, people psychologically downgrade their importance and reduce preparedness. This creates vulnerability precisely because previous success creates confidence.",
+    "implications": [
+      "Maintain preparedness even during long stable periods.",
+      "Avoid extrapolating calm conditions indefinitely.",
+      "Institutionalize memory of past failures."
+    ],
+    "related_concepts": [
+      "normalcy bias",
+      "Minsky instability",
+      "complacency",
+      "tail risk"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Growth-Speed Tradeoff",
+    "type": "paradox",
+    "concise_statement": "Systems that grow too quickly often become structurally fragile.",
+    "detailed_explanation": "Rapid expansion can outpace the development of supporting infrastructure, resilience, and adaptive capacity. Fast growth often sacrifices robustness for short-term gains.",
+    "implications": [
+      "Balance growth with durability.",
+      "Watch for fragility hidden inside rapid expansion.",
+      "Avoid scaling faster than systems can support."
+    ],
+    "related_concepts": [
+      "fragility",
+      "scaling limits",
+      "sustainability",
+      "organizational risk"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Slow Growth Builds Durability",
+    "type": "compounding_principle",
+    "concise_statement": "Gradual growth often creates stronger and more sustainable systems.",
+    "detailed_explanation": "Systems growing at manageable rates develop adaptive structures, redundancy, and resilience over time. Durable compounding usually favors stability over explosive acceleration.",
+    "implications": [
+      "Optimize for sustainable compounding rather than speed alone.",
+      "Allow systems time to mature structurally.",
+      "Recognize that slower growth can increase long-term survivability."
+    ],
+    "related_concepts": [
+      "compounding",
+      "resilience",
+      "durability",
+      "long-term thinking"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Crisis Accelerates Innovation",
+    "type": "causal_relationship",
+    "concise_statement": "Periods of disruption often trigger bursts of creativity, reform, and technological advancement.",
+    "detailed_explanation": "Crises increase urgency, weaken institutional inertia, and force experimentation. Systems previously resistant to change become more adaptive under pressure.",
+    "implications": [
+      "View crises as periods of accelerated transformation.",
+      "Recognize stress as a catalyst for innovation.",
+      "Expect institutional change after major disruptions."
+    ],
+    "related_concepts": [
+      "creative destruction",
+      "adaptation",
+      "necessity-driven innovation",
+      "systemic change"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Pain Creates Momentum for Reform",
+    "type": "behavioral_principle",
+    "concise_statement": "People often resist change until suffering becomes impossible to ignore.",
+    "detailed_explanation": "Systems tolerate inefficiencies and dangers until visible pain creates enough emotional and political pressure to force action. Major reforms frequently follow tragedies or crises.",
+    "implications": [
+      "Expect institutional inertia during calm periods.",
+      "Recognize emotional catalysts behind major reforms.",
+      "Study crises to understand why systems finally change."
+    ],
+    "related_concepts": [
+      "status quo bias",
+      "crisis-driven adaptation",
+      "collective psychology",
+      "institutional inertia"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Meaning Through Struggle",
+    "type": "mental_model",
+    "concise_statement": "Humans often derive purpose and engagement from overcoming difficulty rather than from comfort alone.",
+    "detailed_explanation": "Total ease and absence of challenge can produce stagnation and emotional emptiness. Many people experience meaning through effort, growth, and solving difficult problems.",
+    "implications": [
+      "Do not optimize life solely for comfort.",
+      "Recognize challenge as a source of engagement.",
+      "Build systems that include purposeful difficulty."
+    ],
+    "related_concepts": [
+      "grit",
+      "growth through adversity",
+      "purpose",
+      "behavioral motivation"
+    ],
+    "confidence_score": 0.96
+  }
+]
