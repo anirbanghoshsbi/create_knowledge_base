@@ -1,0 +1,218 @@
+[
+  {
+    "title": "Security Demand After Chaos",
+    "type": "causal_relationship",
+    "concise_statement": "Large-scale instability increases long-term demand for institutional safety and social protection.",
+    "detailed_explanation": "People exposed to war, economic collapse, or systemic insecurity often shift toward policies and systems prioritizing stability, insurance, and collective protection. Trauma changes societal tolerance for risk and increases preference for guaranteed support structures.",
+    "implications": [
+      "Expect crises to reshape political and economic preferences.",
+      "Recognize welfare systems as responses to collective trauma.",
+      "Understand that attitudes toward risk are historically conditioned."
+    ],
+    "related_concepts": [
+      "scar tissue effect",
+      "risk aversion",
+      "collective psychology",
+      "institutional adaptation"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Experience-Driven Risk Perception",
+    "type": "mental_model",
+    "concise_statement": "People perceive risk primarily through lived experience rather than abstract statistics.",
+    "detailed_explanation": "Direct exposure to inflation, crashes, wars, or bubbles permanently alters how individuals interpret future uncertainty. Different generations therefore react differently to identical risks because their emotional reference points differ.",
+    "implications": [
+      "Interpret financial behavior through generational context.",
+      "Expect disagreement between cohorts shaped by different crises.",
+      "Recognize that risk tolerance is experience-dependent."
+    ],
+    "related_concepts": [
+      "behavioral conditioning",
+      "generational psychology",
+      "scar tissue effect",
+      "risk perception"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Recency Trauma Extrapolation",
+    "type": "psychological_bias",
+    "concise_statement": "After major shocks, people assume similar events will continue with greater intensity.",
+    "detailed_explanation": "Severe unexpected events dominate emotional memory, causing individuals to overestimate the likelihood and magnitude of similar future events. Trauma narrows forecasting toward recent painful experiences.",
+    "implications": [
+      "Expect overreactions after crises.",
+      "Avoid projecting recent extremes indefinitely.",
+      "Recognize emotional memory as a forecasting distortion."
+    ],
+    "related_concepts": [
+      "recency bias",
+      "availability heuristic",
+      "trauma imprinting",
+      "behavioral forecasting"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Conviction After Surprise",
+    "type": "paradox",
+    "concise_statement": "People become more certain in forecasts after experiencing events nobody predicted.",
+    "detailed_explanation": "Unexpected events often increase emotional certainty instead of humility. Individuals reinterpret shocks as obvious in hindsight and develop strong convictions about future outcomes despite the unpredictability of the original event.",
+    "implications": [
+      "Maintain humility after major surprises.",
+      "Recognize that emotional intensity can create false certainty.",
+      "Separate hindsight narratives from genuine predictive ability."
+    ],
+    "related_concepts": [
+      "hindsight bias",
+      "overconfidence",
+      "narrative fallacy",
+      "forecasting illusion"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Disagreement Is Often Experiential",
+    "type": "behavioral_principle",
+    "concise_statement": "Many disagreements arise from different experiences rather than differences in intelligence or information.",
+    "detailed_explanation": "People develop beliefs through lived environments, emotional conditioning, and personal history. Opposing worldviews frequently reflect different experiential realities rather than deliberate irrationality.",
+    "implications": [
+      "Ask what experiences shaped another person's beliefs.",
+      "Increase empathy during disagreement.",
+      "Recognize limits of purely logical persuasion."
+    ],
+    "related_concepts": [
+      "perspective asymmetry",
+      "behavioral conditioning",
+      "tribal cognition",
+      "experiential reasoning"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Ignorance of Missing Experience",
+    "type": "psychological_bias",
+    "concise_statement": "People underestimate how different experiences would change their own beliefs.",
+    "detailed_explanation": "Individuals assume their views are objectively correct rather than partially products of environment and lived history. Admitting experience-dependence threatens identity and confidence, so people default to assuming dissenters are uninformed.",
+    "implications": [
+      "Use humility when evaluating opposing viewpoints.",
+      "Recognize hidden dependence on personal history.",
+      "Question whether different life circumstances would alter beliefs."
+    ],
+    "related_concepts": [
+      "bias blind spot",
+      "motivated reasoning",
+      "perspective asymmetry",
+      "epistemic humility"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Information Does Not Eliminate Disagreement",
+    "type": "mental_model",
+    "concise_statement": "Access to more information does not necessarily produce consensus.",
+    "detailed_explanation": "People filter information through identity, incentives, and lived experience. Increased exposure to conflicting viewpoints can intensify disagreement because individuals become more emotionally invested in defending existing beliefs.",
+    "implications": [
+      "Do not assume information alone changes minds.",
+      "Expect disagreement to persist in connected societies.",
+      "Recognize emotional and experiential filters in interpretation."
+    ],
+    "related_concepts": [
+      "motivated reasoning",
+      "tribalism",
+      "confirmation bias",
+      "identity protection"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Forecasting Precision Illusion",
+    "type": "psychological_bias",
+    "concise_statement": "People respond to uncertainty by increasing prediction effort even when predictability remains low.",
+    "detailed_explanation": "Humans are uncomfortable with ambiguity and therefore seek reassurance through more detailed forecasting, models, and analysis. However, increased precision often creates only the illusion of understanding.",
+    "implications": [
+      "Distinguish confidence from predictive accuracy.",
+      "Avoid overfitting uncertain futures.",
+      "Use robust systems rather than precise forecasts."
+    ],
+    "related_concepts": [
+      "illusion of control",
+      "forecasting error",
+      "uncertainty",
+      "model risk"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "History Over Forecasts",
+    "type": "decision_rule",
+    "concise_statement": "Studying recurring historical patterns is often more useful than attempting precise future forecasts.",
+    "detailed_explanation": "Human behavior changes less than surface events. Understanding recurring incentives, fears, cycles, and reactions provides more durable insight than predicting specific future developments.",
+    "implications": [
+      "Study enduring behavioral patterns.",
+      "Use history to understand structural tendencies.",
+      "Focus on timeless dynamics rather than short-term predictions."
+    ],
+    "related_concepts": [
+      "base rates",
+      "behavioral finance",
+      "permanent information",
+      "systems thinking"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Backward-Looking Robustness",
+    "type": "mental_model",
+    "concise_statement": "The best guide to uncertainty is understanding what repeatedly survives across history.",
+    "detailed_explanation": "Rather than predicting novel details, robust thinking studies recurring human tendencies and systemic constraints that persist across eras. Timeless behaviors provide more reliable guidance than fragile forecasts.",
+    "implications": [
+      "Prioritize invariant principles over temporary trends.",
+      "Anchor decisions around durable human behavior.",
+      "Treat recurring historical patterns as structural signals."
+    ],
+    "related_concepts": [
+      "Lindy effect",
+      "timeless principles",
+      "behavioral persistence",
+      "uncertainty management"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Questions Reveal Blind Spots",
+    "type": "decision_rule",
+    "concise_statement": "Asking reflective questions exposes hidden assumptions and cognitive distortions.",
+    "detailed_explanation": "Many errors persist because individuals rarely interrogate their own incentives, experiences, and beliefs. Strategic self-questioning reveals hidden fragility, blind spots, and motivated reasoning.",
+    "implications": [
+      "Use structured reflection to challenge assumptions.",
+      "Audit beliefs for incentive and experience distortions.",
+      "Treat self-questioning as a tool for adaptive thinking."
+    ],
+    "related_concepts": [
+      "metacognition",
+      "epistemic humility",
+      "bias detection",
+      "self-awareness"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Timelessness Filter",
+    "type": "compounding_principle",
+    "concise_statement": "Ideas tied to enduring human behavior compound in usefulness over time.",
+    "detailed_explanation": "Concepts grounded in permanent aspects of psychology, incentives, and risk remain applicable across generations and environments. Timeless knowledge accumulates value because it repeatedly explains new situations.",
+    "implications": [
+      "Study principles that persist across history.",
+      "Build frameworks around invariant human tendencies.",
+      "Prioritize durable ideas over temporary trends."
+    ],
+    "related_concepts": [
+      "knowledge compounding",
+      "Lindy effect",
+      "permanent information",
+      "mental models"
+    ],
+    "confidence_score": 0.99
+  }
+]
