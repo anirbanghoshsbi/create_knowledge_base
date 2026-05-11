@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Rare Events Dominate Outcomes",
+    "type": "mental_model",
+    "concise_statement": "A small number of improbable events often shape the majority of important outcomes.",
+    "detailed_explanation": "History, markets, careers, and societies are disproportionately influenced by low-probability, high-impact events. Most forecasting systems underestimate these nonlinear drivers because they focus on ordinary variation rather than extreme outcomes.",
+    "implications": [
+      "Prepare for tail risks and asymmetric outcomes.",
+      "Avoid assuming the future will resemble average historical conditions.",
+      "Recognize that extreme events often dominate long-term trajectories."
+    ],
+    "related_concepts": [
+      "tail risk",
+      "black swans",
+      "power laws",
+      "uncertainty"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Preparedness Over Prediction",
+    "type": "decision_rule",
+    "concise_statement": "Robust systems focus more on surviving surprises than accurately forecasting them.",
+    "detailed_explanation": "Because the most consequential events are often unpredictable, resilience depends less on precise forecasting and more on maintaining flexibility, redundancy, and margins of safety.",
+    "implications": [
+      "Invest in resilience rather than forecast precision.",
+      "Maintain buffers against unknown risks.",
+      "Design systems that can survive unexpected shocks."
+    ],
+    "related_concepts": [
+      "antifragility",
+      "margin of safety",
+      "optionalities",
+      "tail risk"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Relative Progress Blindness",
+    "type": "psychological_bias",
+    "concise_statement": "People often underestimate long-term progress because expectations rise alongside improvements.",
+    "detailed_explanation": "As living standards improve, new conveniences and higher expectations become normalized. This causes people to focus on remaining frustrations while overlooking how dramatically conditions have improved historically.",
+    "implications": [
+      "Measure progress relative to historical baselines.",
+      "Recognize that adaptation obscures improvement.",
+      "Avoid evaluating quality of life only through current dissatisfaction."
+    ],
+    "related_concepts": [
+      "hedonic adaptation",
+      "expectation drift",
+      "normalization",
+      "historical perspective"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Success Without Satisfaction",
+    "type": "paradox",
+    "concise_statement": "Extraordinary achievement often fails to produce proportional happiness.",
+    "detailed_explanation": "External success changes circumstances but does not eliminate insecurity, comparison, anxiety, or psychological instability. High achievers frequently remain emotionally dissatisfied despite objective accomplishment.",
+    "implications": [
+      "Separate achievement from emotional well-being.",
+      "Do not assume elite performers are fulfilled.",
+      "Recognize that ambition and happiness are partially independent variables."
+    ],
+    "related_concepts": [
+      "hedonic adaptation",
+      "status competition",
+      "goalpost drift",
+      "identity instability"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Wild Minds Tradeoff",
+    "type": "paradox",
+    "concise_statement": "Extreme creativity and performance often coexist with instability or irrationality.",
+    "detailed_explanation": "Highly original thinkers frequently possess traits that create both exceptional insight and dysfunctional behavior. The same mental intensity driving innovation may also produce volatility, obsession, or social difficulty.",
+    "implications": [
+      "Distinguish productive originality from destructive instability.",
+      "Avoid romanticizing dysfunction solely because it accompanies genius.",
+      "Recognize tradeoffs embedded in extreme performance."
+    ],
+    "related_concepts": [
+      "nonlinear traits",
+      "creative obsession",
+      "personality extremes",
+      "trade-offs"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Narrative Dominance",
+    "type": "behavioral_principle",
+    "concise_statement": "Compelling stories influence beliefs more powerfully than raw data.",
+    "detailed_explanation": "Humans interpret reality through narratives because stories simplify complexity, evoke emotion, and improve memorability. Statistical truth often loses influence when competing against emotionally coherent narratives.",
+    "implications": [
+      "Frame ideas through understandable narratives.",
+      "Be cautious of emotionally persuasive but inaccurate stories.",
+      "Recognize storytelling as a major force in markets and politics."
+    ],
+    "related_concepts": [
+      "narrative fallacy",
+      "availability heuristic",
+      "persuasion",
+      "information asymmetry"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Probability Intuition Failure",
+    "type": "psychological_bias",
+    "concise_statement": "Humans systematically misunderstand large-number probabilities and coincidences.",
+    "detailed_explanation": "Events that appear impossibly unlikely become statistically inevitable when enough opportunities exist. People intuitively underestimate how frequently rare outcomes emerge in large systems.",
+    "implications": [
+      "Interpret improbable events through scale and base rates.",
+      "Avoid treating coincidences as necessarily meaningful.",
+      "Develop probabilistic thinking skills."
+    ],
+    "related_concepts": [
+      "base rate neglect",
+      "law of large numbers",
+      "probabilistic reasoning",
+      "availability bias"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Media Negativity Distortion",
+    "type": "risk_concept",
+    "concise_statement": "Information systems disproportionately emphasize negative events because they attract attention.",
+    "detailed_explanation": "Modern media environments reward emotionally engaging and alarming content, causing people to overestimate danger, decline, and dysfunction relative to long-term historical reality.",
+    "implications": [
+      "Filter news through long-term historical context.",
+      "Avoid using media intensity as a direct measure of reality.",
+      "Recognize incentives shaping information environments."
+    ],
+    "related_concepts": [
+      "attention economy",
+      "availability heuristic",
+      "negativity bias",
+      "signal distortion"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Forecasting Limits",
+    "type": "mental_model",
+    "concise_statement": "Expert prediction accuracy deteriorates rapidly in complex systems.",
+    "detailed_explanation": "Complex systems contain too many interacting variables for consistently accurate forecasting. Expertise often improves narrative sophistication more than predictive accuracy.",
+    "implications": [
+      "Treat forecasts probabilistically rather than deterministically.",
+      "Avoid overconfidence in expert predictions.",
+      "Prioritize robustness over precise prediction."
+    ],
+    "related_concepts": [
+      "uncertainty",
+      "model risk",
+      "expert failure",
+      "forecasting illusion"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Base Rate Superiority",
+    "type": "decision_rule",
+    "concise_statement": "Historical frequencies often outperform detailed forecasting models.",
+    "detailed_explanation": "Simple base-rate reasoning captures recurring patterns more reliably than highly specific predictions because human systems exhibit persistent structural tendencies over time.",
+    "implications": [
+      "Use historical frequencies as forecasting anchors.",
+      "Study recurring cycles and behaviors.",
+      "Avoid overreacting to short-term anomalies."
+    ],
+    "related_concepts": [
+      "base rates",
+      "historical patterns",
+      "probabilistic thinking",
+      "forecasting"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Information Abundance Reduces Signal Quality",
+    "type": "causal_relationship",
+    "concise_statement": "As information volume increases, extracting meaningful signals becomes harder.",
+    "detailed_explanation": "Modern information systems flood attention with transient and emotionally engaging content, making it difficult to distinguish durable insights from noise and distraction.",
+    "implications": [
+      "Develop filters for high-quality information.",
+      "Limit exposure to low-signal media.",
+      "Focus on timeless concepts rather than constant updates."
+    ],
+    "related_concepts": [
+      "signal vs noise",
+      "attention economy",
+      "information overload",
+      "knowledge filtering"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Historical Memory Compression",
+    "type": "compounding_principle",
+    "concise_statement": "Timeless ideas compound because they remain useful across changing environments.",
+    "detailed_explanation": "Books, historical lessons, and enduring principles retain value because they encode persistent truths about human incentives, psychology, and risk. Unlike transient information, timeless insights become increasingly useful through repeated application.",
+    "implications": [
+      "Invest heavily in learning durable principles.",
+      "Prefer frameworks over temporary facts.",
+      "Study history as a source of recurring patterns."
+    ],
+    "related_concepts": [
+      "Lindy effect",
+      "knowledge compounding",
+      "permanent information",
+      "mental models"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Luck Contribution Blindness",
+    "type": "psychological_bias",
+    "concise_statement": "People underestimate how much uncontrollable circumstances contribute to success.",
+    "detailed_explanation": "Humans naturally attribute positive outcomes to skill and effort while minimizing environmental conditions, timing, and luck. This creates overconfidence and distorted self-assessment.",
+    "implications": [
+      "Maintain humility about success attribution.",
+      "Recognize environmental advantages and timing effects.",
+      "Avoid judging others solely by visible outcomes."
+    ],
+    "related_concepts": [
+      "self-serving bias",
+      "luck vs skill",
+      "survivorship bias",
+      "outcome bias"
+    ],
+    "confidence_score": 0.99
+  }
+]
