@@ -1,0 +1,254 @@
+[
+  {
+    "title": "Overnight Tragedies vs Long-Term Miracles",
+    "type": "paradox",
+    "concise_statement": "Negative events happen suddenly while positive progress compounds gradually and quietly.",
+    "detailed_explanation": "Disasters are concentrated and emotionally vivid, making them highly visible. Progress often emerges incrementally over long periods and therefore receives less psychological attention despite creating larger cumulative benefits.",
+    "implications": [
+      "Avoid letting short-term crises distort long-term perspective.",
+      "Measure progress over decades rather than days.",
+      "Recognize asymmetry in emotional attention."
+    ],
+    "related_concepts": [
+      "negativity bias",
+      "compounding",
+      "availability heuristic",
+      "historical perspective"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Small Inputs Can Create Massive Outcomes",
+    "type": "mental_model",
+    "concise_statement": "Tiny variables can trigger disproportionately large consequences in complex systems.",
+    "detailed_explanation": "Complex systems are nonlinear. Small changes, accidents, or overlooked details can cascade into enormous outcomes because interconnected systems amplify minor events unpredictably.",
+    "implications": [
+      "Pay attention to small risks and weak signals.",
+      "Avoid assuming scale of cause equals scale of effect.",
+      "Design systems robust to tiny failures."
+    ],
+    "related_concepts": [
+      "chaos theory",
+      "tail risk",
+      "nonlinearity",
+      "complex systems"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Compounding of Tiny Behaviors",
+    "type": "compounding_principle",
+    "concise_statement": "Small repeated actions often dominate long-term outcomes.",
+    "detailed_explanation": "Incremental behaviors compound gradually into major results because effects accumulate over time. Tiny habits and decisions become structurally significant through persistence.",
+    "implications": [
+      "Focus on repeatable small behaviors.",
+      "Do not dismiss low-magnitude improvements.",
+      "Recognize that consistency often beats intensity."
+    ],
+    "related_concepts": [
+      "habit formation",
+      "incremental improvement",
+      "compound growth",
+      "path dependence"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Catastrophe from Human Coordination Failure",
+    "type": "risk_concept",
+    "concise_statement": "Many disasters emerge from communication breakdowns rather than technical failure alone.",
+    "detailed_explanation": "Complex systems depend heavily on coordination, interpretation, and social interaction. Miscommunication, assumptions, and hierarchy failures can convert manageable situations into catastrophic outcomes.",
+    "implications": [
+      "Prioritize communication clarity in complex systems.",
+      "Reduce hierarchy barriers that suppress information flow.",
+      "Train systems for ambiguity and coordination stress."
+    ],
+    "related_concepts": [
+      "systems failure",
+      "human error",
+      "organizational fragility",
+      "coordination risk"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Reality Is More Volatile Than Intuition",
+    "type": "psychological_bias",
+    "concise_statement": "People underestimate how rapidly stable systems can become dangerous.",
+    "detailed_explanation": "Humans extrapolate stability from recent experience and struggle to emotionally internalize sudden nonlinear transitions. Calm environments therefore create false assumptions of permanence.",
+    "implications": [
+      "Maintain vigilance during stable periods.",
+      "Expect rapid transitions in fragile systems.",
+      "Avoid assuming recent conditions define future possibilities."
+    ],
+    "related_concepts": [
+      "normalcy bias",
+      "fragility",
+      "tail risk",
+      "Minsky instability"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "The Stockdale Paradox",
+    "type": "mental_model",
+    "concise_statement": "Successful endurance combines brutal realism with persistent long-term optimism.",
+    "detailed_explanation": "People survive adversity most effectively when they confront painful reality honestly while simultaneously maintaining belief that improvement is possible. Excessive optimism or pure pessimism both reduce resilience.",
+    "implications": [
+      "Face current difficulties directly without denial.",
+      "Maintain long-term conviction during temporary hardship.",
+      "Balance realism with hope."
+    ],
+    "related_concepts": [
+      "resilience",
+      "grit",
+      "behavioral endurance",
+      "adaptive optimism"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Perfection Reduces Adaptability",
+    "type": "paradox",
+    "concise_statement": "Extreme specialization and optimization can weaken resilience.",
+    "detailed_explanation": "Systems optimized for one environment often lose flexibility and robustness. Adaptability requires tolerating inefficiency and maintaining capabilities beyond immediate optimization targets.",
+    "implications": [
+      "Avoid over-optimization.",
+      "Maintain redundancy and flexibility.",
+      "Recognize tradeoffs between efficiency and resilience."
+    ],
+    "related_concepts": [
+      "fragility",
+      "specialization risk",
+      "adaptive capacity",
+      "redundancy"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Thinking Requires Slack",
+    "type": "decision_rule",
+    "concise_statement": "Deep thinking and creativity require unstructured time and mental space.",
+    "detailed_explanation": "Constant activity and optimization crowd out reflection, synthesis, and strategic thought. Breakthrough ideas often emerge during idle periods rather than intense task execution.",
+    "implications": [
+      "Protect uninterrupted thinking time.",
+      "Avoid over-scheduling productive work.",
+      "Use walking and solitude for cognitive processing."
+    ],
+    "related_concepts": [
+      "deep work",
+      "creative incubation",
+      "strategic inefficiency",
+      "cognitive recovery"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Walking Enhances Cognition",
+    "type": "behavioral_principle",
+    "concise_statement": "Physical movement improves creativity and cognitive flexibility.",
+    "detailed_explanation": "Walking changes attentional dynamics, reduces cognitive rigidity, and encourages associative thinking. Many high-level insights emerge during movement rather than stationary concentration.",
+    "implications": [
+      "Integrate walking into thinking processes.",
+      "Use movement to break cognitive stagnation.",
+      "Treat physical state as part of intellectual performance."
+    ],
+    "related_concepts": [
+      "embodied cognition",
+      "creative flow",
+      "mental flexibility",
+      "cognitive performance"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Difficulty Is Structural",
+    "type": "behavioral_principle",
+    "concise_statement": "Meaningful work is inherently difficult, frustrating, and emotionally demanding.",
+    "detailed_explanation": "People often assume struggle indicates failure or misalignment, but difficult emotional experiences are normal components of ambitious pursuits. Resistance and discomfort accompany nearly all meaningful achievement.",
+    "implications": [
+      "Normalize frustration during growth.",
+      "Do not interpret difficulty as evidence to quit.",
+      "Build emotional tolerance for sustained effort."
+    ],
+    "related_concepts": [
+      "grit",
+      "necessary pain principle",
+      "creative resistance",
+      "delayed gratification"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Self-Sabotage Through Resistance",
+    "type": "psychological_bias",
+    "concise_statement": "People unconsciously avoid meaningful work because it threatens identity and emotional comfort.",
+    "detailed_explanation": "Fear of failure, judgment, responsibility, and uncertainty often manifests as procrastination, distraction, and self-sabotage. Resistance increases in proportion to the importance of the task.",
+    "implications": [
+      "Interpret avoidance as a signal of importance.",
+      "Build systems that reduce emotional friction.",
+      "Expect internal resistance before meaningful progress."
+    ],
+    "related_concepts": [
+      "fear of success",
+      "procrastination",
+      "identity protection",
+      "creative resistance"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Size Creates Extinction Risk",
+    "type": "risk_concept",
+    "concise_statement": "Larger systems often become less resilient despite greater power.",
+    "detailed_explanation": "Scale increases resource requirements, complexity, and rigidity. Large systems benefit from dominance during stable periods but become vulnerable to environmental changes and shocks.",
+    "implications": [
+      "Treat growth as both opportunity and risk.",
+      "Maintain adaptability as scale increases.",
+      "Avoid assuming large size guarantees durability."
+    ],
+    "related_concepts": [
+      "fragility",
+      "Cope's Rule",
+      "scaling risk",
+      "adaptability"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Career Incentives Distort Judgment",
+    "type": "incentive",
+    "concise_statement": "People often defend harmful or irrational systems because their careers depend on them.",
+    "detailed_explanation": "Institutional incentives reward conformity and continuation of existing structures. Individuals may knowingly support flawed systems when dissent threatens income, status, or belonging.",
+    "implications": [
+      "Analyze career incentives behind public opinions.",
+      "Expect institutional resistance to uncomfortable truths.",
+      "Recognize economic dependency as a cognitive filter."
+    ],
+    "related_concepts": [
+      "agency problems",
+      "motivated reasoning",
+      "institutional inertia",
+      "self-preservation"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Balance Between Freedom and Structure",
+    "type": "paradox",
+    "concise_statement": "People require both independence and constraints to function effectively.",
+    "detailed_explanation": "Too much structure suppresses creativity and autonomy, while too little creates chaos and instability. Effective systems balance flexibility with discipline.",
+    "implications": [
+      "Design environments with bounded freedom.",
+      "Avoid extremes of rigidity or total looseness.",
+      "Recognize structure as enabling rather than purely restrictive."
+    ],
+    "related_concepts": [
+      "optimal tension",
+      "systems design",
+      "adaptive structure",
+      "behavioral balance"
+    ],
+    "confidence_score": 0.96
+  }
+]
