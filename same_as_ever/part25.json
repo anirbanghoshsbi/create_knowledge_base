@@ -1,0 +1,236 @@
+[
+  {
+    "title": "The Red Queen Principle",
+    "type": "mental_model",
+    "concise_statement": "In competitive systems, constant adaptation is required merely to maintain position.",
+    "detailed_explanation": "Competition is dynamic rather than static. Any advantage gained by one participant incentivizes others to improve, eroding the original edge. Success therefore does not permit rest; survival requires continuous adaptation because environments, rivals, and threats constantly evolve.",
+    "implications": [
+      "Treat adaptation as a permanent requirement.",
+      "Continuously improve even during periods of success.",
+      "Assume competitors are actively reducing your advantage."
+    ],
+    "related_concepts": [
+      "competitive decay",
+      "adaptation",
+      "evolutionary arms race",
+      "survival principle"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "No Permanent Advantage",
+    "type": "survival_principle",
+    "concise_statement": "No advantage is durable enough to eliminate future vulnerability.",
+    "detailed_explanation": "Even dominant systems remain exposed to changing environments and emerging threats. Longevity does not create immunity because competitive landscapes continuously reset. Success should therefore be viewed as temporary and conditional rather than permanent.",
+    "implications": [
+      "Avoid complacency after periods of dominance.",
+      "Maintain defensive thinking regardless of current success.",
+      "Continuously reevaluate assumptions and positioning."
+    ],
+    "related_concepts": [
+      "fragility",
+      "competitive dynamics",
+      "mean reversion",
+      "adaptation"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Extinction Independence",
+    "type": "risk_concept",
+    "concise_statement": "Long survival histories do not necessarily reduce future extinction risk.",
+    "detailed_explanation": "Systems that survive for long periods may appear resilient, but their probability of failure can remain structurally unchanged because threats evolve continuously. Past endurance reflects persistence, not immunity.",
+    "implications": [
+      "Do not equate longevity with safety.",
+      "Stress-test mature institutions and strategies.",
+      "Recognize that hidden risks accumulate even in stable systems."
+    ],
+    "related_concepts": [
+      "survivorship bias",
+      "tail risk",
+      "fragility",
+      "uncertainty"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Competition as an Arms Race",
+    "type": "causal_relationship",
+    "concise_statement": "Every competitive improvement triggers counter-adaptation from rivals.",
+    "detailed_explanation": "Advantages create incentives for imitation, disruption, and innovation from competitors. This feedback loop causes competitive environments to evolve continuously, making static superiority unsustainable.",
+    "implications": [
+      "Expect imitation after successful innovation.",
+      "Continuously reinvest in capabilities.",
+      "Treat competition as dynamic rather than linear."
+    ],
+    "related_concepts": [
+      "adaptive systems",
+      "competitive strategy",
+      "innovation cycles",
+      "evolutionary pressure"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Evolution Destroys What Fails",
+    "type": "mental_model",
+    "concise_statement": "Complex systems often learn through elimination rather than instruction.",
+    "detailed_explanation": "Evolutionary processes do not explicitly teach optimal behavior. Instead, they remove strategies and systems unable to survive environmental pressures. Progress emerges through selective destruction rather than centralized planning.",
+    "implications": [
+      "Failure contains information about system fragility.",
+      "Adapt quickly when environments change.",
+      "Recognize that markets and ecosystems punish unfit strategies."
+    ],
+    "related_concepts": [
+      "natural selection",
+      "survival principle",
+      "creative destruction",
+      "selection pressure"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "title": "Dominance Is Usually Temporary",
+    "type": "behavioral_principle",
+    "concise_statement": "Most products, companies, and cultural leaders eventually lose relevance.",
+    "detailed_explanation": "Environmental changes, shifting preferences, technological disruption, and competition make long-term dominance rare. Systems that appear invincible in one era often become obsolete in the next.",
+    "implications": [
+      "Avoid extrapolating current leaders indefinitely.",
+      "Remain adaptive even when highly successful.",
+      "Diversify identity and capability beyond current strengths."
+    ],
+    "related_concepts": [
+      "creative destruction",
+      "competitive decay",
+      "adaptation",
+      "mean reversion"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Innovation Underestimation Bias",
+    "type": "psychological_bias",
+    "concise_statement": "People systematically underestimate the long-term impact of emerging technologies.",
+    "detailed_explanation": "New technologies initially appear trivial, impractical, or niche because their future applications are impossible to fully envision. Innovation compounds unpredictably as inventions interact with one another over time.",
+    "implications": [
+      "Remain open-minded toward early-stage technologies.",
+      "Avoid dismissing inventions because current use cases appear limited.",
+      "Focus on enabling technologies rather than immediate applications."
+    ],
+    "related_concepts": [
+      "exponential change",
+      "innovation diffusion",
+      "compounding",
+      "technology adoption"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Innovation Adoption Curve",
+    "type": "mental_model",
+    "concise_statement": "Technologies progress from incomprehensible novelty to indispensable infrastructure.",
+    "detailed_explanation": "Most transformative technologies follow a predictable psychological trajectory: ignored, misunderstood, dismissed as toys, gradually adopted, normalized, and eventually considered essential. Social acceptance lags technological potential.",
+    "implications": [
+      "Early skepticism toward innovation is normal.",
+      "Look for technologies transitioning from novelty to utility.",
+      "Do not mistake unfamiliarity for irrelevance."
+    ],
+    "related_concepts": [
+      "technology adoption",
+      "network effects",
+      "innovation cycles",
+      "behavioral adaptation"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Combinatorial Innovation",
+    "type": "causal_relationship",
+    "concise_statement": "Major breakthroughs emerge from combining many smaller discoveries over time.",
+    "detailed_explanation": "Transformative inventions rarely appear fully formed. Instead, progress compounds through incremental improvements and unexpected interactions among prior discoveries. Small innovations often become foundational components of future breakthroughs.",
+    "implications": [
+      "Value enabling technologies even when immediate applications are unclear.",
+      "Encourage experimentation and tinkering.",
+      "Recognize that innovation ecosystems compound cumulatively."
+    ],
+    "related_concepts": [
+      "compounding",
+      "emergence",
+      "incremental innovation",
+      "systems evolution"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Indirect Consequence Principle",
+    "type": "paradox",
+    "concise_statement": "Technologies often create transformative outcomes far removed from their original purpose.",
+    "detailed_explanation": "Innovation paths are nonlinear and unpredictable. Discoveries intended for one use frequently become foundational for unrelated industries and societal changes. The largest impacts of technologies are often second-order or third-order effects.",
+    "implications": [
+      "Study downstream consequences of emerging technologies.",
+      "Avoid narrow forecasting based only on current applications.",
+      "Recognize that small inventions can trigger massive systemic changes."
+    ],
+    "related_concepts": [
+      "second-order effects",
+      "emergence",
+      "complex systems",
+      "innovation spillovers"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Tinkering Beats Grand Planning",
+    "type": "decision_rule",
+    "concise_statement": "Experimentation and iterative improvement often outperform rigid master plans.",
+    "detailed_explanation": "Innovators frequently do not fully understand where discoveries will lead. Progress emerges through experimentation, adaptation, and iterative refinement rather than complete foresight. Small adjustments accumulate into major breakthroughs.",
+    "implications": [
+      "Favor experimentation over excessive prediction.",
+      "Iterate rapidly rather than waiting for perfect clarity.",
+      "Treat uncertainty as a normal part of innovation."
+    ],
+    "related_concepts": [
+      "trial and error",
+      "adaptive systems",
+      "iterative development",
+      "uncertainty"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Future Blindness",
+    "type": "psychological_bias",
+    "concise_statement": "Humans struggle to extrapolate the long-term implications of current technologies.",
+    "detailed_explanation": "People evaluate innovations based on present limitations rather than future combinations and scaling effects. Because technological evolution is nonlinear, transformative consequences appear obvious only in hindsight.",
+    "implications": [
+      "Maintain humility when forecasting technological limits.",
+      "Expect future applications to differ radically from present assumptions.",
+      "Use probabilistic thinking around innovation trajectories."
+    ],
+    "related_concepts": [
+      "hindsight bias",
+      "innovation underestimation",
+      "nonlinear systems",
+      "uncertainty"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Compounding Discovery",
+    "type": "compounding_principle",
+    "concise_statement": "Knowledge compounds when discoveries enable future discoveries.",
+    "detailed_explanation": "Scientific and technological progress accelerates because each breakthrough expands the set of future possibilities. Innovations become platforms upon which additional innovations are constructed, creating exponential rather than linear advancement.",
+    "implications": [
+      "Invest in foundational research and infrastructure.",
+      "Recognize that current innovations may have hidden future leverage.",
+      "Expect long-term progress to accelerate unpredictably."
+    ],
+    "related_concepts": [
+      "knowledge compounding",
+      "innovation ecosystems",
+      "network effects",
+      "combinatorial growth"
+    ],
+    "confidence_score": 0.99
+  }
+]
