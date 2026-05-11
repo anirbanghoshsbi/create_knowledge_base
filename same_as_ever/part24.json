@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Advantage-Extinction Tradeoff",
+    "type": "paradox",
+    "concise_statement": "Traits that maximize short-term success often increase long-term fragility.",
+    "detailed_explanation": "Characteristics that create dominance—such as size, leverage, scale, or specialization—also amplify exposure to catastrophic failure. Systems evolve toward maximizing advantages, but those same advantages increase vulnerability to environmental change, shocks, and rigidity.",
+    "implications": [
+      "Treat growth and dominance as potential sources of fragility.",
+      "Stress-test advantages against changing conditions.",
+      "Avoid assuming current strengths guarantee future survival."
+    ],
+    "related_concepts": [
+      "fragility",
+      "trade-offs",
+      "risk amplification",
+      "survival principle"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Leverage Analogy of Size",
+    "type": "risk_concept",
+    "concise_statement": "Scale magnifies both gains and losses.",
+    "detailed_explanation": "Large biological organisms and leveraged financial systems share a structural property: they benefit disproportionately during favorable conditions but become highly exposed during adverse conditions. Increased scale creates complexity, rigidity, and dependence on stable environments.",
+    "implications": [
+      "Monitor downside asymmetry as systems grow.",
+      "Recognize that scaling increases hidden dependencies.",
+      "Avoid maximizing growth without considering survivability."
+    ],
+    "related_concepts": [
+      "leverage",
+      "fragility",
+      "tail risk",
+      "complex systems"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Endurance Favors Adaptability",
+    "type": "survival_principle",
+    "concise_statement": "The most enduring systems are often less dominant but more adaptable.",
+    "detailed_explanation": "Dominance in one environment frequently creates dependence on that environment remaining stable. Smaller, more flexible systems survive longer because they can adapt faster, require fewer resources, and tolerate volatility more effectively.",
+    "implications": [
+      "Optimize for adaptability rather than dominance.",
+      "Maintain flexibility during growth phases.",
+      "Avoid becoming too dependent on one environment or advantage."
+    ],
+    "related_concepts": [
+      "antifragility",
+      "adaptability",
+      "resilience",
+      "evolutionary fitness"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Competitive Advantages Decay",
+    "type": "mental_model",
+    "concise_statement": "Most competitive advantages have a limited lifespan.",
+    "detailed_explanation": "Advantages attract competition, environmental change, imitation, regulation, and organizational inertia. What creates dominance in one era eventually loses effectiveness as conditions evolve. Competitive edges should therefore be viewed as temporary rather than permanent.",
+    "implications": [
+      "Continuously reinvent capabilities.",
+      "Avoid complacency after achieving success.",
+      "Expect market leadership to require ongoing adaptation."
+    ],
+    "related_concepts": [
+      "creative destruction",
+      "adaptation",
+      "competitive dynamics",
+      "mean reversion"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Success Breeds Hubris",
+    "type": "causal_relationship",
+    "concise_statement": "Past success increases the risk of overconfidence and future decline.",
+    "detailed_explanation": "Repeated success creates confidence that can evolve into rigidity and blindness to emerging threats. Dominant players often underestimate competitors and overestimate the permanence of their own strengths, reducing adaptability precisely when adaptation becomes most necessary.",
+    "implications": [
+      "Maintain paranoia during periods of success.",
+      "Actively challenge assumptions that previously worked.",
+      "Separate confidence from certainty."
+    ],
+    "related_concepts": [
+      "overconfidence bias",
+      "hubris",
+      "success trap",
+      "fragility"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Growth Changes System Dynamics",
+    "type": "causal_relationship",
+    "concise_statement": "Strategies that succeed at small scale often fail at large scale.",
+    "detailed_explanation": "As systems grow, they become more complex, slower, and less flexible. Processes that once created competitive advantages may no longer work because scale alters operational dynamics, incentives, communication, and responsiveness.",
+    "implications": [
+      "Reevaluate strategies as organizations scale.",
+      "Avoid assuming past methods remain universally effective.",
+      "Recognize that growth introduces structural constraints."
+    ],
+    "related_concepts": [
+      "complexity",
+      "organizational inertia",
+      "scaling limits",
+      "Peter Principle"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Success Attracts Constraints",
+    "type": "risk_concept",
+    "concise_statement": "Success itself can undermine future performance by changing the operating environment.",
+    "detailed_explanation": "Winning attracts competition, capital inflows, scrutiny, bureaucracy, and imitation. These changes alter the conditions under which the original advantage emerged, often reducing flexibility and compressing future returns.",
+    "implications": [
+      "Anticipate second-order consequences of success.",
+      "Prepare for increased competition after strong performance.",
+      "Avoid extrapolating early-stage advantages indefinitely."
+    ],
+    "related_concepts": [
+      "mean reversion",
+      "competitive dynamics",
+      "diminishing returns",
+      "capacity constraints"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "The Peter Principle",
+    "type": "behavioral_principle",
+    "concise_statement": "People are often promoted until they reach a level where their previous strengths no longer apply.",
+    "detailed_explanation": "Skills that produce success in one role are not always transferable to more complex responsibilities. Advancement changes task requirements, and individuals frequently become ineffective once promoted beyond their competence domain.",
+    "implications": [
+      "Distinguish domain expertise from managerial capability.",
+      "Continuously develop new skills as responsibilities evolve.",
+      "Avoid assuming past success guarantees future competence."
+    ],
+    "related_concepts": [
+      "scaling limits",
+      "adaptation",
+      "skill mismatch",
+      "organizational dynamics"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "title": "Relaxation After Success",
+    "type": "psychological_bias",
+    "concise_statement": "People often reduce vigilance after achieving security, increasing exposure to future disruption.",
+    "detailed_explanation": "A major motivation for hard work is eventually escaping pressure and uncertainty. However, once success reduces urgency, complacency weakens the defensive behaviors that originally created the advantage.",
+    "implications": [
+      "Preserve strategic vigilance after success.",
+      "Avoid interpreting stability as permanence.",
+      "Institutionalize adaptation rather than relying on motivation."
+    ],
+    "related_concepts": [
+      "complacency",
+      "hubris",
+      "success trap",
+      "competitive decay"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "title": "Skills Have Eras",
+    "type": "mental_model",
+    "concise_statement": "A valuable skill in one environment may become obsolete in another.",
+    "detailed_explanation": "Economic and technological shifts continuously redefine which capabilities are rewarded. Individuals and organizations that become overly dependent on one profitable skill set risk obsolescence when environments evolve.",
+    "implications": [
+      "Continuously update capabilities.",
+      "Avoid identity attachment to a single expertise area.",
+      "Monitor structural changes in industries and markets."
+    ],
+    "related_concepts": [
+      "adaptation",
+      "creative destruction",
+      "technological change",
+      "skill obsolescence"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Luck Masking as Skill",
+    "type": "psychological_bias",
+    "concise_statement": "Temporary success caused partly by favorable conditions is often mistaken for permanent skill.",
+    "detailed_explanation": "Being in the right environment at the right time can produce extraordinary outcomes that appear skill-based. Over time, changing conditions reveal how much of prior success depended on external circumstances rather than enduring capability.",
+    "implications": [
+      "Remain humble about success attribution.",
+      "Stress-test performance across multiple environments.",
+      "Avoid overgeneralizing from favorable periods."
+    ],
+    "related_concepts": [
+      "survivorship bias",
+      "outcome bias",
+      "mean reversion",
+      "luck vs skill"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Success Plants Seeds of Decline",
+    "type": "causal_relationship",
+    "concise_statement": "The mechanisms that create success often generate the conditions for future failure.",
+    "detailed_explanation": "Growth, confidence, specialization, and dominance create structural rigidity and attract competition. Over time these same strengths reduce adaptability and increase vulnerability, causing success to undermine itself.",
+    "implications": [
+      "Treat every advantage as potentially self-eroding.",
+      "Build adaptive capacity during prosperous periods.",
+      "Recognize that stability often contains hidden fragility."
+    ],
+    "related_concepts": [
+      "fragility",
+      "creative destruction",
+      "hubris",
+      "competitive decay"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Longevity Does Not Guarantee Survival",
+    "type": "paradox",
+    "concise_statement": "Past endurance does not necessarily increase future survival probability.",
+    "detailed_explanation": "Long-lived systems may appear robust, but survival can partly reflect luck and favorable conditions rather than permanent superiority. Complex environments continuously reset competitive landscapes, making historical persistence an unreliable predictor of future dominance.",
+    "implications": [
+      "Do not assume old institutions are invulnerable.",
+      "Continuously reassess systemic risks.",
+      "Avoid equating longevity with inevitability."
+    ],
+    "related_concepts": [
+      "survivorship bias",
+      "fragility",
+      "uncertainty",
+      "adaptation"
+    ],
+    "confidence_score": 0.96
+  }
+]
