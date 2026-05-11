@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Complexity Attraction Bias",
+    "type": "psychological_bias",
+    "concise_statement": "People often prefer complex solutions even when simpler ones are more effective.",
+    "detailed_explanation": "Complexity appears intellectually impressive, sophisticated, and high-status, while simple solutions can feel naive or incomplete. This causes individuals and institutions to overvalue complicated approaches and undervalue straightforward interventions.",
+    "implications": [
+      "Do not equate sophistication with effectiveness.",
+      "Evaluate outcomes rather than intellectual stimulation.",
+      "Actively search for simple high-impact solutions."
+    ],
+    "related_concepts": [
+      "complexity bias",
+      "signal vs noise",
+      "simplicity principle",
+      "status incentives"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Prevention Is Undervalued",
+    "type": "paradox",
+    "concise_statement": "Preventing problems is often more effective than solving them after they emerge, yet receives less attention.",
+    "detailed_explanation": "Preventive actions are psychologically and institutionally less attractive because they are less visible, less intellectually stimulating, and harder to monetize or prestige-signal than reactive interventions.",
+    "implications": [
+      "Prioritize prevention before optimization.",
+      "Recognize that invisible successes are often the most valuable.",
+      "Build systems that reward long-term prevention."
+    ],
+    "related_concepts": [
+      "risk management",
+      "incentive distortion",
+      "long-term thinking",
+      "behavioral neglect"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Prestige Bias Toward Complexity",
+    "type": "incentive",
+    "concise_statement": "People gravitate toward difficult and technical work because it signals intelligence and status.",
+    "detailed_explanation": "Fields often reward activities that appear advanced or scientifically sophisticated even when lower-status simple actions would produce larger real-world benefits.",
+    "implications": [
+      "Separate prestige from impact when allocating effort.",
+      "Be cautious of institutions rewarding complexity over effectiveness.",
+      "Focus on outcome leverage rather than intellectual glamour."
+    ],
+    "related_concepts": [
+      "status signaling",
+      "complexity bias",
+      "career incentives",
+      "prestige economy"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Simplicity as Truth Compression",
+    "type": "mental_model",
+    "concise_statement": "Most important outcomes are driven by a small number of core variables.",
+    "detailed_explanation": "Complex systems often appear overwhelming, but a limited set of principles usually explains most outcomes. Effective understanding comes from identifying these dominant drivers rather than memorizing endless details.",
+    "implications": [
+      "Identify the few variables with disproportionate influence.",
+      "Avoid drowning in secondary details.",
+      "Build frameworks around first principles."
+    ],
+    "related_concepts": [
+      "Pareto principle",
+      "first principles thinking",
+      "signal vs noise",
+      "systems thinking"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Evolutionary Simplification",
+    "type": "causal_relationship",
+    "concise_statement": "Effective systems evolve by removing unnecessary complexity and strengthening essential functions.",
+    "detailed_explanation": "Evolution tends to eliminate redundant structures while improving the efficiency and specialization of remaining components. Simpler systems often become more adaptive and robust because fewer moving parts reduce friction and failure points.",
+    "implications": [
+      "Simplify systems by removing low-value components.",
+      "Concentrate resources on high-impact capabilities.",
+      "Treat unnecessary complexity as potential fragility."
+    ],
+    "related_concepts": [
+      "optimization",
+      "robustness",
+      "efficiency",
+      "systems evolution"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Core Principle Compression",
+    "type": "decision_rule",
+    "concise_statement": "Most complicated domains can be understood through a small set of governing principles.",
+    "detailed_explanation": "What initially appears to require memorizing countless details often reduces to combinations and variations of a few foundational concepts. Mastery involves identifying the underlying structure beneath complexity.",
+    "implications": [
+      "Focus learning on foundational principles.",
+      "Organize knowledge around core patterns.",
+      "Avoid memorization without conceptual understanding."
+    ],
+    "related_concepts": [
+      "mental models",
+      "first principles thinking",
+      "knowledge compression",
+      "learning efficiency"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Simple Behaviors Drive Major Outcomes",
+    "type": "behavioral_principle",
+    "concise_statement": "A few basic habits often explain the majority of success in complex domains.",
+    "detailed_explanation": "In fields like finance and health, long-term outcomes are frequently dominated by a handful of consistent behaviors rather than advanced technical sophistication. However, these fundamentals are often ignored because they appear too simple.",
+    "implications": [
+      "Prioritize consistency in foundational behaviors.",
+      "Do not neglect basics while chasing optimization.",
+      "Recognize that simplicity does not reduce importance."
+    ],
+    "related_concepts": [
+      "compounding",
+      "behavioral consistency",
+      "Pareto principle",
+      "foundational habits"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Complexity as Status Signaling",
+    "type": "psychological_bias",
+    "concise_statement": "People use complexity to signal intelligence, expertise, and effort.",
+    "detailed_explanation": "Complicated language, long reports, and technical frameworks create the appearance of deep knowledge even when the added complexity contributes little practical value.",
+    "implications": [
+      "Distinguish clarity from superficial sophistication.",
+      "Do not confuse jargon with expertise.",
+      "Reward concise and effective communication."
+    ],
+    "related_concepts": [
+      "signaling",
+      "authority bias",
+      "complexity bias",
+      "social perception"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Control Illusion Through Detail",
+    "type": "psychological_bias",
+    "concise_statement": "Manipulating more variables creates the feeling of control even when predictive power does not improve.",
+    "detailed_explanation": "Detailed models and excessive analysis provide emotional reassurance because they create the impression of mastery over uncertainty. However, most outcomes remain dominated by a small number of unpredictable variables.",
+    "implications": [
+      "Avoid excessive model complexity without evidence of added value.",
+      "Recognize emotional comfort disguised as analytical rigor.",
+      "Focus on robustness over precision."
+    ],
+    "related_concepts": [
+      "illusion of control",
+      "overfitting",
+      "model risk",
+      "complexity bias"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Mystique of Incomprehensibility",
+    "type": "causal_relationship",
+    "concise_statement": "People often assign excessive authority to explanations they cannot understand.",
+    "detailed_explanation": "Complex or obscure explanations create a perception of superior intelligence because observers cannot easily evaluate their validity. Difficulty in understanding is often mistaken for depth.",
+    "implications": [
+      "Do not equate incomprehensibility with expertise.",
+      "Seek explanations that simplify without distorting.",
+      "Be cautious of authority built on opacity."
+    ],
+    "related_concepts": [
+      "authority bias",
+      "complexity bias",
+      "information asymmetry",
+      "signaling"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Length Signals Effort",
+    "type": "incentive",
+    "concise_statement": "People often interpret length and detail as evidence of intelligence or diligence.",
+    "detailed_explanation": "Long books, reports, and presentations create the perception that substantial effort and thought have been invested, even when the additional material adds limited informational value.",
+    "implications": [
+      "Judge arguments by clarity and insight, not volume.",
+      "Recognize that brevity can reflect mastery.",
+      "Avoid equating effort signaling with correctness."
+    ],
+    "related_concepts": [
+      "signaling theory",
+      "authority bias",
+      "complexity attraction",
+      "perceived expertise"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "title": "Effort-Pain Heuristic",
+    "type": "psychological_bias",
+    "concise_statement": "People associate mental difficulty with value and effectiveness.",
+    "detailed_explanation": "Humans often believe that if a process feels intellectually demanding, it must be meaningful or productive. Simplicity can therefore feel suspiciously easy even when it is superior.",
+    "implications": [
+      "Do not mistake difficulty for effectiveness.",
+      "Evaluate results independently of emotional effort.",
+      "Recognize that elegant simplicity often reflects deep understanding."
+    ],
+    "related_concepts": [
+      "complexity bias",
+      "effort justification",
+      "cognitive strain",
+      "status signaling"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Simplicity Requires Confidence",
+    "type": "behavioral_principle",
+    "concise_statement": "Using simple frameworks requires tolerating uncertainty and appearing less sophisticated.",
+    "detailed_explanation": "Simple approaches leave visible gaps and acknowledge limits of control, which can create social and psychological discomfort. Complex systems hide uncertainty behind detail and therefore feel safer.",
+    "implications": [
+      "Develop comfort with uncertainty and simplicity.",
+      "Accept that effective systems may appear deceptively basic.",
+      "Avoid complexity added purely for reassurance."
+    ],
+    "related_concepts": [
+      "epistemic humility",
+      "simplicity principle",
+      "uncertainty tolerance",
+      "signal vs noise"
+    ],
+    "confidence_score": 0.96
+  }
+]
