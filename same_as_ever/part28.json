@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Extreme Incentives Create Extreme Behavior",
+    "type": "causal_relationship",
+    "concise_statement": "Powerful incentives can push ordinary people toward extraordinary behavior, both constructive and destructive.",
+    "detailed_explanation": "Human moral boundaries and performance ceilings are highly elastic under strong incentives. Fear, desperation, survival pressure, or aligned opportunity can cause people to behave in ways that seem unimaginable under normal conditions.",
+    "implications": [
+      "Expect human behavior to shift dramatically under stress or reward.",
+      "Design systems assuming incentives can overpower norms.",
+      "Avoid assuming current behavior reflects permanent character."
+    ],
+    "related_concepts": [
+      "behavioral adaptation",
+      "incentive distortion",
+      "survival principle",
+      "situational psychology"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Aligned Incentives Unlock Human Potential",
+    "type": "incentive",
+    "concise_statement": "People can become dramatically more productive and capable when incentives align with progress.",
+    "detailed_explanation": "The same incentive structures that fuel destructive behavior can also unleash innovation, effort, cooperation, and talent. Environments that reward productive behavior often generate outcomes that appear extraordinary.",
+    "implications": [
+      "Focus on designing systems with aligned incentives.",
+      "Recognize latent human potential under supportive structures.",
+      "Reward long-term value creation rather than short-term extraction."
+    ],
+    "related_concepts": [
+      "motivation",
+      "behavioral economics",
+      "compounding",
+      "institutional design"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "title": "Unsustainable Systems Can Persist",
+    "type": "risk_concept",
+    "concise_statement": "Fragile and irrational systems often last far longer than expected because incentives support continuation.",
+    "detailed_explanation": "People frequently maintain unsustainable trends because abandoning them carries immediate social, financial, or political costs. Incentives delay recognition and correction of reality, extending bubbles and systemic distortions.",
+    "implications": [
+      "Avoid assuming unsustainable trends will collapse quickly.",
+      "Recognize the stabilizing effect of collective incentives.",
+      "Prepare for longer-than-expected periods of irrationality."
+    ],
+    "related_concepts": [
+      "systemic risk",
+      "bubble dynamics",
+      "collective action problem",
+      "fragility"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Incentive Self-Audit",
+    "type": "decision_rule",
+    "concise_statement": "A useful way to detect bias is to ask how beliefs would change under different incentives.",
+    "detailed_explanation": "Beliefs often feel objective while being strongly shaped by self-interest, social incentives, or identity preservation. Imagining alternative incentive structures exposes hidden motivated reasoning.",
+    "implications": [
+      "Regularly question whether incentives influence convictions.",
+      "Stress-test beliefs against changed personal circumstances.",
+      "Use incentive analysis as a tool for intellectual honesty."
+    ],
+    "related_concepts": [
+      "motivated reasoning",
+      "bias blind spot",
+      "self-serving bias",
+      "epistemic humility"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Firsthand Experience Dominates Abstract Knowledge",
+    "type": "behavioral_principle",
+    "concise_statement": "Direct experience changes beliefs and behavior more powerfully than theory or advice.",
+    "detailed_explanation": "People cannot fully understand risk, fear, scarcity, or opportunity through observation alone. Emotional and behavioral responses shift dramatically once events are personally experienced.",
+    "implications": [
+      "Treat experience as a unique form of knowledge.",
+      "Be cautious when predicting behavior in unfamiliar conditions.",
+      "Recognize limits of empathy and abstract understanding."
+    ],
+    "related_concepts": [
+      "experiential learning",
+      "behavioral adaptation",
+      "risk perception",
+      "uncertainty"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Preference Instability Under Stress",
+    "type": "psychological_bias",
+    "concise_statement": "People underestimate how much hardship can alter their beliefs, goals, and values.",
+    "detailed_explanation": "Calm environments create the illusion that preferences are stable and principled. Under stress, fear, or desperation, individuals rapidly adopt ideas and priorities they previously considered unacceptable or irrational.",
+    "implications": [
+      "Avoid overconfidence about future moral or political reactions.",
+      "Recognize that crises reshape values and priorities.",
+      "Prepare psychologically for changing preferences during adversity."
+    ],
+    "related_concepts": [
+      "state-dependent preferences",
+      "behavioral adaptation",
+      "survival psychology",
+      "motivated reasoning"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Crisis Expands Policy Boundaries",
+    "type": "causal_relationship",
+    "concise_statement": "Severe disruptions make previously unthinkable policies politically acceptable.",
+    "detailed_explanation": "During stable periods, societies resist radical change. Crises weaken attachment to old systems and increase willingness to experiment with extreme solutions when conventional approaches appear ineffective.",
+    "implications": [
+      "Expect policy shifts after major economic or social shocks.",
+      "Recognize that public opinion is highly environment-dependent.",
+      "Study crises to understand institutional transformation."
+    ],
+    "related_concepts": [
+      "Overton window",
+      "collective psychology",
+      "crisis dynamics",
+      "political adaptation"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Security Enables Principles",
+    "type": "paradox",
+    "concise_statement": "People often maintain strong principles only while conditions remain stable and safe.",
+    "detailed_explanation": "Moral certainty and ideological consistency weaken when survival, employment, safety, or identity are threatened. Stability allows abstract principles to flourish; desperation compresses focus toward immediate needs.",
+    "implications": [
+      "Interpret ideological rigidity cautiously.",
+      "Expect behavior to become pragmatic under stress.",
+      "Recognize the hidden role of stability in moral systems."
+    ],
+    "related_concepts": [
+      "survival principle",
+      "scarcity mindset",
+      "behavioral adaptation",
+      "situational ethics"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Context-Dependent Courage",
+    "type": "mental_model",
+    "concise_statement": "People systematically overestimate how brave or rational they will be under real danger.",
+    "detailed_explanation": "Confidence formed in safe environments rarely survives direct exposure to fear, violence, uncertainty, or chaos. Real conditions alter cognition and emotional tolerance in ways that training and imagination cannot fully simulate.",
+    "implications": [
+      "Avoid overconfidence about future reactions under stress.",
+      "Train for uncertainty rather than ideal conditions.",
+      "Use humility when judging others’ decisions during crises."
+    ],
+    "related_concepts": [
+      "risk perception",
+      "behavioral adaptation",
+      "stress response",
+      "experiential learning"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Downturns Change More Than Prices",
+    "type": "risk_concept",
+    "concise_statement": "Financial crises alter psychology, trust, and priorities—not just asset valuations.",
+    "detailed_explanation": "Investors often imagine market declines occurring in isolation, but downturns usually coincide with institutional failures, uncertainty, and collapsing confidence. This changes emotional tolerance and shifts priorities from growth toward preservation.",
+    "implications": [
+      "Model emotional and psychological effects during downturns.",
+      "Avoid assuming rationality remains stable under stress.",
+      "Prepare behaviorally for changing risk tolerance."
+    ],
+    "related_concepts": [
+      "loss aversion",
+      "behavioral finance",
+      "panic dynamics",
+      "risk perception"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Experience Gap in Risk Taking",
+    "type": "psychological_bias",
+    "concise_statement": "People agree with rational principles in theory but fail to execute them under emotional pressure.",
+    "detailed_explanation": "Concepts like buying during panic or remaining calm during crises sound logical abstractly, but real-world fear fundamentally changes cognition and priorities. Intellectual agreement does not guarantee behavioral execution.",
+    "implications": [
+      "Build systems that reduce emotional decision-making.",
+      "Do not overestimate future discipline under stress.",
+      "Use preparation and rules to counter emotional shifts."
+    ],
+    "related_concepts": [
+      "behavioral finance",
+      "loss aversion",
+      "emotional regulation",
+      "decision paralysis"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Adversity Creates Hidden Skills",
+    "type": "compounding_principle",
+    "concise_statement": "Repeated exposure to uncertainty and difficulty builds adaptive capabilities unavailable through theory alone.",
+    "detailed_explanation": "Experiencing risk, stress, conflict, or hardship develops practical resilience and judgment that cannot be fully taught abstractly. Real-world adversity compounds into tacit knowledge and emotional adaptability.",
+    "implications": [
+      "Treat hardship as a source of adaptive learning.",
+      "Value practical experience alongside formal knowledge.",
+      "Build controlled exposure to uncertainty."
+    ],
+    "related_concepts": [
+      "resilience",
+      "experiential learning",
+      "adaptation",
+      "antifragility"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "title": "Rapid Normalization",
+    "type": "psychological_bias",
+    "concise_statement": "Humans adapt quickly even to extraordinary circumstances.",
+    "detailed_explanation": "Experiences that initially seem unimaginable or emotionally overwhelming rapidly become psychologically normalized. This adaptation affects both hardship and extraordinary success, altering expectations and emotional intensity over time.",
+    "implications": [
+      "Do not assume extraordinary achievements guarantee lasting fulfillment.",
+      "Recognize adaptation as a central feature of psychology.",
+      "Expect emotional baselines to reset over time."
+    ],
+    "related_concepts": [
+      "hedonic adaptation",
+      "normalization",
+      "behavioral adaptation",
+      "expectation drift"
+    ],
+    "confidence_score": 0.97
+  }
+]
