@@ -1,0 +1,218 @@
+[
+  {
+    "title": "Simplicity as Compression",
+    "type": "mental_model",
+    "concise_statement": "Effective simplicity compresses complexity into intuitive and usable rules.",
+    "detailed_explanation": "Simple heuristics do not eliminate complexity; they translate complicated systems into actionable patterns humans can practically use. Expertise often consists of recognizing the few variables that matter most and ignoring distracting detail.",
+    "implications": [
+      "Use heuristics that capture core dynamics.",
+      "Prefer understandable systems over unnecessarily technical ones.",
+      "Recognize that elegant simplicity often reflects deeper mastery."
+    ],
+    "related_concepts": [
+      "first principles",
+      "heuristics",
+      "signal vs noise",
+      "knowledge compression"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Cognitive Pain Misinterpretation",
+    "type": "psychological_bias",
+    "concise_statement": "People often mistake mental difficulty for learning effectiveness.",
+    "detailed_explanation": "Complicated explanations and laborious processes create the sensation of intellectual effort, which people associate with progress. Simpler methods can feel suspiciously easy even when they produce superior understanding.",
+    "implications": [
+      "Do not evaluate learning quality by cognitive strain alone.",
+      "Focus on clarity and retention rather than difficulty.",
+      "Recognize that understanding should reduce confusion, not maximize it."
+    ],
+    "related_concepts": [
+      "effort justification",
+      "complexity bias",
+      "learning efficiency",
+      "simplicity principle"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Law of Averages Principle",
+    "type": "decision_rule",
+    "concise_statement": "Common explanations are usually more likely than rare and exotic ones.",
+    "detailed_explanation": "People often become overly attracted to rare possibilities because they are intellectually stimulating. However, most real-world outcomes are explained by ordinary causes. Ignoring base rates leads to distorted judgment.",
+    "implications": [
+      "Start analysis with the most probable explanation.",
+      "Avoid overcomplicating decisions with unlikely scenarios.",
+      "Use base rates before searching for anomalies."
+    ],
+    "related_concepts": [
+      "base rate thinking",
+      "Occam's razor",
+      "probabilistic reasoning",
+      "signal vs noise"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "No Reward for Difficulty",
+    "type": "paradox",
+    "concise_statement": "Harder approaches are not inherently more effective.",
+    "detailed_explanation": "People often assume that difficult, sophisticated, or painful processes produce better outcomes. In reality, effectiveness depends on results, not complexity or effort intensity.",
+    "implications": [
+      "Judge systems by outcomes rather than effort.",
+      "Avoid unnecessary optimization and overengineering.",
+      "Recognize when simplicity outperforms sophistication."
+    ],
+    "related_concepts": [
+      "complexity bias",
+      "effort heuristic",
+      "simplicity principle",
+      "overengineering"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Scars Outlast Recovery",
+    "type": "behavioral_principle",
+    "concise_statement": "People may recover externally from trauma while remaining psychologically altered indefinitely.",
+    "detailed_explanation": "Economic, social, and physical systems often rebuild faster than human expectations and emotional frameworks recover. Traumatic experiences permanently reshape attitudes toward risk, security, and opportunity.",
+    "implications": [
+      "Expect long-term behavioral shifts after crises.",
+      "Recognize that psychological recovery lags material recovery.",
+      "Account for emotional memory when analyzing human behavior."
+    ],
+    "related_concepts": [
+      "trauma imprinting",
+      "behavioral conditioning",
+      "risk aversion",
+      "memory persistence"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Experience Shapes Beliefs",
+    "type": "causal_relationship",
+    "concise_statement": "People with different lived experiences develop fundamentally different worldviews.",
+    "detailed_explanation": "Beliefs about risk, opportunity, security, and ambition are heavily influenced by personal experiences. Many disagreements are not intellectual conflicts but differences in emotional memory and environmental conditioning.",
+    "implications": [
+      "Interpret disagreement through experiential context.",
+      "Increase empathy for perspectives shaped by hardship.",
+      "Recognize that rationality is often experience-dependent."
+    ],
+    "related_concepts": [
+      "behavioral conditioning",
+      "perspective asymmetry",
+      "risk perception",
+      "path dependence"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Security Preference After Trauma",
+    "type": "psychological_bias",
+    "concise_statement": "People exposed to severe instability often prioritize safety over ambition afterward.",
+    "detailed_explanation": "Experiences involving economic collapse, war, scarcity, or uncertainty increase long-term preference for stability, predictability, and downside protection. Survival memories reshape future decision-making.",
+    "implications": [
+      "Expect older generations shaped by crises to behave more conservatively.",
+      "Understand risk aversion through historical experience.",
+      "Recognize how crises alter economic preferences for decades."
+    ],
+    "related_concepts": [
+      "loss aversion",
+      "trauma imprinting",
+      "risk aversion",
+      "scarcity mindset"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Invisible Psychological Variables",
+    "type": "risk_concept",
+    "concise_statement": "Human emotions and expectations are major drivers of history but are difficult to measure directly.",
+    "detailed_explanation": "Economic and political systems are strongly influenced by fear, hope, resentment, trauma, and expectations, yet these variables are largely invisible to traditional analysis. This makes human systems difficult to forecast.",
+    "implications": [
+      "Incorporate psychology into economic and historical analysis.",
+      "Avoid relying solely on measurable variables.",
+      "Recognize emotional undercurrents as hidden systemic forces."
+    ],
+    "related_concepts": [
+      "behavioral economics",
+      "complex systems",
+      "animal spirits",
+      "uncertainty"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Trauma Resets Conditioning",
+    "type": "causal_relationship",
+    "concise_statement": "Extreme stress can erase previously learned behaviors and permanently alter personality.",
+    "detailed_explanation": "Severe danger or trauma can disrupt deeply ingrained behavioral patterns and create lasting psychological changes. Under extreme stress, previous conditioning may become irrelevant as survival responses dominate cognition.",
+    "implications": [
+      "Do not assume stable behavior under extreme conditions.",
+      "Recognize trauma as a system-resetting event.",
+      "Expect behavioral discontinuities after crises."
+    ],
+    "related_concepts": [
+      "behavioral conditioning",
+      "stress response",
+      "trauma psychology",
+      "adaptation"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "title": "Extreme Stress Permanently Alters Expectations",
+    "type": "mental_model",
+    "concise_statement": "Experiences involving existential fear permanently change how people evaluate risk and safety.",
+    "detailed_explanation": "Close encounters with ruin or survival threats recalibrate emotional baselines and future expectations. Once individuals internalize extreme downside risk, they rarely return to previous assumptions about stability.",
+    "implications": [
+      "Recognize that crises reshape future behavior for decades.",
+      "Expect long-term conservatism after traumatic periods.",
+      "Treat emotional memory as persistent capital."
+    ],
+    "related_concepts": [
+      "scar tissue effect",
+      "risk perception",
+      "behavioral finance",
+      "trauma imprinting"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "title": "Behavioral Memory Persistence",
+    "type": "compounding_principle",
+    "concise_statement": "Experiences compound into long-term behavioral tendencies that persist across generations.",
+    "detailed_explanation": "Major collective events such as depressions, wars, and inflationary periods shape habits, financial preferences, and social attitudes long after conditions improve. Behavioral responses become culturally embedded.",
+    "implications": [
+      "Study generational experiences to understand economic behavior.",
+      "Recognize that financial habits are historically conditioned.",
+      "Expect long-lasting social effects from major crises."
+    ],
+    "related_concepts": [
+      "path dependence",
+      "cultural memory",
+      "generational psychology",
+      "behavioral conditioning"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "title": "Adaptation Does Not Erase Trauma",
+    "type": "paradox",
+    "concise_statement": "Humans are highly adaptive yet remain permanently shaped by severe experiences.",
+    "detailed_explanation": "People rebuild lives, economies, and institutions after crises, but adaptation coexists with persistent emotional scars. Functional recovery does not imply psychological restoration.",
+    "implications": [
+      "Distinguish operational recovery from emotional recovery.",
+      "Avoid assuming resilience eliminates hidden psychological costs.",
+      "Expect adaptive behavior to coexist with lingering caution."
+    ],
+    "related_concepts": [
+      "resilience",
+      "scar tissue effect",
+      "trauma psychology",
+      "behavioral persistence"
+    ],
+    "confidence_score": 0.98
+  }
+]
