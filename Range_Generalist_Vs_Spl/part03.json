@@ -1,0 +1,403 @@
+{
+  "source": [
+    ":contentReference[oaicite:0]{index=0}",
+    ":contentReference[oaicite:1]{index=1}",
+    ":contentReference[oaicite:2]{index=2}"
+  ],
+  "concepts": [
+    {
+      "title": "Human Advantage Through Integration",
+      "type": "interdisciplinary_thinking_pattern",
+      "concise_statement": "Human competitive advantage increasingly lies in integrating information across domains rather than executing narrow procedures.",
+      "detailed_explanation": "As machines outperform humans in tactical optimization and repetitive computation, humans create value by synthesizing perspectives, coordinating systems, framing problems, and adapting strategy dynamically. Integration is a meta-skill that combines multiple imperfect signals into coherent action.",
+      "why_it_matters": "Complex environments require coordination across fragmented information streams that isolated specialists or algorithms struggle to unify.",
+      "real_world_applications": [
+        "AI-assisted research",
+        "Executive decision-making",
+        "Macro investing",
+        "Systems engineering",
+        "Military command"
+      ],
+      "failure_modes": [
+        "Information overload",
+        "Shallow synthesis without understanding",
+        "Overcentralized decision-making"
+      ],
+      "related_concepts": [
+        "Systems Thinking",
+        "Strategic Abstraction",
+        "Cross-Domain Synthesis"
+      ],
+      "opposing_concepts": [
+        "Narrow Procedural Optimization",
+        "Single-Discipline Thinking"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Chunking as the Basis of Expertise",
+      "type": "mental_model",
+      "concise_statement": "Experts compress recurring patterns into meaningful cognitive chunks that enable rapid decision-making.",
+      "detailed_explanation": "Expert performance often appears intuitive or magical because experts do not process raw information item by item. Instead, they recognize higher-order structures built through repeated exposure. Chunking dramatically reduces cognitive load and enables rapid pattern recognition.",
+      "why_it_matters": "Many forms of expertise rely less on raw intelligence and more on exposure to structured recurring patterns.",
+      "real_world_applications": [
+        "Trading pattern recognition",
+        "Medical diagnosis",
+        "Chess",
+        "Sports anticipation",
+        "Language fluency"
+      ],
+      "failure_modes": [
+        "Overfitting to familiar structures",
+        "Pattern hallucination",
+        "Failure in novel environments"
+      ],
+      "related_concepts": [
+        "Pattern Recognition",
+        "Deliberate Practice",
+        "Expert Intuition"
+      ],
+      "opposing_concepts": [
+        "Raw Memorization",
+        "Unstructured Processing"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Expert Intuition Is Environment-Specific",
+      "type": "cognitive_flexibility_concept",
+      "concise_statement": "Intuition functions reliably only within environments whose underlying structures match prior experience.",
+      "detailed_explanation": "Expert intuition is essentially compressed historical pattern recognition. When environments change structurally, intuition can fail catastrophically because it continues mapping old patterns onto new realities.",
+      "why_it_matters": "Many experienced professionals mistake familiarity with universality.",
+      "real_world_applications": [
+        "Market regime changes",
+        "AI deployment",
+        "Military operations",
+        "Emergency medicine"
+      ],
+      "failure_modes": [
+        "Cognitive rigidity",
+        "Blind extrapolation",
+        "Regime misclassification"
+      ],
+      "related_concepts": [
+        "Kind vs Wicked Environments",
+        "Adaptive Expertise",
+        "Context Dependence"
+      ],
+      "opposing_concepts": [
+        "Universal Intuition",
+        "Static Expertise"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "title": "Closed-World Mastery vs Open-World Adaptation",
+      "type": "adaptability_principle",
+      "concise_statement": "Skills optimized for rule-bound environments often transfer poorly to open-ended environments.",
+      "detailed_explanation": "Closed worlds have stable rules, measurable objectives, and repeatable structures. Open worlds contain ambiguity, hidden variables, changing incentives, and incomplete information. Success in open systems requires adaptation rather than perfected repetition.",
+      "why_it_matters": "Most real-world strategic problems are open-world problems.",
+      "real_world_applications": [
+        "Entrepreneurship",
+        "Scientific discovery",
+        "Policy design",
+        "Macro investing"
+      ],
+      "failure_modes": [
+        "Overreliance on playbooks",
+        "Failure under ambiguity",
+        "Rigid optimization"
+      ],
+      "related_concepts": [
+        "Wicked Environments",
+        "Adaptive Strategy",
+        "Open-Ended Systems"
+      ],
+      "opposing_concepts": [
+        "Closed-System Optimization",
+        "Procedural Repetition"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Automation Commoditizes Tactical Expertise",
+      "type": "innovation_principle",
+      "concise_statement": "The more codifiable a skill becomes, the more vulnerable it is to automation.",
+      "detailed_explanation": "Tasks governed by stable rules and repetitive patterns can eventually be encoded into machines. Humans retain advantage primarily in ambiguity management, abstraction, and strategic adaptation.",
+      "why_it_matters": "Economic value increasingly shifts away from memorized procedures toward integrative and adaptive cognition.",
+      "real_world_applications": [
+        "AI-era workforce planning",
+        "Knowledge work redesign",
+        "Education systems",
+        "Professional services"
+      ],
+      "failure_modes": [
+        "Training for obsolete procedural roles",
+        "Ignoring strategic cognition",
+        "Over-specialization in codifiable tasks"
+      ],
+      "related_concepts": [
+        "Human-Machine Complementarity",
+        "Strategic Thinking",
+        "Adaptive Learning"
+      ],
+      "opposing_concepts": [
+        "Procedural Monoculture",
+        "Static Technical Specialization"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Strategic Complexity Preserves Human Relevance",
+      "type": "problem_solving_strategy",
+      "concise_statement": "Human advantage grows as environments require balancing multiple interacting systems simultaneously.",
+      "detailed_explanation": "Open-ended environments involve incomplete information, shifting goals, delayed consequences, and interacting variables. Humans remain comparatively strong at approximate synthesis across layers of uncertainty.",
+      "why_it_matters": "Complex systems cannot always be solved through isolated optimization.",
+      "real_world_applications": [
+        "Global macro investing",
+        "Geopolitical forecasting",
+        "Complex product strategy",
+        "Organizational leadership"
+      ],
+      "failure_modes": [
+        "Oversimplification",
+        "Single-variable optimization",
+        "Ignoring second-order effects"
+      ],
+      "related_concepts": [
+        "Systems Thinking",
+        "Complex Adaptive Systems",
+        "Strategic Integration"
+      ],
+      "opposing_concepts": [
+        "Linear Optimization",
+        "Reductionism"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "title": "Single-Loop Learning Trap",
+      "type": "learning_principle",
+      "concise_statement": "People often optimize known solutions instead of questioning underlying assumptions.",
+      "detailed_explanation": "Single-loop learners repeatedly refine familiar methods without reevaluating whether the framework itself remains valid. This creates efficient but brittle expertise.",
+      "why_it_matters": "Many organizational failures occur because institutions optimize obsolete assumptions.",
+      "real_world_applications": [
+        "Corporate strategy",
+        "Trading systems",
+        "Educational systems",
+        "Management consulting"
+      ],
+      "failure_modes": [
+        "Defensiveness toward anomalies",
+        "Escalation of commitment",
+        "Institutional stagnation"
+      ],
+      "related_concepts": [
+        "Double-Loop Learning",
+        "Adaptive Expertise",
+        "Cognitive Flexibility"
+      ],
+      "opposing_concepts": [
+        "Rigid Optimization",
+        "Procedural Fixation"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "title": "Reward Structures Narrow Exploration",
+      "type": "behavioral_principle",
+      "concise_statement": "Short-term rewards for repeated success suppress experimentation and deeper understanding.",
+      "detailed_explanation": "When systems reward immediate success using known methods, individuals stop exploring alternative frameworks. This creates local optimization while preventing discovery of broader governing principles.",
+      "why_it_matters": "Organizations unintentionally discourage innovation by rewarding short-term efficiency over exploration.",
+      "real_world_applications": [
+        "Corporate incentives",
+        "Educational grading",
+        "Trading behavior",
+        "Scientific funding systems"
+      ],
+      "failure_modes": [
+        "Path dependence",
+        "Creativity suppression",
+        "Rule memorization without understanding"
+      ],
+      "related_concepts": [
+        "Exploration vs Exploitation",
+        "Behavioral Reinforcement",
+        "Local Maxima"
+      ],
+      "opposing_concepts": [
+        "Experimental Learning",
+        "Open Exploration"
+      ],
+      "confidence_score": 0.97
+    },
+    {
+      "title": "Cognitive Entrenchment",
+      "type": "cognitive_flexibility_concept",
+      "concise_statement": "Deep expertise can reduce the ability to adapt when rules or contexts change.",
+      "detailed_explanation": "Experts internalize domain-specific assumptions so deeply that they struggle when environmental structures shift. Their optimized mental models become rigid, limiting adaptability.",
+      "why_it_matters": "The fastest-changing environments punish rigid expertise most severely.",
+      "real_world_applications": [
+        "Technology disruption",
+        "Financial regime shifts",
+        "Scientific paradigm changes",
+        "Career reinvention"
+      ],
+      "failure_modes": [
+        "Resistance to new frameworks",
+        "Overconfidence in legacy methods",
+        "Failure to recognize structural change"
+      ],
+      "related_concepts": [
+        "Adaptive Expertise",
+        "Expert Blindness",
+        "Path Dependence"
+      ],
+      "opposing_concepts": [
+        "Beginner's Mind",
+        "Flexible Cognition"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "One Foot Outside Your Domain",
+      "type": "interdisciplinary_thinking_pattern",
+      "concise_statement": "Sustained exposure to external disciplines improves creativity and adaptability within a primary field.",
+      "detailed_explanation": "Cross-domain activities expose individuals to alternative abstractions, metaphors, and problem-solving methods. These external cognitive structures can later recombine into novel insights within the primary domain.",
+      "why_it_matters": "Creative breakthroughs frequently emerge from importing concepts across boundaries.",
+      "real_world_applications": [
+        "Scientific innovation",
+        "AI research",
+        "Product design",
+        "Quantitative strategy research"
+      ],
+      "failure_modes": [
+        "Excessive fragmentation",
+        "Surface-level interdisciplinarity",
+        "Lack of implementation depth"
+      ],
+      "related_concepts": [
+        "Cross-Pollination",
+        "Recombinant Innovation",
+        "Analogical Thinking"
+      ],
+      "opposing_concepts": [
+        "Intellectual Isolation",
+        "Pure Specialization"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Creative Achievement Requires Breadth",
+      "type": "creativity_mechanism",
+      "concise_statement": "High-impact creators disproportionately cultivate broad interests outside their primary specialization.",
+      "detailed_explanation": "Creative achievement often depends on integrating distant concepts rather than optimizing within existing frameworks. Broad interests expand the space of possible combinations and insights.",
+      "why_it_matters": "Innovation is frequently recombinant rather than purely incremental.",
+      "real_world_applications": [
+        "Research innovation",
+        "Technology entrepreneurship",
+        "Artistic creation",
+        "Scientific discovery"
+      ],
+      "failure_modes": [
+        "Hyper-specialized tunnel vision",
+        "Overfitting to disciplinary norms",
+        "Reduced conceptual diversity"
+      ],
+      "related_concepts": [
+        "Range",
+        "Interdisciplinary Thinking",
+        "Cross-Domain Transfer"
+      ],
+      "opposing_concepts": [
+        "Narrow Optimization",
+        "Domain Isolation"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "title": "Innovation Through Conceptual Collision",
+      "type": "innovation_principle",
+      "concise_statement": "Breakthroughs often occur when previously disconnected domains become cognitively linked.",
+      "detailed_explanation": "Novel inventions frequently emerge when someone possesses simultaneous familiarity with multiple fields that rarely interact. Innovation becomes possible through structural mapping between distant concepts.",
+      "why_it_matters": "Major advances often require bridging knowledge silos rather than extending a single tradition.",
+      "real_world_applications": [
+        "Machine learning applications",
+        "Bioinformatics",
+        "Quantitative finance",
+        "Human-computer interaction"
+      ],
+      "failure_modes": [
+        "Lack of translation capability",
+        "Institutional siloing",
+        "Overly narrow training pipelines"
+      ],
+      "related_concepts": [
+        "Analogical Transfer",
+        "Recombinant Innovation",
+        "Boundary Spanning"
+      ],
+      "opposing_concepts": [
+        "Single-Discipline Progress",
+        "Pure Incrementalism"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Open-World Problems Require Question Discovery",
+      "type": "problem_solving_strategy",
+      "concise_statement": "In complex systems, defining the right question is often harder and more important than finding the answer.",
+      "detailed_explanation": "Closed systems already define goals, constraints, and evaluation metrics. Open-world systems require humans to identify hidden variables, formulate useful abstractions, and redefine problems dynamically.",
+      "why_it_matters": "Many failures occur because organizations solve the wrong problem extremely efficiently.",
+      "real_world_applications": [
+        "Cancer research",
+        "AI alignment",
+        "Macroeconomic policy",
+        "Strategic investing"
+      ],
+      "failure_modes": [
+        "Optimization of irrelevant metrics",
+        "Premature problem formalization",
+        "Mistaking measurable variables for important variables"
+      ],
+      "related_concepts": [
+        "Systems Thinking",
+        "Strategic Framing",
+        "Adaptive Learning"
+      ],
+      "opposing_concepts": [
+        "Fixed Problem Assumption",
+        "Mechanical Optimization"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Most Real-World Domains Are Martian Tennis",
+      "type": "mental_model",
+      "concise_statement": "Most environments resemble games with unclear and changing rules rather than stable structured systems.",
+      "detailed_explanation": "Real-world domains rarely provide explicit rules, stable feedback, or repeatable patterns. Participants must infer structures dynamically while operating under uncertainty.",
+      "why_it_matters": "Training systems built for stable environments often fail in real-world complexity.",
+      "real_world_applications": [
+        "Financial markets",
+        "Leadership",
+        "Geopolitics",
+        "Entrepreneurship"
+      ],
+      "failure_modes": [
+        "False certainty",
+        "Rule overdependence",
+        "Linear extrapolation"
+      ],
+      "related_concepts": [
+        "Wicked Environments",
+        "Adaptive Strategy",
+        "Uncertainty Navigation"
+      ],
+      "opposing_concepts": [
+        "Kind Environments",
+        "Rule-Bound Systems"
+      ],
+      "confidence_score": 0.99
+    }
+  ]
+}
