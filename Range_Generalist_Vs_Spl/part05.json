@@ -1,0 +1,347 @@
+{
+  "source": [
+    ":contentReference[oaicite:0]{index=0}",
+    ":contentReference[oaicite:1]{index=1}",
+    ":contentReference[oaicite:2]{index=2}",
+    ":contentReference[oaicite:3]{index=3}",
+    ":contentReference[oaicite:4]{index=4}"
+  ],
+  "concepts": [
+    {
+      "title": "Abstract Thinking Requires Flexible Category Shifting",
+      "type": "cognitive_flexibility_concept",
+      "concise_statement": "Advanced reasoning depends on the ability to reorganize information across multiple conceptual frameworks.",
+      "detailed_explanation": "Abstract thinkers can classify the same information according to different dimensions—function, structure, material, scale, or context. This flexibility enables reframing and adaptation in novel environments.",
+      "why_it_matters": "Complex problems rarely fit into a single stable representation.",
+      "real_world_applications": [
+        "Systems analysis",
+        "Scientific modeling",
+        "Strategic decision-making",
+        "AI architecture design"
+      ],
+      "failure_modes": [
+        "Rigid categorization",
+        "Single-framework dependence",
+        "Inability to reframe problems"
+      ],
+      "related_concepts": [
+        "Conceptual Flexibility",
+        "Abstraction",
+        "Systems Thinking"
+      ],
+      "opposing_concepts": [
+        "Literal Categorization",
+        "Concrete-Bound Thinking"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Narrow Expertise Does Not Automatically Produce Broad Reasoning",
+      "type": "learning_principle",
+      "concise_statement": "Technical specialization alone does not reliably develop transferable critical thinking skills.",
+      "detailed_explanation": "Individuals often become highly competent within disciplinary boundaries without learning how to generalize methods, evaluate evidence broadly, or transfer reasoning tools across domains.",
+      "why_it_matters": "Modern complexity demands transferable reasoning rather than isolated technical proficiency.",
+      "real_world_applications": [
+        "Higher education reform",
+        "Scientific training",
+        "Professional development",
+        "Leadership education"
+      ],
+      "failure_modes": [
+        "Domain siloing",
+        "False confidence from credentials",
+        "Inability to evaluate unfamiliar problems"
+      ],
+      "related_concepts": [
+        "Transfer Learning",
+        "Interdisciplinary Thinking",
+        "Cognitive Flexibility"
+      ],
+      "opposing_concepts": [
+        "Narrow Vocational Training",
+        "Pure Memorization"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Broad Conceptual Tools Outperform Memorized Facts",
+      "type": "skill_acquisition_framework",
+      "concise_statement": "General reasoning frameworks create more durable and transferable capability than domain-specific factual accumulation.",
+      "detailed_explanation": "Conceptual tools such as probabilistic reasoning, decomposition, causal analysis, and abstraction apply across domains and remain useful even as specific facts change.",
+      "why_it_matters": "Knowledge decays quickly, but thinking frameworks compound.",
+      "real_world_applications": [
+        "Quantitative research",
+        "Strategic leadership",
+        "AI systems thinking",
+        "Scientific inference"
+      ],
+      "failure_modes": [
+        "Fact overload without synthesis",
+        "Procedural memorization",
+        "Framework misuse"
+      ],
+      "related_concepts": [
+        "Mental Models",
+        "Computational Thinking",
+        "Fermi Reasoning"
+      ],
+      "opposing_concepts": [
+        "Rote Expertise",
+        "Static Knowledge Accumulation"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Thinking Before Knowing",
+      "type": "mental_model",
+      "concise_statement": "Learning should prioritize reasoning frameworks before domain-specific detail accumulation.",
+      "detailed_explanation": "Individuals equipped with transferable conceptual tools can rapidly learn new domains, while those trained only in specifics struggle outside familiar territory.",
+      "why_it_matters": "Modern careers increasingly require continuous reinvention and cross-domain adaptation.",
+      "real_world_applications": [
+        "Education design",
+        "AI-era workforce training",
+        "Research methodology",
+        "Problem-solving instruction"
+      ],
+      "failure_modes": [
+        "Premature specialization",
+        "Knowledge fragmentation",
+        "Context-dependent competence"
+      ],
+      "related_concepts": [
+        "Transfer Learning",
+        "Abstract Reasoning",
+        "Adaptive Expertise"
+      ],
+      "opposing_concepts": [
+        "Fact-First Education",
+        "Hyper-Specialized Training"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "title": "Computational Thinking as a Universal Toolkit",
+      "type": "problem_solving_strategy",
+      "concise_statement": "Decomposition, abstraction, and representation are universal problem-solving tools beyond computer science.",
+      "detailed_explanation": "Computational thinking involves breaking complex problems into manageable components, identifying abstractions, and selecting useful representations. These skills generalize across disciplines.",
+      "why_it_matters": "Complex systems increasingly require structured reasoning rather than intuition alone.",
+      "real_world_applications": [
+        "Business strategy",
+        "Scientific research",
+        "Operations management",
+        "Machine learning"
+      ],
+      "failure_modes": [
+        "Overformalization",
+        "Ignoring human context",
+        "Reductionism"
+      ],
+      "related_concepts": [
+        "Systems Thinking",
+        "Abstraction",
+        "Decomposition"
+      ],
+      "opposing_concepts": [
+        "Ad Hoc Reasoning",
+        "Undifferentiated Complexity"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "title": "One Tool Is Never Enough",
+      "type": "mental_model",
+      "concise_statement": "Complex reality requires multiple complementary frameworks rather than a single dominant method.",
+      "detailed_explanation": "Every tool encodes assumptions and blind spots. Effective thinkers maintain diverse conceptual frameworks and switch adaptively depending on context.",
+      "why_it_matters": "Overreliance on a single framework creates systematic errors in complex environments.",
+      "real_world_applications": [
+        "Investing",
+        "Policy analysis",
+        "Scientific research",
+        "Organizational leadership"
+      ],
+      "failure_modes": [
+        "Hammer-nail syndrome",
+        "Framework monoculture",
+        "Context blindness"
+      ],
+      "related_concepts": [
+        "Range",
+        "Cognitive Flexibility",
+        "Adaptive Expertise"
+      ],
+      "opposing_concepts": [
+        "Methodological Monoculture",
+        "Single-Theory Dependence"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Wicked Environments Reward Learning Without Experience",
+      "type": "adaptability_principle",
+      "concise_statement": "Success in rapidly changing systems requires reasoning beyond direct historical experience.",
+      "detailed_explanation": "In stable environments, repeated experience builds reliable intuition. In wicked environments, individuals must infer principles and reason about situations never previously encountered.",
+      "why_it_matters": "Technological and economic change increasingly create unprecedented scenarios.",
+      "real_world_applications": [
+        "AI governance",
+        "Entrepreneurship",
+        "Macro forecasting",
+        "Strategic investing"
+      ],
+      "failure_modes": [
+        "Experience overdependence",
+        "Failure under novelty",
+        "Rigid extrapolation"
+      ],
+      "related_concepts": [
+        "Martian Tennis",
+        "Adaptive Learning",
+        "Abstract Reasoning"
+      ],
+      "opposing_concepts": [
+        "Pure Experiential Learning",
+        "Historical Determinism"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Fermi Reasoning",
+      "type": "decision_making_framework",
+      "concise_statement": "Complex unknowns can often be estimated accurately by decomposing them into smaller tractable assumptions.",
+      "detailed_explanation": "Fermi reasoning transforms overwhelming uncertainty into manageable approximation chains. Rather than requiring exact knowledge, it leverages structural reasoning and rough estimation.",
+      "why_it_matters": "Most important decisions must be made under incomplete information.",
+      "real_world_applications": [
+        "Startup analysis",
+        "Macro investing",
+        "Scientific estimation",
+        "Operational planning"
+      ],
+      "failure_modes": [
+        "Garbage assumptions",
+        "False precision",
+        "Ignoring uncertainty propagation"
+      ],
+      "related_concepts": [
+        "Decomposition",
+        "Back-of-the-Envelope Thinking",
+        "Probabilistic Reasoning"
+      ],
+      "opposing_concepts": [
+        "Pure Intuition",
+        "Analysis Paralysis"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Broad Reasoning Training Compounds Across Domains",
+      "type": "transfer_learning_concept",
+      "concise_statement": "A small number of transferable reasoning frameworks can improve performance across many unrelated fields.",
+      "detailed_explanation": "Frameworks like decomposition, causality analysis, abstraction, and probabilistic reasoning create generalized cognitive leverage that transfers widely.",
+      "why_it_matters": "Transferable thinking compounds faster than isolated domain expertise.",
+      "real_world_applications": [
+        "Research methodology",
+        "Cross-functional leadership",
+        "AI systems analysis",
+        "Consulting"
+      ],
+      "failure_modes": [
+        "Framework fetishism",
+        "Surface-level transfer",
+        "Ignoring domain nuances"
+      ],
+      "related_concepts": [
+        "Mental Models",
+        "Conceptual Transfer",
+        "Swiss Army Knife Thinking"
+      ],
+      "opposing_concepts": [
+        "Context-Locked Expertise",
+        "Narrow Skill Training"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "title": "The Modern World Punishes Repetition-Only Expertise",
+      "type": "causal_relationship",
+      "concise_statement": "As environments become less repetitive, narrowly trained expertise loses relative value.",
+      "detailed_explanation": "Automation and environmental change reduce the value of repetitive procedural competence while increasing demand for flexible conceptual adaptation.",
+      "why_it_matters": "Many educational and professional systems still optimize for obsolete industrial-era stability.",
+      "real_world_applications": [
+        "Career planning",
+        "Educational reform",
+        "AI workforce adaptation",
+        "Innovation strategy"
+      ],
+      "failure_modes": [
+        "Skill obsolescence",
+        "Automation vulnerability",
+        "Rigid specialization"
+      ],
+      "related_concepts": [
+        "Adaptive Expertise",
+        "Automation Risk",
+        "Knowledge Transfer"
+      ],
+      "opposing_concepts": [
+        "Static Expertise",
+        "Mechanical Repetition"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Constraint Can Catalyze Cross-Training",
+      "type": "creativity_mechanism",
+      "concise_statement": "Resource or environmental constraints can force broad capability development that later enhances creativity.",
+      "detailed_explanation": "When individuals must operate across multiple tools, domains, or modalities due to necessity, they often develop unusual integrative capabilities that enable innovation.",
+      "why_it_matters": "Excessive optimization and specialization can suppress exploratory recombination.",
+      "real_world_applications": [
+        "Startup environments",
+        "Interdisciplinary arts",
+        "Resource-constrained innovation",
+        "Generalist technical teams"
+      ],
+      "failure_modes": [
+        "Insufficient depth",
+        "Chronic overload",
+        "Fragmented development"
+      ],
+      "related_concepts": [
+        "Range",
+        "Cross-Domain Creativity",
+        "Adaptive Learning"
+      ],
+      "opposing_concepts": [
+        "Luxury Specialization",
+        "Single-Skill Optimization"
+      ],
+      "confidence_score": 0.94
+    },
+    {
+      "title": "Versatility Accelerates Innovation",
+      "type": "performance_principle",
+      "concise_statement": "Individuals capable of rapidly learning multiple tools and contexts increase the rate of creative adaptation.",
+      "detailed_explanation": "Versatile performers can absorb and integrate new techniques quickly, making them highly adaptive in environments where requirements evolve continuously.",
+      "why_it_matters": "Innovation often emerges from combining capabilities rather than maximizing one isolated skill.",
+      "real_world_applications": [
+        "Creative industries",
+        "AI product development",
+        "Research teams",
+        "Complex operations"
+      ],
+      "failure_modes": [
+        "Overextension",
+        "Insufficient mastery",
+        "Coordination overload"
+      ],
+      "related_concepts": [
+        "Range",
+        "Adaptive Expertise",
+        "Interdisciplinary Integration"
+      ],
+      "opposing_concepts": [
+        "Rigid Specialization",
+        "Single-Skill Dependency"
+      ],
+      "confidence_score": 0.96
+    }
+  ]
+}
