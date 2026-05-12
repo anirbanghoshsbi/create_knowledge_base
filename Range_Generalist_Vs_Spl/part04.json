@@ -1,0 +1,346 @@
+{
+  "source": [
+    ":contentReference[oaicite:0]{index=0}",
+    ":contentReference[oaicite:1]{index=1}",
+    ":contentReference[oaicite:2]{index=2}",
+    ":contentReference[oaicite:3]{index=3}"
+  ],
+  "concepts": [
+    {
+      "title": "Range as a Cognitive Circuit Breaker",
+      "type": "adaptability_principle",
+      "concise_statement": "Broad experiences interrupt automatic reliance on outdated solutions and improve adaptability.",
+      "detailed_explanation": "Individuals with diverse backgrounds possess alternative mental models that can disrupt habitual thinking. Exposure to multiple domains acts as a circuit breaker against cognitive rigidity by enabling reframing when established approaches fail.",
+      "why_it_matters": "Complex environments frequently invalidate previously successful heuristics.",
+      "real_world_applications": [
+        "Strategic investing",
+        "Leadership adaptation",
+        "Scientific problem-solving",
+        "Technology innovation"
+      ],
+      "failure_modes": [
+        "Excessive dependence on past success",
+        "Pattern fixation",
+        "Reactive rigidity"
+      ],
+      "related_concepts": [
+        "Cognitive Flexibility",
+        "Adaptive Expertise",
+        "Cross-Domain Transfer"
+      ],
+      "opposing_concepts": [
+        "Cognitive Entrenchment",
+        "Procedural Rigidity"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Multi-Stream Career Development",
+      "type": "career_development_principle",
+      "concise_statement": "Maintaining multiple developmental pathways increases long-term adaptability and transition capability.",
+      "detailed_explanation": "Individuals who preserve several parallel competencies and interests create optionality. This allows strategic pivots when industries, technologies, or personal goals change.",
+      "why_it_matters": "Nonlinear careers increasingly dominate modern economies.",
+      "real_world_applications": [
+        "Portfolio careers",
+        "Career transitions",
+        "Entrepreneurial experimentation",
+        "Research diversification"
+      ],
+      "failure_modes": [
+        "Overcommitment to a single identity",
+        "Premature lock-in",
+        "Skill monoculture"
+      ],
+      "related_concepts": [
+        "Career Optionality",
+        "Range",
+        "Exploration vs Exploitation"
+      ],
+      "opposing_concepts": [
+        "Single-Track Career Planning",
+        "Identity Foreclosure"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "title": "Modernity Rewards Abstract Thinking",
+      "type": "cognitive_flexibility_concept",
+      "concise_statement": "Modern environments increasingly reward the ability to manipulate abstract concepts detached from direct experience.",
+      "detailed_explanation": "As societies become more interconnected and technologically complex, success depends less on concrete situational knowledge and more on abstraction, categorization, and symbolic reasoning.",
+      "why_it_matters": "Knowledge work increasingly involves conceptual manipulation rather than direct physical experience.",
+      "real_world_applications": [
+        "Software engineering",
+        "Quantitative finance",
+        "Scientific research",
+        "Strategic consulting"
+      ],
+      "failure_modes": [
+        "Overabstraction detached from reality",
+        "Loss of practical grounding",
+        "Conceptual overengineering"
+      ],
+      "related_concepts": [
+        "Scientific Spectacles",
+        "Knowledge Transfer",
+        "Systems Thinking"
+      ],
+      "opposing_concepts": [
+        "Concrete Local Reasoning",
+        "Pure Experiential Thinking"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "The Flynn Effect as Cognitive Environmental Adaptation",
+      "type": "causal_relationship",
+      "concise_statement": "Modern environments reshape cognitive habits toward abstraction, pattern extraction, and conceptual reasoning.",
+      "detailed_explanation": "Rising IQ scores on abstract reasoning tasks reflect environmental adaptation rather than innate biological change. Modern work, education, and technology demand flexible conceptual thinking and dynamic rule inference.",
+      "why_it_matters": "Human cognition adapts structurally to environmental complexity.",
+      "real_world_applications": [
+        "Educational design",
+        "AI-human interaction",
+        "Cognitive training",
+        "Organizational learning"
+      ],
+      "failure_modes": [
+        "Assuming intelligence is static",
+        "Ignoring environmental effects on cognition",
+        "Underestimating abstraction training"
+      ],
+      "related_concepts": [
+        "Environmental Learning Effects",
+        "Cognitive Flexibility",
+        "Pattern Extraction"
+      ],
+      "opposing_concepts": [
+        "Fixed Intelligence Models",
+        "Pure Genetic Determinism"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "title": "Abstraction Expands Transfer Capacity",
+      "type": "transfer_learning_concept",
+      "concise_statement": "Abstract conceptual frameworks enable knowledge transfer across unrelated domains.",
+      "detailed_explanation": "Concrete knowledge tied to direct experience transfers poorly. Abstract representations allow individuals to recognize structural similarities across superficially different problems.",
+      "why_it_matters": "Modern innovation depends heavily on transferring ideas between domains.",
+      "real_world_applications": [
+        "Machine learning",
+        "Mathematics",
+        "Systems engineering",
+        "Macro strategy"
+      ],
+      "failure_modes": [
+        "Surface-level analogy errors",
+        "Detachment from implementation reality",
+        "Overgeneralization"
+      ],
+      "related_concepts": [
+        "Analogical Reasoning",
+        "Conceptual Schemas",
+        "Interdisciplinary Thinking"
+      ],
+      "opposing_concepts": [
+        "Context-Locked Knowledge",
+        "Literal Reasoning"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Conceptual Classification as Cognitive Infrastructure",
+      "type": "mental_model",
+      "concise_statement": "Humans use layered conceptual categories to organize, compress, and transfer knowledge.",
+      "detailed_explanation": "Modern cognition increasingly relies on classification systems that group information into abstract conceptual hierarchies. These structures improve flexibility, recall, and recombination of knowledge.",
+      "why_it_matters": "Without abstraction layers, knowledge remains fragmented and difficult to transfer.",
+      "real_world_applications": [
+        "Programming languages",
+        "Scientific taxonomies",
+        "Legal reasoning",
+        "Machine learning ontologies"
+      ],
+      "failure_modes": [
+        "Overclassification",
+        "Artificial categorization",
+        "Conceptual rigidity"
+      ],
+      "related_concepts": [
+        "Chunking",
+        "Abstraction",
+        "Knowledge Compression"
+      ],
+      "opposing_concepts": [
+        "Purely Concrete Thinking",
+        "Unstructured Information Processing"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "title": "Modern Work Increases Cognitive Flexibility",
+      "type": "environmental_learning_effect",
+      "concise_statement": "Exposure to self-directed, nonrepetitive work strengthens flexible reasoning abilities.",
+      "detailed_explanation": "Modern work environments often require dynamic problem-solving, adaptation, and independent reasoning. Repeated exposure to such environments trains cognitive flexibility and abstraction.",
+      "why_it_matters": "Work structures shape cognition as much as formal education does.",
+      "real_world_applications": [
+        "Innovation-driven organizations",
+        "Research environments",
+        "Adaptive management systems",
+        "Creative industries"
+      ],
+      "failure_modes": [
+        "Highly repetitive labor systems",
+        "Overstandardization",
+        "Excessive proceduralization"
+      ],
+      "related_concepts": [
+        "Adaptive Learning",
+        "Cognitive Flexibility",
+        "Knowledge Transfer"
+      ],
+      "opposing_concepts": [
+        "Mechanical Repetition",
+        "Rigid Procedural Work"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "title": "Concrete Experience Limits Conceptual Transfer",
+      "type": "learning_principle",
+      "concise_statement": "Reasoning tied exclusively to direct experience restricts abstraction and transfer learning.",
+      "detailed_explanation": "When individuals rely only on concrete lived examples, they struggle to generalize principles into unfamiliar contexts. Abstraction enables reasoning beyond immediate experience.",
+      "why_it_matters": "Modern complexity requires thinking about systems never directly observed.",
+      "real_world_applications": [
+        "Scientific inference",
+        "Strategic forecasting",
+        "Mathematical reasoning",
+        "Policy analysis"
+      ],
+      "failure_modes": [
+        "Literalism",
+        "Failure to generalize",
+        "Inability to reason hypothetically"
+      ],
+      "related_concepts": [
+        "Abstract Reasoning",
+        "Conceptual Transfer",
+        "Pattern Extraction"
+      ],
+      "opposing_concepts": [
+        "Concrete-Bound Thinking",
+        "Experiential Exclusivity"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Curiosity Emerges From Conceptual Expansion",
+      "type": "behavioral_principle",
+      "concise_statement": "Abstract thinking expands the space of imaginable questions and possibilities.",
+      "detailed_explanation": "Individuals exposed to broader conceptual systems develop curiosity because abstraction allows them to imagine unseen worlds, hypothetical structures, and alternative futures.",
+      "why_it_matters": "Innovation begins with the ability to formulate new questions.",
+      "real_world_applications": [
+        "Research creativity",
+        "Entrepreneurship",
+        "Exploratory learning",
+        "Scientific discovery"
+      ],
+      "failure_modes": [
+        "Intellectual confinement",
+        "Lack of imaginative range",
+        "Overdependence on immediate experience"
+      ],
+      "related_concepts": [
+        "Question Discovery",
+        "Conceptual Flexibility",
+        "Creative Exploration"
+      ],
+      "opposing_concepts": [
+        "Experiential Confinement",
+        "Rigid Literalism"
+      ],
+      "confidence_score": 0.97
+    },
+    {
+      "title": "Knowledge Transfer Is the Core Modern Skill",
+      "type": "skill_acquisition_framework",
+      "concise_statement": "Modern environments reward the ability to apply knowledge across domains more than isolated expertise.",
+      "detailed_explanation": "As complexity increases, valuable work increasingly involves connecting concepts from separate domains and adapting them to new contexts.",
+      "why_it_matters": "Pure specialization becomes brittle in rapidly changing environments.",
+      "real_world_applications": [
+        "AI research",
+        "Quantitative investing",
+        "Cross-functional leadership",
+        "Systems architecture"
+      ],
+      "failure_modes": [
+        "Siloed expertise",
+        "Failure to adapt",
+        "Knowledge fragmentation"
+      ],
+      "related_concepts": [
+        "Range",
+        "Interdisciplinary Thinking",
+        "Adaptive Expertise"
+      ],
+      "opposing_concepts": [
+        "Knowledge Isolation",
+        "Rigid Specialization"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Complexity Shifts Value Toward Pattern Derivation",
+      "type": "problem_solving_strategy",
+      "concise_statement": "In complex environments, deriving underlying principles becomes more important than memorizing fixed rules.",
+      "detailed_explanation": "As systems become dynamic and interconnected, static procedures fail more frequently. Success depends on inferring hidden structures and adapting continuously.",
+      "why_it_matters": "Modern systems evolve faster than static expertise can keep up.",
+      "real_world_applications": [
+        "Macro investing",
+        "AI alignment",
+        "Technology forecasting",
+        "Complex systems management"
+      ],
+      "failure_modes": [
+        "Rule memorization without understanding",
+        "Overreliance on historical precedent",
+        "Static optimization"
+      ],
+      "related_concepts": [
+        "Eduction",
+        "Adaptive Reasoning",
+        "Pattern Recognition"
+      ],
+      "opposing_concepts": [
+        "Fixed Rule Execution",
+        "Mechanical Expertise"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "title": "Range Enables Survival in Wicked Environments",
+      "type": "adaptability_principle",
+      "concise_statement": "Broad conceptual and experiential exposure improves performance in ambiguous, changing systems.",
+      "detailed_explanation": "Wicked environments lack stable rules and repeatable patterns. Individuals with range possess more analogies, abstractions, and adaptive strategies to navigate uncertainty.",
+      "why_it_matters": "Most modern strategic environments are increasingly wicked rather than kind.",
+      "real_world_applications": [
+        "Entrepreneurship",
+        "Global macro strategy",
+        "Leadership under uncertainty",
+        "Scientific innovation"
+      ],
+      "failure_modes": [
+        "Overdependence on one framework",
+        "Inability to reframe problems",
+        "Identity rigidity"
+      ],
+      "related_concepts": [
+        "Martian Tennis",
+        "Adaptive Expertise",
+        "Interdisciplinary Thinking"
+      ],
+      "opposing_concepts": [
+        "Narrow Optimization",
+        "Procedural Monoculture"
+      ],
+      "confidence_score": 0.99
+    }
+  ]
+}
