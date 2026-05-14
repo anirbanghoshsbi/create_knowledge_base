@@ -1,5 +1,5 @@
 # RANGE_GENERALIST_VS_SPECIALIST_ANALYSIS_PART_11
-
+```yaml
 metadata:
   book: "Range: Why Generalists Triumph in a Specialized World"
   author: "David Epstein"
@@ -18,9 +18,9 @@ metadata:
     - experimentation
     - scientific_discovery
     - self_matching
-
+```
 ---
-
+```yaml
 core_principles:
 
   - id: CP86
@@ -87,9 +87,9 @@ core_principles:
     explanation: >
       Seemingly disconnected experiences
       may later recombine into unique capability.
-
+```
 ---
-
+```yaml
 transferable_ideas:
 
   trading:
@@ -116,9 +116,9 @@ transferable_ideas:
     - "Adaptive systems benefit from anomaly detection."
     - "Exploration improves self-organization."
     - "Heterogeneous agents outperform monocultures."
-
+```
 ---
-
+```yaml
 hidden_assumptions:
 
   - id: HA60
@@ -150,9 +150,9 @@ hidden_assumptions:
     assumption: "Early weakness predicts permanent limitation."
     reality: >
       Capability can emerge very late through recombination and persistence.
-
+```
 ---
-
+```yaml
 cross_domain_parallels:
 
   - domain_a: Kepler_Mars_anomalies
@@ -184,9 +184,9 @@ cross_domain_parallels:
     domain_b: portfolio_diversification
     parallel: >
       Diversity reduces fragility and expands possibility space.
-
+```
 ---
-
+```yaml
 application_to_your_behavior_patterns:
 
   observed_patterns:
@@ -212,9 +212,9 @@ application_to_your_behavior_patterns:
     - pattern: "You sometimes persist too long in unproductive loops."
       interpretation: >
         Your exploratory cognition needs operational stopping rules.
-
+```
   strengths:
-
+```yaml
     - anomaly_detection
     - conceptual_reframing
     - interdisciplinary_integration
@@ -229,7 +229,7 @@ application_to_your_behavior_patterns:
     - persistence_without_fit
     - execution_disruption
     - framework_proliferation
-
+```
   strategic_reframe:
     - >
       Your nonlinear exploratory tendencies may not be weakness.
