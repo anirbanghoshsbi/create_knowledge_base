@@ -1,5 +1,5 @@
 # RANGE_GENERALIST_VS_SPECIALIST_ANALYSIS
-
+```yaml
 metadata:
   book: "Range: Why Generalists Triumph in a Specialized World"
   author: "David Epstein"
