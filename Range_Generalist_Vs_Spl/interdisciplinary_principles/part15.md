@@ -1,5 +1,5 @@
 # RANGE_GENERALIST_VS_SPECIALIST_ANALYSIS_PART_15
-
+```yaml
 metadata:
   book: "Range: Why Generalists Triumph in a Specialized World"
   author: "David Epstein"
@@ -408,3 +408,4 @@ high_level_summary:
     Long-term adaptive success therefore emerges
     less from fixed planning
     and more from intelligent iterative experimentation.
+```
