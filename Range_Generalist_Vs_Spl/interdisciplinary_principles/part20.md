@@ -1,5 +1,5 @@
 # RANGE_GENERALIST_VS_SPECIALIST_ANALYSIS_PART_20
-
+```yaml
 metadata:
   book: "Range: Why Generalists Triumph in a Specialized World"
   author: "David Epstein"
@@ -406,3 +406,4 @@ high_level_summary:
       - avoid narrative rigidity,
       - embrace uncertainty,
       - and synthesize across domains dynamically.
+```
