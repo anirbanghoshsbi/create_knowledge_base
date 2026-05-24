@@ -1,5 +1,5 @@
 # RANGE_GENERALIST_VS_SPECIALIST_ANALYSIS_PART_23
-
+```yaml
 metadata:
   book: "Range: Why Generalists Triumph in a Specialized World"
   author: "David Epstein"
@@ -442,3 +442,4 @@ high_level_summary:
       - institutionalize constructive dissent,
       - encourage ambidextrous thinking,
       - and maintain multiple cognitive tools simultaneously.
+```
