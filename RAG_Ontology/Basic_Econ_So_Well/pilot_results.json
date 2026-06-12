@@ -1,0 +1,744 @@
+[
+  {
+    "chunk_id": "chunk_001",
+    "metadata": {
+      "concept_links": [
+        {
+          "concept": "Economics",
+          "confidence": 1.0,
+          "importance": "primary",
+          "evidence": "BASIC ECONOMICS A Citizen's Guide to the Economy",
+          "reasoning": "The title and repeated references throughout the text clearly establish the central theme as economics."
+        },
+        {
+          "concept": "Incentives",
+          "confidence": 0.9,
+          "importance": "primary",
+          "evidence": "to get the reader to look at economic policies and economic systems in terms of the incentives they create, rather than simply the goals that they proclaim.",
+          "reasoning": "The text explicitly states a key purpose is to analyze policies based on the incentives they generate."
+        },
+        {
+          "concept": "Prices",
+          "confidence": 0.8,
+          "importance": "secondary",
+          "evidence": "PART I: PRICES AND MARKETS",
+          "reasoning": "A major section of the book is dedicated to the role of prices, indicating its importance."
+        },
+        {
+          "concept": "Markets",
+          "confidence": 0.8,
+          "importance": "secondary",
+          "evidence": "PART I: PRICES AND MARKETS",
+          "reasoning": "Alongside prices, markets are a core focus of the first part of the book."
+        },
+        {
+          "concept": "International Trade",
+          "confidence": 0.7,
+          "importance": "secondary",
+          "evidence": "PART VI: THE INTERNATIONAL ECONOMY ... 19 International Trade",
+          "reasoning": "A dedicated section focuses on international trade, signifying its relevance."
+        },
+        {
+          "concept": "Money",
+          "confidence": 0.7,
+          "importance": "secondary",
+          "evidence": "16 Money and the Banking System",
+          "reasoning": "A chapter is specifically devoted to money and the banking system."
+        },
+        {
+          "concept": "Supply",
+          "confidence": 0.5,
+          "importance": "secondary",
+          "evidence": "Implied within 'Prices and Markets' section.",
+          "reasoning": "While not explicitly stated, supply is a fundamental component of market dynamics discussed in the book."
+        },
+        {
+          "concept": "Demand",
+          "confidence": 0.5,
+          "importance": "secondary",
+          "evidence": "Implied within 'Prices and Markets' section.",
+          "reasoning": "Similar to supply, demand is a core market concept implicitly covered."
+        },
+        {
+          "concept": "Economic Systems",
+          "confidence": 0.6,
+          "importance": "secondary",
+          "evidence": "apply in any economy-whether capitalist, socialist, feudal, or whatever.",
+          "reasoning": "The text explicitly mentions different types of economic systems."
+        },
+        {
+          "concept": "Government Spending",
+          "confidence": 0.6,
+          "importance": "secondary",
+          "evidence": "17 The Role of Government",
+          "reasoning": "A chapter is dedicated to the role of government, which inherently involves government spending."
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_002",
+    "metadata": {
+      "concept_links": [
+        {
+          "concept": "Incentives",
+          "confidence": 0.95,
+          "importance": "primary",
+          "evidence": "to look at economic policies and economic systems in terms of the incentives they create, rather than simply the goals that they proclaim.",
+          "reasoning": "The text explicitly focuses on the importance of incentives in shaping economic behavior and evaluating policies. This is a direct match to the definition of 'Incentives'."
+        },
+        {
+          "concept": "Costs and Benefits",
+          "confidence": 0.85,
+          "importance": "primary",
+          "evidence": "consequences matter more than intentions-and not just the immediate consequences.",
+          "reasoning": "This statement directly relates to weighing the costs and benefits of actions, as consequences represent the outcomes (benefits or costs) of decisions, and are more important than stated intentions."
+        },
+        {
+          "concept": "Unintended Consequences",
+          "confidence": 0.75,
+          "importance": "primary",
+          "evidence": "The longer run repercussions of any economic policy need to be considered…so many public officials may not look beyond the next election.",
+          "reasoning": "The text highlights the need to consider long-term repercussions, implying that policies can have effects beyond the intended ones – a core aspect of 'Unintended Consequences'."
+        },
+        {
+          "concept": "Economic Systems",
+          "confidence": 0.7,
+          "importance": "primary",
+          "evidence": "show certain general principles which apply in any economy-whether capitalist, socialist, feudal, or whatever.",
+          "reasoning": "The text explicitly mentions different economic systems (capitalist, socialist, feudal) and aims to identify principles applicable to all of them, directly relating to the concept of 'Economic Systems'."
+        },
+        {
+          "concept": "Trade-offs",
+          "confidence": 0.65,
+          "importance": "primary",
+          "evidence": "This means that consequences matter more than intentions",
+          "reasoning": "Acknowledging consequences over intentions implies a trade-off; prioritizing one over the other suggests a choice and therefore a trade-off."
+        },
+        {
+          "concept": "Prices",
+          "confidence": 0.55,
+          "importance": "secondary",
+          "evidence": "economic policies",
+          "reasoning": "Economic policies often directly impact prices, even if not explicitly mentioned."
+        },
+        {
+          "concept": "Supply",
+          "confidence": 0.5,
+          "importance": "secondary",
+          "evidence": "economy",
+          "reasoning": "Supply is a fundamental component of any economy."
+        },
+        {
+          "concept": "Demand",
+          "confidence": 0.5,
+          "importance": "secondary",
+          "evidence": "economy",
+          "reasoning": "Demand is a fundamental component of any economy."
+        },
+        {
+          "concept": "Economic Growth",
+          "confidence": 0.45,
+          "importance": "secondary",
+          "evidence": "economic policies",
+          "reasoning": "Economic policies are often aimed at fostering economic growth."
+        },
+        {
+          "concept": "Market Coordination",
+          "confidence": 0.4,
+          "importance": "secondary",
+          "evidence": "economy",
+          "reasoning": "The functioning of an economy relies on market coordination."
+        },
+        {
+          "concept": "Competition",
+          "confidence": 0.4,
+          "importance": "secondary",
+          "evidence": "economic systems",
+          "reasoning": "Different economic systems have varying degrees of competition."
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_003",
+    "metadata": {
+      "concept_links": [
+        {
+          "concept": "Scarcity",
+          "confidence": 0.95,
+          "importance": "primary",
+          "evidence": "Without scarcity, there is no need to economize-and therefore no economics.",
+          "reasoning": "This sentence directly states that scarcity is a fundamental condition for economics to exist. It's a core definition within the text."
+        },
+        {
+          "concept": "Economics",
+          "confidence": 0.9,
+          "importance": "primary",
+          "evidence": "Virtually everyone agrees on the importance of economics, but there is far less agreement on just what economics is.",
+          "reasoning": "The entire chapter is *about* defining economics, and this sentence establishes it as the central topic."
+        },
+        {
+          "concept": "Resource Allocation",
+          "confidence": 0.7,
+          "importance": "secondary",
+          "evidence": "Economics is the study of the use of scarce resources which have alternative uses.",
+          "reasoning": "The definition of economics provided explicitly mentions the 'use of scarce resources,' which is directly related to resource allocation."
+        },
+        {
+          "concept": "Trade-offs",
+          "confidence": 0.6,
+          "importance": "secondary",
+          "evidence": "You can't have it all",
+          "reasoning": "This quote, presented at the beginning of the chapter, implies the necessity of making choices and giving something up, which is the essence of trade-offs."
+        },
+        {
+          "concept": "Limited Resources",
+          "confidence": 0.65,
+          "importance": "secondary",
+          "evidence": "Without scarcity, there is no need to economize-and therefore no economics.",
+          "reasoning": "Scarcity is synonymous with limited resources. The text directly links economics to the existence of scarcity."
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_004",
+    "metadata": {
+      "concept_links": [
+        {
+          "concept": "Scarcity",
+          "confidence": 0.95,
+          "importance": "primary",
+          "evidence": "Without scarcity, there is no need to economize-and therefore no economics. What does \"scarce\" mean? It means that what everybody wants adds up to more than there is. There has never been enough to satisfy everyone completely. That is the real constraint. That is what scarcity means.",
+          "reasoning": "The text explicitly defines and repeatedly emphasizes the concept of scarcity as a fundamental economic condition. It's central to the entire argument."
+        },
+        {
+          "concept": "Trade-offs",
+          "confidence": 0.8,
+          "importance": "primary",
+          "evidence": "Although the story included a picture of a middle-class American family in their own swimming pool, the main headline read: \"The American Middle, Just Getting By.\" ...Dogged Saving and Some Luxuries",
+          "reasoning": "The example of middle-class Americans 'just getting by' despite apparent affluence illustrates the need to make choices and forgo some desires, which is the essence of trade-offs."
+        },
+        {
+          "concept": "Costs and Benefits",
+          "confidence": 0.75,
+          "importance": "primary",
+          "evidence": "middle-class Americans' desires exceed what they can comfortably afford…they 'have had to work hard for their modest gains,'",
+          "reasoning": "The text highlights the perceived cost (hard work) associated with achieving benefits (modest gains), demonstrating a consideration of costs and benefits."
+        },
+        {
+          "concept": "Demand",
+          "confidence": 0.6,
+          "importance": "secondary",
+          "evidence": "What does “scarce” mean? It means that what everybody wants adds up to more than there is.",
+          "reasoning": "The definition of scarcity directly relates to the concept of demand – the collective 'wanting' of individuals."
+        },
+        {
+          "concept": "Economic Growth",
+          "confidence": 0.55,
+          "importance": "secondary",
+          "evidence": "Although per capita real income in the United States increased 50 percent in just one generation...",
+          "reasoning": "The mention of increased real income indicates a discussion of economic growth, even if the text's main point is that growth doesn't eliminate scarcity."
+        },
+        {
+          "concept": "Consumption",
+          "confidence": 0.5,
+          "importance": "secondary",
+          "evidence": "After getting in over their heads in credit card spending years ago, their finances are now in order.",
+          "reasoning": "Credit card spending is a direct form of consumption, and the text references a family managing their finances after overspending."
+        },
+        {
+          "concept": "Incentives",
+          "confidence": 0.45,
+          "importance": "secondary",
+          "evidence": "Were they expecting manna from heaven?",
+          "reasoning": "The rhetorical question implies that people are motivated to work to obtain resources, suggesting the presence of incentives."
+        },
+        {
+          "concept": "Prices",
+          "confidence": 0.4,
+          "importance": "secondary",
+          "evidence": "Although the story included a picture of a middle-class American family in their own swimming pool...",
+          "reasoning": "The swimming pool represents a purchased good, implying the existence of prices and a market."
+        },
+        {
+          "concept": "Short-Term vs Long-Term Effects",
+          "confidence": 0.35,
+          "importance": "secondary",
+          "evidence": "After getting in over their heads in credit card spending years ago, their finances are now in order.",
+          "reasoning": "The mention of past credit card debt and current financial order suggests a shift from short-term indulgence to long-term financial stability."
+        },
+        {
+          "concept": "Wealth",
+          "confidence": 0.3,
+          "importance": "secondary",
+          "evidence": "one of the most affluent groups of human beings ever to inhabit this planet.",
+          "reasoning": "The text directly refers to the middle class as affluent, indicating a discussion of wealth."
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_005",
+    "metadata": {
+      "concept_links": [
+        {
+          "concept": "Scarcity",
+          "confidence": 0.95,
+          "importance": "primary",
+          "evidence": "Yet nothing has been more pervasive in the history of the human race than scarcity and all the requirements for economizing that go with scarcity.",
+          "reasoning": "The text explicitly discusses scarcity as a fundamental and universal condition, directly aligning with the concept's definition."
+        },
+        {
+          "concept": "Resource Allocation",
+          "confidence": 0.9,
+          "importance": "primary",
+          "evidence": "How much of each resource should be allocated to each of its many uses? Every economy has to answer that question, and each one does, in one way or another, efficiently or inefficiently. Whether the people in a given economy will be prosperous or poverty stricken depends in large part on how well their resources are allocated.",
+          "reasoning": "The text directly addresses the problem of resource allocation and its impact on economic prosperity, which is central to the concept."
+        },
+        {
+          "concept": "Trade-offs",
+          "confidence": 0.8,
+          "importance": "primary",
+          "evidence": "Not only scarcity but also \"alternative uses\" are at the heart of economics. If each resource had only one use, economics would be much simpler.",
+          "reasoning": "The discussion of 'alternative uses' directly implies the necessity of trade-offs when resources are scarce."
+        },
+        {
+          "concept": "Costs and Benefits",
+          "confidence": 0.7,
+          "importance": "primary",
+          "evidence": "Economics is not about the financial fate of individuals. It is about the material well-being of society as a whole. It shows cause and effect relationships involving…all from the standpoint of how this affects the allocation of scarce resources in a way that raises or lowers the material standard of living of the people as a whole.",
+          "reasoning": "The text describes economics as analyzing how resource allocation impacts societal well-being, which inherently involves weighing the costs and benefits of different choices."
+        },
+        {
+          "concept": "Economic Efficiency",
+          "confidence": 0.65,
+          "importance": "primary",
+          "evidence": "Doing so efficiently is what economics is all about.",
+          "reasoning": "The text explicitly states that efficient resource allocation is the core focus of economics."
+        },
+        {
+          "concept": "Demand",
+          "confidence": 0.5,
+          "importance": "secondary",
+          "evidence": "The text implicitly discusses demand through the concept of 'alternative uses' and how resources are allocated to meet various needs.",
+          "reasoning": "While not explicitly stated, the discussion of resource allocation implies the existence of demand for different products and services."
+        },
+        {
+          "concept": "Supply",
+          "confidence": 0.5,
+          "importance": "secondary",
+          "evidence": "The text implicitly discusses supply through the discussion of resources and their potential uses.",
+          "reasoning": "The text discusses the availability of resources, which is a core component of supply."
+        },
+        {
+          "concept": "Prices",
+          "confidence": 0.45,
+          "importance": "secondary",
+          "evidence": "Economics is not about the financial fate of individuals…It shows cause and effect relationships involving prices…",
+          "reasoning": "The text mentions prices as a factor analyzed by economics, though not in a central way."
+        },
+        {
+          "concept": "Competition",
+          "confidence": 0.4,
+          "importance": "secondary",
+          "evidence": "The text implicitly suggests competition through the idea of efficiently allocating resources to improve the standard of living.",
+          "reasoning": "Efficient allocation often arises from competitive pressures."
+        },
+        {
+          "concept": "Economic Growth",
+          "confidence": 0.35,
+          "importance": "secondary",
+          "evidence": "Whether the people in a given economy will be prosperous or poverty stricken depends in large part on how well their resources are allocated.",
+          "reasoning": "Prosperity is a key indicator of economic growth."
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_006",
+    "metadata": {
+      "concept_links": [
+        {
+          "concept": "Scarcity",
+          "confidence": 0.95,
+          "importance": "primary",
+          "evidence": "allocating scarce resources",
+          "reasoning": "The text explicitly discusses the allocation of 'scarce resources' as a central economic problem, directly aligning with the definition of Scarcity."
+        },
+        {
+          "concept": "Trade-offs",
+          "confidence": 0.9,
+          "importance": "primary",
+          "evidence": "choices and trade-offs",
+          "reasoning": "The text mentions making 'choices and trade-offs', which is a core component of the Trade-offs concept."
+        },
+        {
+          "concept": "Costs and Benefits",
+          "confidence": 0.85,
+          "importance": "primary",
+          "evidence": "raises or lowers the material standard of living",
+          "reasoning": "The text frames economics as relating to factors that 'raise or lower the material standard of living', which is a direct consequence of weighing costs and benefits."
+        },
+        {
+          "concept": "Supply",
+          "confidence": 0.7,
+          "importance": "secondary",
+          "evidence": "fluctuate with supply and demand",
+          "reasoning": "The text directly references 'supply and demand' in relation to price fluctuations, indicating the presence of the Supply concept."
+        },
+        {
+          "concept": "Demand",
+          "confidence": 0.7,
+          "importance": "secondary",
+          "evidence": "fluctuate with supply and demand",
+          "reasoning": "The text directly references 'supply and demand' in relation to price fluctuations, indicating the presence of the Demand concept."
+        },
+        {
+          "concept": "Prices",
+          "confidence": 0.8,
+          "importance": "secondary",
+          "evidence": "cause and effect relationships involving prices",
+          "reasoning": "The text explicitly mentions 'prices' as a key element in economic cause-and-effect relationships."
+        },
+        {
+          "concept": "Resource Allocation",
+          "confidence": 0.75,
+          "importance": "secondary",
+          "evidence": "allocating scarce resources",
+          "reasoning": "The text focuses on the 'allocation of scarce resources', which is the core of the Resource Allocation concept."
+        },
+        {
+          "concept": "Competition",
+          "confidence": 0.65,
+          "importance": "secondary",
+          "evidence": "competitive market",
+          "reasoning": "The text refers to an economy coordinated by prices in a 'competitive market', indicating the presence of competition."
+        },
+        {
+          "concept": "Economic Growth",
+          "confidence": 0.6,
+          "importance": "secondary",
+          "evidence": "raises or lowers the material standard of living",
+          "reasoning": "Improving the 'material standard of living' is a key indicator of economic growth."
+        },
+        {
+          "concept": "Price Signals",
+          "confidence": 0.6,
+          "importance": "secondary",
+          "evidence": "role of prices",
+          "reasoning": "The text discusses understanding the role of prices, which are key price signals in an economy."
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_007",
+    "metadata": {
+      "concept_links": [
+        {
+          "concept": "Prices",
+          "confidence": 0.95,
+          "importance": "primary",
+          "evidence": "the role of prices...prices are set or controlled by the government...Prices did that. And the British people were better fed...Prices play a crucial role in determining how much of each resource gets used where...high prices are not the reason we cannot all live on the beach front.",
+          "reasoning": "The text repeatedly discusses the role of prices in allocating resources, responding to supply and demand, and conveying scarcity. It's a central theme throughout the passage."
+        },
+        {
+          "concept": "Supply",
+          "confidence": 0.85,
+          "importance": "primary",
+          "evidence": "fluctuate with supply and demand...those homes become very expensive because of supply and demand.",
+          "reasoning": "The text explicitly mentions supply and demand as key factors influencing prices and resource allocation."
+        },
+        {
+          "concept": "Demand",
+          "confidence": 0.85,
+          "importance": "primary",
+          "evidence": "fluctuate with supply and demand...those homes become very expensive because of supply and demand.",
+          "reasoning": "The text explicitly mentions supply and demand as key factors influencing prices and resource allocation."
+        },
+        {
+          "concept": "Scarcity",
+          "confidence": 0.8,
+          "importance": "primary",
+          "evidence": "the allocation of scarce resources which have alternative uses...there are not nearly enough beach-front homes to go around",
+          "reasoning": "The text directly states the key task of an economy is allocating 'scarce resources' and provides an example of scarcity with beachfront homes."
+        },
+        {
+          "concept": "Resource Allocation",
+          "confidence": 0.75,
+          "importance": "primary",
+          "evidence": "the key task facing any economy is the allocation of scarce resources...how the available resources are directed toward their various uses.",
+          "reasoning": "The passage explicitly frames the central problem of economics as resource allocation and discusses different methods economies use to achieve it."
+        },
+        {
+          "concept": "Market Coordination",
+          "confidence": 0.65,
+          "importance": "secondary",
+          "evidence": "decisions are coordinated only by their responses to price movements?",
+          "reasoning": "The text highlights how price movements coordinate decisions in a market economy."
+        },
+        {
+          "concept": "Competition",
+          "confidence": 0.6,
+          "importance": "secondary",
+          "evidence": "When many people bid for a relatively few homes...",
+          "reasoning": "The example of bidding for beachfront homes implies competition among buyers."
+        },
+        {
+          "concept": "Economic Systems",
+          "confidence": 0.6,
+          "importance": "secondary",
+          "evidence": "All sorts of economies-capitalist, socialist, feudal, etc.-must determine in one way or another how the available resources are directed toward their various uses.",
+          "reasoning": "The text explicitly discusses different economic systems and their approaches to resource allocation."
+        },
+        {
+          "concept": "Incentives",
+          "confidence": 0.55,
+          "importance": "secondary",
+          "evidence": "Prices did that.",
+          "reasoning": "Prices act as incentives for producers and consumers."
+        },
+        {
+          "concept": "Trade-offs",
+          "confidence": 0.5,
+          "importance": "secondary",
+          "evidence": "Those who would like to live in a beach-front home, for example, may abandon such plans when they discover how expensive beach-front property is.",
+          "reasoning": "The example illustrates a trade-off: desiring a beachfront home but abandoning the plan due to the cost."
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_008",
+    "metadata": {
+      "concept_links": [
+        {
+          "concept": "Scarcity",
+          "confidence": 0.95,
+          "importance": "primary",
+          "evidence": "there are not nearly enough beach-front homes to go around",
+          "reasoning": "The text explicitly states a limited availability of beach-front homes, directly reflecting the definition of scarcity."
+        },
+        {
+          "concept": "Supply",
+          "confidence": 0.85,
+          "importance": "primary",
+          "evidence": "those homes become very expensive because of supply and demand",
+          "reasoning": "The text directly links price to supply and demand, indicating an understanding of supply's role in market dynamics."
+        },
+        {
+          "concept": "Demand",
+          "confidence": 0.85,
+          "importance": "primary",
+          "evidence": "those homes become very expensive because of supply and demand",
+          "reasoning": "The text directly links price to supply and demand, indicating an understanding of demand's role in market dynamics."
+        },
+        {
+          "concept": "Prices",
+          "confidence": 0.9,
+          "importance": "primary",
+          "evidence": "prices simply convey that underlying reality...Prices are like messengers conveying news",
+          "reasoning": "The text repeatedly emphasizes the role of prices as signals of underlying economic realities, a core concept in economics."
+        },
+        {
+          "concept": "Trade-offs",
+          "confidence": 0.7,
+          "importance": "primary",
+          "evidence": "live in a beach-front home, for example, may abandon such plans when they discover how expensive beach-front property is.",
+          "reasoning": "The example illustrates a choice being altered due to cost, implying a trade-off between desire and affordability."
+        },
+        {
+          "concept": "Economic Efficiency",
+          "confidence": 0.6,
+          "importance": "secondary",
+          "evidence": "enhanced productivity and well-being from using computers",
+          "reasoning": "The text suggests that price signals lead to better decision-making and increased productivity, which are components of economic efficiency."
+        },
+        {
+          "concept": "Resource Allocation",
+          "confidence": 0.6,
+          "importance": "secondary",
+          "evidence": "price changes would enable a whole society...to adjust automatically to a greater abundance of iron ore",
+          "reasoning": "Price changes facilitate the reallocation of resources in response to changes in availability, demonstrating resource allocation."
+        },
+        {
+          "concept": "Incentives",
+          "confidence": 0.55,
+          "importance": "secondary",
+          "evidence": "some would undoubtedly change their minds as to which kind of desk to purchase because of that.",
+          "reasoning": "Price changes incentivize consumers to alter their purchasing decisions."
+        },
+        {
+          "concept": "Competition",
+          "confidence": 0.5,
+          "importance": "secondary",
+          "evidence": "When many people bid for a relatively few homes",
+          "reasoning": "The bidding process implies competition among buyers."
+        },
+        {
+          "concept": "Consumer Choice",
+          "confidence": 0.5,
+          "importance": "secondary",
+          "evidence": "People thinking of buying desks, for example, would discover that steel desks had become more of a bargain compared to wooden desks and some would undoubtedly change their minds as to which kind of desk to purchase because of that.",
+          "reasoning": "The text describes how consumers adjust their choices based on price signals."
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_009",
+    "metadata": {
+      "concept_links": [
+        {
+          "concept": "Prices",
+          "confidence": 0.95,
+          "importance": "primary",
+          "evidence": "prices would enable a whole society...to adjust automatically...Prices not only guide consumers, they guide producers as well.",
+          "reasoning": "The text repeatedly emphasizes the role of prices in guiding both consumer and producer behavior, and in allocating resources. This is a central theme."
+        },
+        {
+          "concept": "Supply",
+          "confidence": 0.8,
+          "importance": "primary",
+          "evidence": "When all is said and done, producers cannot possibly know what millions of different consumers want...producers automatically produce more of what earns a profit and less of what is losing money.",
+          "reasoning": "The text discusses how producers respond to price signals by adjusting their production levels, directly relating to the concept of supply."
+        },
+        {
+          "concept": "Demand",
+          "confidence": 0.8,
+          "importance": "primary",
+          "evidence": "consumers want A and don't want B...the money than comes in from the sales of these products is what enables the producers to buy more milk...",
+          "reasoning": "The text explicitly discusses consumer wants and how those wants, expressed through purchasing decisions, drive production."
+        },
+        {
+          "concept": "Costs and Benefits",
+          "confidence": 0.7,
+          "importance": "primary",
+          "evidence": "...sell those cars for a price that covers their production costs and leaves them a profit, but when they manufacture cars with a different combination of features, they don't sell as well...taking a loss...taking a bigger loss by not selling them at all.",
+          "reasoning": "The discussion of automobile manufacturers highlights the consideration of production costs, profit, and losses, which are core components of costs and benefits analysis."
+        },
+        {
+          "concept": "Scarcity",
+          "confidence": 0.6,
+          "importance": "primary",
+          "evidence": "...using its scarce resources more efficiently...",
+          "reasoning": "The text explicitly mentions the efficient use of 'scarce resources', directly linking to the concept of scarcity."
+        },
+        {
+          "concept": "Profit",
+          "confidence": 0.7,
+          "importance": "secondary",
+          "evidence": "While a free market economic system is sometimes called a profit system...",
+          "reasoning": "The text directly refers to a 'profit system' and how producers are motivated by profit."
+        },
+        {
+          "concept": "Competition",
+          "confidence": 0.6,
+          "importance": "secondary",
+          "evidence": "Implicit in the discussion of producers responding to consumer preferences and adjusting production.",
+          "reasoning": "The dynamic described implies competition among producers to satisfy consumer demand."
+        },
+        {
+          "concept": "Resource Allocation",
+          "confidence": 0.6,
+          "importance": "secondary",
+          "evidence": "...how prices help the economy to determine how much milk should go to each of these products?",
+          "reasoning": "The text directly addresses how prices influence the allocation of resources (milk) between different products."
+        },
+        {
+          "concept": "Economic Efficiency",
+          "confidence": 0.5,
+          "importance": "secondary",
+          "evidence": "...the society is using its scarce resources more efficiently...",
+          "reasoning": "The text explicitly states that the system leads to more efficient resource use."
+        },
+        {
+          "concept": "Incentives",
+          "confidence": 0.5,
+          "importance": "secondary",
+          "evidence": "producers automatically produce more of what earns a profit and less of what is losing money.",
+          "reasoning": "Profit and loss act as incentives for producers to adjust their behavior."
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_010",
+    "metadata": {
+      "concept_links": [
+        {
+          "concept": "Prices",
+          "confidence": 0.95,
+          "importance": "primary",
+          "evidence": "the price that one producer is willing to pay for milk...is the price that other producers are forced to pay for that same ingredient.",
+          "reasoning": "The text explicitly discusses how prices for milk are determined and influence production decisions, demonstrating a central role for price mechanisms."
+        },
+        {
+          "concept": "Resource Allocation",
+          "confidence": 0.9,
+          "importance": "primary",
+          "evidence": "resources tend to flow to their most valued uses.",
+          "reasoning": "The core argument of the text is about how resources (milk) are allocated between different uses (cheese, ice cream, yogurt) based on their value."
+        },
+        {
+          "concept": "Supply",
+          "confidence": 0.8,
+          "importance": "primary",
+          "evidence": "When the demand for cheese goes up, cheese-makers bid away some of the milk that before went into making ice cream or yogurt, in order to increase the output of their own product to meet the rising demand.",
+          "reasoning": "The text describes how demand shifts affect the supply of milk to different products, illustrating the concept of supply."
+        },
+        {
+          "concept": "Demand",
+          "confidence": 0.8,
+          "importance": "primary",
+          "evidence": "In bidding for cheese, ice cream, and yogurt, consumers are in effect also bidding for the milk that produces them.",
+          "reasoning": "The text directly links consumer demand for final products to the demand for the underlying resource (milk)."
+        },
+        {
+          "concept": "Scarcity",
+          "confidence": 0.75,
+          "importance": "primary",
+          "evidence": "Since scarce resources have alternative uses...",
+          "reasoning": "The text explicitly acknowledges that milk is a 'scarce resource' with competing demands, which is the core of the scarcity concept."
+        },
+        {
+          "concept": "Trade-offs",
+          "confidence": 0.7,
+          "importance": "secondary",
+          "evidence": "If consumers who buy ice cream are not as discouraged by rising prices as consumers who buy yogurt are, then very little of the additional milk that goes into making more cheese will come at the expense of ice cream and more will come at the expense of yogurt.",
+          "reasoning": "This sentence illustrates the trade-off between allocating milk to different products based on consumer price sensitivity."
+        },
+        {
+          "concept": "Costs and Benefits",
+          "confidence": 0.65,
+          "importance": "secondary",
+          "evidence": "producers will buy only as much milk as will repay its higher costs from the higher prices of ice cream and yogurt.",
+          "reasoning": "Producers weigh the cost of milk against the potential benefits (higher prices) of producing their goods."
+        },
+        {
+          "concept": "Competition",
+          "confidence": 0.6,
+          "importance": "secondary",
+          "evidence": "cheese-makers bid away some of the milk that before went into making ice cream or yogurt",
+          "reasoning": "The 'bidding' process implies competition for a limited resource."
+        },
+        {
+          "concept": "Market Coordination",
+          "confidence": 0.6,
+          "importance": "secondary",
+          "evidence": "Prices coordinate the use of resources",
+          "reasoning": "The text highlights the role of prices in coordinating resource allocation."
+        },
+        {
+          "concept": "Opportunity Cost",
+          "confidence": 0.55,
+          "importance": "secondary",
+          "evidence": "the value placed on one of these uses by one individual or company becomes a cost that has to be paid by others who want to bid some of these resources away for their own use.",
+          "reasoning": "The text describes how using a resource for one purpose means foregoing its use for another, which is the essence of opportunity cost."
+        }
+      ]
+    }
+  }
+]
