@@ -1,0 +1,19 @@
+{
+  "text_chunk": "BASIC ECONOMICS A Citizen's Guide to the Economy REVISED AND EXPANDED EDITION THOMAS SOWELL Basic Books A Member of the Perseus Books Group New York Copyright @ 2004 by Thomas Sowell Published by Basic Books, A Member of the Perseus Books Group All rights reserved. Printed in the United States of America. No part of this book may be reproduced in any manner whatsoever without written permission except in the case of brief quotations embodied in critical articles and reviews. For information, address Basic Books, 387 Park Avenue South, New York, NY 10016-8810. Books published by Basic Books are available at special discounts for bulk purchases in the United States by corporations, institutions, and other organizations. For more information, please contact the Special Markets Department at the Perseus Books Group, 11 Cambridge Center, Cambridge MA 02142, or call (617) 252-5298, (800) 255-1514 or e-mail .mccrary@perseusbooks.com. Sowell, Thomas, 1930 Basic economics: a citizens guide to the economy / Thomas Sowell. Rev. and expanded ed. p. em. Includes bibliographical references and index. ISBN 0-465-08145-2 (talk. paper) 1. Economics. I. Title. HB171.S7132003 O-dc21 2003013778 04 05 06 / 10 9 8 7 6 5 4 3 2 1 A few lines of reasoning can change the way we see the world. Steven E. Lansburg CONTENTS Preface 1 What is Economics? PART I: PRICES AND MARKETS 2 The Role of Prices 3 Price Controls 4 An Overview PART II: INDUSTRY AND COMMERCE 5 The Rise and Fall of Businesses 6 The Role of Profits -and Losses 7 Big Business and Government 8 An Overview PART III: WORK AND PAY 9 Productivity and Pay 10 Controlled Labor Markets 11 An Overview PART IV: TIME AND RISK 12 Investment and Speculation 13 Risks and Insurance 14 An Overview PART V: THE NATIONAL ECONOMY 15 National Output 16 Money and the Banking System 17 The Role of Government 18 An Overview PART VI: THE INTERNATIONAL ECONOMY 19 International Trade 20 International Transfers of Wealth 21 An Overview PART VII: SPECIAL ECONOMIC ISSUES 22 \"Non-Economic\" Values 23 Myths About Markets 24 Parting Thoughts Questions Sources PREFACE This is the revised and enlarged edition of an introduction to economics for the general public. In addition to being updated, Basic Economics has also become more internationalized by including information from more countries around world, because the basic principles of economics are not confined by national borders. The fact that the first edition of this book has already been translated into Japanese and Polish suggests that others recognize this as well. While most chapter titles remain the same, their contents have changed considerably, reflecting the experiences of many different peoples and cultures. Basic Economics has two main purposes. The first is to show certain general principles which apply in any economy-whether capitalist, socialist, feudal, or whatever. Another equally important purpose is to get the reader to look at economic policies and economic systems in terms of the incentives they create, rather than simply the goals that they proclaim. This means that",
+  "metadata": {
+    "matched_concepts": [
+      {
+        "term": "Economics",
+        "reasoning": "The text explicitly serves as an introduction to basic economics, outlining its general principles across different types of economies."
+      },
+      {
+        "term": "Incentives",
+        "reasoning": "The text states that a primary purpose of the book is to analyze economic policies and systems by the real incentives they create rather than their stated goals."
+      },
+      {
+        "term": "Goals",
+        "reasoning": "The text explicitly mentions that economic policies should be assessed in terms of their incentives rather than simply the goals they proclaim."
+      }
+    ]
+  }
+}
