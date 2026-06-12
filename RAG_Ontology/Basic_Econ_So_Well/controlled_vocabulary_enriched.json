@@ -1,0 +1,1773 @@
+[
+  {
+    "concept": "Scarcity",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Limited Resources",
+      "Resource Scarcity",
+      "Constraint"
+    ],
+    "description": "The condition where available resources are insufficient to satisfy all wants and needs.",
+    "parent_concepts": [],
+    "importance": "core"
+  },
+  {
+    "concept": "Trade-offs",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Tradeoffs",
+      "Compromises",
+      "Choices"
+    ],
+    "description": "The necessity of giving up one thing to obtain another.",
+    "parent_concepts": [
+      "Scarcity"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Opportunity Cost",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Alternative Cost",
+      "Foregone Alternative",
+      "Forgone Benefit"
+    ],
+    "description": "The value of the next best alternative sacrificed when making a choice.",
+    "parent_concepts": [
+      "Scarcity",
+      "Trade-offs"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Incentives",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Motivators",
+      "Rewards and Penalties",
+      "Behavioral Incentives"
+    ],
+    "description": "Factors that encourage or discourage particular actions.",
+    "parent_concepts": [],
+    "importance": "core"
+  },
+  {
+    "concept": "Costs and Benefits",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "costs and benefits",
+      "CostsandBenefits",
+      "Costs and Benefits Theory"
+    ],
+    "description": "An economic concept describing costs and benefits and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Incentives",
+      "Trade-offs"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Marginal Decision Making",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "marginal decision making",
+      "MarginalDecisionMaking",
+      "Marginal Decision Making Theory"
+    ],
+    "description": "An economic concept describing marginal decision making and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Costs and Benefits",
+      "Incentives"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Unintended Consequences",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Second-Order Effects",
+      "Side Effects",
+      "Unexpected Outcomes",
+      "Ripple Effects"
+    ],
+    "description": "Outcomes of an action that were not anticipated or intended.",
+    "parent_concepts": [
+      "Incentives",
+      "Systemic Causation"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Seen vs Unseen Effects",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Broken Window Fallacy",
+      "Visible and Hidden Effects"
+    ],
+    "description": "The distinction between immediate visible effects and indirect hidden consequences.",
+    "parent_concepts": [
+      "Opportunity Cost",
+      "Unintended Consequences"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Systemic Causation",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Systems Thinking",
+      "System Effects"
+    ],
+    "description": "Outcomes arising from interactions within a system rather than a single actor.",
+    "parent_concepts": [],
+    "importance": "core"
+  },
+  {
+    "concept": "Intentional Causation",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "intentional causation",
+      "IntentionalCausation",
+      "Intentional Causation Theory"
+    ],
+    "description": "An economic concept describing intentional causation and its role in economic decision making and market outcomes.",
+    "parent_concepts": [],
+    "importance": "core"
+  },
+  {
+    "concept": "Fallacy of Composition",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "fallacy of composition",
+      "FallacyofComposition",
+      "Fallacy of Composition Theory"
+    ],
+    "description": "An economic concept describing fallacy of composition and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Systemic Causation"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Zero-Sum Thinking",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "zero-sum thinking",
+      "Zero-SumThinking",
+      "Zero-Sum Thinking Theory"
+    ],
+    "description": "An economic concept describing zero-sum thinking and its role in economic decision making and market outcomes.",
+    "parent_concepts": [],
+    "importance": "core"
+  },
+  {
+    "concept": "Short-Term vs Long-Term Effects",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "short-term vs long-term effects",
+      "Short-TermvsLong-TermEffects",
+      "Short-Term vs Long-Term Effects Theory"
+    ],
+    "description": "An economic concept describing short-term vs long-term effects and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Unintended Consequences",
+      "Systemic Causation"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Economic Efficiency",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "economic efficiency",
+      "EconomicEfficiency",
+      "Economic Efficiency Theory"
+    ],
+    "description": "An economic concept describing economic efficiency and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Scarcity",
+      "Resource Allocation"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Resource Allocation",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "resource allocation",
+      "ResourceAllocation",
+      "Resource Allocation Theory"
+    ],
+    "description": "An economic concept describing resource allocation and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Scarcity",
+      "Trade-offs"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Supply",
+    "category": "Markets and Prices",
+    "aliases": [
+      "supply",
+      "Supply",
+      "Supply Theory"
+    ],
+    "description": "An economic concept describing supply and its role in economic decision making and market outcomes.",
+    "parent_concepts": [],
+    "importance": "core"
+  },
+  {
+    "concept": "Demand",
+    "category": "Markets and Prices",
+    "aliases": [
+      "demand",
+      "Demand",
+      "Demand Theory"
+    ],
+    "description": "An economic concept describing demand and its role in economic decision making and market outcomes.",
+    "parent_concepts": [],
+    "importance": "core"
+  },
+  {
+    "concept": "Prices",
+    "category": "Markets and Prices",
+    "aliases": [
+      "prices",
+      "Prices",
+      "Prices Theory"
+    ],
+    "description": "An economic concept describing prices and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Supply",
+      "Demand"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Price Signals",
+    "category": "Markets and Prices",
+    "aliases": [
+      "price signals",
+      "PriceSignals",
+      "Price Signals Theory"
+    ],
+    "description": "An economic concept describing price signals and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Prices",
+      "Incentives"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Competition",
+    "category": "Markets and Prices",
+    "aliases": [
+      "competition",
+      "Competition",
+      "Competition Theory"
+    ],
+    "description": "An economic concept describing competition and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Supply",
+      "Demand",
+      "Producer Behavior"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Monopoly",
+    "category": "Markets and Prices",
+    "aliases": [
+      "monopoly",
+      "Monopoly",
+      "Monopoly Theory"
+    ],
+    "description": "An economic concept describing monopoly and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Competition",
+      "Market Coordination"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Oligopoly",
+    "category": "Markets and Prices",
+    "aliases": [
+      "oligopoly",
+      "Oligopoly",
+      "Oligopoly Theory"
+    ],
+    "description": "An economic concept describing oligopoly and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Monopoly",
+      "Competition"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Cartels",
+    "category": "Markets and Prices",
+    "aliases": [
+      "cartels",
+      "Cartels",
+      "Cartels Theory"
+    ],
+    "description": "An economic concept describing cartels and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Oligopoly",
+      "Competition"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Market Coordination",
+    "category": "Markets and Prices",
+    "aliases": [
+      "market coordination",
+      "MarketCoordination",
+      "Market Coordination Theory"
+    ],
+    "description": "An economic concept describing market coordination and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Prices",
+      "Price Signals"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Consumer Choice",
+    "category": "Markets and Prices",
+    "aliases": [
+      "consumer choice",
+      "ConsumerChoice",
+      "Consumer Choice Theory"
+    ],
+    "description": "An economic concept describing consumer choice and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Demand",
+      "Incentives"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Producer Behavior",
+    "category": "Markets and Prices",
+    "aliases": [
+      "producer behavior",
+      "ProducerBehavior",
+      "Producer Behavior Theory"
+    ],
+    "description": "An economic concept describing producer behavior and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Supply",
+      "Incentives"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Market Equilibrium",
+    "category": "Markets and Prices",
+    "aliases": [
+      "market equilibrium",
+      "MarketEquilibrium",
+      "Market Equilibrium Theory"
+    ],
+    "description": "An economic concept describing market equilibrium and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Supply",
+      "Demand",
+      "Prices"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Price Elasticity",
+    "category": "Markets and Prices",
+    "aliases": [
+      "Elasticity of Demand",
+      "Elasticity of Supply",
+      "Price Responsiveness"
+    ],
+    "description": "The responsiveness of quantity demanded or supplied to changes in price.",
+    "parent_concepts": [
+      "Demand",
+      "Supply",
+      "Prices"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Substitutes",
+    "category": "Markets and Prices",
+    "aliases": [
+      "substitutes",
+      "Substitutes",
+      "Substitutes Theory"
+    ],
+    "description": "An economic concept describing substitutes and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Demand",
+      "Prices"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Complements",
+    "category": "Markets and Prices",
+    "aliases": [
+      "complements",
+      "Complements",
+      "Complements Theory"
+    ],
+    "description": "An economic concept describing complements and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Demand",
+      "Prices"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Price Controls",
+    "category": "Government Intervention",
+    "aliases": [
+      "price controls",
+      "PriceControls",
+      "Price Controls Theory"
+    ],
+    "description": "An economic concept describing price controls and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Prices",
+      "Market Equilibrium"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Price Ceilings",
+    "category": "Government Intervention",
+    "aliases": [
+      "price ceilings",
+      "PriceCeilings",
+      "Price Ceilings Theory"
+    ],
+    "description": "An economic concept describing price ceilings and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Price Controls",
+      "Demand",
+      "Supply"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Price Floors",
+    "category": "Government Intervention",
+    "aliases": [
+      "price floors",
+      "PriceFloors",
+      "Price Floors Theory"
+    ],
+    "description": "An economic concept describing price floors and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Price Controls",
+      "Demand",
+      "Supply"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Rent Control",
+    "category": "Government Intervention",
+    "aliases": [
+      "rent control",
+      "RentControl",
+      "Rent Control Theory"
+    ],
+    "description": "An economic concept describing rent control and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Price Ceilings",
+      "Demand",
+      "Supply"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Minimum Wage",
+    "category": "Government Intervention",
+    "aliases": [
+      "minimum wage",
+      "MinimumWage",
+      "Minimum Wage Theory"
+    ],
+    "description": "An economic concept describing minimum wage and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Price Floors",
+      "Wages"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Subsidies",
+    "category": "Government Intervention",
+    "aliases": [
+      "subsidies",
+      "Subsidies",
+      "Subsidies Theory"
+    ],
+    "description": "An economic concept describing subsidies and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Costs and Benefits",
+      "Incentives"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Taxes",
+    "category": "Government Intervention",
+    "aliases": [
+      "taxes",
+      "Taxes",
+      "Taxes Theory"
+    ],
+    "description": "An economic concept describing taxes and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Costs and Benefits",
+      "Incentives"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Tariffs",
+    "category": "Government Intervention",
+    "aliases": [
+      "tariffs",
+      "Tariffs",
+      "Tariffs Theory"
+    ],
+    "description": "An economic concept describing tariffs and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Taxes",
+      "International Trade"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Import Quotas",
+    "category": "Government Intervention",
+    "aliases": [
+      "import quotas",
+      "ImportQuotas",
+      "Import Quotas Theory"
+    ],
+    "description": "An economic concept describing import quotas and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Tariffs",
+      "International Trade"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Regulation",
+    "category": "Government Intervention",
+    "aliases": [
+      "regulation",
+      "Regulation",
+      "Regulation Theory"
+    ],
+    "description": "An economic concept describing regulation and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Incentives",
+      "Institutional Incentives"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Privatization",
+    "category": "Government Intervention",
+    "aliases": [
+      "privatization",
+      "Privatization",
+      "Privatization Theory"
+    ],
+    "description": "An economic concept describing privatization and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Economic Systems",
+      "Property Rights"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Foreign Aid",
+    "category": "Government Intervention",
+    "aliases": [
+      "foreign aid",
+      "ForeignAid",
+      "Foreign Aid Theory"
+    ],
+    "description": "An economic concept describing foreign aid and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Government Spending",
+      "International Trade"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Job Security Laws",
+    "category": "Government Intervention",
+    "aliases": [
+      "job security laws",
+      "JobSecurityLaws",
+      "Job Security Laws Theory"
+    ],
+    "description": "An economic concept describing job security laws and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Labor Market Regulation",
+      "Incentives"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Collective Bargaining",
+    "category": "Government Intervention",
+    "aliases": [
+      "collective bargaining",
+      "CollectiveBargaining",
+      "Collective Bargaining Theory"
+    ],
+    "description": "An economic concept describing collective bargaining and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Labor Market Regulation",
+      "Wages"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Government Spending",
+    "category": "Government Intervention",
+    "aliases": [
+      "government spending",
+      "GovernmentSpending",
+      "Government Spending Theory"
+    ],
+    "description": "An economic concept describing government spending and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Taxes"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Profit",
+    "category": "Firms and Production",
+    "aliases": [
+      "profit",
+      "Profit",
+      "Profit Theory"
+    ],
+    "description": "An economic concept describing profit and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Costs and Benefits",
+      "Producer Behavior"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Loss",
+    "category": "Firms and Production",
+    "aliases": [
+      "loss",
+      "Loss",
+      "Loss Theory"
+    ],
+    "description": "An economic concept describing loss and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Costs and Benefits",
+      "Producer Behavior"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Entrepreneurship",
+    "category": "Firms and Production",
+    "aliases": [
+      "entrepreneurship",
+      "Entrepreneurship",
+      "Entrepreneurship Theory"
+    ],
+    "description": "An economic concept describing entrepreneurship and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Innovation",
+      "Risk"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Productivity",
+    "category": "Firms and Production",
+    "aliases": [
+      "productivity",
+      "Productivity",
+      "Productivity Theory"
+    ],
+    "description": "An economic concept describing productivity and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Specialization",
+      "Human Capital"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Division of Labor",
+    "category": "Firms and Production",
+    "aliases": [
+      "division of labor",
+      "DivisionofLabor",
+      "Division of Labor Theory"
+    ],
+    "description": "An economic concept describing division of labor and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Specialization"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Specialization",
+    "category": "Firms and Production",
+    "aliases": [
+      "specialization",
+      "Specialization",
+      "Specialization Theory"
+    ],
+    "description": "An economic concept describing specialization and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Division of Labor",
+      "Productivity"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Economies of Scale",
+    "category": "Firms and Production",
+    "aliases": [
+      "economies of scale",
+      "EconomiesofScale",
+      "Economies of Scale Theory"
+    ],
+    "description": "An economic concept describing economies of scale and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Productivity",
+      "Capacity Utilization"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Diseconomies of Scale",
+    "category": "Firms and Production",
+    "aliases": [
+      "diseconomies of scale",
+      "DiseconomiesofScale",
+      "Diseconomies of Scale Theory"
+    ],
+    "description": "An economic concept describing diseconomies of scale and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Economies of Scale"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Capacity Utilization",
+    "category": "Firms and Production",
+    "aliases": [
+      "capacity utilization",
+      "CapacityUtilization",
+      "Capacity Utilization Theory"
+    ],
+    "description": "An economic concept describing capacity utilization and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Productivity"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Innovation",
+    "category": "Firms and Production",
+    "aliases": [
+      "innovation",
+      "Innovation",
+      "Innovation Theory"
+    ],
+    "description": "An economic concept describing innovation and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Entrepreneurship",
+      "Creative Destruction"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Creative Destruction",
+    "category": "Firms and Production",
+    "aliases": [
+      "creative destruction",
+      "CreativeDestruction",
+      "Creative Destruction Theory"
+    ],
+    "description": "An economic concept describing creative destruction and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Innovation",
+      "Entrepreneurship"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Middlemen",
+    "category": "Firms and Production",
+    "aliases": [
+      "middlemen",
+      "Middlemen",
+      "Middlemen Theory"
+    ],
+    "description": "An economic concept describing middlemen and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Transaction Costs",
+      "Market Coordination"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Human Capital",
+    "category": "Labor Economics",
+    "aliases": [
+      "human capital",
+      "HumanCapital",
+      "Human Capital Theory"
+    ],
+    "description": "An economic concept describing human capital and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Productivity",
+      "Wages"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Wages",
+    "category": "Labor Economics",
+    "aliases": [
+      "wages",
+      "Wages",
+      "Wages Theory"
+    ],
+    "description": "An economic concept describing wages and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Employment",
+      "Labor Market Regulation"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Employment",
+    "category": "Labor Economics",
+    "aliases": [
+      "employment",
+      "Employment",
+      "Employment Theory"
+    ],
+    "description": "An economic concept describing employment and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Unemployment",
+      "Wages"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Unemployment",
+    "category": "Labor Economics",
+    "aliases": [
+      "unemployment",
+      "Unemployment",
+      "Unemployment Theory"
+    ],
+    "description": "An economic concept describing unemployment and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Employment",
+      "Business Cycles"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Job Discrimination",
+    "category": "Labor Economics",
+    "aliases": [
+      "job discrimination",
+      "JobDiscrimination",
+      "Job Discrimination Theory"
+    ],
+    "description": "An economic concept describing job discrimination and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Incentives",
+      "Institutional Incentives"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Cost of Discrimination",
+    "category": "Labor Economics",
+    "aliases": [
+      "cost of discrimination",
+      "CostofDiscrimination",
+      "Cost of Discrimination Theory"
+    ],
+    "description": "An economic concept describing cost of discrimination and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Job Discrimination",
+      "Costs and Benefits"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Labor Mobility",
+    "category": "Labor Economics",
+    "aliases": [
+      "labor mobility",
+      "LaborMobility",
+      "Labor Mobility Theory"
+    ],
+    "description": "An economic concept describing labor mobility and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Human Capital",
+      "Wages"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Skill Premium",
+    "category": "Labor Economics",
+    "aliases": [
+      "skill premium",
+      "SkillPremium",
+      "Skill Premium Theory"
+    ],
+    "description": "An economic concept describing skill premium and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Human Capital",
+      "Wages"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Worker Productivity",
+    "category": "Labor Economics",
+    "aliases": [
+      "worker productivity",
+      "WorkerProductivity",
+      "Worker Productivity Theory"
+    ],
+    "description": "An economic concept describing worker productivity and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Human Capital",
+      "Specialization"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Labor Market Regulation",
+    "category": "Labor Economics",
+    "aliases": [
+      "labor market regulation",
+      "LaborMarketRegulation",
+      "Labor Market Regulation Theory"
+    ],
+    "description": "An economic concept describing labor market regulation and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Incentives",
+      "Wages"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Capital",
+    "category": "Capital and Investment",
+    "aliases": [
+      "capital",
+      "Capital",
+      "Capital Theory"
+    ],
+    "description": "An economic concept describing capital and its role in economic decision making and market outcomes.",
+    "parent_concepts": [],
+    "importance": "core"
+  },
+  {
+    "concept": "Investment",
+    "category": "Capital and Investment",
+    "aliases": [
+      "investment",
+      "Investment",
+      "Investment Theory"
+    ],
+    "description": "An economic concept describing investment and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Capital",
+      "Return"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Speculation",
+    "category": "Capital and Investment",
+    "aliases": [
+      "speculation",
+      "Speculation",
+      "Speculation Theory"
+    ],
+    "description": "An economic concept describing speculation and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Risk",
+      "Return"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Risk",
+    "category": "Capital and Investment",
+    "aliases": [
+      "risk",
+      "Risk",
+      "Risk Theory"
+    ],
+    "description": "An economic concept describing risk and its role in economic decision making and market outcomes.",
+    "parent_concepts": [],
+    "importance": "core"
+  },
+  {
+    "concept": "Return",
+    "category": "Capital and Investment",
+    "aliases": [
+      "return",
+      "Return",
+      "Return Theory"
+    ],
+    "description": "An economic concept describing return and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Investment",
+      "Risk"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Portfolio Diversification",
+    "category": "Capital and Investment",
+    "aliases": [
+      "portfolio diversification",
+      "PortfolioDiversification",
+      "Portfolio Diversification Theory"
+    ],
+    "description": "An economic concept describing portfolio diversification and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Risk",
+      "Investment"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Venture Capital",
+    "category": "Capital and Investment",
+    "aliases": [
+      "venture capital",
+      "VentureCapital",
+      "Venture Capital Theory"
+    ],
+    "description": "An economic concept describing venture capital and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Investment",
+      "Entrepreneurship"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Stocks",
+    "category": "Capital and Investment",
+    "aliases": [
+      "stocks",
+      "Stocks",
+      "Stocks Theory"
+    ],
+    "description": "An economic concept describing stocks and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Capital",
+      "Risk"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Bonds",
+    "category": "Capital and Investment",
+    "aliases": [
+      "bonds",
+      "Bonds",
+      "Bonds Theory"
+    ],
+    "description": "An economic concept describing bonds and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Capital",
+      "Risk"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Present Value",
+    "category": "Capital and Investment",
+    "aliases": [
+      "present value",
+      "PresentValue",
+      "Present Value Theory"
+    ],
+    "description": "An economic concept describing present value and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Time Value of Money",
+      "Interest Rates"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Time Value of Money",
+    "category": "Capital and Investment",
+    "aliases": [
+      "time value of money",
+      "TimeValueofMoney",
+      "Time Value of Money Theory"
+    ],
+    "description": "An economic concept describing time value of money and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Interest Rates"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Insurance",
+    "category": "Capital and Investment",
+    "aliases": [
+      "insurance",
+      "Insurance",
+      "Insurance Theory"
+    ],
+    "description": "An economic concept describing insurance and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Risk"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Money",
+    "category": "Money and Banking",
+    "aliases": [
+      "money",
+      "Money",
+      "Money Theory"
+    ],
+    "description": "An economic concept describing money and its role in economic decision making and market outcomes.",
+    "parent_concepts": [],
+    "importance": "core"
+  },
+  {
+    "concept": "Inflation",
+    "category": "Money and Banking",
+    "aliases": [
+      "Price Inflation",
+      "Rising Prices"
+    ],
+    "description": "A sustained increase in the general level of prices over time.",
+    "parent_concepts": [
+      "Money Supply",
+      "Prices"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Deflation",
+    "category": "Money and Banking",
+    "aliases": [
+      "Falling Prices",
+      "Price Deflation"
+    ],
+    "description": "A sustained decline in the general level of prices over time.",
+    "parent_concepts": [
+      "Money Supply",
+      "Prices"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Money Supply",
+    "category": "Money and Banking",
+    "aliases": [
+      "money supply",
+      "MoneySupply",
+      "Money Supply Theory"
+    ],
+    "description": "An economic concept describing money supply and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Money",
+      "Central Banking"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Credit",
+    "category": "Money and Banking",
+    "aliases": [
+      "credit",
+      "Credit",
+      "Credit Theory"
+    ],
+    "description": "An economic concept describing credit and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Money",
+      "Interest Rates"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Fractional Reserve Banking",
+    "category": "Money and Banking",
+    "aliases": [
+      "fractional reserve banking",
+      "FractionalReserveBanking",
+      "Fractional Reserve Banking Theory"
+    ],
+    "description": "An economic concept describing fractional reserve banking and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Money Supply",
+      "Central Banking"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Liquidity",
+    "category": "Money and Banking",
+    "aliases": [
+      "liquidity",
+      "Liquidity",
+      "Liquidity Theory"
+    ],
+    "description": "An economic concept describing liquidity and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Money"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Interest Rates",
+    "category": "Money and Banking",
+    "aliases": [
+      "interest rates",
+      "InterestRates",
+      "Interest Rates Theory"
+    ],
+    "description": "An economic concept describing interest rates and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Money Supply",
+      "Central Banking"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Central Banking",
+    "category": "Money and Banking",
+    "aliases": [
+      "central banking",
+      "CentralBanking",
+      "Central Banking Theory"
+    ],
+    "description": "An economic concept describing central banking and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Money Supply"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Bank Runs",
+    "category": "Money and Banking",
+    "aliases": [
+      "bank runs",
+      "BankRuns",
+      "Bank Runs Theory"
+    ],
+    "description": "An economic concept describing bank runs and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Liquidity",
+      "Fractional Reserve Banking"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Deposit Insurance",
+    "category": "Money and Banking",
+    "aliases": [
+      "deposit insurance",
+      "DepositInsurance",
+      "Deposit Insurance Theory"
+    ],
+    "description": "An economic concept describing deposit insurance and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Bank Runs",
+      "Central Banking"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Gold Standard",
+    "category": "Money and Banking",
+    "aliases": [
+      "gold standard",
+      "GoldStandard",
+      "Gold Standard Theory"
+    ],
+    "description": "An economic concept describing gold standard and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Money",
+      "Central Banking"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "GDP",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Gross Domestic Product"
+    ],
+    "description": "The total market value of final goods and services produced within a country.",
+    "parent_concepts": [
+      "National Output"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "National Output",
+    "category": "Macroeconomics",
+    "aliases": [
+      "national output",
+      "NationalOutput",
+      "National Output Theory"
+    ],
+    "description": "An economic concept describing national output and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Productivity"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Productivity Growth",
+    "category": "Macroeconomics",
+    "aliases": [
+      "productivity growth",
+      "ProductivityGrowth",
+      "Productivity Growth Theory"
+    ],
+    "description": "An economic concept describing productivity growth and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Productivity",
+      "Economic Growth"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Business Cycles",
+    "category": "Macroeconomics",
+    "aliases": [
+      "business cycles",
+      "BusinessCycles",
+      "Business Cycles Theory"
+    ],
+    "description": "An economic concept describing business cycles and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "GDP",
+      "Economic Growth"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Economic Growth",
+    "category": "Macroeconomics",
+    "aliases": [
+      "economic growth",
+      "EconomicGrowth",
+      "Economic Growth Theory"
+    ],
+    "description": "An economic concept describing economic growth and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "GDP",
+      "Productivity Growth"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Income Distribution",
+    "category": "Macroeconomics",
+    "aliases": [
+      "income distribution",
+      "IncomeDistribution",
+      "Income Distribution Theory"
+    ],
+    "description": "An economic concept describing income distribution and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "GDP",
+      "Wealth"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Wealth",
+    "category": "Macroeconomics",
+    "aliases": [
+      "wealth",
+      "Wealth",
+      "Wealth Theory"
+    ],
+    "description": "An economic concept describing wealth and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Income Distribution",
+      "Savings"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Real Income",
+    "category": "Macroeconomics",
+    "aliases": [
+      "real income",
+      "RealIncome",
+      "Real Income Theory"
+    ],
+    "description": "An economic concept describing real income and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "GDP",
+      "Inflation"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Consumption",
+    "category": "Macroeconomics",
+    "aliases": [
+      "consumption",
+      "Consumption",
+      "Consumption Theory"
+    ],
+    "description": "An economic concept describing consumption and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Income Distribution",
+      "Demand"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Savings",
+    "category": "Macroeconomics",
+    "aliases": [
+      "savings",
+      "Savings",
+      "Savings Theory"
+    ],
+    "description": "An economic concept describing savings and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Consumption",
+      "Income Distribution"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Comparative Advantage",
+    "category": "International Economics",
+    "aliases": [
+      "comparative advantage",
+      "ComparativeAdvantage",
+      "Comparative Advantage Theory"
+    ],
+    "description": "An economic concept describing comparative advantage and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Absolute Advantage",
+      "Specialization"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Absolute Advantage",
+    "category": "International Economics",
+    "aliases": [
+      "absolute advantage",
+      "AbsoluteAdvantage",
+      "Absolute Advantage Theory"
+    ],
+    "description": "An economic concept describing absolute advantage and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Specialization"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "International Trade",
+    "category": "International Economics",
+    "aliases": [
+      "international trade",
+      "InternationalTrade",
+      "International Trade Theory"
+    ],
+    "description": "An economic concept describing international trade and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Comparative Advantage",
+      "Globalization"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Trade Deficit",
+    "category": "International Economics",
+    "aliases": [
+      "trade deficit",
+      "TradeDeficit",
+      "Trade Deficit Theory"
+    ],
+    "description": "An economic concept describing trade deficit and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Balance of Payments",
+      "International Trade"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Balance of Payments",
+    "category": "International Economics",
+    "aliases": [
+      "balance of payments",
+      "BalanceofPayments",
+      "Balance of Payments Theory"
+    ],
+    "description": "An economic concept describing balance of payments and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "International Trade",
+      "Exchange Rates"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Exchange Rates",
+    "category": "International Economics",
+    "aliases": [
+      "exchange rates",
+      "ExchangeRates",
+      "Exchange Rates Theory"
+    ],
+    "description": "An economic concept describing exchange rates and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "International Trade",
+      "Money"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Remittances",
+    "category": "International Economics",
+    "aliases": [
+      "remittances",
+      "Remittances",
+      "Remittances Theory"
+    ],
+    "description": "An economic concept describing remittances and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "International Trade",
+      "Labor Mobility"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Capital Flows",
+    "category": "International Economics",
+    "aliases": [
+      "capital flows",
+      "CapitalFlows",
+      "Capital Flows Theory"
+    ],
+    "description": "An economic concept describing capital flows and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Investment",
+      "International Trade"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Globalization",
+    "category": "International Economics",
+    "aliases": [
+      "globalization",
+      "Globalization",
+      "Globalization Theory"
+    ],
+    "description": "An economic concept describing globalization and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "International Trade"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Imperialism",
+    "category": "International Economics",
+    "aliases": [
+      "imperialism",
+      "Imperialism",
+      "Imperialism Theory"
+    ],
+    "description": "An economic concept describing imperialism and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Globalization",
+      "Economic Systems"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Property Rights",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "property rights",
+      "PropertyRights",
+      "Property Rights Theory"
+    ],
+    "description": "An economic concept describing property rights and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Economic Systems",
+      "Rule of Law"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Rule of Law",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "rule of law",
+      "RuleofLaw",
+      "Rule of Law Theory"
+    ],
+    "description": "An economic concept describing rule of law and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Property Rights",
+      "Institutional Incentives"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "The Commons",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "the commons",
+      "TheCommons",
+      "The Commons Theory"
+    ],
+    "description": "An economic concept describing the commons and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Property Rights",
+      "External Costs"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "External Costs",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Negative Externalities",
+      "Third-Party Costs",
+      "Spillover Costs"
+    ],
+    "description": "Costs imposed on others that are not borne by the decision maker.",
+    "parent_concepts": [
+      "Unintended Consequences",
+      "External Benefits"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "External Benefits",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Positive Externalities",
+      "Third-Party Benefits",
+      "Spillover Benefits"
+    ],
+    "description": "Benefits received by others who are not directly involved in an activity.",
+    "parent_concepts": [
+      "Unintended Consequences",
+      "External Costs"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Transaction Costs",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "transaction costs",
+      "TransactionCosts",
+      "Transaction Costs Theory"
+    ],
+    "description": "An economic concept describing transaction costs and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Property Rights",
+      "Market Coordination"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Knowledge Problem",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "knowledge problem",
+      "KnowledgeProblem",
+      "Knowledge Problem Theory"
+    ],
+    "description": "An economic concept describing knowledge problem and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Systemic Causation"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Institutional Incentives",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "institutional incentives",
+      "InstitutionalIncentives",
+      "Institutional Incentives Theory"
+    ],
+    "description": "An economic concept describing institutional incentives and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Incentives",
+      "Economic Systems"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Corruption",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "corruption",
+      "Corruption",
+      "Corruption Theory"
+    ],
+    "description": "An economic concept describing corruption and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Institutional Incentives",
+      "Rule of Law"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Economic Systems",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "economic systems",
+      "EconomicSystems",
+      "Economic Systems Theory"
+    ],
+    "description": "An economic concept describing economic systems and its role in economic decision making and market outcomes.",
+    "parent_concepts": [
+      "Property Rights",
+      "Rule of Law"
+    ],
+    "importance": "core"
+  }
+]
