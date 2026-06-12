@@ -1,0 +1,1434 @@
+[
+  {
+    "concept": "Scarcity",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Choice",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Trade-offs",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Opportunity Cost",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Marginal Value",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Marginal Analysis",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Incentives",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Mutual Adjustment",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Social Cooperation",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Economic Systems",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Economic Signals",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Property Rights",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Ownership",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Voluntary Exchange",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Coercion",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Persuasion",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Commercial Society",
+    "category": "Core Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Value",
+    "category": "Value, Wealth and Exchange",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Wealth",
+    "category": "Value, Wealth and Exchange",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Wealth Creation",
+    "category": "Value, Wealth and Exchange",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Exchange",
+    "category": "Value, Wealth and Exchange",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Trade",
+    "category": "Value, Wealth and Exchange",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "International Trade",
+    "category": "Value, Wealth and Exchange",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Comparative Advantage",
+    "category": "Value, Wealth and Exchange",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Specialization",
+    "category": "Value, Wealth and Exchange",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Division of Labor",
+    "category": "Value, Wealth and Exchange",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Transaction Costs",
+    "category": "Value, Wealth and Exchange",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Middlemen",
+    "category": "Value, Wealth and Exchange",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Arbitrage",
+    "category": "Value, Wealth and Exchange",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Demand",
+    "category": "Demand and Consumer Behavior",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Quantity Demanded",
+    "category": "Demand and Consumer Behavior",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Law of Demand",
+    "category": "Demand and Consumer Behavior",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Demand Curve",
+    "category": "Demand and Consumer Behavior",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Consumer Preferences",
+    "category": "Demand and Consumer Behavior",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Elasticity of Demand",
+    "category": "Demand and Consumer Behavior",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Unit Elastic Demand",
+    "category": "Demand and Consumer Behavior",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Vertical Demand",
+    "category": "Demand and Consumer Behavior",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Substitutes",
+    "category": "Demand and Consumer Behavior",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Complementary Goods",
+    "category": "Demand and Consumer Behavior",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Inferior Goods",
+    "category": "Demand and Consumer Behavior",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Normal Goods",
+    "category": "Demand and Consumer Behavior",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Non-Monetary Costs",
+    "category": "Demand and Consumer Behavior",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Supply",
+    "category": "Production and Supply",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Supply Curve",
+    "category": "Production and Supply",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Elasticity of Supply",
+    "category": "Production and Supply",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Production",
+    "category": "Production and Supply",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Production Possibilities Frontier",
+    "category": "Production and Supply",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Producers' Costs",
+    "category": "Production and Supply",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Marginal Opportunity Cost",
+    "category": "Production and Supply",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Average Cost",
+    "category": "Production and Supply",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Marginal Cost",
+    "category": "Production and Supply",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Sunk Cost",
+    "category": "Production and Supply",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Resource Allocation",
+    "category": "Production and Supply",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Market",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Market Process",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Market Clearing",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Market-Clearing Price",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Equilibrium Price",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Free-Market Prices",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Price System",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Price Signals",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Price Ceiling",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Price Floor",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Price Controls",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Price Stability",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Price Gouging",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Price Discrimination",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Congestion Pricing",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Predatory Pricing",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Markup Pricing",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Competition",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Competition as Process",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Cartel",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Monopoly Restriction",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Vertical Restraints",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Market Discovery Process",
+    "category": "Markets and Price System",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Entrepreneurship",
+    "category": "Entrepreneurship and Profit",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Profit",
+    "category": "Entrepreneurship and Profit",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Economic Profit",
+    "category": "Entrepreneurship and Profit",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Accounting Profit",
+    "category": "Entrepreneurship and Profit",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Residual Profit",
+    "category": "Entrepreneurship and Profit",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Loss",
+    "category": "Entrepreneurship and Profit",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Residual Claimant",
+    "category": "Entrepreneurship and Profit",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Uncertainty",
+    "category": "Entrepreneurship and Profit",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Risk",
+    "category": "Entrepreneurship and Profit",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Innovation",
+    "category": "Entrepreneurship and Profit",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Speculation",
+    "category": "Entrepreneurship and Profit",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Futures Market",
+    "category": "Entrepreneurship and Profit",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Hedging",
+    "category": "Entrepreneurship and Profit",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Government",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Public Interest",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Public Goods",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Free Rider Problem",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Externalities",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Positive Externalities",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Negative Externalities",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Spillover Costs",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Negotiation",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Adjudication",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Regulation",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Law and Order",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Income Redistribution",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Collective Action",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Prisoner's Dilemma",
+    "category": "Institutions and Governance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Income",
+    "category": "Income and Labor",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Income Distribution",
+    "category": "Income and Labor",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Human Capital",
+    "category": "Income and Labor",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Productive Services",
+    "category": "Income and Labor",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Labor",
+    "category": "Income and Labor",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Derived Demand",
+    "category": "Income and Labor",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Wages",
+    "category": "Income and Labor",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Rent",
+    "category": "Income and Labor",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Interest",
+    "category": "Income and Labor",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Minimum Wage",
+    "category": "Income and Labor",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Unemployment",
+    "category": "Income and Labor",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Poverty",
+    "category": "Income and Labor",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Inequality",
+    "category": "Income and Labor",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Economic Mobility",
+    "category": "Income and Labor",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Money",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Fiat Money",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Bank Notes",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Currency",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Checkable Deposits",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Money Supply",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Monetary Equilibrium",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Monetary Policy",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Inflation",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Deflation",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Disinflation",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Hyperinflation",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Stagflation",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Seigniorage",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Open Market Operations",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Discount Rate",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Reserve Requirements",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Deposit Expansion",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Quantitative Easing",
+    "category": "Money and Monetary Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Credit",
+    "category": "Credit and Finance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Savings",
+    "category": "Credit and Finance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Investment",
+    "category": "Credit and Finance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Debt",
+    "category": "Credit and Finance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Government Debt",
+    "category": "Credit and Finance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Budget Deficit",
+    "category": "Credit and Finance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Fiscal Policy",
+    "category": "Credit and Finance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Interest Rates",
+    "category": "Credit and Finance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Nominal Interest Rate",
+    "category": "Credit and Finance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Real Interest Rate",
+    "category": "Credit and Finance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Unsustainable Boom",
+    "category": "Credit and Finance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Moral Hazard",
+    "category": "Credit and Finance",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Gross Domestic Product",
+    "category": "Macroeconomics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Gross National Product",
+    "category": "Macroeconomics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Aggregate Fluctuations",
+    "category": "Macroeconomics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Economic Growth",
+    "category": "Macroeconomics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Recession",
+    "category": "Macroeconomics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Business Cycle",
+    "category": "Macroeconomics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "National Income",
+    "category": "Macroeconomics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Value Added",
+    "category": "Macroeconomics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Performance Measurement",
+    "category": "Macroeconomics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Economic Development",
+    "category": "Development Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Globalization",
+    "category": "Development Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Foreign Investment",
+    "category": "Development Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Foreign Aid",
+    "category": "Development Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Economic Freedom",
+    "category": "Development Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Knowledge Economy",
+    "category": "Development Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Capital Formation",
+    "category": "Development Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Human Capital Formation",
+    "category": "Development Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Outsourcing",
+    "category": "Development Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Poverty Reduction",
+    "category": "Development Economics",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Economic Way of Thinking",
+    "category": "Meta-Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Framing Questions Correctly",
+    "category": "Meta-Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Unintended Consequences",
+    "category": "Meta-Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Trade-Off Thinking",
+    "category": "Meta-Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Cost-Benefit Reasoning",
+    "category": "Meta-Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Market Coordination",
+    "category": "Meta-Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Knowledge Problem",
+    "category": "Meta-Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Economizing Actions",
+    "category": "Meta-Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Institutional Analysis",
+    "category": "Meta-Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Incentive Analysis",
+    "category": "Meta-Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  },
+  {
+    "concept": "Comparative Institutional Analysis",
+    "category": "Meta-Economic Reasoning",
+    "aliases": [],
+    "description": "",
+    "parent_concepts": [],
+    "importance": "important"
+  }
+]

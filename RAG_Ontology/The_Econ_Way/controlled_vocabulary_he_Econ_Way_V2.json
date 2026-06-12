@@ -1,0 +1,2417 @@
+[
+  {
+    "concept": "Scarcity",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Limited Resources",
+      "Resource Constraint"
+    ],
+    "description": "The fundamental condition where available resources are insufficient to satisfy all human wants.",
+    "parent_concepts": [
+      "Economic Reasoning"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Choice",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Decision Making",
+      "Selection",
+      "Economic Choice"
+    ],
+    "description": "The act of selecting among alternatives due to the existence of scarcity.",
+    "parent_concepts": [
+      "Scarcity"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Trade-offs",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Compromises",
+      "Alternative Sacrifices"
+    ],
+    "description": "The alternatives that must be given up when a decision is made to pursue a specific action.",
+    "parent_concepts": [
+      "Choice"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Opportunity Cost",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Alternative Cost",
+      "Foregone Opportunity",
+      "Implicit Cost"
+    ],
+    "description": "The value of the next best alternative forgone as the result of making a decision.",
+    "parent_concepts": [
+      "Trade-offs"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Marginal Value",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Incremental Value",
+      "Marginal Utility",
+      "Additional Value"
+    ],
+    "description": "The subjective value or benefit gained from consuming or acquiring one additional unit of a good or service.",
+    "parent_concepts": [
+      "Value"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Marginal Analysis",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Thinking at the Margin",
+      "Incremental Analysis"
+    ],
+    "description": "The examination of the additional benefits of an activity compared to the additional costs incurred.",
+    "parent_concepts": [
+      "Economic Way of Thinking"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Incentives",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Motivations",
+      "Economic Inducements",
+      "Stimuli"
+    ],
+    "description": "Factors, such as financial rewards or penalties, that motivate individuals to behave in certain ways.",
+    "parent_concepts": [
+      "Economic Reasoning"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Mutual Adjustment",
+    "category": "Market Process",
+    "aliases": [
+      "Spontaneous Coordination",
+      "Reciprocal Adaptation"
+    ],
+    "description": "The continuous process by which individuals alter their plans in response to the changing actions of others within a market.",
+    "parent_concepts": [
+      "Market Coordination"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Social Cooperation",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Voluntary Collaboration",
+      "Social Coordination"
+    ],
+    "description": "The process by which individuals work together, often mediated by institutions or markets, to achieve mutually beneficial ends.",
+    "parent_concepts": [
+      "Institutions and Governance"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Economic Systems",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Economic Frameworks",
+      "Modes of Production",
+      "Resource Allocation Systems"
+    ],
+    "description": "The structures and institutions through which societies organize the production, distribution, and consumption of goods and services.",
+    "parent_concepts": [
+      "Institutions and Governance"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Economic Signals",
+    "category": "Market Process",
+    "aliases": [
+      "Market Signals",
+      "Informational Signals"
+    ],
+    "description": "Information passed between economic actors that indicates underlying market conditions, such as relative scarcity.",
+    "parent_concepts": [
+      "Market Process"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Property Rights",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Ownership Rights",
+      "Exclusivity Rights",
+      "Control Rights"
+    ],
+    "description": "The legally or socially recognized authority to determine how a resource or asset is used and to retain the benefits it generates.",
+    "parent_concepts": [
+      "Institutions and Governance"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Ownership",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Possession",
+      "Holding",
+      "Legal Title"
+    ],
+    "description": "The state of having exclusive rights and control over property or an asset.",
+    "parent_concepts": [
+      "Property Rights"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Voluntary Exchange",
+    "category": "Value and Exchange",
+    "aliases": [
+      "Free Trade",
+      "Consensual Exchange",
+      "Mutually Beneficial Trade"
+    ],
+    "description": "The act of trading goods or services between parties without coercion, occurring when both expect to gain.",
+    "parent_concepts": [
+      "Exchange"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Coercion",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Force",
+      "Compulsion",
+      "Involuntary Action"
+    ],
+    "description": "The practice of forcing another party to act in an involuntary manner through threats or intimidation, contrary to voluntary exchange.",
+    "parent_concepts": [
+      "Institutions and Governance"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Persuasion",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Influence",
+      "Convincing",
+      "Non-coercive Influence"
+    ],
+    "description": "The process of convincing another party to change their beliefs, preferences, or actions through reasoning or appeal rather than force.",
+    "parent_concepts": [
+      "Economic Interactions"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Commercial Society",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Market Society",
+      "Exchange Economy",
+      "Capitalist Society"
+    ],
+    "description": "A social order characterized by an extensive division of labor, private property, and reliance on voluntary exchange.",
+    "parent_concepts": [
+      "Economic Systems"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Value",
+    "category": "Value and Exchange",
+    "aliases": [
+      "Economic Value",
+      "Utility",
+      "Subjective Worth"
+    ],
+    "description": "The subjective importance, usefulness, or worth placed on a good or service by an individual.",
+    "parent_concepts": [
+      "Value and Exchange"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Wealth",
+    "category": "Value and Exchange",
+    "aliases": [
+      "Net Worth",
+      "Assets",
+      "Economic Resources"
+    ],
+    "description": "The accumulation of valuable economic resources that can be measured in terms of either real goods or money value.",
+    "parent_concepts": [
+      "Value"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Wealth Creation",
+    "category": "Value and Exchange",
+    "aliases": [
+      "Value Generation",
+      "Economic Value Added"
+    ],
+    "description": "The process of producing goods or services that satisfy consumer desires, thus increasing the total value within society.",
+    "parent_concepts": [
+      "Wealth"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Exchange",
+    "category": "Value and Exchange",
+    "aliases": [
+      "Trading",
+      "Barter",
+      "Swapping"
+    ],
+    "description": "The mutual transfer of goods, services, or ideas between two or more economic actors.",
+    "parent_concepts": [
+      "Value and Exchange"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Trade",
+    "category": "Value and Exchange",
+    "aliases": [
+      "Commerce",
+      "Market Exchange"
+    ],
+    "description": "The commercial exchange of goods and services between buyers and sellers.",
+    "parent_concepts": [
+      "Exchange"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "International Trade",
+    "category": "Value and Exchange",
+    "aliases": [
+      "Global Trade",
+      "Foreign Trade",
+      "Cross-Border Exchange"
+    ],
+    "description": "The exchange of capital, goods, and services across international borders or territories.",
+    "parent_concepts": [
+      "Trade"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Comparative Advantage",
+    "category": "Value and Exchange",
+    "aliases": [
+      "Relative Advantage",
+      "Opportunity Cost Advantage"
+    ],
+    "description": "The ability of an economic actor to produce a specific good or service at a lower opportunity cost than a trading partner.",
+    "parent_concepts": [
+      "International Trade"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Specialization",
+    "category": "Value and Exchange",
+    "aliases": [
+      "Task Focus",
+      "Productive Concentration"
+    ],
+    "description": "The process by which individuals, firms, or nations concentrate their productive efforts on a limited variety of activities.",
+    "parent_concepts": [
+      "Division of Labor"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Division of Labor",
+    "category": "Value and Exchange",
+    "aliases": [
+      "Task Allocation",
+      "Work Specialization"
+    ],
+    "description": "The separation of a work process into a number of tasks, with each task performed by a separate person or group.",
+    "parent_concepts": [
+      "Production"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Transaction Costs",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Friction Costs",
+      "Exchange Costs",
+      "Information Costs"
+    ],
+    "description": "The costs incurred in the process of making an economic exchange, including search, negotiation, and enforcement costs.",
+    "parent_concepts": [
+      "Exchange"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Middlemen",
+    "category": "Market Process",
+    "aliases": [
+      "Intermediaries",
+      "Brokers",
+      "Dealers"
+    ],
+    "description": "Economic agents who facilitate trade by bringing buyers and sellers together, helping reduce transaction costs.",
+    "parent_concepts": [
+      "Transaction Costs"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Arbitrage",
+    "category": "Market Process",
+    "aliases": [
+      "Price Arbitrage",
+      "Riskless Profit"
+    ],
+    "description": "The simultaneous purchase and sale of an asset in different markets to profit from price discrepancies.",
+    "parent_concepts": [
+      "Market Discovery Process"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Demand",
+    "category": "Microeconomics",
+    "aliases": [
+      "Consumer Demand",
+      "Willingness to Pay"
+    ],
+    "description": "The quantity of a good or service that consumers are willing and able to purchase at various prices during a given period.",
+    "parent_concepts": [
+      "Microeconomics"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Quantity Demanded",
+    "category": "Microeconomics",
+    "aliases": [
+      "Amount Demanded",
+      "Purchase Quantity"
+    ],
+    "description": "The specific amount of a good or service that buyers are willing and able to purchase at a single, specific price point.",
+    "parent_concepts": [
+      "Demand"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Law of Demand",
+    "category": "Microeconomics",
+    "aliases": [
+      "Demand Principle",
+      "Inverse Price-Quantity Relationship"
+    ],
+    "description": "The economic principle stating that, ceteris paribus, as the price of a good increases, quantity demanded decreases.",
+    "parent_concepts": [
+      "Demand"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Demand Curve",
+    "category": "Microeconomics",
+    "aliases": [
+      "Demand Schedule",
+      "Demand Function"
+    ],
+    "description": "A graphical representation of the relationship between the price of a good and the quantity demanded for a given period of time.",
+    "parent_concepts": [
+      "Demand"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Consumer Preferences",
+    "category": "Microeconomics",
+    "aliases": [
+      "Consumer Tastes",
+      "Utility Profile"
+    ],
+    "description": "The subjective individual tastes, as measured by utility, that dictate consumer purchasing choices across various bundles of goods.",
+    "parent_concepts": [
+      "Demand"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Elasticity of Demand",
+    "category": "Microeconomics",
+    "aliases": [
+      "Price Elasticity of Demand",
+      "Demand Sensitivity"
+    ],
+    "description": "A measure of how responsive the quantity demanded of a good is to a change in its price.",
+    "parent_concepts": [
+      "Demand"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Unit Elastic Demand",
+    "category": "Microeconomics",
+    "aliases": [
+      "Unitary Elasticity",
+      "Proportional Demand Elasticity"
+    ],
+    "description": "A condition in which a percentage change in price leads to an exact equal and opposite percentage change in quantity demanded.",
+    "parent_concepts": [
+      "Elasticity of Demand"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Vertical Demand",
+    "category": "Microeconomics",
+    "aliases": [
+      "Perfectly Inelastic Demand",
+      "Zero Elasticity"
+    ],
+    "description": "A theoretical situation where consumers will buy a fixed quantity of a good regardless of its price.",
+    "parent_concepts": [
+      "Elasticity of Demand"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Substitutes",
+    "category": "Microeconomics",
+    "aliases": [
+      "Substitute Goods",
+      "Alternative Goods",
+      "Competitor Goods"
+    ],
+    "description": "Goods or services that can be used in place of one another, where a price increase in one leads to increased demand for the other.",
+    "parent_concepts": [
+      "Demand"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Complementary Goods",
+    "category": "Microeconomics",
+    "aliases": [
+      "Complements",
+      "Jointly Demanded Goods"
+    ],
+    "description": "Products typically consumed together, such that a decrease in the price of one leads to an increase in demand for the other.",
+    "parent_concepts": [
+      "Demand"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Inferior Goods",
+    "category": "Microeconomics",
+    "aliases": [
+      "Counter-cyclical Goods",
+      "Negative Income Elasticity Goods"
+    ],
+    "description": "Goods for which demand decreases as consumer income rises.",
+    "parent_concepts": [
+      "Demand"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Normal Goods",
+    "category": "Microeconomics",
+    "aliases": [
+      "Ordinary Goods",
+      "Positive Income Elasticity Goods"
+    ],
+    "description": "Goods for which demand increases as consumer income rises.",
+    "parent_concepts": [
+      "Demand"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Non-Monetary Costs",
+    "category": "Microeconomics",
+    "aliases": [
+      "Psychic Costs",
+      "Time Costs",
+      "Implicit Non-Financial Costs"
+    ],
+    "description": "The sacrifices made to obtain a good or service that are not expressed in financial terms, such as time, effort, or discomfort.",
+    "parent_concepts": [
+      "Opportunity Cost"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Supply",
+    "category": "Microeconomics",
+    "aliases": [
+      "Producer Supply",
+      "Willingness to Sell"
+    ],
+    "description": "The total amount of a specific good or service that is available to consumers at various prices.",
+    "parent_concepts": [
+      "Microeconomics"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Supply Curve",
+    "category": "Microeconomics",
+    "aliases": [
+      "Supply Schedule",
+      "Supply Function"
+    ],
+    "description": "A graphical representation showing the relationship between the price of a good and the quantity supplied.",
+    "parent_concepts": [
+      "Supply"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Elasticity of Supply",
+    "category": "Microeconomics",
+    "aliases": [
+      "Price Elasticity of Supply",
+      "Supply Responsiveness"
+    ],
+    "description": "A measure of how much the quantity supplied of a good responds to a change in its price.",
+    "parent_concepts": [
+      "Supply"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Production",
+    "category": "Microeconomics",
+    "aliases": [
+      "Output Generation",
+      "Manufacturing",
+      "Creation of Value"
+    ],
+    "description": "The process of combining various material and immaterial inputs in order to make something for consumption.",
+    "parent_concepts": [
+      "Supply"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Production Possibilities Frontier",
+    "category": "Microeconomics",
+    "aliases": [
+      "PPF",
+      "Production Possibility Curve",
+      "Transformation Curve"
+    ],
+    "description": "A curve depicting all maximum output possibilities for two goods, given a set of inputs and technology, demonstrating trade-offs and opportunity cost.",
+    "parent_concepts": [
+      "Production",
+      "Opportunity Cost"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Producers' Costs",
+    "category": "Microeconomics",
+    "aliases": [
+      "Cost of Production",
+      "Input Costs",
+      "Firm Costs"
+    ],
+    "description": "The expenses a business incurs to produce and deliver goods or services to consumers.",
+    "parent_concepts": [
+      "Supply"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Marginal Opportunity Cost",
+    "category": "Microeconomics",
+    "aliases": [
+      "Increasing Opportunity Cost",
+      "Incremental Opportunity Cost"
+    ],
+    "description": "The cost of the next best alternative given up in order to produce one more unit of a good.",
+    "parent_concepts": [
+      "Opportunity Cost",
+      "Marginal Cost"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Average Cost",
+    "category": "Microeconomics",
+    "aliases": [
+      "Unit Cost",
+      "Average Total Cost"
+    ],
+    "description": "The total cost of production divided by the number of units produced.",
+    "parent_concepts": [
+      "Producers' Costs"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Marginal Cost",
+    "category": "Microeconomics",
+    "aliases": [
+      "Incremental Cost",
+      "Marginal Expense"
+    ],
+    "description": "The change in total production cost that comes from making or producing one additional unit.",
+    "parent_concepts": [
+      "Producers' Costs"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Sunk Cost",
+    "category": "Microeconomics",
+    "aliases": [
+      "Irrecoverable Cost",
+      "Past Cost",
+      "Retrospective Cost"
+    ],
+    "description": "A cost that has already been incurred and cannot be recovered, which should rationally not affect future economic decisions.",
+    "parent_concepts": [
+      "Producers' Costs"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Resource Allocation",
+    "category": "Market Process",
+    "aliases": [
+      "Factor Allocation",
+      "Resource Distribution"
+    ],
+    "description": "The process of assigning and managing available assets in a manner that best meets the strategic goals or consumer demands.",
+    "parent_concepts": [
+      "Market Process"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Market",
+    "category": "Market Process",
+    "aliases": [
+      "Marketplace",
+      "Exchange Arena"
+    ],
+    "description": "Any structure or arrangement that allows buyers and sellers to exchange any type of goods, services, and information.",
+    "parent_concepts": [
+      "Market Process"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Market Process",
+    "category": "Market Process",
+    "aliases": [
+      "Market Dynamics",
+      "Market Mechanism"
+    ],
+    "description": "The continuous unfolding of interactions among buyers, sellers, and entrepreneurs resolving inefficiencies and aligning supply with demand.",
+    "parent_concepts": [
+      "Economic Reasoning"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Market Clearing",
+    "category": "Market Process",
+    "aliases": [
+      "Market Equlibration",
+      "Zero Excess Demand"
+    ],
+    "description": "The process by which the price of a good adjusts so that the quantity supplied precisely equals the quantity demanded.",
+    "parent_concepts": [
+      "Market Process"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Market-Clearing Price",
+    "category": "Market Process",
+    "aliases": [
+      "Equilibrium Price",
+      "Clearing Price"
+    ],
+    "description": "The specific price at which the quantity demanded of a good exactly matches the quantity supplied.",
+    "parent_concepts": [
+      "Market Clearing"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Equilibrium Price",
+    "category": "Market Process",
+    "aliases": [
+      "Market-Clearing Price",
+      "Balance Price"
+    ],
+    "description": "The state where economic forces such as supply and demand are balanced, stabilizing the price.",
+    "parent_concepts": [
+      "Price System"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Free-Market Prices",
+    "category": "Market Process",
+    "aliases": [
+      "Unregulated Prices",
+      "Spontaneous Prices"
+    ],
+    "description": "Prices established by the unrestricted interaction of supply and demand without government intervention.",
+    "parent_concepts": [
+      "Price System"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Price System",
+    "category": "Market Process",
+    "aliases": [
+      "Pricing Mechanism",
+      "Market Price Mechanism"
+    ],
+    "description": "An economic system in which prices are determined by market forces, conveying essential information for resource allocation.",
+    "parent_concepts": [
+      "Market Process"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Price Signals",
+    "category": "Market Process",
+    "aliases": [
+      "Pricing Signals",
+      "Market Indicators"
+    ],
+    "description": "Messages sent to consumers and producers via the changing of relative prices, guiding decisions on consumption and production.",
+    "parent_concepts": [
+      "Price System"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Price Ceiling",
+    "category": "Market Process",
+    "aliases": [
+      "Maximum Price",
+      "Price Cap"
+    ],
+    "description": "A government-imposed legal limit on how high a price is allowed to be charged for a product.",
+    "parent_concepts": [
+      "Price Controls"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Price Floor",
+    "category": "Market Process",
+    "aliases": [
+      "Minimum Price",
+      "Price Support"
+    ],
+    "description": "A government-imposed legal limit on how low a price can be charged for a product.",
+    "parent_concepts": [
+      "Price Controls"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Price Controls",
+    "category": "Market Process",
+    "aliases": [
+      "Administered Prices",
+      "Government Price Mandates"
+    ],
+    "description": "Governmental restrictions on the prices that can be charged for goods and services in a market.",
+    "parent_concepts": [
+      "Regulation",
+      "Price System"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Price Stability",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Stable Prices",
+      "Low Inflation"
+    ],
+    "description": "A macroeconomic condition wherein the general price level in an economy does not change significantly over time.",
+    "parent_concepts": [
+      "Macroeconomics"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Price Gouging",
+    "category": "Market Process",
+    "aliases": [
+      "Surge Pricing",
+      "Exploitative Pricing"
+    ],
+    "description": "The practice of sharply raising prices on essential goods to a level considered unfair, typically during a demand shock or emergency.",
+    "parent_concepts": [
+      "Price System"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Price Discrimination",
+    "category": "Market Process",
+    "aliases": [
+      "Differential Pricing",
+      "Tiered Pricing"
+    ],
+    "description": "A pricing strategy where identical or largely similar goods or services are sold at different prices by the same provider in different markets.",
+    "parent_concepts": [
+      "Price System"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Congestion Pricing",
+    "category": "Market Process",
+    "aliases": [
+      "Surge Pricing",
+      "Peak Pricing",
+      "Dynamic Pricing"
+    ],
+    "description": "A system of surcharging users of public goods or services that are subject to congestion during periods of peak demand.",
+    "parent_concepts": [
+      "Price Discrimination"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Predatory Pricing",
+    "category": "Market Process",
+    "aliases": [
+      "Underpricing",
+      "Dumping"
+    ],
+    "description": "The illegal or unethical act of setting prices low in an attempt to eliminate competition.",
+    "parent_concepts": [
+      "Price System",
+      "Competition"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Markup Pricing",
+    "category": "Market Process",
+    "aliases": [
+      "Cost-Plus Pricing",
+      "Margin Pricing"
+    ],
+    "description": "A pricing strategy where a fixed percentage is added on top of the cost to produce one unit of a product.",
+    "parent_concepts": [
+      "Price System"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Competition",
+    "category": "Market Process",
+    "aliases": [
+      "Market Rivalry",
+      "Competitive Behavior"
+    ],
+    "description": "The rivalry among sellers trying to achieve such goals as increasing profits, market share, and sales volume.",
+    "parent_concepts": [
+      "Market Process"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Competition as Process",
+    "category": "Market Process",
+    "aliases": [
+      "Dynamic Competition",
+      "Rivalrous Discovery Process"
+    ],
+    "description": "The dynamic view of competition as an ongoing process of entrepreneurial discovery rather than a static end-state.",
+    "parent_concepts": [
+      "Competition"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Cartel",
+    "category": "Market Process",
+    "aliases": [
+      "Trust",
+      "Collusive Oligopoly",
+      "Price-Fixing Ring"
+    ],
+    "description": "An association of manufacturers or suppliers with the purpose of maintaining prices at a high level and restricting competition.",
+    "parent_concepts": [
+      "Monopoly Restriction"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Monopoly Restriction",
+    "category": "Market Process",
+    "aliases": [
+      "Monopoly Power",
+      "Market Power Exploitation"
+    ],
+    "description": "The artificial limitation of output by a dominant firm or group of firms to raise prices and secure higher profits.",
+    "parent_concepts": [
+      "Competition"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Vertical Restraints",
+    "category": "Market Process",
+    "aliases": [
+      "Supply Chain Restraints",
+      "Vertical Agreements"
+    ],
+    "description": "Agreements or terms between firms at different levels of the production and distribution chain restricting conditions under which firms may purchase or sell.",
+    "parent_concepts": [
+      "Market Process"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Market Discovery Process",
+    "category": "Market Process",
+    "aliases": [
+      "Entrepreneurial Discovery",
+      "Information Discovery"
+    ],
+    "description": "The mechanism by which markets reveal previously unknown information about consumer preferences, resource scarcity, and production methods.",
+    "parent_concepts": [
+      "Market Process",
+      "Entrepreneurship"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Entrepreneurship",
+    "category": "Microeconomics",
+    "aliases": [
+      "Enterprise",
+      "Venture Creation",
+      "Risk-Taking Innovation"
+    ],
+    "description": "The activity of setting up a business, undertaking risks, and alertly discovering unexploited profit opportunities in the market.",
+    "parent_concepts": [
+      "Microeconomics"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Profit",
+    "category": "Microeconomics",
+    "aliases": [
+      "Net Income",
+      "Earnings",
+      "Return on Investment"
+    ],
+    "description": "The financial gain achieved when the amount of revenue gained from a business activity exceeds the expenses, costs, and taxes.",
+    "parent_concepts": [
+      "Entrepreneurship"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Economic Profit",
+    "category": "Microeconomics",
+    "aliases": [
+      "Supernormal Profit",
+      "Pure Profit"
+    ],
+    "description": "The difference between total revenue and total costs, where total costs include both explicit and implicit (opportunity) costs.",
+    "parent_concepts": [
+      "Profit"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Accounting Profit",
+    "category": "Microeconomics",
+    "aliases": [
+      "Book Profit",
+      "Financial Profit"
+    ],
+    "description": "A company's total earnings, calculated according to generally accepted accounting principles (GAAP), subtracting explicitly incurred costs from revenue.",
+    "parent_concepts": [
+      "Profit"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Residual Profit",
+    "category": "Microeconomics",
+    "aliases": [
+      "Residual Income",
+      "Economic Value Added"
+    ],
+    "description": "The profit remaining after all costs of capital have been deducted from operating profit.",
+    "parent_concepts": [
+      "Profit"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Loss",
+    "category": "Microeconomics",
+    "aliases": [
+      "Negative Profit",
+      "Deficit",
+      "Operating Loss"
+    ],
+    "description": "The financial outcome that occurs when a business's total expenses exceed its total revenues.",
+    "parent_concepts": [
+      "Profit"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Residual Claimant",
+    "category": "Microeconomics",
+    "aliases": [
+      "Equity Holder",
+      "Residual Owner"
+    ],
+    "description": "The economic agent who possesses the right to receive whatever profits remain after all other legitimate claims on an enterprise's revenues have been met.",
+    "parent_concepts": [
+      "Entrepreneurship",
+      "Property Rights"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Uncertainty",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Knightian Uncertainty",
+      "Incalculable Risk"
+    ],
+    "description": "A condition involving outcomes for which probabilities cannot be accurately calculated or foreseen.",
+    "parent_concepts": [
+      "Economic Reasoning"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Risk",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Calculable Risk",
+      "Probability of Loss"
+    ],
+    "description": "A situation where the probability of a specific undesired outcome can be estimated using statistical methods.",
+    "parent_concepts": [
+      "Uncertainty"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Innovation",
+    "category": "Economic Development",
+    "aliases": [
+      "Technological Change",
+      "Inventive Application"
+    ],
+    "description": "The practical implementation of ideas that result in the introduction of new goods or services or improvement in offering goods or services.",
+    "parent_concepts": [
+      "Economic Development",
+      "Entrepreneurship"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Speculation",
+    "category": "Market Process",
+    "aliases": [
+      "Market Speculation",
+      "Position Taking"
+    ],
+    "description": "The purchase or sale of an asset with the hope of benefiting from future price movements, thus providing liquidity and assuming risk.",
+    "parent_concepts": [
+      "Market Process",
+      "Uncertainty"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Futures Market",
+    "category": "Money and Banking",
+    "aliases": [
+      "Derivatives Market",
+      "Forward Market"
+    ],
+    "description": "A central financial exchange where people can trade standardized futures contracts.",
+    "parent_concepts": [
+      "Speculation",
+      "Credit and Finance"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Hedging",
+    "category": "Money and Banking",
+    "aliases": [
+      "Risk Mitigation",
+      "Financial Insurance"
+    ],
+    "description": "An investment strategy executed to offset or reduce the risk of adverse price movements in an asset.",
+    "parent_concepts": [
+      "Risk"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Government",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "State",
+      "Public Sector",
+      "Political Authority"
+    ],
+    "description": "The system or group of people governing an organized community, possessing a monopoly on the legitimate use of coercive force.",
+    "parent_concepts": [
+      "Institutions and Governance"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Public Interest",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Common Good",
+      "General Welfare"
+    ],
+    "description": "The broad welfare or well-being of the general public, often invoked as the rationale for government intervention.",
+    "parent_concepts": [
+      "Government"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Public Goods",
+    "category": "Microeconomics",
+    "aliases": [
+      "Collective Goods",
+      "Non-excludable Goods"
+    ],
+    "description": "Goods that are both non-excludable and non-rivalrous, meaning individuals cannot be effectively excluded from use and use by one does not reduce availability.",
+    "parent_concepts": [
+      "Government",
+      "Microeconomics"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Free Rider Problem",
+    "category": "Microeconomics",
+    "aliases": [
+      "Freeriding",
+      "Collective Action Problem"
+    ],
+    "description": "A market failure that occurs when those who benefit from resources, public goods, or common pool resources do not pay for them.",
+    "parent_concepts": [
+      "Public Goods"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Externalities",
+    "category": "Microeconomics",
+    "aliases": [
+      "Spillover Effects",
+      "Neighborhood Effects",
+      "External Effects"
+    ],
+    "description": "Costs or benefits incurred or received by a third party who has no control over the factors that created the cost or benefit.",
+    "parent_concepts": [
+      "Microeconomics"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Positive Externalities",
+    "category": "Microeconomics",
+    "aliases": [
+      "External Benefits",
+      "Beneficial Spillovers"
+    ],
+    "description": "A benefit that is enjoyed by a third-party as a result of an economic transaction.",
+    "parent_concepts": [
+      "Externalities"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Negative Externalities",
+    "category": "Microeconomics",
+    "aliases": [
+      "External Costs",
+      "Harmful Spillovers"
+    ],
+    "description": "A cost that is suffered by a third party as a result of an economic transaction.",
+    "parent_concepts": [
+      "Externalities"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Spillover Costs",
+    "category": "Microeconomics",
+    "aliases": [
+      "Negative Externality Costs",
+      "Third-Party Costs"
+    ],
+    "description": "The specific economic burdens placed on uninvolved third parties due to negative externalities.",
+    "parent_concepts": [
+      "Negative Externalities"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Negotiation",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Bargaining",
+      "Deal-making"
+    ],
+    "description": "A strategic discussion that aims to resolve an issue or reach an agreement in a mutually acceptable way.",
+    "parent_concepts": [
+      "Transaction Costs"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Adjudication",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Dispute Resolution",
+      "Judicial Process",
+      "Legal Ruling"
+    ],
+    "description": "The legal process by which an arbiter or judge reviews evidence and argumentation to enforce property rights or contracts.",
+    "parent_concepts": [
+      "Law and Order"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Regulation",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Government Rules",
+      "Administrative Law",
+      "Economic Regulation"
+    ],
+    "description": "Rules or directives made and maintained by an authority that control the way a business can operate.",
+    "parent_concepts": [
+      "Government"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Law and Order",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Rule of Law",
+      "Legal System",
+      "Jurisprudence"
+    ],
+    "description": "The framework of legal institutions and enforcement mechanisms that maintain societal stability and secure property rights.",
+    "parent_concepts": [
+      "Institutions and Governance"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Income Redistribution",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Wealth Redistribution",
+      "Transfer Payments"
+    ],
+    "description": "The transfer of income and wealth from some individuals to others through social mechanisms such as taxation and welfare.",
+    "parent_concepts": [
+      "Government"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Collective Action",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Joint Action",
+      "Group Action"
+    ],
+    "description": "Action taken together by a group of people whose goal is to enhance their status or achieve a common objective.",
+    "parent_concepts": [
+      "Institutions and Governance"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Prisoner's Dilemma",
+    "category": "Microeconomics",
+    "aliases": [
+      "Game Theory Dilemma",
+      "Defection Dilemma"
+    ],
+    "description": "A standard example of a game analyzed in game theory that shows why two completely rational individuals might not cooperate, even if it appears in their best interests to do so.",
+    "parent_concepts": [
+      "Collective Action"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Income",
+    "category": "Microeconomics",
+    "aliases": [
+      "Earnings",
+      "Revenue Flow",
+      "Compensation"
+    ],
+    "description": "Money that an individual or business receives in exchange for providing labor, producing a good or service, or investing capital.",
+    "parent_concepts": [
+      "Wealth"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Income Distribution",
+    "category": "Microeconomics",
+    "aliases": [
+      "Wealth Distribution",
+      "Distribution of Earnings"
+    ],
+    "description": "How a nation’s total GDP is distributed amongst its population.",
+    "parent_concepts": [
+      "Income"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Human Capital",
+    "category": "Microeconomics",
+    "aliases": [
+      "Labor Skills",
+      "Worker Knowledge",
+      "Intangible Assets"
+    ],
+    "description": "The economic value of a worker's experience and skills, including education, training, and health.",
+    "parent_concepts": [
+      "Labor"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Productive Services",
+    "category": "Microeconomics",
+    "aliases": [
+      "Factor Services",
+      "Input Services"
+    ],
+    "description": "The flow of usable energy, time, or skill from labor, land, or capital equipment into the production process.",
+    "parent_concepts": [
+      "Production"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Labor",
+    "category": "Microeconomics",
+    "aliases": [
+      "Workforce",
+      "Human Effort",
+      "Workers"
+    ],
+    "description": "The amount of physical, mental, and social effort used to produce goods and services in an economy.",
+    "parent_concepts": [
+      "Microeconomics"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Derived Demand",
+    "category": "Microeconomics",
+    "aliases": [
+      "Indirect Demand",
+      "Factor Demand"
+    ],
+    "description": "Demand for a factor of production or intermediate good that occurs as a result of the demand for another intermediate or final good.",
+    "parent_concepts": [
+      "Demand",
+      "Labor"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Wages",
+    "category": "Microeconomics",
+    "aliases": [
+      "Salary",
+      "Pay",
+      "Labor Compensation"
+    ],
+    "description": "A payment usually of money for labor or services usually according to contract and on an hourly, daily, or piecework basis.",
+    "parent_concepts": [
+      "Income",
+      "Labor"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Rent",
+    "category": "Microeconomics",
+    "aliases": [
+      "Economic Rent",
+      "Land Return",
+      "Property Income"
+    ],
+    "description": "Any payment to an owner or factor of production in excess of the costs needed to bring that factor into production.",
+    "parent_concepts": [
+      "Income"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Interest",
+    "category": "Money and Banking",
+    "aliases": [
+      "Cost of Capital",
+      "Return on Lending",
+      "Time Preference Premium"
+    ],
+    "description": "The charge for the privilege of borrowing money, typically expressed as annual percentage rate (APR).",
+    "parent_concepts": [
+      "Income",
+      "Credit"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Minimum Wage",
+    "category": "Microeconomics",
+    "aliases": [
+      "Wage Floor",
+      "Statutory Base Pay"
+    ],
+    "description": "The lowest remuneration that employers can legally pay their employees.",
+    "parent_concepts": [
+      "Wages",
+      "Price Floor"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Unemployment",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Joblessness",
+      "Idle Labor"
+    ],
+    "description": "A situation where individuals who are employable and seeking a job are unable to find work.",
+    "parent_concepts": [
+      "Labor",
+      "Macroeconomics"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Poverty",
+    "category": "Economic Development",
+    "aliases": [
+      "Destitution",
+      "Economic Deprivation",
+      "Indigence"
+    ],
+    "description": "A state or condition in which a person or community lacks the financial resources and essentials for a minimum standard of living.",
+    "parent_concepts": [
+      "Economic Development",
+      "Income Distribution"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Inequality",
+    "category": "Microeconomics",
+    "aliases": [
+      "Economic Inequality",
+      "Wealth Disparity",
+      "Income Disparity"
+    ],
+    "description": "The unequal distribution of income and opportunity between different groups in society.",
+    "parent_concepts": [
+      "Income Distribution"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Economic Mobility",
+    "category": "Microeconomics",
+    "aliases": [
+      "Social Mobility",
+      "Income Mobility"
+    ],
+    "description": "The ability of an individual, family, or some other group to improve (or lower) their economic status—usually measured in income.",
+    "parent_concepts": [
+      "Income Distribution"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Money",
+    "category": "Money and Banking",
+    "aliases": [
+      "Medium of Exchange",
+      "Currency",
+      "Legal Tender"
+    ],
+    "description": "Any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts.",
+    "parent_concepts": [
+      "Money and Banking"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Fiat Money",
+    "category": "Money and Banking",
+    "aliases": [
+      "Fiat Currency",
+      "Government-Issued Money"
+    ],
+    "description": "A government-issued currency that is not backed by a physical commodity, such as gold or silver, but rather by the government that issued it.",
+    "parent_concepts": [
+      "Money"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Bank Notes",
+    "category": "Money and Banking",
+    "aliases": [
+      "Paper Money",
+      "Bills"
+    ],
+    "description": "A negotiable promissory note issued by a bank and payable to the bearer on demand.",
+    "parent_concepts": [
+      "Currency"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Currency",
+    "category": "Money and Banking",
+    "aliases": [
+      "Cash",
+      "Circulating Money"
+    ],
+    "description": "A generally accepted form of money, including coins and paper notes, which is issued by a government and circulated within an economy.",
+    "parent_concepts": [
+      "Money"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Checkable Deposits",
+    "category": "Money and Banking",
+    "aliases": [
+      "Demand Deposits",
+      "Checking Accounts"
+    ],
+    "description": "Funds deposited in a bank that can be withdrawn at any time by presenting a check.",
+    "parent_concepts": [
+      "Money Supply"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Money Supply",
+    "category": "Money and Banking",
+    "aliases": [
+      "Money Stock",
+      "Money Aggregate"
+    ],
+    "description": "The total volume of money held by the public at a particular point in time in an economy.",
+    "parent_concepts": [
+      "Money"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Monetary Equilibrium",
+    "category": "Money and Banking",
+    "aliases": [
+      "Money Market Equilibrium",
+      "Balanced Money Supply"
+    ],
+    "description": "The state where the quantity of money supplied by the central bank and the banking system equals the quantity of money demanded by the public.",
+    "parent_concepts": [
+      "Money Supply"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Monetary Policy",
+    "category": "Money and Banking",
+    "aliases": [
+      "Central Bank Policy",
+      "Money Supply Regulation"
+    ],
+    "description": "The process by which the monetary authority of a country controls the supply of money, often targeting an inflation rate or interest rate.",
+    "parent_concepts": [
+      "Money Supply",
+      "Macroeconomics"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Inflation",
+    "category": "Macroeconomics",
+    "aliases": [
+      "General Price Increase",
+      "Purchasing Power Decline"
+    ],
+    "description": "The rate of increase in prices over a given period of time, corresponding to a decline in the purchasing power of money.",
+    "parent_concepts": [
+      "Macroeconomics",
+      "Money"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Deflation",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Negative Inflation",
+      "Price Level Decline"
+    ],
+    "description": "A general decline in prices for goods and services, typically associated with a contraction in the supply of money and credit.",
+    "parent_concepts": [
+      "Inflation"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Disinflation",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Slowing Inflation",
+      "Inflation Reduction"
+    ],
+    "description": "A temporary slowing of the pace of price inflation, where the inflation rate is still positive but decreasing.",
+    "parent_concepts": [
+      "Inflation"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Hyperinflation",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Runaway Inflation",
+      "Galloping Inflation"
+    ],
+    "description": "Very high and typically accelerating inflation, rapidly eroding the real value of the local currency.",
+    "parent_concepts": [
+      "Inflation"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Stagflation",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Recession-Inflation",
+      "Stagnation and Inflation"
+    ],
+    "description": "An economic condition characterized by slow growth and high unemployment (stagnation) accompanied by rising prices (inflation).",
+    "parent_concepts": [
+      "Inflation",
+      "Unemployment"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Seigniorage",
+    "category": "Money and Banking",
+    "aliases": [
+      "Coinage Profit",
+      "Money Creation Revenue"
+    ],
+    "description": "The difference between the face value of money, such as a coin or paper money, and the cost to produce it, forming revenue for the government.",
+    "parent_concepts": [
+      "Fiat Money"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Open Market Operations",
+    "category": "Money and Banking",
+    "aliases": [
+      "OMO",
+      "Central Bank Bond Trading"
+    ],
+    "description": "The buying and selling of government securities in the open market in order to expand or contract the amount of money in the banking system.",
+    "parent_concepts": [
+      "Monetary Policy"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Discount Rate",
+    "category": "Money and Banking",
+    "aliases": [
+      "Primary Credit Rate",
+      "Central Bank Rate"
+    ],
+    "description": "The interest rate charged to commercial banks and other depository institutions on loans they receive from their regional central bank's lending facility.",
+    "parent_concepts": [
+      "Monetary Policy",
+      "Interest Rates"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Reserve Requirements",
+    "category": "Money and Banking",
+    "aliases": [
+      "Cash Reserve Ratio",
+      "Required Reserves"
+    ],
+    "description": "A central bank regulation that sets the minimum amount of reserves that must be held by a commercial bank.",
+    "parent_concepts": [
+      "Monetary Policy"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Deposit Expansion",
+    "category": "Money and Banking",
+    "aliases": [
+      "Money Multiplier Effect",
+      "Credit Creation"
+    ],
+    "description": "The process by which the banking system creates multiple times more deposits and money out of fractional reserve lending.",
+    "parent_concepts": [
+      "Money Supply",
+      "Checkable Deposits"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Quantitative Easing",
+    "category": "Money and Banking",
+    "aliases": [
+      "QE",
+      "Large-Scale Asset Purchases"
+    ],
+    "description": "An unconventional monetary policy in which a central bank purchases long-term securities from the open market to increase the money supply and encourage lending and investment.",
+    "parent_concepts": [
+      "Monetary Policy"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Credit",
+    "category": "Money and Banking",
+    "aliases": [
+      "Lending",
+      "Borrowing Capacity",
+      "Loan Expansion"
+    ],
+    "description": "The trust which allows one party to provide money or resources to another party wherein the second party does not reimburse the first party immediately but promises either to repay or return those resources later.",
+    "parent_concepts": [
+      "Money and Banking"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Savings",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Deferred Consumption",
+      "Retained Income",
+      "Nest Egg"
+    ],
+    "description": "The portion of income not spent on current expenditures, setting aside funds for future use or investment.",
+    "parent_concepts": [
+      "Income"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Investment",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Capital Investment",
+      "Asset Acquisition"
+    ],
+    "description": "The purchase of goods that are not consumed today but are used in the future to create wealth.",
+    "parent_concepts": [
+      "Savings"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Debt",
+    "category": "Money and Banking",
+    "aliases": [
+      "Liabilities",
+      "Financial Obligations",
+      "Borrowed Funds"
+    ],
+    "description": "An amount of money borrowed by one party from another, subject to a repayment arrangement, usually involving interest.",
+    "parent_concepts": [
+      "Credit"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Government Debt",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Public Debt",
+      "National Debt",
+      "Sovereign Debt"
+    ],
+    "description": "The total amount of money that a country's government has borrowed by various means.",
+    "parent_concepts": [
+      "Debt",
+      "Government"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Budget Deficit",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Fiscal Deficit",
+      "Revenue Shortfall"
+    ],
+    "description": "The amount by which a government's expenditures exceed its revenues during a particular period, typically a year.",
+    "parent_concepts": [
+      "Fiscal Policy"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Fiscal Policy",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Government Spending Policy",
+      "Tax Policy"
+    ],
+    "description": "The use of government spending and taxation to influence the economy.",
+    "parent_concepts": [
+      "Macroeconomics",
+      "Government"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Interest Rates",
+    "category": "Money and Banking",
+    "aliases": [
+      "Borrowing Rates",
+      "Yield Rates"
+    ],
+    "description": "The amount charged, expressed as a percentage of principal, by a lender to a borrower for the use of assets.",
+    "parent_concepts": [
+      "Interest"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Nominal Interest Rate",
+    "category": "Money and Banking",
+    "aliases": [
+      "Stated Interest Rate",
+      "Unadjusted Interest Rate"
+    ],
+    "description": "The interest rate before taking inflation into account.",
+    "parent_concepts": [
+      "Interest Rates"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Real Interest Rate",
+    "category": "Money and Banking",
+    "aliases": [
+      "Inflation-Adjusted Interest Rate",
+      "Effective Rate"
+    ],
+    "description": "An interest rate that has been adjusted to remove the effects of inflation to reflect the real cost of funds to the borrower and the real yield to the lender.",
+    "parent_concepts": [
+      "Interest Rates",
+      "Inflation"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Unsustainable Boom",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Economic Bubble",
+      "Artificial Boom",
+      "Malinvestment Period"
+    ],
+    "description": "A period of rapid economic expansion fueled by excessive credit creation that ultimately cannot be maintained and leads to a bust.",
+    "parent_concepts": [
+      "Business Cycle"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Moral Hazard",
+    "category": "Microeconomics",
+    "aliases": [
+      "Hidden Action Problem",
+      "Risk-Taking Incentive"
+    ],
+    "description": "A situation in which one party gets involved in a risky event knowing that it is protected against the risk and the other party will incur the cost.",
+    "parent_concepts": [
+      "Risk",
+      "Incentives"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Gross Domestic Product",
+    "category": "Macroeconomics",
+    "aliases": [
+      "GDP",
+      "Total National Output"
+    ],
+    "description": "The total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period.",
+    "parent_concepts": [
+      "Performance Measurement"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Gross National Product",
+    "category": "Macroeconomics",
+    "aliases": [
+      "GNP",
+      "National Output"
+    ],
+    "description": "An estimate of total value of all the final products and services turned out in a given period by the means of production owned by a country's residents.",
+    "parent_concepts": [
+      "Performance Measurement"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Aggregate Fluctuations",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Macroeconomic Volatility",
+      "Economic Swings"
+    ],
+    "description": "The economy-wide movements in macroeconomic variables such as total output, employment, and the general price level.",
+    "parent_concepts": [
+      "Macroeconomics"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Economic Growth",
+    "category": "Macroeconomics",
+    "aliases": [
+      "GDP Growth",
+      "Economic Expansion"
+    ],
+    "description": "An increase in the production of economic goods and services, compared from one period of time to another.",
+    "parent_concepts": [
+      "Macroeconomics"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Recession",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Economic Downturn",
+      "Contraction"
+    ],
+    "description": "A significant decline in general economic activity in a designated region typically recognized after two consecutive quarters of economic decline.",
+    "parent_concepts": [
+      "Business Cycle"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Business Cycle",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Economic Cycle",
+      "Boom and Bust Cycle"
+    ],
+    "description": "The natural fluctuation of the economy between periods of expansion (growth) and contraction (recession).",
+    "parent_concepts": [
+      "Macroeconomics",
+      "Aggregate Fluctuations"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "National Income",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Aggregate Income",
+      "Total Economy Income"
+    ],
+    "description": "The total value of a country's final output of all new goods and services produced in one year.",
+    "parent_concepts": [
+      "Macroeconomics",
+      "Income"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Value Added",
+    "category": "Macroeconomics",
+    "aliases": [
+      "Economic Value Added",
+      "Production Value Increase"
+    ],
+    "description": "The difference between the price of a product or service and the cost of producing it.",
+    "parent_concepts": [
+      "Gross Domestic Product"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Performance Measurement",
+    "category": "Macroeconomics",
+    "aliases": [
+      "National Accounts",
+      "Macroeconomic Indicators"
+    ],
+    "description": "The statistical tracking and evaluation of the aggregate economy's health, often through metrics like GDP, inflation, and unemployment.",
+    "parent_concepts": [
+      "Macroeconomics"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Economic Development",
+    "category": "Economic Development",
+    "aliases": [
+      "Development Economics",
+      "National Progress",
+      "Socioeconomic Development"
+    ],
+    "description": "The process by which the economic well-being and quality of life of a nation, region, local community, or an individual are improved according to targeted goals.",
+    "parent_concepts": [
+      "Economic Growth"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Globalization",
+    "category": "Economic Development",
+    "aliases": [
+      "Economic Integration",
+      "Global Trade Expansion"
+    ],
+    "description": "The increasing interaction of people through the growth of the international flow of money, ideas, and culture.",
+    "parent_concepts": [
+      "Economic Development",
+      "International Trade"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Foreign Investment",
+    "category": "Economic Development",
+    "aliases": [
+      "Foreign Direct Investment",
+      "Cross-Border Capital",
+      "FDI"
+    ],
+    "description": "Flows of capital from one nation to another in exchange for significant ownership stakes in domestic companies or other domestic assets.",
+    "parent_concepts": [
+      "Economic Development",
+      "Investment"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Foreign Aid",
+    "category": "Economic Development",
+    "aliases": [
+      "International Aid",
+      "Development Assistance",
+      "Overseas Aid"
+    ],
+    "description": "Money, food, or other resources given or lent by one country to another, typically for developmental or humanitarian purposes.",
+    "parent_concepts": [
+      "Economic Development"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Economic Freedom",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Laissez-Faire",
+      "Free Enterprise",
+      "Economic Liberty"
+    ],
+    "description": "The fundamental right of every human to control his or her own labor and property without government coercion or constraint.",
+    "parent_concepts": [
+      "Institutions and Governance",
+      "Property Rights"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Knowledge Economy",
+    "category": "Economic Development",
+    "aliases": [
+      "Information Economy",
+      "Knowledge-Based Economy"
+    ],
+    "description": "An economic system in which the production of goods and services is based principally on knowledge-intensive activities.",
+    "parent_concepts": [
+      "Economic Development",
+      "Human Capital"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Capital Formation",
+    "category": "Economic Development",
+    "aliases": [
+      "Capital Accumulation",
+      "Net Investment"
+    ],
+    "description": "The process of building up the capital stock of a country through investment in physical and human capital.",
+    "parent_concepts": [
+      "Investment",
+      "Economic Development"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Human Capital Formation",
+    "category": "Economic Development",
+    "aliases": [
+      "Skill Development",
+      "Education Investment"
+    ],
+    "description": "The process of acquiring and increasing the number of persons who have the skills, education and experience which are critical for the economic growth of the country.",
+    "parent_concepts": [
+      "Capital Formation",
+      "Human Capital"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Outsourcing",
+    "category": "Economic Development",
+    "aliases": [
+      "Offshoring",
+      "Subcontracting"
+    ],
+    "description": "The business practice of hiring a party outside a company to perform services or create goods that were traditionally performed in-house.",
+    "parent_concepts": [
+      "Division of Labor",
+      "Globalization"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Poverty Reduction",
+    "category": "Economic Development",
+    "aliases": [
+      "Poverty Alleviation",
+      "Anti-Poverty Measures"
+    ],
+    "description": "A set of measures, both economic and humanitarian, that are intended to permanently lift people out of poverty.",
+    "parent_concepts": [
+      "Poverty",
+      "Economic Development"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Economic Way of Thinking",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Economic Perspective",
+      "Economic Mindset"
+    ],
+    "description": "An analytical approach to understanding human behavior as a relationship between ends and scarce means which have alternative uses.",
+    "parent_concepts": [
+      "Economic Reasoning"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Framing Questions Correctly",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Problem Formulation",
+      "Economic Framing"
+    ],
+    "description": "The methodological practice of properly structuring inquiries to yield accurate economic insights and avoid fallacies.",
+    "parent_concepts": [
+      "Economic Way of Thinking"
+    ],
+    "importance": "supporting"
+  },
+  {
+    "concept": "Unintended Consequences",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Unanticipated Effects",
+      "Secondary Effects",
+      "Spillover Results"
+    ],
+    "description": "Outcomes of a purposeful action that are not intended or foreseen, frequently emphasized in the economic analysis of policy interventions.",
+    "parent_concepts": [
+      "Economic Way of Thinking"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Trade-Off Thinking",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Opportunity Cost Analysis",
+      "Alternative Evaluation"
+    ],
+    "description": "The mental habit of recognizing that every decision requires sacrificing the next best alternative.",
+    "parent_concepts": [
+      "Trade-offs"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Cost-Benefit Reasoning",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Cost-Benefit Analysis",
+      "Utility Maximization Framework"
+    ],
+    "description": "The systematic approach of comparing the expected costs and benefits of an action to determine its net value.",
+    "parent_concepts": [
+      "Economic Way of Thinking"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Market Coordination",
+    "category": "Market Process",
+    "aliases": [
+      "Spontaneous Order",
+      "Price Coordination"
+    ],
+    "description": "The way in which decentralized markets align the disparate plans and actions of buyers and sellers without central direction.",
+    "parent_concepts": [
+      "Market Process"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Knowledge Problem",
+    "category": "Market Process",
+    "aliases": [
+      "Local Knowledge Problem",
+      "Hayekian Knowledge Problem"
+    ],
+    "description": "The theory that the knowledge required to efficiently allocate resources is dispersed among individuals and cannot be successfully aggregated by a central planner.",
+    "parent_concepts": [
+      "Market Discovery Process"
+    ],
+    "importance": "core"
+  },
+  {
+    "concept": "Economizing Actions",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Efficiency Maximization",
+      "Resource Optimization"
+    ],
+    "description": "Decisions and behaviors directed toward achieving a specific end while utilizing the minimum possible amount of scarce resources.",
+    "parent_concepts": [
+      "Economic Way of Thinking",
+      "Scarcity"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Institutional Analysis",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Rules of the Game Analysis",
+      "Institutional Economics"
+    ],
+    "description": "The study of how formal and informal rules, laws, and customs shape human behavior and economic outcomes.",
+    "parent_concepts": [
+      "Institutions and Governance"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Incentive Analysis",
+    "category": "Economic Reasoning",
+    "aliases": [
+      "Motivation Analysis",
+      "Incentive Structure Review"
+    ],
+    "description": "The examination of the rewards and penalties within a system to predict how individuals will behave.",
+    "parent_concepts": [
+      "Incentives"
+    ],
+    "importance": "important"
+  },
+  {
+    "concept": "Comparative Institutional Analysis",
+    "category": "Institutions and Governance",
+    "aliases": [
+      "Institutional Comparison",
+      "Systemic Comparison"
+    ],
+    "description": "The assessment of real-world alternative institutional arrangements rather than comparing real-world imperfections to an ideal theoretical standard.",
+    "parent_concepts": [
+      "Institutional Analysis"
+    ],
+    "importance": "supporting"
+  }
+]

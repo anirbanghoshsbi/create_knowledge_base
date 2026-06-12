@@ -1,0 +1,729 @@
+[
+  {
+    "source": "Scarcity",
+    "target": "Choice",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Scarcity",
+    "target": "Economizing Actions",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Choice",
+    "target": "Trade-offs",
+    "relationship": "IMPLIES"
+  },
+  {
+    "source": "Trade-offs",
+    "target": "Opportunity Cost",
+    "relationship": "RESULTS_IN"
+  },
+  {
+    "source": "Trade-offs",
+    "target": "Trade-Off Thinking",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Opportunity Cost",
+    "target": "Cost-Benefit Reasoning",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Opportunity Cost",
+    "target": "Non-Monetary Costs",
+    "relationship": "INCLUDES"
+  },
+  {
+    "source": "Value",
+    "target": "Marginal Value",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Marginal Value",
+    "target": "Marginal Analysis",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Marginal Analysis",
+    "target": "Economizing Actions",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Incentives",
+    "target": "Choice",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Incentives",
+    "target": "Incentive Analysis",
+    "relationship": "MEASURED_BY"
+  },
+  {
+    "source": "Persuasion",
+    "target": "Voluntary Exchange",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Economic Way of Thinking",
+    "target": "Framing Questions Correctly",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Economic Way of Thinking",
+    "target": "Cost-Benefit Reasoning",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Economic Way of Thinking",
+    "target": "Unintended Consequences",
+    "relationship": "REVEALS"
+  },
+  {
+    "source": "Uncertainty",
+    "target": "Risk",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Value",
+    "target": "Wealth",
+    "relationship": "MEASURED_BY"
+  },
+  {
+    "source": "Wealth Creation",
+    "target": "Wealth",
+    "relationship": "RESULTS_IN"
+  },
+  {
+    "source": "Exchange",
+    "target": "Voluntary Exchange",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Voluntary Exchange",
+    "target": "Wealth Creation",
+    "relationship": "RESULTS_IN"
+  },
+  {
+    "source": "Exchange",
+    "target": "Trade",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Trade",
+    "target": "International Trade",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Comparative Advantage",
+    "target": "International Trade",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Specialization",
+    "target": "Comparative Advantage",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Division of Labor",
+    "target": "Specialization",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Transaction Costs",
+    "target": "Exchange",
+    "relationship": "LIMITS"
+  },
+  {
+    "source": "Transaction Costs",
+    "target": "Voluntary Exchange",
+    "relationship": "LIMITS"
+  },
+
+  {
+    "source": "Consumer Preferences",
+    "target": "Demand",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Demand",
+    "target": "Law of Demand",
+    "relationship": "IMPLIES"
+  },
+  {
+    "source": "Demand",
+    "target": "Quantity Demanded",
+    "relationship": "MEASURED_BY"
+  },
+  {
+    "source": "Substitutes",
+    "target": "Demand",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Complementary Goods",
+    "target": "Demand",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Inferior Goods",
+    "target": "Demand",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Normal Goods",
+    "target": "Demand",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Production",
+    "target": "Supply",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Supply",
+    "target": "Elasticity of Supply",
+    "relationship": "MEASURED_BY"
+  },
+  {
+    "source": "Producers' Costs",
+    "target": "Supply",
+    "relationship": "LIMITS"
+  },
+  {
+    "source": "Marginal Cost",
+    "target": "Producers' Costs",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Average Cost",
+    "target": "Producers' Costs",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Sunk Cost",
+    "target": "Producers' Costs",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Demand",
+    "target": "Market",
+    "relationship": "DEPENDS_ON"
+  },
+  {
+    "source": "Supply",
+    "target": "Market",
+    "relationship": "DEPENDS_ON"
+  },
+  {
+    "source": "Market",
+    "target": "Market Process",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Market Process",
+    "target": "Mutual Adjustment",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Mutual Adjustment",
+    "target": "Market Coordination",
+    "relationship": "RESULTS_IN"
+  },
+  {
+    "source": "Price System",
+    "target": "Price Signals",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Price Signals",
+    "target": "Economic Signals",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Price Signals",
+    "target": "Resource Allocation",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Market Clearing",
+    "target": "Equilibrium Price",
+    "relationship": "DEPENDS_ON"
+  },
+  {
+    "source": "Equilibrium Price",
+    "target": "Market-Clearing Price",
+    "relationship": "IMPLIES"
+  },
+  {
+    "source": "Price Controls",
+    "target": "Free-Market Prices",
+    "relationship": "LIMITS"
+  },
+  {
+    "source": "Price Ceiling",
+    "target": "Market Clearing",
+    "relationship": "LIMITS"
+  },
+  {
+    "source": "Price Floor",
+    "target": "Market Clearing",
+    "relationship": "LIMITS"
+  },
+  {
+    "source": "Price Discrimination",
+    "target": "Markup Pricing",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Competition",
+    "target": "Free-Market Prices",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Competition as Process",
+    "target": "Market Discovery Process",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Entrepreneurship",
+    "target": "Market Discovery Process",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Entrepreneurship",
+    "target": "Profit",
+    "relationship": "RESULTS_IN"
+  },
+  {
+    "source": "Entrepreneurship",
+    "target": "Loss",
+    "relationship": "RESULTS_IN"
+  },
+  {
+    "source": "Economic Profit",
+    "target": "Profit",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Accounting Profit",
+    "target": "Profit",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Residual Claimant",
+    "target": "Profit",
+    "relationship": "DEPENDS_ON"
+  },
+  {
+    "source": "Market Discovery Process",
+    "target": "Knowledge Problem",
+    "relationship": "LIMITS"
+  },
+  {
+    "source": "Cartel",
+    "target": "Monopoly Restriction",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Monopoly Restriction",
+    "target": "Competition",
+    "relationship": "LIMITS"
+  },
+  {
+    "source": "Predatory Pricing",
+    "target": "Competition",
+    "relationship": "LIMITS"
+  },
+  {
+    "source": "Speculation",
+    "target": "Arbitrage",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Public Goods",
+    "target": "Free Rider Problem",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Negative Externalities",
+    "target": "Externalities",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Positive Externalities",
+    "target": "Externalities",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Negative Externalities",
+    "target": "Spillover Costs",
+    "relationship": "RESULTS_IN"
+  },
+  {
+    "source": "Labor",
+    "target": "Productive Services",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Human Capital",
+    "target": "Labor",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Wages",
+    "target": "Labor",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Minimum Wage",
+    "target": "Wages",
+    "relationship": "LIMITS"
+  },
+  {
+    "source": "Money",
+    "target": "Currency",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Money",
+    "target": "Exchange",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Fiat Money",
+    "target": "Money",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Bank Notes",
+    "target": "Currency",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Checkable Deposits",
+    "target": "Money Supply",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Money Supply",
+    "target": "Monetary Equilibrium",
+    "relationship": "DEPENDS_ON"
+  },
+  {
+    "source": "Monetary Policy",
+    "target": "Money Supply",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Inflation",
+    "target": "Purchasing Power Decline",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Money",
+    "target": "Inflation",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Deflation",
+    "target": "Inflation",
+    "relationship": "LIMITS"
+  },
+  {
+    "source": "Hyperinflation",
+    "target": "Inflation",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Stagflation",
+    "target": "Inflation",
+    "relationship": "RESULTS_IN"
+  },
+  {
+    "source": "Stagflation",
+    "target": "Unemployment",
+    "relationship": "RESULTS_IN"
+  },
+  {
+    "source": "Seigniorage",
+    "target": "Fiat Money",
+    "relationship": "RESULTS_IN"
+  },
+  {
+    "source": "Open Market Operations",
+    "target": "Monetary Policy",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Discount Rate",
+    "target": "Monetary Policy",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Reserve Requirements",
+    "target": "Monetary Policy",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Deposit Expansion",
+    "target": "Money Supply",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Quantitative Easing",
+    "target": "Monetary Policy",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Credit",
+    "target": "Debt",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Savings",
+    "target": "Investment",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Debt",
+    "target": "Government Debt",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Fiscal Policy",
+    "target": "Government Debt",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Budget Deficit",
+    "target": "Fiscal Policy",
+    "relationship": "RESULTS_IN"
+  },
+  {
+    "source": "Interest",
+    "target": "Interest Rates",
+    "relationship": "MEASURED_BY"
+  },
+  {
+    "source": "Interest Rates",
+    "target": "Nominal Interest Rate",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Interest Rates",
+    "target": "Real Interest Rate",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Inflation",
+    "target": "Real Interest Rate",
+    "relationship": "LIMITS"
+  },
+  {
+    "source": "Unsustainable Boom",
+    "target": "Business Cycle",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Moral Hazard",
+    "target": "Incentives",
+    "relationship": "INFLUENCES"
+  },
+
+  {
+    "source": "Institutions and Governance",
+    "target": "Social Cooperation",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Institutions and Governance",
+    "target": "Economic Systems",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Property Rights",
+    "target": "Ownership",
+    "relationship": "RESULTS_IN"
+  },
+  {
+    "source": "Property Rights",
+    "target": "Economic Freedom",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Government",
+    "target": "Regulation",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Government",
+    "target": "Income Redistribution",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Government",
+    "target": "Public Interest",
+    "relationship": "IMPLIES"
+  },
+  {
+    "source": "Law and Order",
+    "target": "Adjudication",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Law and Order",
+    "target": "Property Rights",
+    "relationship": "SECURES"
+  },
+  {
+    "source": "Collective Action",
+    "target": "Prisoner's Dilemma",
+    "relationship": "RESULTS_IN"
+  },
+  {
+    "source": "Economic Development",
+    "target": "Economic Growth",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Economic Development",
+    "target": "Innovation",
+    "relationship": "DEPENDS_ON"
+  },
+  {
+    "source": "Globalization",
+    "target": "International Trade",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Globalization",
+    "target": "Outsourcing",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Foreign Investment",
+    "target": "Economic Development",
+    "relationship": "CAUSES"
+  },
+  {
+    "source": "Foreign Aid",
+    "target": "Economic Development",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Poverty",
+    "target": "Poverty Reduction",
+    "relationship": "LIMITS"
+  },
+  {
+    "source": "Human Capital Formation",
+    "target": "Capital Formation",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Knowledge Economy",
+    "target": "Economic Development",
+    "relationship": "DEPENDS_ON"
+  },
+  {
+    "source": "Gross Domestic Product",
+    "target": "Performance Measurement",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Gross National Product",
+    "target": "Performance Measurement",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Value Added",
+    "target": "Gross Domestic Product",
+    "relationship": "MEASURES"
+  },
+  {
+    "source": "Aggregate Fluctuations",
+    "target": "Business Cycle",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Business Cycle",
+    "target": "Recession",
+    "relationship": "INCLUDES"
+  },
+  {
+    "source": "Business Cycle",
+    "target": "Unsustainable Boom",
+    "relationship": "INCLUDES"
+  },
+
+  {
+    "source": "Institutional Analysis",
+    "target": "Institutions and Governance",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Comparative Institutional Analysis",
+    "target": "Institutional Analysis",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Incentive Analysis",
+    "target": "Incentives",
+    "relationship": "MEASURED_BY"
+  },
+  {
+    "source": "Incentive Analysis",
+    "target": "Economic Reasoning",
+    "relationship": "ENABLES"
+  },
+  {
+    "source": "Moral Hazard",
+    "target": "Incentives",
+    "relationship": "RESULTS_IN"
+  },
+  {
+    "source": "Moral Hazard",
+    "target": "Risk",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Income Distribution",
+    "target": "Income",
+    "relationship": "DEPENDS_ON"
+  },
+  {
+    "source": "Economic Mobility",
+    "target": "Income Distribution",
+    "relationship": "INFLUENCES"
+  },
+  {
+    "source": "Inequality",
+    "target": "Income Distribution",
+    "relationship": "MEASURED_BY"
+  },
+  {
+    "source": "National Income",
+    "target": "Income",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Vertical Demand",
+    "target": "Elasticity of Demand",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Unit Elastic Demand",
+    "target": "Elasticity of Demand",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Commercial Society",
+    "target": "Economic Systems",
+    "relationship": "PART_OF"
+  },
+  {
+    "source": "Coercion",
+    "target": "Institutions and Governance",
+    "relationship": "LIMITS"
+  },
